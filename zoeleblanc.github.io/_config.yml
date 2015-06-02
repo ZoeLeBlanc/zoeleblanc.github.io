@@ -23,4 +23,6 @@ social:
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
 permalink: pretty
+paginate: 5
