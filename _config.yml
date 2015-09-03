@@ -2,7 +2,7 @@
 title: Zoe Genevieve LeBlanc
 email: zgleblanc@gmail.com
 description: > # Zoe LeBlanc's thoughts and scribbles.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://zoeleblanc.github.io" # the base hostname & protocol for your site
 enable_retina: false
 permalink: :title
