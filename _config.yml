@@ -8,6 +8,7 @@ permalink: :title
 nav_list:
   Home : ['Home', '/', 'fa-home']
   About : ['About', '/about', 'fa-asterisk']
+  Archives: ['Archives', '/archives', 'fa-archive']
   CV : ['CV', '/cv', 'fa-graduation-cap']
   Twitter : ['Twitter', 'https://twitter.com/Zoe_LeBlanc', 'fa-twitter']
   Github : ['Github', 'https://github.com/ZoeLeBlanc/', 'fa-github']
@@ -16,6 +17,7 @@ single_footer: '<p>Zoe LeBlanc &copy; 2015 | built with Nutella <a href="/">late
 footer_links:
     Home: ['Home', '/']
     About: ['About', '/about']
+    Archives: ['Archives', '/archives']
     Twitter: ['Twitter', 'https://twitter.com/Zoe_LeBlanc']
 
 

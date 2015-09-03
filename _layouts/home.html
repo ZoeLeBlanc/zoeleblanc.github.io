@@ -8,13 +8,13 @@ layout: with-sidebar
 </div>
 
 <div class="home-page-posts animated fadeIn ">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:5 %}
 
     <article class="post">
         <div class="post-preview col-xs-10  no-gutter">
             <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
 
-            {{ post.excerpt | truncatewords: 28 }}
+            {{ post.excerpt | truncatewords: 20 }}
 
             <p class="meta">
                 <a href="{{ post.author_url | prepend: site.baseurl }}">{{ post.author_name | capitalize}}</a> in <a href='{{ "/category/" | append: post.categories.first | prepend: site.baseurl }}'>{{ post.categories.first | capitalize }}</a> <i class="link-spacer"></i> <i class="fa fa-bookmark"></i> {{ post.read_time }} minutes
