@@ -5,7 +5,7 @@ description: > # Writer Theme is a responsive template
  focussed on typography, minimal design and
   quality photography built using the Jekyll platform.
 baseurl: "/writer/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "http://zoeleblanc.github.io" 
 enable_retina: false
 permalink: :title
 nav_list:
