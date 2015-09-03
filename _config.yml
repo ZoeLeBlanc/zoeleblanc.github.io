@@ -1,28 +1,24 @@
 # Site settings
-title: Zoe LeBlanc  
-email: zoeleblanc@vanderbilt.com
-url: https://zoeleblanc.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Zoe Genevieve LeBlanc
+email: zgleblanc@gmail.com
+description: > # Zoe LeBlanc's thoughts and scribbles.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://zoeleblanc.github.io" # the base hostname & protocol for your site
+enable_retina: false
+permalink: :title
+nav_list:
+  Home : ['Home', '/', 'fa-home']
+  About : ['About', '/about', 'fa-asterisk']
+  CV : ['CV', '/cv', 'fa-graduation-cap']
+  Twitter : ['Twitter', 'https://twitter.com/Zoe_LeBlanc', 'fa-twitter']
+  Github : ['Github', '/about', 'fa-github']
+  Contact : ['Contact', '/contact', 'fa-envelope']
+single_footer: '<p>Zoe LeBlanc &copy; 2015 | built with Nutella <a href="/">latest posts</a></p>'
+footer_links:
+    Home: ['Home', '/']
+    About: ['About', '/about']
+    Twitter: ['Twitter', 'https://twitter.com/Zoe_LeBlanc']
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary-dark: '#000000'
-  links: '#219ab3'
-
-# Footer settings
-footer: Your Website
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: https://twitter.com/ZoeLeBlanc
-  - title: instagram
-    url: https://instagram.com/zoegenevieve
-  - title: github
-    url: https://zoeleblanc.github.io
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
-permalink: pretty
-paginate: 5
