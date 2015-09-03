@@ -10,7 +10,7 @@ nav_list:
   About : ['About', '/about', 'fa-asterisk']
   CV : ['CV', '/cv', 'fa-graduation-cap']
   Twitter : ['Twitter', 'https://twitter.com/Zoe_LeBlanc', 'fa-twitter']
-  Github : ['Github', '/about', 'fa-github']
+  Github : ['Github', 'https://github.com/ZoeLeBlanc/', 'fa-github']
   Contact : ['Contact', '/contact', 'fa-envelope']
 single_footer: '<p>Zoe LeBlanc &copy; 2015 | built with Nutella <a href="/">latest posts</a></p>'
 footer_links:
