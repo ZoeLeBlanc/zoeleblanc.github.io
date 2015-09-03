@@ -7,12 +7,13 @@ author_name : Zoe
 author_url : /author/zoe
 author_avatar: zoeworkphoto1
 show_avatar : false
-read_time : 6
+read_time : 3
 feature_image: feature-window
 show_related_posts: true
 square_related: recommend-peak
 ---
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
 Fall is my favorite time of year.
