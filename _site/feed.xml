@@ -1,307 +1,285 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zoe Genevieve LeBlanc</title>
-    <description></description>
-    <link>http://zoeleblanc.github.io/</link>
-    <atom:link href="http://zoeleblanc.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 03 Sep 2015 08:44:43 +0100</pubDate>
-    <lastBuildDate>Thu, 03 Sep 2015 08:44:43 +0100</lastBuildDate>
+    <title>Writer Theme</title>
+    <description>focussed on typography, minimal design and
+ quality photography built using the Jekyll platform.
+</description>
+    <link>/writer//</link>
+    <atom:link href="/writer//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 15 Mar 2015 20:48:39 +0000</pubDate>
+    <lastBuildDate>Sun, 15 Mar 2015 20:48:39 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Snow Days and Twitter Reporting</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;This post is one I wrote for VIDL in the middle of the first bizarre snowstorm that gripped Tennessee in February. Until moving to Nashville, I spent 23 years living through harsh Canadian winters (any Canadian who knows I’m from Toronto is rolling their eyes at this point), and so I was use to just slogging through giant snowstorms. Yet this past February and March, Nashville and large parts of Tennessee shut down completely in the face of unprecedented amount of snow and ice (a few inches of each, which is essentially spring in Canada but I digress again). Unsure of what exactly was going on, I turned to twitter for the latest updates. I was amazed with what I found, which was a robust community of citizen journalists sharing weather updates and measurements. So I did what anyone would when snowed in, I decided to try out some network graphing analysis.&lt;/p&gt;
-&lt;/blockquote&gt;
+        <title>10 Reasons to travel the world</title>
+        <description>&lt;p&gt;Ask yourself, why not? What is the number one reason you wouldn’t. If the reason you get back is fear, you should just do it.&lt;/p&gt;
 
-&lt;p&gt;Though today is a snow day at Vanderbilt Campus, we at VIDL never let a little bit of weather stop us. In honor of today’s storm, this post is a look at how Tennesseans are using Twitter to report on the storm. One of my favorite topics is the role of citizens in the new digital age and so with all the tweets and pics of the bad weather, I wanted to see how these networks are operating.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati doloribus, culpa, et suscipit praesentium incidunt, libero officiis ipsum fugiat odit aperiam commodi unde dignissimos veritatis accusamus molestias iste magni nobis?&lt;/p&gt;
 
-&lt;p&gt;Using the twitter tag &lt;a href=&quot;https://twitter.com/hashtag/tspotter?f=realtime&amp;amp;src=hash&quot;&gt;#tspotter&lt;/a&gt;, I used Martin Hawksey’s &lt;a href=&quot;https://tags.hawksey.info/get-tags/&quot;&gt;TAGS API&lt;/a&gt; to analyze the network data. TAGS is much easier to use than Gephi or other network analysis tools, and is free, which is rare. All you have to do is copy TAGS as a google doc and authorize your twitter account. After that you run the script, which aggregates all the 3000 latest tweets from the last week. #tspotter had about 1200 unique tweets, and I used Hawksey’s TAGSExplorer to visualize the network.
-&lt;a href=&quot;https://my.vanderbilt.edu/vidl/2015/02/snow-days-twitter-reporting/&quot;&gt;Read the rest here…&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 10 Mar 2015 20:31:30 +0000</pubDate>
-        <link>http://zoeleblanc.github.io/snow-days-twitter-reporting</link>
-        <guid isPermaLink="true">http://zoeleblanc.github.io/snow-days-twitter-reporting</guid>
-        
-        
-        <category>digital</category>
-        
-        <category>teaching</category>
-        
-      </item>
-    
-      <item>
-        <title>Off Campus Dh Resources</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;This post is one that I originally wrote for VIDL for my series, In Pursuit of Digital Pedagogy.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;//writer/img/post-assets/fire.jpg&quot; alt=&quot;Fire image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Have you ever wanted to learn how to program? Or how to visualize networks? Or how to create video games? Or develop and manage digital projects?
-Then a digital humanities training workshop is for you.&lt;/p&gt;
-
-&lt;p&gt;While Vanderbilt has lots of great on-campus resources for tooling up on digital learning and teaching, sometimes getting off campus and into an intensive workshop is the best option for immersing into the world of digital learning.&lt;/p&gt;
-
-&lt;p&gt;Usually a week or so in length, DH workshops provide an opportunity to focus intensely on developing one particular digital skill or project under the guidance of an expert in the field. These workshops attract a wide range of participants from the academe and beyond, as well as all skill levels. So whether you are: a first year graduate student; a tenured professor; an experienced digital project director; or someone completely new to digital projects – DH workshops are a great way to get exposed to the growing field of digital humanities, as well as new digital tools for researching and teaching.&lt;/p&gt;
-
-&lt;p&gt;In early August, I had the opportunity to attend a DH workshop at the University of Maryland’s Humanities Intensive Learning and Training (HILT), where I participated in the Humanities Programming workshop. HILT offers a range of workshops, and next time I hope to attend the workshop on Visualizing Networks (for a full list of courses offered this year click here). I was fortunate to receive one of HILT’s student scholarships for first time attendees and graduate students to help cover costs. While these courses are intended for scholars working in the humanities, these workshops may also be of interest to scholars in the sciences – especially if you are interested in expanding your digital literacies.&lt;/p&gt;
-
-&lt;p&gt;Wayne Graham and Brandon Walsh from the University of Virginia’s Scholars’ Lab were the instructors for my course, and two better instructors would be hard to find. Wayne and Brandon were not only incredibly knowledgeable and patient, but also hilariously fun, which made the entire week really enjoyable, albeit exhausting too. Over the course of five days, the Humanities Programming workshop course covered a wide range of programming principles and skills, including: HTML; CSS; Command Line; and how to deploy pages using Git, Github and Heroku.
- &lt;a href=&quot;https://my.vanderbilt.edu/vidl/2014/11/in-pursuit-of-digital-pedagogy-off-campus-resources-digital-humanities-workshops&quot;&gt;Read the rest here&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 20 Nov 2014 20:31:30 +0000</pubDate>
-        <link>http://zoeleblanc.github.io/off-campus-dh-resources</link>
-        <guid isPermaLink="true">http://zoeleblanc.github.io/off-campus-dh-resources</guid>
-        
-        
-        <category>digital</category>
-        
-        <category>teaching</category>
-        
-      </item>
-    
-      <item>
-        <title>In Pursuit of Digital Pedagogy</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;This past year I was lucky enough to be selected for a cool new center on campus, the Vanderbilt Institute for Digital Learning. I’ve spent the year blogging for them about graduate digital education, digital pedagogy, and my (mis)adventures in becoming a digitalist. Here’s my first post in the series, In Pursuit of Digital Pedagogy and please visit the VIDL site too for more great posts from my fellow grad fellows. &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;For the last few weeks, I’ve been working on a number of posts for VIDL, and I’m excited to share the results of my first forays into the best practices for digital learning pedagogies and tools. However, as I was creating these posts, I realized I needed almost another introduction to give some context to the concepts underlying both my interests and projects for VIDL. So, here is my introduction redux. If you want to know more about my big picture approach to digital learning please check out my first intro post . Otherwise, sit back and let me take you back in time.&lt;/p&gt;
-
-&lt;p&gt;Well not that far back really since I’m talking about Spring 2013, when I first heard Prof. Cathy Davidson speak at the annual HASTAC conference in Toronto. For those of you unfamiliar with Prof. Cathy Davidson, she is a Distinguished Professor and Director of The Futures Initiative at the Graduate Center, The City University of New York and one of the co-founders of HASTAC. More importantly, she is probably one of the most vocal and committed advocates for the importance of digital learning in Higher Education. At the 2013 HASTAC conference, Prof. Davidson was the opening speaker, and she truly preached the gospel of digital humanities and learning. After the conference, I felt incredibly energized about all the amazing possibilities for digital tools to transform my research and teaching, and was excited to try some of the great ideas I had learned at HASTAC. Flash forward to today, and it pains me to admit how much of my enthusiasm for digital pedagogy in higher education has been tempered through experiencing the difficulties in implementing much of what Prof. Davidson and HASTAC preaches (not that either promised the process would be easy). &lt;a href=&quot;https://my.vanderbilt.edu/vidl/2014/11/in-pursuit-of-digital-pedagogy-introduction-2-0&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 14 Nov 2014 18:52:28 +0000</pubDate>
-        <link>http://zoeleblanc.github.io/in-pursuit-of-digital-pedagogy</link>
-        <guid isPermaLink="true">http://zoeleblanc.github.io/in-pursuit-of-digital-pedagogy</guid>
-        
-        
-        <category>digital</category>
-        
-        <category>teaching</category>
-        
-      </item>
-    
-      <item>
-        <title>VIDL Intro Piece</title>
-        <description>&lt;p&gt;Check out my &lt;a href=&quot;https://my.vanderbilt.edu/vidl/2014/09/zoe-leblanc-vidl-graduate-fellow-introductory-post&quot;&gt;latest post&lt;/a&gt;for the Vanderbilt Institute for Digital Learning. This post was a bit tricky to write and it might be a bit tricky to read as it is more of a conceptual road map then an intro about me or my work. Nonetheless, hope you enjoy!&lt;/p&gt;
+&lt;p&gt;Kale chips bespoke church-key American Apparel flannel pickled. Mlkshk High Life Blue Bottle, leggings gastropub four dollar toast post-ironic fap American Apparel VHS. Cliche cold-pressed single-origin coffee mlkshk retro distillery. 3 wolf moon Tumblr selvage semiotics food truck. Intelligentsia Pitchfork meh sriracha chambray, fanny pack lomo irony fap pickled stumptown. Twee +1 artisan, cred ethical gluten-free 90’s four loko Odd Future cronut small batch organic. Seitan hashtag jean shorts art party messenger bag.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Here’s a brief excerpt:
-In 2007, Haruki Murakami, the great Japanese novelist, published my favorite type of book – the ones where writers talk about writing. The book, entitled What I Talk About When I Talk About Running, is a great read, full of philosophical musings; life lessons; and some really great quotes. My favorite is perhaps the most famous line from the book: “Pain is inevitable. Suffering is optional.”While Murakami was writing primarily about marathon running and the endurance needed to be a writer, I apply this same wisdom to my thoughts on digital learning.&lt;/p&gt;
+  &lt;p&gt;Scenester Echo Park tilde&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://zoeleblanc.github.io/img/post-assets/fire.jpg&quot; alt=&quot;Fire image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Locavore brunch kale chips vegan selvage High Life you probably haven’t heard of them before they sold out pork belly. Flexitarian organic wayfarers, cronut food truck bicycle rights drinking vinegar bespoke meditation mustache swag mumblecore semiotics locavore. Whatever kogi readymade, jean shorts pork belly chia distillery wayfarers. Art party single-origin coffee four dollar toast VHS, try-hard hoodie kogi normcore Neutra actually church-key flexitarian swag.&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 02 Sep 2014 08:41:30 +0100</pubDate>
-        <link>http://zoeleblanc.github.io/vidl-intro-piece</link>
-        <guid isPermaLink="true">http://zoeleblanc.github.io/vidl-intro-piece</guid>
+        <pubDate>Wed, 11 Feb 2015 08:50:28 +0000</pubDate>
+        <link>/writer//ten-reasons-to-travel-the-world</link>
+        <guid isPermaLink="true">/writer//ten-reasons-to-travel-the-world</guid>
         
         
-        <category>digital</category>
+        <category>travel</category>
         
-        <category>teaching</category>
+        <category>storytime</category>
         
       </item>
     
       <item>
-        <title>Surviving Comps Part III</title>
-        <description>&lt;p&gt;I feel I should apologize for the size of this post. What started as one post is now a series, but hopefully this expansion is just a sign of how much wisdom I have to impart. Or maybe I’ve converted my tendency to ramble into written form. Regardless, I’ve finally arrived at the meat of this post - workflow and resources for your exams.&lt;/p&gt;
+        <title>Supercharge Your Workflow With Grunt</title>
+        <description>&lt;p&gt;The Grunt ecosystem is huge and it’s growing every day. With literally hundreds of plugins to choose from, you can use Grunt to automate just about anything with a minimum of effort. If someone hasn’t already built what you need, authoring and publishing your own Grunt plugin to npm is a breeze. See how to &lt;a href=&quot;http://gruntjs.com/&quot;&gt;get started&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;An efficient workflow is key to productivity, and if you are unfamiliar with the concept I would recommend checking out Gradhacker’s numerous posts on productivity &lt;a href=&quot;http://www.gradhacker.org/tag/productivity-2/&quot;&gt;here&lt;/a&gt;. One of gradhacker’s most apropos posts is on note taking for comps &lt;a href=&quot;http://www.gradhacker.org/2014/02/19/5-strategies-for-organizing-notes-for-comprehensive-exams/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In one word: automation. The less work you have to do when performing repetitive tasks like minification, compilation, unit testing, linting, etc, the easier your job becomes. After you’ve configured it through a Gruntfile, a task runner can do most of that mundane work for you—and your team—with basically zero effort.&lt;/p&gt;
 
-&lt;p&gt;For my comprehensive exams, I used a combination of DEVONThink Pro, Evernote, and Scrivener. If you are unfamiliar with these programs, I won’t repeat what others have said but point you to the following posts.
-*For more about DEVONThink, check out &lt;a href=&quot;http://www.gradhacker.org/2013/10/02/building-a-research-database-with-devonthink-pro-office&quot;&gt;this gradhacker post&lt;/a&gt; (though the price of the program is cheaper as a student/educator then listed in the post), &lt;a href=&quot;http://cliotropic.org/blog/2011/10/ocring-archival-research-photos-with-devonthink&quot;&gt;this Cliotropic post on OCRing archival material&lt;/a&gt; , and &lt;a href=&quot;http://idlethink.wordpress.com/2011/06/24/on-devonthink-and-history-research-i&quot;&gt;this Idlethink post on devonthink and historical research&lt;/a&gt;
-*For more about Evernote and exams, check out Cameron Blevins’ posts on surviving exams &lt;a href=&quot;http://historying.org/2012/01/23/surviving-quals-part-ii-the-grind/&quot;&gt;here&lt;/a&gt;. 
-*For more about Scrivener, see Ryan Cordell’s post on Profhacker &lt;a href=&quot;http://chronicle.com/blogs/profhacker/scrivener-scrivening-scriverastic/23026&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 
-&lt;p&gt;So now you know about these programs, and perhaps bit the bullet and purchased them. Don’t worry I can guarantee these programs will help. First thing to do is create a database in DEVONThink. In this database put everything remotely related to your exams. Old papers, colleagues’ papers, research notes, etc… I imagine my database like a giant moving box, where I could throw everything and use the search tool to find relevant material. Also if you have any images, DEVONThink will OCR them which lets you edit and search the images. To begin preparing for the exams, I started with searching what other graduate students’ posted reading summaries, since in my opinion there’s no need to invent the wheel twice. The most useful sites I found are:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;s2&quot;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;my-project-name&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;s2&quot;&gt;&amp;quot;version&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;0.1.0&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;s2&quot;&gt;&amp;quot;devDependencies&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;s2&quot;&gt;&amp;quot;grunt&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;~0.4.5&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s2&quot;&gt;&amp;quot;grunt-contrib-jshint&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;~0.10.0&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s2&quot;&gt;&amp;quot;grunt-contrib-nodeunit&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;~0.4.1&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s2&quot;&gt;&amp;quot;grunt-contrib-uglify&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;~0.5.0&amp;quot;&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://chnm.gmu.edu/courses/schrag/wiki/index.php?title=Main_Page&quot;&gt;George Mason Wiki&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.elizabethcovart.com/wp-content/uploads/2013/02/Covart-20th-Century-Notes.pdf&quot;&gt;Elizabeth Covart’s list&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.cameronblevins.org/u-s-history-book-summaries/&quot;&gt;Cameron Blevins’ book summaries&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;The easiest way to add Grunt and gruntplugins to an existing &lt;code&gt;package.json&lt;/code&gt; is with the command &lt;code&gt;npm install &amp;lt;module&amp;gt; --save-dev&lt;/code&gt;. Not only will this install &lt;code&gt;&amp;lt;module&amp;gt;&lt;/code&gt; locally, but it will automatically be added to the devDependencies section, using a tilde version range.&lt;/p&gt;
 
-&lt;p&gt;All of these summaries are for US history, and I have yet to find equivalents for US in the World or Arab/Islamic Worlds. I may over the next few months post my reading summaries, but they are in pretty rough shape at the moment so it will be some time before I share them.&lt;/p&gt;
+&lt;p&gt;For example, this will install the latest version of Grunt in your project folder, adding it to your devDependencies:&lt;/p&gt;
 
-&lt;p&gt;After this step, I started searching for book reviews. H-net is a godsend. I usually tried to find at least three reviews for each book. This strategy was to make sure any crummy reviews or overly critical reviewers would not skew my own sense of the book. Now I started off trying to read the introduction to each book and a bit of the chapters. If I had started a year in advance preparing I might have stuck with this strategy, but as noted earlier I’m a procrastinator and so I quickly turned to published book reviews. This strategy is not infallible and sometimes you do need the original book. However, the benefit of using book reviews is that you can add them to DEVONThink and keep your workspace tidy, instead of being crowded with books (which will all be due the day your exam starts because karma). After compiling everything in my database, I started moving and organizing material in Scrivener.&lt;/p&gt;
-
-&lt;p&gt;After making the switch about a year ago, I now swear by Scrivener for all my projects. I split my exams by fields, creating one Scrivener project for each field. With the split screen feature in Scrivener, I was able to take notes easily from the reviews, crafting entries for each book and article. I used two templates: an ambitious one and a bare bones one. The ambitious template I used in Scrivener and comprised of the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Title:&lt;/li&gt;
-  &lt;li&gt;Author:&lt;/li&gt;
-  &lt;li&gt;Year:&lt;/li&gt;
-  &lt;li&gt;Categories:&lt;/li&gt;
-  &lt;li&gt;Place:&lt;/li&gt;
-  &lt;li&gt;Time Period:&lt;/li&gt;
-  &lt;li&gt;Argument Synopsis:&lt;/li&gt;
-  &lt;li&gt;Key Themes and Concepts/Structure:&lt;/li&gt;
-  &lt;li&gt;Historical Problem and Larger Questions:&lt;/li&gt;
-  &lt;li&gt;Similar Books:&lt;/li&gt;
-  &lt;li&gt;Notes:&lt;/li&gt;
-  &lt;li&gt;Historiographical Points:&lt;/li&gt;
-  &lt;li&gt;Review Articles:&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This template was helpful for organizing the large amount of info I had for each book entry. I then would parse down the entry in Evernote using the following outline:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;ARGUMENT:&lt;/li&gt;
-  &lt;li&gt;HISTORICAL PROBLEM and LARGER QUESTIONS:&lt;/li&gt;
-  &lt;li&gt;HISTORIOGRAPHICAL POINTS:&lt;/li&gt;
-  &lt;li&gt;THEMES and STRUCTURE:&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;While using both Evernote and Scrivener is a bit of overkill, I really liked the set up for a few reasons. First, the Scrivener entries tended to be longer then necessary, as I was scared of cutting out pertinent information. So instead of having a duplicate Scrivener project, I used Evernote to clean things up. Also Evernote’s remote backup feature gave me piece of mind in case something should happen to my hard drive. You could probably use one or the other, but I liked using both. In addition to the book entries, I also wrote a historiographical trends entry for each section.&lt;/p&gt;
-
-&lt;p&gt;For example, for my section on Missions in my US in the World list, I had the following:&lt;/p&gt;
-
-&lt;h6 id=&quot;readings&quot;&gt;Readings&lt;/h6&gt;
-&lt;pre&gt;&lt;code&gt;* Ryan Dunch, “Beyond Cultural Imperialism: Cultural Theory, Christian Missions, and Global Modernity,” _History and Theory_, Vol. 41 (Oct. 2002), pp. 301-325.
-* Jane Hunter, _The Gospel of Gentility: American Women Missionaries in Turn-of-the-Century China_ (New Haven: Yale University Press, 1984)
-* Ian Tyrrell, _Reforming the World: The Creation of America’s Moral Empire_ (Princeton: Princeton University Press, 2010)
-* Lian Xi, _The Conversion of Missionaries: Liberalism in American Protestant Missions in China, 1907-1932_ (Pennsylvania State University Press, 1997)
-* Lawrence S. Little, _Disciples of Liberty: The African Methodist Episcopal Church in the Age of Imperialism, 1884-1916_ (Knoxville: University of Tennessee Press, 2000).
-* Ussama Makdisi, _The Artillery of Heaven: American Missionaries and the Failed Conversion of the Middle East_ (Ithaca: Cornell University Press, 2008).
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h6 id=&quot;historiographical-trends&quot;&gt;Historiographical Trends:&lt;/h6&gt;
-&lt;pre&gt;&lt;code&gt;* Critique of cultural imperialism - missionaries as intermediaries of modernity?
-* How did missionaries shape America’s moral empire? Women missionaries and influence domestically
-* Moves towards cultural exchange/entanglement models - how to define missionary activity? differs at global and local levels
-* What is the agency of host cultures or converts? Complicating methodological nationalism in national historiographies
-* What is success or failure for missionaries? Intellectual/Religious shifts
-* Strong resonances of Americanization - similar on how to think about missionaries
-* Distinctions - metrocentric vs. pericentric perceptions - origins, flow of influences - missionary networks -inclusion of European, European descended or non-European converts into missions
-* What level are missionary encounters happening? conversions?
-* How you define missions in the first place? How historians define these organizations?
-* Where is the role of the host state? national status of missionaries / missionary status of nations
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;As you can see these write ups are informal and bullet form but trust me, these trends will be helpful when you are writing your exam paper and trying to squeeze the last drop of analysis into your paper.&lt;/p&gt;
-
-&lt;p&gt;These three posts pretty much sum up how I survived my exams, as well as my thoughts on the entire ordeal. Feel free to use any of this information or disregard completely. One last point I want to stress is to ASK FOR HELP. Graduate students, especially in the humanities, seem to have an especially strong aversion to collaboration and asking for help. My most successful field was the one I collaborated on with a fellow graduate student. We split up the readings, shared write-ups, and helped one another work through areas where we were particularly weak. While these exams are a test of your own intellectual merit, collaborating does not equate to plagiarizing or somehow slacking on the work. Even if I had collaborated on every field, all the ideas and interpretations are ultimately my own. Working with someone helps make the exams more manageable and means that you end up with better book summaries. In fact, I think collaborating is probably the best way to survive exams, if for the only to not feel so alone.&lt;/p&gt;
-
-&lt;p&gt;So go forth and conquer your exams!&lt;/p&gt;
+&lt;p&gt;Grunt&lt;/p&gt;
 </description>
-        <pubDate>Mon, 16 Jun 2014 00:00:00 +0100</pubDate>
-        <link>http://zoeleblanc.github.io/surviving-comps-part-3</link>
-        <guid isPermaLink="true">http://zoeleblanc.github.io/surviving-comps-part-3</guid>
+        <pubDate>Wed, 11 Feb 2015 08:50:28 +0000</pubDate>
+        <link>/writer//supercharge-your-workflow-with-grunt</link>
+        <guid isPermaLink="true">/writer//supercharge-your-workflow-with-grunt</guid>
         
         
-        <category>academia</category>
+        <category>coding</category>
         
-        <category>history</category>
+        <category>js</category>
         
       </item>
     
       <item>
-        <title>Surviving Comps Part II</title>
-        <description>&lt;p&gt;So here’s where I actually breakdown how to survive, and hopefully thrive, during your comprehensive exams. I’m going to breakdown my strategy into a suggested timeline for how to prepare for your exams; how I organized my workflow; and resources for your exams. However, full disclosure this is not the timeline I followed. Just the one I wish someone had given me on my first day of grad school. Also I’ve only done the exams once, so please take all recommendations with a giant grain of salt. Lastly, I’m a notorious procrastinator so if you are too then virtual high-five and don’t panic if you are a few weeks away from your exams. Just do what you can and it will be enough.&lt;/p&gt;
+        <title>CSS with Superpowers</title>
+        <description>&lt;p&gt;Sass is completely compatible with all versions of CSS. We take this compatibility seriously, so that you can seamlessly use any available CSS libraries.&lt;/p&gt;
 
-&lt;h3 id=&quot;timeline&quot;&gt;TIMELINE&lt;/h3&gt;
+&lt;p&gt;Sass boasts more features and abilities than any other CSS extension language out there. The Sass Core Team has worked endlessly to not only keep up, but stay ahead.&lt;/p&gt;
 
-&lt;h5 id=&quot;first-two-years-of-coursework&quot;&gt;First Two Years of Coursework:&lt;/h5&gt;
+&lt;h2 id=&quot;mature&quot;&gt;Mature&lt;/h2&gt;
+&lt;p&gt;Sass has been actively supported for about 8 years by its loving Core&lt;/p&gt;
 
-&lt;p&gt;Are you a plucky first year grad student already thinking about your comps exams and some how stumbled here? If so, good for you.&lt;/p&gt;
+&lt;h2 id=&quot;team&quot;&gt;Team&lt;/h2&gt;
+&lt;p&gt;Over and over again, the industry is choosing Sass as the premier CSS extension language.&lt;/p&gt;
 
-&lt;p&gt;If you’re not, all is not lost but one thing I wish I had done was use my courses wisely. By that I mean I wish I had taken the extra bit of time each week and made good notes from the readings and discussions. Even though I’m training to be a historian, I have a memory like a sieve, and so trying to remember two years later what we discussed in the weeks on Progressivism or the Vietnam War was a bit tough.&lt;/p&gt;
+&lt;h2 id=&quot;large-community&quot;&gt;Large Community&lt;/h2&gt;
+&lt;p&gt;Sass is actively supported and developed by a consortium of several tech companies and hundreds of developers.&lt;/p&gt;
 
-&lt;p&gt;I’ll go into note taking templates later on but you can click here if you want to jump ahead. Besides taking notes, start thinking about your lists and compiling potential books. Making the lists for your exams actually takes a considerable amount of time and so start keeping track of books you read, or want to read that has recent reviews posted on h-net. One thing to be aware of is that if you pick books that were published in the last year, you’ll be lucky to find any reviews. Reviews are key for your exams, as trying to read all the books is in my opinion impossible and unnecessary. So just keep in mind that if half of your list comprises of books from the last year, you’ll need to allocate the time to read and take notes on the books.&lt;/p&gt;
+&lt;h2 id=&quot;frameworks&quot;&gt;Frameworks&lt;/h2&gt;
+&lt;p&gt;There are endless number of frameworks built with Sass. Compass, Bourbon, and Susy just to name a few.&lt;/p&gt;
 
-&lt;h5 id=&quot;exams-on-the-horizon-somewhere-between-8-5-months-before-your-exams&quot;&gt;Exams on the horizon (somewhere between 8-5 months before your exams):&lt;/h5&gt;
-
-&lt;p&gt;Alright, time to get down to work and start kicking some proverbial academic butt. Number one thing to remember is to pace yourself. The exams are a marathon and if you burn out too early, you’ll never make it through the actual exams, let alone get through all the prep.&lt;/p&gt;
-
-&lt;p&gt;Start with making your lists.&lt;/p&gt;
-
-&lt;p&gt;I would recommend talking to your main advisor(s) about expectations and format of the exams. Also now is a good time to call in favors and ask other grad students in your department and fields to share lists. Weirdly enough, most people are very territorial about their lists and book summaries, which I find bizarre but hopefully someone will share. In that spirit, I’m sharing my lists here and feel free to use them. (Click for my major list on US in the World 1 and 2; minor list on Modern Middle Eastern and North African Histories; and minor list American History Since 1865 List). Your department will likely have their own distinct ways of doing things so be sure to clear everything with your advisor and DGS earlier than later.&lt;/p&gt;
-
-&lt;p&gt;Once your lists are approved is when the real fun begins. And by fun, I mean weeks of high anxiety torture.&lt;/p&gt;
-
-&lt;p&gt;Now that you have your road map time to start compiling notes. I go more into workflow stuff here, but suffice to say, this activity will take lots of time and energy so once again pace yourself.&lt;/p&gt;
-
-&lt;h5 id=&quot;exams-ahoy-a-few-weeks-pre-exams&quot;&gt;Exams ahoy (a few weeks pre-exams):&lt;/h5&gt;
-
-&lt;p&gt;Ok, just breathe. You can do this. You’re the academic version of [insert favorite Marvel superhero/heroine of choice]. You eat comprehensive exams for breakfast, lunch, and dinner.&lt;/p&gt;
-
-&lt;p&gt;Ok, enough with the bravado. The fact is if at this point you aren’t experiencing some form of mental health issue, I applaud you and am deeply envious. I started developing migraines for the first time in my life a few weeks before my exams, so don’t feel like you’re alone if you are feeling overwhelmed/stress/depressed/etc… Just head on over to my rant post here, and feel free to vent in the comments.&lt;/p&gt;
-
-&lt;p&gt;Now depending on your ability to deal with stress, you can start moving towards meta-level prepping a few weeks or days before the exams start. One of the preparation activities that helped the most was writing meta overviews of each subsection of my readings. I would try to list trends, big questions/debates in the subsections, and my critiques. These mini meta-overviews saved me during the exams. Don’t be too detailed or you’ll just end up with too much bulk for your paper. At most I would recommend a paragraph or two, but ideally bullet points.&lt;/p&gt;
-
-&lt;h5 id=&quot;stop-exam-time&quot;&gt;Stop! Exam Time:&lt;/h5&gt;
-
-&lt;p&gt;My exams started with seven days to write four ten page essays, and then a week later I sat my two hour oral exam. By the time I started my written exams, I was pretty exhausted and so I decided to start with the question I felt was the hardest first. In hindsight, I would reverse this decision as I spent way too long on the harder paper and wrote my last two papers in a flurry at the end. Be sure to get lots of sleep and remember done is better than perfect when it comes to these papers. I tried to shoot for about forty references in each paper, whether through footnotes or listing titles in the paper. Ten pages is pretty short and so brevity is key. However, I would also recommend having a bit of fun with the writing. I made all my titles so form of pun, and used the pun as a framework for writing. Pretty much whatever strikes you at the moment of writing, go with it even if it feels silly or tangential. You can always revise or change tactic once you’ve put digital pen to paper.&lt;/p&gt;
-
-&lt;p&gt;For the oral exam, I would recommend preparing any questions you didn’t answer, as well as reviewing the papers you’ve submitted. My oral exam was intense but I just tried to remember that everyone on my committee had already been exposed to my brand of rambling answers, and that if I couldn’t answer a question well too bad! One area where I was told to improve was to be more specific in my answers (damn you sieve-like memory) but honestly, everyone wants you to pass so just try and do your best.&lt;/p&gt;
-
-&lt;h5 id=&quot;post-apocalypse-or-after-your-exams&quot;&gt;Post-Apocalypse (or after your exams):&lt;/h5&gt;
-
-&lt;p&gt;TAKE TIME OFF!&lt;/p&gt;
-
-&lt;p&gt;I wish I had scheduled a week or two of nothing but relaxation time, instead of jetting off to do research. Remember also to celebrate your achievement. Passing your exams can be actually rather anti-climatic so make sure you plan to party and savor the feeling of freedom.&lt;/p&gt;
-
+&lt;p&gt;Dreamcatcher cold-pressed American Apparel, post-ironic Carles Shoreditch craft beer Banksy PBR retro distillery before they sold out freegan asymmetrical kogi. Food truck Schlitz direct trade, deep v ethical yr sriracha mumblecore freegan. Tattooed occupy pork belly, letterpress typewriter cold-pressed viral swag farm-to-table flexitarian. +1 hashtag put a bird on it authentic. 3 wolf moon locavore Vice, normcore actually meggings leggings cornhole brunch. Four loko vinyl trust fund, Intelligentsia wolf Bushwick lo-fi sriracha. Deep v vegan forage selvage.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 15 Jun 2014 00:00:00 +0100</pubDate>
-        <link>http://zoeleblanc.github.io/surviving-comps-part-2</link>
-        <guid isPermaLink="true">http://zoeleblanc.github.io/surviving-comps-part-2</guid>
+        <pubDate>Wed, 11 Feb 2015 08:50:28 +0000</pubDate>
+        <link>/writer//css-with-superpowers</link>
+        <guid isPermaLink="true">/writer//css-with-superpowers</guid>
         
         
-        <category>academia</category>
+        <category>coding</category>
         
-        <category>history</category>
+        <category>css</category>
         
       </item>
     
       <item>
-        <title>Surviving Comps Part I</title>
-        <description>&lt;p&gt;There are few things that inspire as much fear in graduate students as the dreaded comprehensive exam. Clouded in mystery, the exams are a hazing ritual that unites all graduate students, regardless of discipline. This past May [2014], after putting off my exams for a year (not something I recommend), I was finally forced to face my fears, and I survived. Well, survived may be the wrong word, especially since I feel as though I am in need of social reintegration program after spending months chained to my desk. Nonetheless, I thought I would write this post as a way to have some closure on the experience, as well as share some of my hard learned lessons. While my experience is primarily aimed at History graduate students, I hope others will find my ‘wisdom’ useful.&lt;/p&gt;
+        <title>You Dont Have To Be Great To Get Started</title>
+        <description>&lt;p&gt;It was a cold December morning, as I sat out on my porch I decided today was the day.&lt;/p&gt;
 
-&lt;p&gt;Before I begin sharing my experience, I need to vent a bit. Feel free to skip ahead here but if you are feeling particularly annoyed, confused, or angry about the exams then know you are not alone and read on.&lt;/p&gt;
+&lt;p&gt;Dreamcatcher cold-pressed American Apparel, post-ironic Carles Shoreditch craft beer Banksy PBR retro distillery before they sold out freegan asymmetrical kogi. Food truck Schlitz direct trade, deep v ethical yr sriracha mumblecore freegan. Tattooed occupy pork belly, letterpress typewriter cold-pressed viral swag farm-to-table flexitarian. +1 hashtag put a bird on it authentic. 3 wolf moon locavore Vice, normcore actually meggings leggings cornhole brunch. Four loko vinyl trust fund, Intelligentsia wolf Bushwick lo-fi sriracha. Deep v vegan forage selvage.&lt;/p&gt;
 
-&lt;p&gt;Though, the comprehensive exams were something I feared, a greater part of my reluctance to sit the exams was because I thought and still do think that comprehensive exams in their current iteration are a pretty big waste of time.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;//writer/img/post-assets/view.jpg&quot; alt=&quot;view&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I don’t think the exams are a waste of time because they force graduate students to work hard. In fact, I found that part of the exam satisfying, along with the structured-ness of studying for the exams over the vagaries of coursework or research. Furthermore, I now have a large database of secondary source material, which hopefully will be helpful in the future. In my department, we have three fields (one major and two minors), and have to write four essays in seven days, and then sit a two hour oral exam. The entire experience is a little surreal since you only sit the exams once, and there is no way to really prepare for trying to summarize 100 plus books in ten pages. I found the experience exhausting and nerve-racking, and the writing portion particularly bizarre since historians are rarely under time pressured constraints. Nonetheless, none of these issues are why I think the exams are a large time sink with few pay offs.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam nihil eum cum quas! Consectetur aliquam molestias quos voluptatum recusandae accusantium eaque sed architecto esse. Ut obcaecati, porro numquam sed. Odio.&lt;/p&gt;
 
-&lt;p&gt;My critique of the exams arises from the disconnect between the exams’ stated purpose and the reality of the experience. The rationales I have heard for the exams include: to prepare your knowledge of the secondary sources for your dissertation; to certify you to teach in your exam fields; and lastly, and most troubling, as a rite of passage. The first reasoning I know is true for some graduate students, but in my case unfortunately my exams fields and dissertation research had little overlap. However, even for those students where there is a great deal of overlap, I feel the type of secondary source research required for dissertation prep and exam prep is quite different, and that this exam prep is only useful if you are still looking for a topic. The second reasoning I feel is a bit of stretch, unless the exams are intended to prepare for teaching graduate level courses in those fields. The exams are intended as a meta-level analysis of your fields, and would be largely useless in most undergraduate classes. I also feel that the degree of variability between exams within a department, let alone the discipline, seems to undermine any weight of the exams as a teaching certification mechanism. How can a hiring committee know if I’m truly qualified to teach Modern Middle Eastern history based on an exam they’ll never read or listen to?&lt;/p&gt;
+&lt;p&gt;Dreamcatcher cold-pressed American Apparel, post-ironic Carles Shoreditch craft beer Banksy PBR retro distillery before they sold out freegan asymmetrical kogi. Food truck Schlitz direct trade, deep v ethical yr sriracha mumblecore freegan. Tattooed occupy pork belly, letterpress typewriter cold-pressed viral swag farm-to-table flexitarian. +1 hashtag put a bird on it authentic. 3 wolf moon locavore Vice, normcore actually meggings leggings cornhole brunch. Four loko vinyl trust fund, Intelligentsia wolf Bushwick lo-fi sriracha. Deep v vegan forage selvage.&lt;/p&gt;
 
-&lt;p&gt;The final reasoning is the one I find the most problematic. While academia is usually stereotyped as antiquated, the rationale of the exams as a hazing ritual seems particular outdated and pernicious. Can you imagine many other jobs where the entire rationale is based on the logic that this is how we’ve done things since the 19th century, so you have to as well? One of the hardest aspects of the exams for me to swallow was how varied the degree to hazing was due to the make-up of a student’s committee. Thus, depending on your fields and advisors in my department, you could end up with 25 books or over 100. This final point brings me to my biggest beef with the exams - the lack of transparency.&lt;/p&gt;
-
-&lt;p&gt;For some reason these exams are treated more like an induction into a secret cult, then an actual certification process. Instead of being able to show the amount of work and time that went into preparing for these exams, I have to take it on faith that hiring committees will infer the weeks of 14 hour days that went into my preparation. This assumption is even more distressing when trying to imagine how to communicate the amount of work this activity required to employers outside of the academe. While I realize given the unique nature of each graduate student, standardizing the exams would be difficult and likely undesirable. However, I can’t help but wish I had more to show for my efforts. Perhaps a portfolio of material or some type of actual certification that regardless of where I work after my dissertation I would be able to point to and show that I’m a hard worker and you should hire me.&lt;/p&gt;
-
-&lt;p&gt;I now realize this rant is my entire post so I’ll have to make the next post about actually surviving these exams but I would be happy to hear others thoughts on their experiences with the exams, and whether there is a way to make the entire process more transparent and perhaps fair. For those about to take your exams, remember that you are not alone, and that you’re likely already much more prepared and equipped for your exams after years of coursework then you even realize.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse quam provident accusamus vero autem culpa illum quo enim maiores eius error, sapiente inventore cum hic earum. Libero porro quisquam harum.&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 14 Jun 2014 00:00:00 +0100</pubDate>
-        <link>http://zoeleblanc.github.io/surviving-comps-part-1</link>
-        <guid isPermaLink="true">http://zoeleblanc.github.io/surviving-comps-part-1</guid>
+        <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+        <link>/writer//you-dont-have-to-be-great-to-get-started</link>
+        <guid isPermaLink="true">/writer//you-dont-have-to-be-great-to-get-started</guid>
         
         
-        <category>academia</category>
+        <category>motivation</category>
         
-        <category>history</category>
+        <category>leadership</category>
+        
+        <category>journey</category>
         
       </item>
     
       <item>
-        <title>Starting Fresh</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://zoeleblanc.github.io/img/post-assets/silhouette.jpg&quot; alt=&quot;Self-portrait&quot; /&gt;&lt;/p&gt;
+        <title>Why React JS Will Change the World</title>
+        <description>&lt;p&gt;React components implement a &lt;code&gt;render()&lt;/code&gt; method that takes input data and returns what to display. This example uses an XML-like syntax called JSX. Input data that is passed into the component can be accessed by &lt;code&gt;render()&lt;/code&gt; via &lt;code&gt;this.props&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;build/react.js&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;build/JSXTransformer.js&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;example&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;text/jsx&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;nx&quot;&gt;React&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;render&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+        &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;h1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;world&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&amp;lt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/h1&amp;gt;,&lt;/span&gt;
+        &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getElementById&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;example&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://zoeleblanc.github.io/img/post-assets/fun-in-my-room.gif&quot; alt=&quot;fun in my room&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;want-commonjs&quot;&gt;Want CommonJS?&lt;/h2&gt;
+&lt;p&gt;If you want to use React with browserify, webpack, or another CommonJS-compatible module system, just use the react npm package. In addition, the jsx build tool can be integrated into most packaging systems (not just CommonJS) quite easily.&lt;/p&gt;
+
+&lt;h2 id=&quot;next-steps&quot;&gt;Next Steps&lt;/h2&gt;
+&lt;p&gt;Check out the tutorial and the other examples in the starter kit’s examples directory to learn more.&lt;/p&gt;
+
+&lt;p&gt;We also have a wiki where the community contributes with workflows, UI-components, routing, data management etc.&lt;/p&gt;
+
+&lt;p&gt;Good luck, and welcome!&lt;/p&gt;
 </description>
-        <pubDate>Sat, 14 Jun 2014 00:00:00 +0100</pubDate>
-        <link>http://zoeleblanc.github.io/starting-fresh</link>
-        <guid isPermaLink="true">http://zoeleblanc.github.io/starting-fresh</guid>
+        <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+        <link>/writer//why-react-js-will-change-the-world</link>
+        <guid isPermaLink="true">/writer//why-react-js-will-change-the-world</guid>
         
         
-        <category>thoughts</category>
+        <category>coding</category>
         
-        <category>digital</category>
+        <category>js</category>
+        
+      </item>
+    
+      <item>
+        <title>Stop Thinking And Start Doing</title>
+        <description>&lt;p&gt;Get out of your head. Every good decision starts with a momment of action. What are you going to do today!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in finibus diam, sit amet sollicitudin dui. Praesent erat dui, mattis sed elementum non, molestie et ipsum. Quisque fringilla vitae dolor a lacinia. Integer aliquam arcu non tortor egestas volutpat. Proin vitae pretium purus, a rhoncus sapien. Nam posuere rutrum lorem, eu sagittis ante scelerisque pretium. Morbi fermentum mauris a elit lacinia venenatis. Nunc ut iaculis nunc, sed faucibus nulla. Nunc at massa ut mi varius venenatis et id nibh. Sed molestie nibh sed risus mattis elementum. Ut iaculis, dolor sed consequat efficitur, nisi risus scelerisque dui, at bibendum velit nisi quis risus. Nunc gravida leo ut arcu tempus, et iaculis ex ullamcorper. Maecenas eget dolor diam. Suspendisse dapibus pulvinar tempus.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;//writer/img/post-assets/walk.jpg&quot; alt=&quot;walk&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;//writer/img/post-assets/water.jpg&quot; alt=&quot;water&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;//writer/img/post-assets/woods.jpg&quot; alt=&quot;woods&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Vestibulum semper dui risus, ut vestibulum ex vestibulum in. Duis vel placerat augue. Morbi dapibus turpis nisi, eleifend hendrerit ligula congue non. Vestibulum felis velit, vulputate at metus ac, ullamcorper pharetra sapien. Praesent eget nibh scelerisque, scelerisque velit semper, ultrices velit. Nunc luctus quam ut condimentum sodales. Quisque eget eleifend nibh. Donec sit amet metus massa.&lt;/p&gt;
+
+&lt;p&gt;Quisque sagittis arcu quis mauris consectetur tempus. Etiam id erat pretium, rutrum quam ut, commodo lacus. Proin vitae condimentum odio. Morbi facilisis ligula vitae auctor pretium. Fusce lorem lectus, ultrices sit amet neque ut, condimentum bibendum libero. Mauris cursus neque eros, vel consectetur quam mollis nec. Mauris quis est nec elit euismod condimentum. Vestibulum imperdiet suscipit elit et scelerisque. Vivamus mollis sagittis ante.&lt;/p&gt;
+
+&lt;p&gt;Aenean commodo, massa quis mattis lacinia, mi ipsum vestibulum nisi, ut tincidunt massa erat quis neque. Aliquam volutpat eu ligula a tincidunt. Suspendisse imperdiet, lacus vitae pretium imperdiet, nisi elit efficitur felis, id ullamcorper nulla dolor ac massa. In rutrum eget nisi et maximus. Nam consequat libero et feugiat lobortis. Donec sit amet felis faucibus, egestas enim id, condimentum justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed aliquam, nisl vel volutpat semper, mi lacus tempus ante, hendrerit consequat massa lorem at lacus. Phasellus vel felis scelerisque, consectetur arcu ac, euismod massa.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+        <link>/writer//stop-thinking-and-start-doing</link>
+        <guid isPermaLink="true">/writer//stop-thinking-and-start-doing</guid>
+        
+        
+        <category>motivation</category>
+        
+        <category>storytime</category>
+        
+      </item>
+    
+      <item>
+        <title>Its Not Always That Simple</title>
+        <description>&lt;p&gt;If you always do what you’ve always done, you’ll always get what you’ve always had.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Want shows up in what you say, expectation shows up in behaviour&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in finibus diam, sit amet sollicitudin dui. Praesent erat dui, mattis sed elementum non, molestie et ipsum. Quisque fringilla vitae dolor a lacinia. Integer aliquam arcu non tortor egestas volutpat. Proin vitae pretium purus, a rhoncus sapien. Nam posuere rutrum lorem, eu sagittis ante scelerisque pretium. Morbi fermentum mauris a elit lacinia venenatis. Nunc ut iaculis nunc, sed faucibus nulla. Nunc at massa ut mi varius venenatis et id nibh. Sed molestie nibh sed risus mattis elementum. Ut iaculis, dolor sed consequat efficitur, nisi risus scelerisque dui, at bibendum velit nisi quis risus. Nunc gravida leo ut arcu tempus, et iaculis ex ullamcorper. Maecenas eget dolor diam. Suspendisse dapibus pulvinar tempus.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum semper dui risus, ut vestibulum ex vestibulum in. Duis vel placerat augue. Morbi dapibus turpis nisi, eleifend hendrerit ligula congue non. Vestibulum felis velit, vulputate at metus ac, ullamcorper pharetra sapien. Praesent eget nibh scelerisque, scelerisque velit semper, ultrices velit. Nunc luctus quam ut condimentum sodales. Quisque eget eleifend nibh. Donec sit amet metus massa.&lt;/p&gt;
+
+&lt;p&gt;Quisque sagittis arcu quis mauris consectetur tempus. Etiam id erat pretium, rutrum quam ut, commodo lacus. Proin vitae condimentum odio. Morbi facilisis ligula vitae auctor pretium. Fusce lorem lectus, ultrices sit amet neque ut, condimentum bibendum libero. Mauris cursus neque eros, vel consectetur quam mollis nec. Mauris quis est nec elit euismod condimentum. Vestibulum imperdiet suscipit elit et scelerisque. Vivamus mollis sagittis ante.&lt;/p&gt;
+
+&lt;p&gt;Aenean commodo, massa quis mattis lacinia, mi ipsum vestibulum nisi, ut tincidunt massa erat quis neque. Aliquam volutpat eu ligula a tincidunt. Suspendisse imperdiet, lacus vitae pretium imperdiet, nisi elit efficitur felis, id ullamcorper nulla dolor ac massa. In rutrum eget nisi et maximus. Nam consequat libero et feugiat lobortis. Donec sit amet felis faucibus, egestas enim id, condimentum justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed aliquam, nisl vel volutpat semper, mi lacus tempus ante, hendrerit consequat massa lorem at lacus. Phasellus vel felis scelerisque, consectetur arcu ac, euismod massa.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+        <link>/writer//its-not-always-that-simple</link>
+        <guid isPermaLink="true">/writer//its-not-always-that-simple</guid>
+        
+        
+        <category>motivation</category>
+        
+      </item>
+    
+      <item>
+        <title>Fake It Until You Make It</title>
+        <description>&lt;p&gt;Don’t listen to your critics, most people spend all day talking about what others are doing and no time doing anything themselves.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam nihil eum cum quas! Consectetur aliquam molestias quos voluptatum recusandae accusantium eaque sed architecto esse. Ut obcaecati, porro numquam sed. Odio.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse quam provident accusamus vero autem culpa illum quo enim maiores eius error, sapiente inventore cum hic earum. Libero porro quisquam harum.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in finibus diam, sit amet sollicitudin dui. Praesent erat dui, mattis sed elementum non, molestie et ipsum. Quisque fringilla vitae dolor a lacinia. Integer aliquam arcu non tortor egestas volutpat. Proin vitae pretium purus, a rhoncus sapien. Nam posuere rutrum lorem, eu sagittis ante scelerisque pretium. Morbi fermentum mauris a elit lacinia venenatis. Nunc ut iaculis nunc, sed faucibus nulla. Nunc at massa ut mi varius venenatis et id nibh. Sed molestie nibh sed risus mattis elementum. Ut iaculis, dolor sed consequat efficitur, nisi risus scelerisque dui, at bibendum velit nisi quis risus. Nunc gravida leo ut arcu tempus, et iaculis ex ullamcorper. Maecenas eget dolor diam. Suspendisse dapibus pulvinar tempus.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum semper dui risus, ut vestibulum ex vestibulum in. Duis vel placerat augue. Morbi dapibus turpis nisi, eleifend hendrerit ligula congue non. Vestibulum felis velit, vulputate at metus ac, ullamcorper pharetra sapien. Praesent eget nibh scelerisque, scelerisque velit semper, ultrices velit. Nunc luctus quam ut condimentum sodales. Quisque eget eleifend nibh. Donec sit amet metus massa.&lt;/p&gt;
+
+&lt;p&gt;Quisque sagittis arcu quis mauris consectetur tempus. Etiam id erat pretium, rutrum quam ut, commodo lacus. Proin vitae condimentum odio. Morbi facilisis ligula vitae auctor pretium. Fusce lorem lectus, ultrices sit amet neque ut, condimentum bibendum libero. Mauris cursus neque eros, vel consectetur quam mollis nec. Mauris quis est nec elit euismod condimentum. Vestibulum imperdiet suscipit elit et scelerisque. Vivamus mollis sagittis ante.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+        <link>/writer//fake-it-until-you-make-it</link>
+        <guid isPermaLink="true">/writer//fake-it-until-you-make-it</guid>
+        
+        
+        <category>motivation</category>
+        
+      </item>
+    
+      <item>
+        <title>A Great Story Never Told</title>
+        <description>&lt;p&gt;I’ve never told this to anyone. Sit yourself down and strap yourself in, you will experience some turbulence before you reach a steady altitude.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam nihil eum cum quas! Consectetur aliquam molestias quos voluptatum recusandae accusantium eaque sed architecto esse. Ut obcaecati, porro numquam sed. Odio.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse quam provident accusamus vero autem culpa illum quo enim maiores eius error, sapiente inventore cum hic earum. Libero porro quisquam harum.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;//writer/img/post-assets/iceland.jpg&quot; alt=&quot;iceland&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam nihil eum cum quas! Consectetur aliquam molestias quos voluptatum recusandae accusantium eaque sed architecto esse. Ut obcaecati, porro numquam sed. Odio.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse quam provident accusamus vero autem culpa illum quo enim maiores eius error, sapiente inventore cum hic earum. Libero porro quisquam harum.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+        <link>/writer//a-great-story-never-told</link>
+        <guid isPermaLink="true">/writer//a-great-story-never-told</guid>
+        
+        
+        <category>storytime</category>
+        
+        <category>life</category>
+        
+        <category>journey</category>
         
       </item>
     

@@ -6908,7 +6908,7 @@ input,
 select,
 textarea {
   color: #333337;
-  font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; }
+  font-family: "Droid Serif", serif; }
 
 .post-preview,
 .sidebar,
@@ -7599,8 +7599,8 @@ ol {
       text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
       line-height: 24px;
       line-height: 2.4rem;
-      font-size: 20px;
-      font-size: 2rem; }
+      font-size: 16px;
+      font-size: 1.6rem; }
     .sidebar .site-info i {
       font-style: normal;
       margin-right: 10px; }
@@ -7669,7 +7669,7 @@ ol {
       .post .post-preview h2 a:hover {
         color: #b6b6b6; }
   .post .post-preview p {
-    font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
+    font-family: "Droid Serif", serif;
     font-size: 16px;
     font-size: 1.6rem; }
     @media (min-width: 992px) {

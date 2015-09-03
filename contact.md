@@ -2,7 +2,7 @@
 layout: contact
 title: contact
 permalink: /contact/
-feature_image: feature-lesbos
+feature_image: feature-laptop
 form_action:
-form_heading: Say hi! I'll try and say hi back soon.
+form_heading: Contact our Team
 ---
