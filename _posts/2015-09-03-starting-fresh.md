@@ -28,6 +28,8 @@ Already I'm loving the simplicity of building up the site from the basics of a t
 
 -Z
 
+* * *
+
 [^1]: Thinking about writing a post about navigating the public/private divide as a twenty-something professional. I know there's lots of posts on this topic, but I still often feel unsure if something is too personal or it's ok to be authentic...
 [^2]: Highly recommend [Theme X by themeco]("http://theme.co/x/") if you're looking for a crazily functional wordpress theme.
 [^3]: While I've always wanted to design my website from scratch, I unfortunately don't really have the time, so I bought the [Writer theme]("http://adventurethemes.com/demo/writer/jekyll/v1-d-20-2/") from Adventure themes. I would also recommend the free [Hyde theme]("http://hyde.getpoole.com/") and the [Jackman theme]("http://demo.krownthemes.com/jackman/").
