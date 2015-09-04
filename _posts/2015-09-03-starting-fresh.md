@@ -7,7 +7,7 @@ author_name : Zoe
 author_url : /author/zoe
 author_avatar: zoeworkphoto1
 show_avatar : false
-read_time : 3
+read_time : 2
 feature_image: feature-fall
 show_related_posts: true
 square_related: recommend-peak
