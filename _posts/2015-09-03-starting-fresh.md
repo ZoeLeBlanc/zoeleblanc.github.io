@@ -22,7 +22,7 @@ In the spirit of a new academic year and a fresh state, I've decided to finally 
 
 If you've visited previous iterations of my personal site, you'll find most of the same material. But under the hood this site is all new. For the last version of my site, I bought a turbo charged wordpress theme.[^2] But I quickly realized that I didn't most of the features like a shop or members only area. 
 
-I really liked the look of (Lincoln Mullen)["http://lincolnmullen.com"] and (Jason Heppler's)["http://jasonheppler.org"] sites, so I decided to make the move to Jekyll and Markdown (both of which seem increasingly to be the norm for digital humanists). 
+I really liked the look of [Lincoln Mullen]("http://lincolnmullen.com") and [Jason Heppler's]("http://jasonheppler.org") sites, so I decided to make the move to Jekyll and Markdown (both of which seem increasingly to be the norm for digital humanists). 
 
 Already I'm loving the simplicity of building up the site from the basics of a theme I bought[^3], and if you're considering making the change, I would highly recommend it. Afterall, fall is for making fresh starts.
 
