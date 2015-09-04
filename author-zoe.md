@@ -2,7 +2,7 @@
 layout: author
 title: Author
 permalink: author/zoe/
-feature_image: feature-water
+feature_image: feature-window
 author_avatar: zoeworkphoto
 author_name: Zoe
 title: Zoe 
@@ -27,8 +27,11 @@ Things that fascinate me (in no particular order):
 * The rise of 'health' as a discourse in the second half of the twentieth century
 * The use of probablistic statistics to understand historical discourses and events
 * The relationship(s) between local, national, and international
+* The potential for technology to augment historical research
 
-These are all I can think of the moment, but there's a whole host of questions that I like to spend my day chewing on. At the moment, I'm a Canadian expat who is lucky enough to call Nashville, TN home while I complete my doctorate in history at Vanderbilt Univeristy. I'm not a huge country music fan, but I've learned to appreciate good musicians - especially if they know how to rock on a banjo. I'm a big fan of public radio and broadcasting, and love trying new software and hardware (my home desk has been dubbed the tech graveyard).
+These are all I can think of the moment, but there's a whole host of questions that I like to spend my day chewing on. 
+
+At the moment, I'm a Canadian expat who is lucky enough to call Nashville, TN home while I complete my doctorate in history at Vanderbilt Univeristy. I'm not a huge country music fan, but I've learned to appreciate good musicians - especially if they know how to rock on a banjo. I'm a big fan of public radio and broadcasting, and love trying new software and hardware (my home desk has been dubbed the tech graveyard).
 
 Some of things I'm working on at the moment include:
 
@@ -39,7 +42,7 @@ Some of things I'm working on at the moment include:
 * Learning how to build deep maps
 * Thinking about digital pedagogy
 
-Feel free to drop me a line via twitter or my contact page, and I'll try and get back to you quickly. I'm happy to talk about my research, potential collaborations, or the virtues of ice cream and nutella (both of which I love deeply). 
+Feel free to drop me a line via twitter or my contact page, and I'll try and get back to you quickly. I'm happy to talk about my research, potential collaborations, or the virtues of ice cream and nutella. 
 
 
 
