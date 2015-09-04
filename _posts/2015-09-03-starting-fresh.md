@@ -16,11 +16,11 @@ square_related: recommend-peak
 
 Someone once asked me why and in a freudian slip I admitted that it was because of the first day of school. It was a prett nerdy admission, even for me. But it's honestly true. 
 
-I've always loved that excitement when you start off new classes and get to see everyone from their summer adventures. I'm lucky enough that my chosen career has allowed me to continue to experience the early September new school year magic (and might in part be why academia has such an alure). But for the last three years, I've been abroad during September (Rabat, Tel Aviv, and now London). Luckily, London has some nice fall weather so I'm at least feeling that warm fall coziness.  
+I've always loved that excitement when you start off new classes and get to see everyone from their summer adventures. I'm lucky enough that my chosen career has allowed me to continue to experience the early September new school year magic (and might in part be why academia has such an allure). But for the last three years, I've been abroad during September (Rabat, Tel Aviv, and now London). Luckily, London has some nice fall weather so I'm at least feeling that warm fall coziness.  
 
 In the spirit of a new academic year and a fresh state, I've decided to finally clean up my web presence and get my website off the ground. I've realized over the last few years that I'm actually slightly addicted to building websites (websitophilia?) but not really blogging. In fact, I'm not really all that comfortable posting anything on the web, whether it's twitter, instagram, or reddit.[^1] However, as much as I enjoy being an internet lurker, I also want to start producing something, even if it's not a very good something (we all have to start somewhere right?).
 
-If you've visited previous iterations of my personal site, you'll find most of the same material. But under the hood this site is all new. For the last version of my site, I bought a turbo charged wordpress theme.[^2] But I quickly realized that I didn't most of the features like a shop or members only area. 
+If you've visited previous iterations of my personal site, you'll find most of the same material. But under the hood this site is all new. For the last version of my site, I bought a turbo charged wordpress theme.[^2] But I quickly realized that I don't need most of the features like a store front or members only area. 
 
 I really like the look of [Lincoln Mullen]("http://lincolnmullen.com") and [Jason Heppler's]("http://jasonheppler.org") sites, so I decided to make the move to Jekyll and Markdown (both of which seem increasingly to be the norm for digital humanists). 
 
