@@ -7,7 +7,7 @@ enable_retina: false
 permalink: :title
 nav_list:
   Home : ['Home', '/', 'fa-home']
-  About : ['About', '/about', 'fa-asterisk']
+  About : ['About', '/author/zoe', 'fa-asterisk']
   Archives: ['Archives', '/archives', 'fa-archive']
   CV : ['CV', '/cv', 'fa-graduation-cap']
   Twitter : ['Twitter', 'https://twitter.com/Zoe_LeBlanc', 'fa-twitter']
