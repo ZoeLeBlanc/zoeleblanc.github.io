@@ -2,7 +2,7 @@
 layout: author
 title: Author
 permalink: author/zoe/
-feature_image: feature-zoe2
+feature_image: feature-zo
 author_avatar: zoeworkphoto
 author_name: Zoe
 title: Zoe 
