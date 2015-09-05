@@ -15,7 +15,9 @@ fav_posts:
 
 # Hi! I'm Zoe.
 
-### <a name="academiabio"></a>Academic Bio | <a name="teaching"></a>Teaching
+###[Academia Bio](#academiabio) | ###[Teaching](#teaching)
+
+
 I'm an aspiring digital historian, who studies networks, ideas, and spaces in modern history. I specialize in American, Middle Eastern, and North African histories, and consider myself an international historian. I like thinking about race and religion, especially from the perspective of institutions and states. 
 
 Things that fascinate me (in no particular order):
@@ -44,10 +46,12 @@ Some of things I'm working on at the moment include:
 
 Feel free to drop me a line via twitter or my contact page, and I'll try and get back to you quickly. I'm happy to talk about my research, potential collaborations, or the virtues of ice cream and nutella. 
 
-####[Academia Bio](#academiabio)
+### <a name="academiabio"></a> Academic Bio 
+
+### <a name="teaching"></a> Teaching
 
 
-####[Teaching](#teaching)
+
 
 
 
