@@ -6,16 +6,12 @@ feature_image: feature-window
 author_avatar: zoeworkphoto
 author_name: Zoe
 title: Zoe 
-fav_posts:
-  post_1 : ['In Pursuit of Digital Pedagogy','in-pursuit-of-digital-pedagogy/', 'Interested in teaching and digital tools? Check out the beginning of a series I produced for the Vanderbilt Institute of Digital Learning on digital pedagogy.']
-  post_2 : ['Snow Days and Twitter Reporting', 'snow-days-twitter-reporting/', My first foray into network analysis using Twitter and Snowpocalypse of 2015 in Tennessee.']
-  post_3 : ['Surviving Comps Part III', 'surviving-comps-part-3/', 'About to sit your comprehensive exams? Learn how I survived and how you might thrive.']
-
+desc: Historian of networks, spaces, and ideas. Lover of mint tea, nutella, and the interwebs.
 ---
 
 # Hi! I'm Zoe.
 
-###[Academia Bio](#academiabio) | ###[Teaching](#teaching)
+###[Academic Bio](#academiabio) | [Teaching Portofolio](#teaching)
 
 
 I'm an aspiring digital historian, who studies networks, ideas, and spaces in modern history. I specialize in American, Middle Eastern, and North African histories, and consider myself an international historian. I like thinking about race and religion, especially from the perspective of institutions and states. 
@@ -33,7 +29,7 @@ Things that fascinate me (in no particular order):
 
 These are all I can think of at the moment, but there's many more questions that I like to spend my day stewing over. 
 
-At the moment, I'm a Canadian expat who is lucky enough to call Nashville, TN home while I complete my doctorate in history at Vanderbilt Univeristy. I'm not a huge country music fan, but I've learned to appreciate good musicians - especially if they know how to rock on a banjo. I'm a big fan of public radio and broadcasting, and love trying new software and hardware (my home desk has been dubbed the tech graveyard).
+At the moment, I'm a Canadian expat who is lucky enough to call Nashville, TN home while I complete my doctorate in history at Vanderbilt Univeristy. Since moving I've learned that winter can be shorter than five months of the year, and that  I'm a big fan of public radio and broadcasting, and love trying new software and hardware (my home desk has been dubbed the tech graveyard).
 
 Some of things I'm working on at the moment include:
 
@@ -45,6 +41,8 @@ Some of things I'm working on at the moment include:
 * Thinking about digital pedagogy
 
 Feel free to drop me a line via twitter or my contact page, and I'll try and get back to you quickly. I'm happy to talk about my research, potential collaborations, or the virtues of ice cream and nutella. 
+
+* * * * * 
 
 ### <a name="academiabio"></a> Academic Bio 
 
