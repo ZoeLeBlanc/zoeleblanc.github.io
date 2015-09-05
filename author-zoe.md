@@ -3,6 +3,8 @@ layout: author
 title: Author
 permalink: author/zoe/
 feature_image: feature-zo
+author_avatar: zoeworkphoto
+show_avatar: false
 author_name: Zoe
 title: Hi! I'm Zoe. 
 desc: Historian of networks, spaces, and ideas. Lover of mint tea, nutella, and the interwebs.
