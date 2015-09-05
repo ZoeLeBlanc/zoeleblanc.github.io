@@ -11,18 +11,3 @@ layout: with-sidebar
     </div>
 </div>
 
-<h2 class="favorites">Most recommended posts</h2>
-
-<div class="posts-block animated fadeIn ">
-
-    {% for post in page.fav_posts %}
-    <article class="post author-page">
-        <div class="post-preview col-xs-10  no-gutter">
-            <h2><a href="{{ post[1][1] | prepend: '/' | prepend: site.baseurl }}">{{ post[1][0] }}</a></h2>
-            <p>{{ post[1][2] }}</p>
-        </div>
-    </article>
-    {% endfor %}
-
-</div>
-
