@@ -14,9 +14,9 @@ fav_posts:
 ---
 
 # Hi! I'm Zoe.
-I'm an aspiring digital historian, who likes studying networks, ideas, and spaces in modern history. I specialize in American, Middle Eastern, and North African histories, though I consider myself an international historian. I also like considering questions of race and religion, especially from the perspective of institutions and states. 
 
-> I'm more interested in questions of how and when, than why. 
+### <a name="Academia Bio"></a>Academic Bio | <a name="Teaching"></a>Teaching
+I'm an aspiring digital historian, who studies networks, ideas, and spaces in modern history. I specialize in American, Middle Eastern, and North African histories, and consider myself an international historian. I like thinking about race and religion, especially from the perspective of institutions and states. 
 
 Things that fascinate me (in no particular order):
 
@@ -29,7 +29,7 @@ Things that fascinate me (in no particular order):
 * The relationship(s) between local, national, and international
 * The potential for technology to augment historical research
 
-These are all I can think of the moment, but there's a whole host of questions that I like to spend my day chewing on. 
+These are all I can think of at the moment, but there's many more questions that I like to spend my day stewing over. 
 
 At the moment, I'm a Canadian expat who is lucky enough to call Nashville, TN home while I complete my doctorate in history at Vanderbilt Univeristy. I'm not a huge country music fan, but I've learned to appreciate good musicians - especially if they know how to rock on a banjo. I'm a big fan of public radio and broadcasting, and love trying new software and hardware (my home desk has been dubbed the tech graveyard).
 
