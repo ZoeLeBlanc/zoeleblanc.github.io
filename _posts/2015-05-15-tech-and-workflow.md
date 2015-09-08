@@ -13,7 +13,7 @@ show_related_posts: true
 square_related: recommend-workflow
 ---
 
-> This post was one I produced for my VIDL Series "In Pursuit of Digital Pedagogy", which you can read [here.]("https://my.vanderbilt.edu/vidl/2015/05/in-pursuit-of-digital-pedagogy-workflow-teaching/")
+> This post was one I produced for my VIDL Series "In Pursuit of Digital Pedagogy", which you can read [here.](https://my.vanderbilt.edu/vidl/2015/05/in-pursuit-of-digital-pedagogy-workflow-teaching/)
 
 Now that the semester is over and grades are submitted, the campus feels like a sleepy oasis. Most professors and grad students are off doing research, and trying not to think of the fall. Yet, I think summer is perhaps the best time to start thinking about course planning, and especially about how to integrate digital pedagogy into the next semester. This past semester, one standout issue I noticed was the question of workflow and digital tools. In my experience, there are few things as secretive or idiosyncratic as an academic's workflow.
 
@@ -61,12 +61,12 @@ Zoe
 
 ### List of blog posts on workflows 
 
-* A great forum on digital research workflow at [Digital Humanities.org]("http://digitalhumanities.org/answers/topic/share-your-digital-research-workflow") which resulted in the mega post for resources by Miriam Posner. An ["Embarrassment of Riches"]("http://miriamposner.com/blog/embarrassments-of-riches-managing-research-assets/") is a must post for anyone looking to develop a digital workflow, and looking for a list of available tools (though one thing to note is that this post is from 2011).
-* An example [mind map of a workflow by Shawn Graham]("https://bubbl.us/mindmap?h=9cd6f/12f200/64X0rKA2wjvAU").
-* William J Turkel offers comprehensive guide for developing a digital workflow using either pay [for programs or a linux machine]("http://williamjturkel.net/how-to/" target="_blank").  He also has a great post on using [Devonthink and Scrivener]("http://williamjturkel.net/2011/04/04/write-and-cluster/"), which has helped me improve my use of these programs.
-* Chad Black's post I mentioned above also has a [great list of digital tools.]("https://parezcoydigo.wordpress.com/2011/03/14/update-on-the-ever-changing-workflow/"). Black also has a post on using [Devonthink to construct databases.]("https://parezcoydigo.wordpress.com/2008/11/13/devonthink-for-historical-research-part-ii/")
-* Dan Royles writes about [Digital Workflows for the archives]("http://chronicle.com/blogs/profhacker/digital-workflows-for-the-archives/53505"), and he lists a number of tools that will be useful for various disciplines.
-* Amy Cavender writes about [Keeping the Workflow Simple]("http://chronicle.com/blogs/profhacker/keeping-the-workflow-simple/41281"), and her use of Byword and Dropbox.
-* Lincoln Mullen has a great piece on [How to Make Prudent Choices About Your Tools for your workflow.]("http://chronicle.com/blogs/profhacker/how-to-make-prudent-choices-about-your-tools/51261")
-* Jason Shafer has a helpful post on [Going Paperless from Day One: Digital Academic Workflow for Graduate Students]("http://www.gradhacker.org/2011/08/12/going-paperless-from-day-one-digital-academic-workflow-for-grads/"), but that really applies to all academics.
+* A great forum on digital research workflow at [Digital Humanities.org](http://digitalhumanities.org/answers/topic/share-your-digital-research-workflow) which resulted in the mega post for resources by Miriam Posner. An ["Embarrassment of Riches"](http://miriamposner.com/blog/embarrassments-of-riches-managing-research-assets/) is a must post for anyone looking to develop a digital workflow, and looking for a list of available tools (though one thing to note is that this post is from 2011).
+* An example [mind map of a workflow by Shawn Graham](https://bubbl.us/mindmap?h=9cd6f/12f200/64X0rKA2wjvAU).
+* William J Turkel offers comprehensive guide for developing a digital workflow using either pay [for programs or a linux machine](http://williamjturkel.net/how-to/).  He also has a great post on using [Devonthink and Scrivener](http://williamjturkel.net/2011/04/04/write-and-cluster/), which has helped me improve my use of these programs.
+* Chad Black's post I mentioned above also has a [great list of digital tools.](https://parezcoydigo.wordpress.com/2011/03/14/update-on-the-ever-changing-workflow/). Black also has a post on using [Devonthink to construct databases.](https://parezcoydigo.wordpress.com/2008/11/13/devonthink-for-historical-research-part-ii/)
+* Dan Royles writes about [Digital Workflows for the archives](http://chronicle.com/blogs/profhacker/digital-workflows-for-the-archives/53505), and he lists a number of tools that will be useful for various disciplines.
+* Amy Cavender writes about [Keeping the Workflow Simple](http://chronicle.com/blogs/profhacker/keeping-the-workflow-simple/41281), and her use of Byword and Dropbox.
+* Lincoln Mullen has a great piece on [How to Make Prudent Choices About Your Tools for your workflow.](http://chronicle.com/blogs/profhacker/how-to-make-prudent-choices-about-your-tools/51261)
+* Jason Shafer has a helpful post on [Going Paperless from Day One: Digital Academic Workflow for Graduate Students](http://www.gradhacker.org/2011/08/12/going-paperless-from-day-one-digital-academic-workflow-for-grads/), but that really applies to all academics.
 

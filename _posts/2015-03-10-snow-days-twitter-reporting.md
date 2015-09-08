@@ -23,21 +23,21 @@ Using the twitter tag [#tspotter](https://twitter.com/hashtag/tspotter?f=realtim
 ![picofvandyice]({{site.url}}/img/post-assets/picofvandyice.jpg)
 Picture of Ice on Vanderbilt Campus by @ewillmot
 
-Using the twitter tag [#tspotter]("https://twitter.com/hashtag/tspotter?f=realtime&amp;src=hash"), I used Martin Hawksey's [TAGS API]("https://tags.hawksey.info/get-tags/" target="_blank") to analyze the network data. TAGS is much easier to use than Gephi or other network analysis tools, and is free, which is rare. All you have to do is copy TAGS as a google doc and authorize your twitter account. After that you run the script, which aggregates all the 3000 latest tweets from the last week. #tspotter had about 1200 unique tweets, and I used Hawksey's TAGSExplorer to visualize the network.
+Using the twitter tag [#tspotter](https://twitter.com/hashtag/tspotter?f=realtime&amp;src=hash), I used Martin Hawksey's [TAGS API](https://tags.hawksey.info/get-tags/) to analyze the network data. TAGS is much easier to use than Gephi or other network analysis tools, and is free, which is rare. All you have to do is copy TAGS as a google doc and authorize your twitter account. After that you run the script, which aggregates all the 3000 latest tweets from the last week. #tspotter had about 1200 unique tweets, and I used Hawksey's TAGSExplorer to visualize the network.
 
 ![tspotter1]({{site.url}}/img/post-assets/tspotter1.jpg)
 Network of replies from #tspotter
 
-This first graph is of the replies from #tspotter, and shows a very loose network with the exception of @NashSeverWX and @NWSNashville. You can inspect the dynamic network [here]("http://hawksey.info/tagsexplorer/?key=19uW2gLmN-fFdg1EhCZM_GAplwpdRUDiNLKizwdoCfL8&amp;gid=400689247").
+This first graph is of the replies from #tspotter, and shows a very loose network with the exception of @NashSeverWX and @NWSNashville. You can inspect the dynamic network [here](http://hawksey.info/tagsexplorer/?key=19uW2gLmN-fFdg1EhCZM_GAplwpdRUDiNLKizwdoCfL8&amp;gid=400689247).
 
 ![tspotter2]({{site.url}}/img/post-assets/tspotter2.jpg)
 Network of replies and mentions of #tspotter
 
-This second graph of replies and mentions of #tspotter is starting to show a more dense network, though still with a lot of outliers. You can explore the dynamic network [here]("http://hawksey.info/tagsexplorer/?key=19uW2gLmN-fFdg1EhCZM_GAplwpdRUDiNLKizwdoCfL8&amp;gid=400689247&amp;mentions=true").
+This second graph of replies and mentions of #tspotter is starting to show a more dense network, though still with a lot of outliers. You can explore the dynamic network [here](http://hawksey.info/tagsexplorer/?key=19uW2gLmN-fFdg1EhCZM_GAplwpdRUDiNLKizwdoCfL8&amp;gid=400689247&amp;mentions=true).
 
 ![tspotter3]({{site.url}}/img/post-assets/tspotter3.jpg)
 Network of replies, mentions, and retweets of #tspotter
 
-This final graph of the replies, mentions, and retweets of #tspotter is as you would expect much more dense. However, I was really blown away with how much this graph seems to represent a community of Tennesseans taking to twitter to show their experiences of this rare metereological event. The fact that the top tweeter is [@NashSevereWX]("https://twitter.com/NashSevereWx"), which relies on social media to report on weather, I think speaks to the growth of social media as a tool for citizen participation. You can check out the final graph [here]("http://hawksey.info/tagsexplorer/?key=19uW2gLmN-fFdg1EhCZM_GAplwpdRUDiNLKizwdoCfL8&amp;gid=400689247&amp;mentions=true&amp;retweets=true") and feel free to post your pics below or tweet us [@VUdigital]("http://twitter.com/VUdigital" target="_blank").
+This final graph of the replies, mentions, and retweets of #tspotter is as you would expect much more dense. However, I was really blown away with how much this graph seems to represent a community of Tennesseans taking to twitter to show their experiences of this rare metereological event. The fact that the top tweeter is [@NashSevereWX](https://twitter.com/NashSevereWx), which relies on social media to report on weather, I think speaks to the growth of social media as a tool for citizen participation. You can check out the final graph [here](http://hawksey.info/tagsexplorer/?key=19uW2gLmN-fFdg1EhCZM_GAplwpdRUDiNLKizwdoCfL8&amp;gid=400689247&amp;mentions=true&amp;retweets=true) and feel free to post your pics below or tweet us [@VUdigital](http://twitter.com/VUdigital).
 
 Stay warm Tennessee!
