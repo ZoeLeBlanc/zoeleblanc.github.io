@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 feature_image: feature-zoe
 ---
-## [Dissertation](#dissertation) | [Papers](#papers) | [Digital Projects](#digitalprojects) | [Research Experience](#researchexperience) <a name="backtotop"></a>
+### [Dissertation](#dissertation) | [Papers](#papers) | [Digital Projects](#digitalprojects) | [Research Experience](#researchexperience) <a name="backtotop"></a>
 
 <a name="dissertation"></a>
 My dissertation, “Constructing Anti-Colonial Cairo: the United Arab Republic’s Place in Anti-Colonial Movements during Decolonization and the Cold War,” examines the emergence of Cairo as a hub for anti-colonial activism in Africa in the wake of decolonization and the globalization of the Cold War in the late 1950s and early 1960s.  Most of the scholarship on the United Arab Republic’s (UAR) anti-colonialism in this period stresses Gamal Abdel Nasser’s role in the global Non-Aligned Movement and Third World, or his leadership in the Arab World. While this project builds upon and contributes to this literature, I argue that scholars have overlooked the UAR’s simultaneous involvement in African decolonization, pan-Arabism, Afro-Asianism, and the Non-Aligned Movement, and treat these movements as disparate anti-colonial projects. Consequently, most studies have marginalized the extensive networks that existed between these anti-colonial movements, as well as their shared ideational and geographic spaces. 
