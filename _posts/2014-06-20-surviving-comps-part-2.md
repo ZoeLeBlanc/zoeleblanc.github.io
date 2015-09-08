@@ -8,9 +8,9 @@ author_url : /author/zoe
 author_avatar: zoeworkphoto1
 show_avatar : false
 read_time : 6
-feature_image: feature-water
+feature_image: feature-sunset2
 show_related_posts: true
-square_related: recommend-spain
+square_related: recommend-sunset2
 ---
 So here’s where I actually breakdown how to survive, and hopefully thrive, during your comprehensive exams. I’m going to breakdown my strategy into a suggested timeline for how to prepare for your exams; how I organized my workflow; and resources for your exams. However, full disclosure this is not the timeline I followed. Just the one I wish someone had given me on my first day of grad school. Also I’ve only done the exams once, so please take all recommendations with a giant grain of salt. Lastly, I’m a notorious procrastinator so if you are too then virtual high-five and don’t panic if you are a few weeks away from your exams. Just do what you can and it will be enough.
 

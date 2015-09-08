@@ -10,7 +10,7 @@ show_avatar : false
 read_time : 2
 feature_image: feature-fall
 show_related_posts: true
-square_related: recommend-peak
+square_related: recommend-fall
 ---
 > Fall is my favorite time of year.
 

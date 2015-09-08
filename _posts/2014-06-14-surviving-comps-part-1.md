@@ -8,9 +8,9 @@ author_url : /author/zoe
 author_avatar: zoeworkphoto1
 show_avatar : false
 read_time : 6
-feature_image: feature-laptop
+feature_image: feature-sunset1
 show_related_posts: true
-square_related: recommend-peak
+square_related: recommend-sunset1
 ---
 There are few things that inspire as much fear in graduate students as the dreaded comprehensive exam. Clouded in mystery, the exams are a hazing ritual that unites all graduate students, regardless of discipline. This past May [2014], after putting off my exams for a year (not something I recommend), I was finally forced to face my fears, and I survived. Well, survived may be the wrong word, especially since I feel as though I am in need of social reintegration program after spending months chained to my desk. Nonetheless, I thought I would write this post as a way to have some closure on the experience, as well as share some of my hard learned lessons. While my experience is primarily aimed at History graduate students, I hope others will find my 'wisdom’ useful.
 

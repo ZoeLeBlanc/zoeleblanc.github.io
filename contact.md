@@ -1,6 +1,6 @@
 ---
 layout: contact
-title: contact
+title: Contact Zoe
 permalink: /contact/
 feature_image: feature-turkey
 form_action:

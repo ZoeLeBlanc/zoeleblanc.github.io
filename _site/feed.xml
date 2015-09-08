@@ -3,11 +3,371 @@
   <channel>
     <title>Zoe Genevieve LeBlanc</title>
     <description></description>
-    <link>http://zoeleblanc.github.io/</link>
-    <atom:link href="http://zoeleblanc.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 03 Sep 2015 08:44:43 +0100</pubDate>
-    <lastBuildDate>Thu, 03 Sep 2015 08:44:43 +0100</lastBuildDate>
+    <link>https://zoeleblanc.github.io/</link>
+    <atom:link href="https://zoeleblanc.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 08 Sep 2015 10:28:07 +0100</pubDate>
+    <lastBuildDate>Tue, 08 Sep 2015 10:28:07 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Starting Fresh</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Fall is my favorite time of year.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Someone once asked me why and in a freudian slip I admitted that it was because of the first day of school. It was a prett nerdy admission, even for me. But it’s honestly true. &lt;/p&gt;
+
+&lt;p&gt;I’ve always loved that excitement when you start off new classes and get to see everyone from their summer adventures. I’m lucky enough that my chosen career has allowed me to continue to experience the early September new school year magic (and might in part be why academia has such an allure). But for the last three years, I’ve been abroad during September (Rabat, Tel Aviv, and now London). Luckily, London has some nice fall weather so I’m at least feeling that warm fall coziness.  &lt;/p&gt;
+
+&lt;p&gt;In the spirit of a new academic year and a fresh state, I’ve decided to finally clean up my web presence and get my website off the ground. I’ve realized over the last few years that I’m actually slightly addicted to building websites (websitophilia?) but not really blogging. In fact, I’m not really all that comfortable posting anything on the web, whether it’s twitter, instagram, or reddit.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; However, as much as I enjoy being an internet lurker, I also want to start producing something, even if it’s not a very good something (we all have to start somewhere right?).&lt;/p&gt;
+
+&lt;p&gt;If you’ve visited previous iterations of my personal site, you’ll find most of the same material. But under the hood this site is all new. For the last version of my site, I bought a turbo charged wordpress theme.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; But I quickly realized that I don’t need most of the features like a store front or members only area. &lt;/p&gt;
+
+&lt;p&gt;I really like the look of &lt;a href=&quot;&amp;quot;http://lincolnmullen.com&amp;quot;&quot;&gt;Lincoln Mullen&lt;/a&gt; and &lt;a href=&quot;&amp;quot;http://jasonheppler.org&amp;quot;&quot;&gt;Jason Heppler’s&lt;/a&gt; sites, so I decided to make the move to Jekyll and Markdown (both of which seem increasingly to be the norm for digital humanists). &lt;/p&gt;
+
+&lt;p&gt;Already I’m loving the simplicity of building up the site from the basics of a theme I bought&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, and if you’re considering making the change, I would highly recommend it. Afterall, fall is for making fresh starts.&lt;/p&gt;
+
+&lt;p&gt;-Z&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Thinking about writing a post about navigating the public/private divide as a twenty-something professional. I know there’s lots of posts on this topic, but I still often feel unsure if something is too personal or it’s ok to be authentic… &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Highly recommend &lt;a href=&quot;&amp;quot;http://theme.co/x/&amp;quot;&quot;&gt;Theme X by themeco&lt;/a&gt; if you’re looking for a crazily functional wordpress theme. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;While I’ve always wanted to design my website from scratch, I unfortunately don’t really have the time, so I bought the &lt;a href=&quot;&amp;quot;http://adventurethemes.com/demo/writer/jekyll/v1-d-20-2/&amp;quot;&quot;&gt;Writer theme&lt;/a&gt; from Adventure themes. I would also recommend the free &lt;a href=&quot;&amp;quot;http://hyde.getpoole.com/&amp;quot;&quot;&gt;Hyde theme&lt;/a&gt; and the &lt;a href=&quot;&amp;quot;http://demo.krownthemes.com/jackman/&amp;quot;&quot;&gt;Jackman theme&lt;/a&gt;. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 03 Sep 2015 00:00:00 +0100</pubDate>
+        <link>https://zoeleblanc.github.io/starting-fresh</link>
+        <guid isPermaLink="true">https://zoeleblanc.github.io/starting-fresh</guid>
+        
+        
+        <category>thoughts</category>
+        
+        <category>digital</category>
+        
+      </item>
+    
+      <item>
+        <title>Workflow and Teaching</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;This post was one I produced for my VIDL Series “In Pursuit of Digital Pedagogy”, which you can read &lt;a href=&quot;&amp;quot;https://my.vanderbilt.edu/vidl/2015/05/in-pursuit-of-digital-pedagogy-workflow-teaching/&amp;quot;&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Now that the semester is over and grades are submitted, the campus feels like a sleepy oasis. Most professors and grad students are off doing research, and trying not to think of the fall. Yet, I think summer is perhaps the best time to start thinking about course planning, and especially about how to integrate digital pedagogy into the next semester. This past semester, one standout issue I noticed was the question of workflow and digital tools. In my experience, there are few things as secretive or idiosyncratic as an academic’s workflow.&lt;/p&gt;
+
+&lt;p&gt;Ask an academic about an ongoing research project? You better be ready for at least an hour long discussion.
+Ask an academic about how they organize their workflow? At best you’ll get some brief comments on how ‘their’ system works, but mostly you’ll get blank stares.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://zoeleblanc.github.io/img/post-assets/xkcdworkflow.jpg&quot; alt=&quot;xkcdworkflow&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I think part of this blindness to the nuts and bolts of knowledge production is because academics in the humanities are trained to focus on the bigger picture of their research. Yet, I think this silence about workflows is detrimental, especially for undergraduates. Why do we spend semesters talking about topic sentences and proper citations, but never discuss how to organize notes, pdfs, primary data and intelligently work on writing revisions? After grading numerous papers, I’m not advocating for the dismissal of proper writing etiquette, which I think is a necessity for many students. Instead, I think we should expand teaching to include helping students learn productive workflow habits. And of course, I think digital tools have a large role to play in creating an effective workflow.&lt;/p&gt;
+
+&lt;p&gt;So in this post, I want to outline some potential ways for integrating teaching workflow into your classroom. At the end, I also have a number of links for more on particular tools for digital workflows, as well as some descriptions of academic workflows.&lt;/p&gt;
+
+&lt;h3 id=&quot;so-what-is-a-workflow&quot;&gt;So what is a workflow?&lt;/h3&gt;
+&lt;p&gt;Wikipedia defines it as “an orchestrated and repeatable pattern of business activity enabled by the systematic organization of resources into processes that transform materials, provide services, or process information.”&lt;/p&gt;
+
+&lt;p&gt;While this definition is correct, I think a workflow is more defined by its characteristics. I particularly like Chad Black’s outline on what a good workflow should have:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;* platform independence and future proofing
+* flexible files
+* robust searching
+* version control, lots of access and backup
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;However, you define workflow, I think teaching workflow is incredibly important for helping students develop some of the more abstract skill sets such as critical thinking and clear communication. Furthermore, many students and professors (myself included) struggle to be organized and systematic researchers - an area where a conscious workflow can help.&lt;/p&gt;
+
+&lt;h3 id=&quot;so-how-to-teach-workflows&quot;&gt;So how to teach workflows?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Don’t approach teaching workflow as a one-off session.&lt;/strong&gt;
+Many professors schedule one of their first class meetings for learning effective researching methods. Usually hosted at the library, these sessions teach students how to use library databases and find scholarly materials. While these sessions can be helpful, workflow is an iterative process that often involves repeating steps, as well as continually refining how you work. I think a more successful approach would be to begin a course with a broad overview of how you conceptualize a workflow and, especially, a research project. Then, over the course of the semester as different assignments come up, teach students various parts of these workflows - from how to find materials to organizing research materials to building databases to revising writing. Such an approach I think models more closely how many academics work, as well as underscoring the importance of workflow to students. I would encourage the use of mind mapping and brainstorming tools. Three of my favorites are Stormboard, LucidChart, and MyThoughts, but you can even just share a basic Google Doc.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Allow for diversity of workflows&lt;/strong&gt;
+Most of the blog posts on workflow are written by academics who are self-proclaimed technophiles. While I agree with most of these posts, I think that allowing students to use low or no-tech methods for workflow is important. I enjoy sometimes drawing outlines for papers and I often jot down research ideas in my notebook. Yet, I also want to emphasize that consistent and comprehensive practices in your workflow is critical. You don’t want to end up with a bunch of loose leaf paper or thousands of unorganized files. So regardless of what tools you use for your workflow, encourage your students to be mindful in how they develop a workflow. If you use a combination of tech and non-tech, be sure to integrate the two whether through transcribing notes, taking photos, or printing out materials.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Remember Occam’s Razor&lt;/strong&gt;
+With the continual releasing of new productivity tools, I find myself always wanting to try the newest tool or gadget. Yet, the best workflow is the simplest one that allows for productive and effective work. For some people, that workflow involves working on a linux machine and for others it means using index cards. Sometimes students might have suggestions, so you could potentially create a collaborative workflow that you develop over the course of the semester. The key thing to remember though is consciously thinking about your workflow, and not allowing happenstance to govern how you or your students work.&lt;/p&gt;
+
+&lt;p&gt;In my discipline of history, there is a general tendency to privilege low or no tech for workflows. However, while I think you can use a mixed approach to workflows, I do think that professors need to start thinking about how digital tools can exponentially improve workflows. In particular, two of my favorite tools are Devonthink for databases and organizing research, and Scrivener for writing and planning out projects.&lt;/p&gt;
+
+&lt;p&gt;Do you teach workflows to your students? Feel free to share suggestions on how to teach workflow and any tools you like to use.&lt;/p&gt;
+
+&lt;p&gt;Cheers,&lt;/p&gt;
+
+&lt;p&gt;Zoe&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;list-of-blog-posts-on-workflows&quot;&gt;List of blog posts on workflows&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A great forum on digital research workflow at &lt;a href=&quot;&amp;quot;http://digitalhumanities.org/answers/topic/share-your-digital-research-workflow&amp;quot;&quot;&gt;Digital Humanities.org&lt;/a&gt; which resulted in the mega post for resources by Miriam Posner. An &lt;a href=&quot;&amp;quot;http://miriamposner.com/blog/embarrassments-of-riches-managing-research-assets/&amp;quot;&quot;&gt;“Embarrassment of Riches”&lt;/a&gt; is a must post for anyone looking to develop a digital workflow, and looking for a list of available tools (though one thing to note is that this post is from 2011).&lt;/li&gt;
+  &lt;li&gt;An example &lt;a href=&quot;&amp;quot;https://bubbl.us/mindmap?h=9cd6f/12f200/64X0rKA2wjvAU&amp;quot;&quot;&gt;mind map of a workflow by Shawn Graham&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;William J Turkel offers comprehensive guide for developing a digital workflow using either pay &lt;a href=&quot;&amp;quot;http://williamjturkel.net/how-to/&amp;quot; target=&amp;quot;_blank&amp;quot;&quot;&gt;for programs or a linux machine&lt;/a&gt;.  He also has a great post on using &lt;a href=&quot;&amp;quot;http://williamjturkel.net/2011/04/04/write-and-cluster/&amp;quot;&quot;&gt;Devonthink and Scrivener&lt;/a&gt;, which has helped me improve my use of these programs.&lt;/li&gt;
+  &lt;li&gt;Chad Black’s post I mentioned above also has a &lt;a href=&quot;&amp;quot;https://parezcoydigo.wordpress.com/2011/03/14/update-on-the-ever-changing-workflow/&amp;quot;&quot;&gt;great list of digital tools.&lt;/a&gt;. Black also has a post on using &lt;a href=&quot;&amp;quot;https://parezcoydigo.wordpress.com/2008/11/13/devonthink-for-historical-research-part-ii/&amp;quot;&quot;&gt;Devonthink to construct databases.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Dan Royles writes about &lt;a href=&quot;&amp;quot;http://chronicle.com/blogs/profhacker/digital-workflows-for-the-archives/53505&amp;quot;&quot;&gt;Digital Workflows for the archives&lt;/a&gt;, and he lists a number of tools that will be useful for various disciplines.&lt;/li&gt;
+  &lt;li&gt;Amy Cavender writes about &lt;a href=&quot;&amp;quot;http://chronicle.com/blogs/profhacker/keeping-the-workflow-simple/41281&amp;quot;&quot;&gt;Keeping the Workflow Simple&lt;/a&gt;, and her use of Byword and Dropbox.&lt;/li&gt;
+  &lt;li&gt;Lincoln Mullen has a great piece on &lt;a href=&quot;&amp;quot;http://chronicle.com/blogs/profhacker/how-to-make-prudent-choices-about-your-tools/51261&amp;quot;&quot;&gt;How to Make Prudent Choices About Your Tools for your workflow.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Jason Shafer has a helpful post on &lt;a href=&quot;&amp;quot;http://www.gradhacker.org/2011/08/12/going-paperless-from-day-one-digital-academic-workflow-for-grads/&amp;quot;&quot;&gt;Going Paperless from Day One: Digital Academic Workflow for Graduate Students&lt;/a&gt;, but that really applies to all academics.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Fri, 15 May 2015 00:00:00 +0100</pubDate>
+        <link>https://zoeleblanc.github.io/tech-and-workflow</link>
+        <guid isPermaLink="true">https://zoeleblanc.github.io/tech-and-workflow</guid>
+        
+        
+        <category>digital</category>
+        
+        <category>teaching</category>
+        
+        <category>academia</category>
+        
+      </item>
+    
+      <item>
+        <title>Citizen Journalism and Video Essays</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;This post was one I produced for my VIDL Series “In Pursuit of Digital Pedagogy”, which you can read &lt;a href=&quot;&amp;quot;https://my.vanderbilt.edu/vidl/2015/04/in-pursuit-of-digital-pedagogy-3/&amp;quot;&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;in-pursuit-of-digital-pedagogy-a-series-on-digital-tools-in-the-classroom&quot;&gt;In Pursuit of Digital Pedagogy: A Series on Digital Tools in the Classroom&lt;/h3&gt;
+
+&lt;p&gt;New to the series? Check out &lt;a href=&quot;&amp;quot;https://my.vanderbilt.edu/vidl/2015/03/in-pursuit-of-digital-pedagogy-citizen-journalism-infographics/&amp;quot;&quot;&gt;Part I&lt;/a&gt; and &lt;a href=&quot;&amp;quot;https://my.vanderbilt.edu/vidl/2015/04/in-pursuit-of-digital-pedagogy-citizen-journalism-multimedia-essays/&amp;quot;&quot;&gt;Part II&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;So we’re finally at the end of this series on Citizen Journalism, and as is often the case the end point is much different than the one I envisioned in September when I first proposed the idea to the VIDL team. Since my first forays into this method, I’ve learned a number of new digital tools, explored alternatives to Citizen Journalism, and finally, created what I hope is a productive and effective alternative method for teaching - Citizen Research.&lt;/p&gt;
+
+&lt;p&gt;For this final post, I continued my infographic/multimedia essay piece, but I also blogged on this method of Citizen research, so read the post . You can find the final post &lt;a href=&quot;&amp;quot;https://medium.com/@zoe_leblanc/in-pursuit-of-digital-pedagogy-a-vidl-blog-post-citizen-researcher-digitally-born-pedagogies-73461331e735&amp;quot;&quot;&gt;here at Medium&lt;/a&gt; and let me know what you think about the overall use of this tool to ‘make’ my argument.&lt;/p&gt;
+
+&lt;p&gt;In addition to the infographic/multimedia essay, I also decided that for my final piece I would try out Mozilla’s Popcorn Maker and make my own video essay. Whether the end result was successful remains to be seen, I figured that I should continue my forays into learning new tools/methods with each post so please bare with my video essay. After reading the Picktochart post, check out this connected video &lt;a href=&quot;&amp;quot;https://zoeleblanc.makes.org/popcorn/2mb9&amp;quot;&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So what is a video essay?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After watching my video, you might still have this question and all I can say in my defense is that this video is my first and I won’t be quitting my day job to be a video editor anytime soon. Nonetheless, I feel the video essay was actually ideal for my argument, as I was making an original argument that could benefit from some dramatic music and stirring visuals. Furthermore, my argument lacked any data visualizations or primary source materials.&lt;/p&gt;
+
+&lt;p&gt;Royal Roads University provides a good overview of video essays &lt;a href=&quot;&amp;quot;http://libguides.royalroads.ca/mediaelements&amp;quot;&quot;&gt;here&lt;/a&gt;. The site defines video essays as using: “audiovisual materials to present research or explore topics. Like written essays, they may contain an introduction, argument, supporting evidence, and conclusion.”&lt;/p&gt;
+
+&lt;p&gt;Similar to textual ones, a key aspect to video essays is the narrative. A video essay allows for the visualization of a story and/or argument through a combination of imagery, audio, video, and sometimes text.&lt;/p&gt;
+
+&lt;p&gt;Some great examples of video essays include Matthias Stork’s &lt;a href=&quot;&amp;quot;http://www.slate.com/blogs/browbeat/2013/01/15/movies_and_video_games_watch_a_great_video_essay_on_transmedia_video.html&amp;quot;&quot;&gt;“Transmedia Synergies: Remediating Films and Video Games”&lt;/a&gt;, which examines the relationship between movies and video games. Another great resource is Delve.tv, which is a site dedicated to creating video essays on complex ideas - you can check out &lt;a href=&quot;&amp;quot;http://delve.tv/essays/&amp;quot;&quot;&gt;their essays&lt;/a&gt;. These examples demonstrate the potential for video essays when you can get high enough production value. A series of student productions can also be found at &lt;a href=&quot;&amp;quot;http://videoessays.tumblr.com/&amp;quot;&quot;&gt;http://videoessays.tumblr.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So why video essays? And how can video essays work in the classroom?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;By now you’ve hopefully read my ideas about using infographics and multimedia essays in the classroom, and I would generally place video essays into the same category. This type of assignment can build upon existing written essays as a either a companion assignment or a standalone piece. Similar to a traditional essay, video essays do follow a narrative. However, at least from my perspective, the format felt more unfamiliar than an infographic, and how you present evidence to support your argument was harder for me to visualize in video form. In some ways, video essays are closest to the historians’ maxim of “show, don’t tell” when it comes to crafting essays. Yet at the same time, due to the novelty of the video essay I wasn’t really sure how to show or what to show when.&lt;/p&gt;
+
+&lt;p&gt;Nonetheless, I think that video essays are useful in the classroom but that I would caution that if like me you are a novice with audiovisual then be sure to bring in an expert and perhaps try out making your own video before you assign one. There are a number of conventions about videos that I completely ignored, and next time I would hope to do more preparatory work on how to pace and visualize my argument.&lt;/p&gt;
+
+&lt;p&gt;The last issue to consider with video essays, though this point is true for all online work, is the question of intellectual property and creative ownership. Unless you are shooting your own material for your video essay, you will likely be remixing videos and images that you find online. Contrary to academic standards of intellectual property, remixing is a completely acceptable and legal form of creative work. However, a key point for both educators and students is engaging with online standards of intellectual ownership - namely, the Creative Commons licenses. You can read more about the various types of Creative Commons licenses &lt;a href=&quot;&amp;quot;https://creativecommons.org/licenses/&amp;quot;&quot;&gt;here&lt;/a&gt;, but generally speaking many of the videos on YouTube or Vimeo are available for use under some version of Creative Commons licenses. You can search on those sites for videos with certain licenses, and I would recommend using either Attribution, Attribution-ShareAlike, and/or Attribution-NonCommercial-ShareAlike. Using the Creative Commons licenses is also a great exercise for discussing the broader question of what constitutes intellectual property and academic standards of plagiarism.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So what tools should you use and how difficult is it to make video essays?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;To make my video essay, I used Mozilla’s free tool &lt;a href=&quot;&amp;quot;https://popcorn.webmaker.org/&amp;quot;&quot;&gt;popcorn maker&lt;/a&gt;, which allows you to use video clips from YouTube or Vimeo, images, audio, and text to create a web hosted video. Popcorn maker is fairly straightforward and easy to use, with drag and drop functionality. At times the site could be glitchy, but for a free tool it worked pretty consistently. The other benefit is that you can share and embed the videos fairly easily.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Overall Assessment of Mozilla Popcorn Maker&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Allows for Creative Content Creation: A
+Ease of Use: B
+Open Source: A-
+Ease to Publish or Share: B (because you cannot download your movies)
+Ease of Assessing Learning: A
+Ability to Integrate into Curriculum: B- (depending on your previous experience with video editing, as well as your students)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Recommendation: Great tool with a low barrier to use and high potential for innovative learning.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alternative tools?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In addition to Popcorn Maker, I also wanted to mention some additional tools for video essays. First is iMovie for Macs or iSkysoft for PCs, which are two desktop options that are supposed to be fairly easy to use and offer more customization and templates then Popcorn Maker. However, if you want a web application I would also recommend checking out &lt;a href=&quot;&amp;quot;http://www.educanon.com/index&amp;quot;&quot;&gt;eduCanon&lt;/a&gt;. EduCanon is a free site for educators to use in the classroom that allows you to create videos with embedded content like quizzes and additional information. I haven’t used any of these tools, but all of them seem promising alternatives that have their own pros and cons.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Final Thoughts&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Overall, I would highly recommend video essays as an addition to any classroom, but would caution that these types of assignments can often feel less rigorous to students. So I would advise a conscious effort to keep the emphasis on the overall goal of the video, and make sure that goal supports the learning outcomes of the class. That being said, I would also caution that any attempt to assign a video essay as a one week assignment or busy work might not be the best idea. Videos essays like normal essays take time to formulate, and often rely on a set of narrative and structural principles that the students need time to understand and internalize.&lt;/p&gt;
+
+&lt;p&gt;Have you used video essays in your classroom? What was your experience? Do you have any videos to share? If yes, please feel free to post links in the comments!&lt;/p&gt;
+
+&lt;p&gt;Cheers,&lt;/p&gt;
+
+&lt;p&gt;Zoe&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 20 Apr 2015 00:00:00 +0100</pubDate>
+        <link>https://zoeleblanc.github.io/citizen-journalism-video-essays</link>
+        <guid isPermaLink="true">https://zoeleblanc.github.io/citizen-journalism-video-essays</guid>
+        
+        
+        <category>digital</category>
+        
+        <category>teaching</category>
+        
+        <category>academia</category>
+        
+      </item>
+    
+      <item>
+        <title>Citizen Journalism and Multimedia Essays</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;This post was one I produced for my VIDL Series “In Pursuit of Digital Pedagogy”, which you can read &lt;a href=&quot;&amp;quot;https://my.vanderbilt.edu/vidl/2015/04/in-pursuit-of-digital-pedagogy-2/&amp;quot;&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;in-pursuit-of-digital-pedagogy-a-series-on-digital-tools-in-the-classroom&quot;&gt;In Pursuit of Digital Pedagogy: A Series on Digital Tools in the Classroom&lt;/h3&gt;
+
+&lt;p&gt;So now that you’ve seen my first ‘infographic’ on Citizen Journalism (or in case you haven’t click &lt;a href=&quot;&amp;quot;https://my.vanderbilt.edu/vidl/2014/12/in-pursuit-of-digital-pedagogy-citizen-journalism-infographics&amp;quot;&quot;&gt;here&lt;/a&gt;, and hopefully you’re at least intrigued by this idea of Citizen Journalism in the classroom, but wondering how will this all work.&lt;/p&gt;
+
+&lt;p&gt;Well sit back and enjoy &lt;a href=&quot;&amp;quot;https://magic.piktochart.com/output/2790193-citizen-journalism-digital-learn&amp;quot;&quot;&gt;my second post in this series on Citizen Journalism and Digital Pedagogy&lt;/a&gt;. Hopefully, I can convince you of the utility of this pedagogy, while also providing some models for how to incorporate this methodology in your classroom. Have you tried something similar before? Let me know about your experiences and whether you think this method could work for you.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;So returning to my meta-approach of discussing Digital Pedagogy, in this post I want to talk about what I accidentally created - a multimedia essay.&lt;/p&gt;
+
+&lt;p&gt;While I’m no Dr. Frankenstein, I was a bit surprised about how my efforts to create an infographic ended up with something that I had not anticipated. Part of this accidental creation was a result to the awesome functionality of Piktochart (which I review in my previous post), which allows you to embed so many great features that my project just kept growing and growing. But I think the most important reason has to do with the argument I was trying to visualize. While infographics can visualize complex arguments, in my opinion they are more suited to visualizing data and allowing that to be the thrust of your thesis. In my case, there was very little data and lots of theorizing and videos, both of which lend themselves to multimedia essays. I also think I was ultimately more comfortable creating a multimedia essay than an infographic because of my training in essay writing and my minimal knowledge of graphic design.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So what is a multimedia essay?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A multimedia essay is a type of digital narrative that uses multiple mediums to represent an argument. A lot of the online discussions of multimedia discuss the broader implications for a communications revolution, or how this method is tied to multimodal learning environments. This post is more focused on using multimedia essays in the classroom, but if you want to find out more check out the wiki page on Multimodality &lt;a href=&quot;&amp;quot;https://en.wikipedia.org/wiki/Multimodality&amp;quot;&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Multimedia essays can comprise of a powerpoint presentations, remixed videos, imbedded blog posts, or really any combination of multimedia resources to make an argument. Similar to a written essay, a multimedia essay still requires an argument and supporting evidence, as well as issues of flow and relevance. The benefit of multimedia essays is to allow for a greater range of creativity for your students, and force them to think through how they are representing their argument. Many of my students often to struggle to understand how in the written form their argument can be confusing or poorly structured. In visualizing the argument in a different medium, students are forced to further think through the structure and evidence of their argument, which can assist students in seeing the holes in their argumentation.&lt;/p&gt;
+
+&lt;p&gt;In many ways, a multimedia essay is the most similar digital expression of a more traditional essay, but involves representing an argument in a more dynamic fashion. However, I believe this shift in visualizing and expressing an argument in new mediums does ultimately produce a new type of knowledge and critical thinking. Now the question inevitably arises about why do we need a new way to represent and communicate an argument? After all, the essay model has been working for centuries and the ability to write cogently will always be highly valued. Well, I certainly think essay writing is critical and difficult skill to develop, I think that the multimedia essay is particularly suited to courses engaging with a wide array of digital materials and that the two do not need to be exclusive. &lt;/p&gt;
+
+&lt;p&gt;As I mentioned in my previous post on Infographics, the best way to use digital tools is to integrate them into the iterative process of research-writing-feedback that already exists. In adding these tools, this process becomes more iterative and hopefully leads to more conscious engagement with the argument. Ultimately, the utility of a multimedia essay depends on the context, but nonetheless, this method provides an avenue for independent and creative content production.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How to integrate multimedia essays in your classroom?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Similar to infographics, multimedia essays can be integrated into already existing courses with little difficulty. Instead of assigning a number of short writing pieces, you could substitute one of the writing pieces for a multimedia essay on the same or related topic. This combination traditional written and multimedia essay pairing would challenge the students to visualize their arguments in various contexts, which would hopefully produce more concise and precise pieces.&lt;/p&gt;
+
+&lt;p&gt;You could also assign a stand alone multimedia essay, especially if you have a topic that is rich in media. However, I would recommend allocating some class time to go over both the expectations and functions of the tool you use for the essay. Though many students are savvy with social media, they may not have had any experience with multimedia and thus, you should caution students that this assignment poses different and timely challenges than a written essay.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What are some examples of multimedia essays or lesson plans?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;As I mentioned above, the idea of multimedia essays has been around for some time and is quite popular so a quick google search will produce lots of results. Some of the resources I found useful include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Verena Kick’s HASTAC post &lt;a href=&quot;&amp;quot;http://www.hastac.org/blogs/vkick/2014/11/18/media-assignments-%E2%80%93-experiments-experiences-examples&amp;quot;&quot;&gt;Media assignments – experiments, experiences, examples?&lt;/a&gt;poses the questions of what are media assignments and how do you assess them. Her post has a number of useful comments from HASTAC members.&lt;/li&gt;
+  &lt;li&gt;Amanada Starling Gould’s HASTAC post &lt;a href=&quot;&amp;quot;http://www.hastac.org/blogs/amanda-starling-gould/2014/02/02/digital-pedagogy-project-teaching-transmedia-essay&amp;quot;&quot;&gt;Digital Pedagogy Project: Teaching the Transmedia Essay&lt;/a&gt; discusses her course on ‘Augmenting Realities’. Amanda had her students write ‘transmedia essays’ and create (re)mediated elements. On her HASTAC post, she provides in-depth assignment outline and assessment guidelines, detailing how the essay should involve multiple medias to visualize their projects. I would highly recommend reading the blog but my favorite part was her final section on the results which I’ve excerpted:
+    &lt;ul&gt;
+      &lt;li&gt;“The students wrote rather complex and thoughtful essays that integrated a wide range of ‘media elements’ that they created to complement, challenge, or construct their critical arguments. They coded chat bots, programmed new digital humanities text analysis tools, created digital video games, mapped narrative structures and set EEG brain waves to music. They posted their transmedia essays in a web journal they titled Augmenting Realities: How We View and Shape Our World. Each student created a page here for his/her project. Additionally, they collaboratively authored several pages including the introduction and topical bibliography.”&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;My all time favorite example is the &lt;em&gt;Documenting Culture: LA Art Worlds&lt;/em&gt; course taught at UCLS in conjunction with the Fowler Museum. This course taught by Prof. Aparna Sharma, Emily Zeamer, Will O’Loughlen, and Meena Murugesan focused on the use of visual and digital media to document and study the artistic spaces and practices of LA. The course features a beautiful website and you can check out the syllabus here: &lt;a href=&quot;&amp;quot;https://drive.google.com/file/d/0B1SMJT_M-dOpbmo3VFA4YlhQbHc/edit&amp;quot;&quot;&gt;https://drive.google.com/file/d/0B1SMJT_M-dOpbmo3VFA4YlhQbHc/edit&lt;/a&gt;. Teaching field research, digital creation, and archival practices, this course zooms in on the potential of multimedia essays and uses them as the final assignment. You can see what the students produced here &lt;a href=&quot;&amp;quot;http://documentingculture.com/category/assignment/multimedia-essay/&amp;quot;&quot;&gt;http://documentingculture.com/category/assignment/multimedia-essay/&lt;/a&gt; and examine how the instructors embedded multiple mediums and technologies within the course.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Final Thoughts&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Overall, seeing the potential of multimedia essays with some of the examples I posted above, I think you’ll quickly agree that what I created was not even close to pushing the boundaries for this type of assignment. I think that if given enough support and guidance, students would really enjoy the creativity and possibilities of a multimedia essay. However, key to any of these digital pedagogies is ensuring that we apply the same level of academic rigor and seriousness to these assignments. In my experience, students have a tendency, at least in the humanities, to view digital assignments as akin to ‘group projects’ or ‘less serious work’. I have struggled to combat this type of preconceived notion, and I think the multimedia essay is a great transition assignment for students. Ultimately, I see multimedia essays as building upon an already known quantity - the essay, but expanding the limits for how and why we present our arguments.&lt;/p&gt;
+
+&lt;p&gt;Have you tried using multimedia essays in your classroom? What was your experience? &lt;/p&gt;
+
+&lt;p&gt;Hope you enjoy!&lt;/p&gt;
+
+&lt;p&gt;Zoe&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 01 Apr 2015 00:00:00 +0100</pubDate>
+        <link>https://zoeleblanc.github.io/citizen-journalism-media-essays</link>
+        <guid isPermaLink="true">https://zoeleblanc.github.io/citizen-journalism-media-essays</guid>
+        
+        
+        <category>digital</category>
+        
+        <category>teaching</category>
+        
+        <category>academia</category>
+        
+      </item>
+    
+      <item>
+        <title>Citizen Journalism and Infographics</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;This post was one I produced for my VIDL Series “In Pursuit of Digital Pedagogy”, which you can read &lt;a href=&quot;&amp;quot;https://my.vanderbilt.edu/vidl/2015/04/in-pursuit-of-digital-pedagogy-1/&amp;quot;&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;in-pursuit-of-digital-pedagogy-a-series-on-digital-tools-in-the-classroom&quot;&gt;In Pursuit of Digital Pedagogy: A Series on Digital Tools in the Classroom&lt;/h3&gt;
+
+&lt;p&gt;For this post, I decided to &lt;em&gt;investigate&lt;/em&gt; a digitally based methodology that I have often stumbled upon but yet to try - &lt;em&gt;Citizen Journalism&lt;/em&gt;. If you are unfamiliar with the term, I would suggest that you do a quick web search just to see the wealth of examples and debates about Citizen Journalism.&lt;/p&gt;
+
+&lt;p&gt;What attracted me to this method was the ethos of Citizen Journalism, which emphasizes the use of digital and open source tools to collaborate and be engaged as citizens. To explore this method, I decided to adopt a meta-approach of trying out a potential digital tool that I wanted to use in my classroom as a medium for my post. I explain the methodology of Citizen Journalism in my first infographic so click &lt;a href=&quot;&amp;quot;https://magic.piktochart.com/output/2690247-the-rise-of-citizen-journalism-c&amp;quot;&quot;&gt;here&lt;/a&gt; to see how this method could work for you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So what is an infographic?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Don’t worry if you’ve never heard of an infographic, the concept is pretty straight forward. To quote Wikipedia, &lt;a href=&quot;&amp;quot;https://en.wikipedia.org/wiki/Infographic&amp;quot;&quot;&gt;“Information graphics or infographics are graphic visual representations of information, data or knowledge intended to present complex information quickly and clearly”&lt;/a&gt;. In my opinion, infographics or infograms are a great method for creating an eye catching visualization of an argument that forces both the ‘producer’ and ‘consumer’ to actively consider how information is presented and organized. This method is particularly suited to visualizing data or analyzing visual media.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So why infographics? And how can infographics work in the classroom?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Have you ever had a student challenge your revisions or comments on a paper, calling the changes simply &lt;em&gt;stylistic&lt;/em&gt; ones?&lt;/p&gt;
+
+&lt;p&gt;Then an infographic is for you!&lt;/p&gt;
+
+&lt;p&gt;In all seriousness though, this method is great for challenging students conceptions about the importance of style when presenting an argument both in the written and visual form. Often academics scoff at concerns of aesthetics or design, and students tend to treat these issues as somehow less serious ones. Yet, how we present our information is directly tied to our ability to communicate effectively. Furthermore, infographics seem deceptively easy at first glance, but require a whole set of digital and critical skills, which really embodies the goals of digital learning.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Using Infographics in the Classroom&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Instead of assigning a writing assignment, why not try an infographic?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Most humanities classes usually assign a smaller, low stakes writing assignment in the first few weeks of a course to get students thinking about larger paper topics and exposed to academic writing conventions. While, I’m still a proponent of writing assignments, I believe using an infographic can further the overall goal of these assignments.&lt;/p&gt;
+
+&lt;p&gt;So instead of a first writing assignment have your students build an infographic about whatever issue or problem relates to your course. Be sure to walk through with students on how to use an infographic and the principles of good design. If you google for design tips for infographics you’ll find lots of hits, and I personally found the &lt;a href=&quot;&amp;quot;https://www.reddit.com/r/Infographics/&amp;quot;&quot;&gt;subreddit Infographics&lt;/a&gt; helpful.&lt;/p&gt;
+
+&lt;p&gt;Next step, have your students post their infographic to the course website or virtual collaborative space, and either in class or digitally have your students comment and offer suggestions on the infographics. Revising an infographic seems more low-stakes than revising an entire essay, but the results can be just as worthwhile.&lt;/p&gt;
+
+&lt;p&gt;With the revised infographics, now have the students translate the infographic to a written version in either a blog post or an essay.&lt;/p&gt;
+
+&lt;p&gt;Seems easy? Let me assure you, after creating my own infographics this assignment will be both a challenge and eye-opening for your students. In limiting the amount of text, students will be forced to distill their arguments and make sure that their evidence actually furthers their thesis. Furthermore, deciding what to visualize and how is an additional challenge and really forces the creator to think about the shape of an argument.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So what tools should you use and how difficult are infographics to learn?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Before starting this project, I had always wanted to try out making my own infographic but had zero previous experience. [Full disclosure, I wish I had spent more time on thinking and reading about design prior to making my infographics.] If like me you’re a neophyte when it comes to design, this assignment may be a great opportunity to either bring in an outside expert from campus or the public to talk about design prior to staring the assignment.&lt;/p&gt;
+
+&lt;p&gt;In terms of tools, I tried out two free tools: &lt;a href=&quot;&amp;quot;https://infogr.am/&amp;quot;&quot;&gt;Infogr.am&lt;/a&gt; and &lt;a href=&quot;&amp;quot;https://magic.piktochart.com/&amp;quot;&quot;&gt;Piktochart&lt;/a&gt;. Both tools are user friendly and allow for a diverse range of multimedia in the infographic. For this project, I decided to use Piktochart because of the wider ability to embed media. However, if I wanted to visualize any graphs I probably would have chosen Infogram.&lt;/p&gt;
+
+&lt;p&gt;Piktochart was really easy to use and allowed me to move around images, pictures, and embed videos from Youtube and Vimeo. I particularly enjoyed the easy of uploading images and the fairly wide range of graphics already available on the site. I started my infographics from scratch but there are numerous templates to choose from for free. Finally, Piktochart allows continuous web publishing, has a slideshow capability, and looks really clean and powerful when finished. One difficulty was embedding piktochart onto my Wordpress blog, which initially didn’t work great. Luckily, there is a free &lt;a href=&quot;&amp;quot;https://github.com/birgire/wp-piktochart-embed&amp;quot;&quot;&gt;github Wordpress shortcode&lt;/a&gt; for Piktochart that you can easily upload into your plugins and works seemlessly with Piktochart.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Overall Assessment of Piktochart&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Allows for Creative Content Creation: A
+Ease of Use: A
+Open Source: A+
+Ease to Publish or Share: B (because of issues in embedding Piktochart on wordpress, though its not impossible)
+Ease of Assessing Learning: A
+Ability to Integrate into Curriculum: A
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Recommendation: Great tool with a low barrier to use and high potential for innovative learning.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Final Thoughts&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In the end, what I actually created was not really what I set out to originally, and I’m not sure the final product is really in line with a traditional infographic. Instead, I feel like I unintentionally built more of a multi-media essay about Citizen Journalism. This unintentional final product really embodies for me both the concerns and benefits of digital tools - the possibility of creating unexpected results. I’ll go into more about multi-media or transmedia essays in my next post, but take a look at how I organized and presented information. You can judge whether the end result was a success, but overall the experience was certainly informative on a number of levels.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Want more information?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Check out The Vanderbilt CFT’s great guide on Visualization and Teaching, which has a section on infographics that you can look at &lt;a href=&quot;&amp;quot;http://cft.vanderbilt.edu/guides-sub-pages/visual-thinking/#dataviz&amp;quot;&quot;&gt;here&lt;/a&gt;. On HASTAC, Lorna Gonzalez has a &lt;a href=&quot;&amp;quot;http://www.hastac.org/blogs/lorna-gonzalez/2014/02/13/infovisual-literacy-teaching-ela-high-school&amp;quot;&quot;&gt;post&lt;/a&gt; about using infographics in the High School classroom, and provides a lot of detailed analysis on initial setup, working through the assignment, and assessment.&lt;/p&gt;
+
+&lt;p&gt;Have you tried using infographics in your classroom? If you haven’t what are the concerns that keep you from trying? If you have, any tips or suggestions? I would love to hear about your experiences so please comment or &lt;a href=&quot;&amp;quot;//twitter.com/home/?status=@Zoe_LeBlanc&amp;quot;&quot;&gt;tweet me&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Now to visualize ALL the things.&lt;/p&gt;
+
+&lt;p&gt;Zoe&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 18 Mar 2015 00:00:00 +0000</pubDate>
+        <link>https://zoeleblanc.github.io/citizen-journalism-infographics</link>
+        <guid isPermaLink="true">https://zoeleblanc.github.io/citizen-journalism-infographics</guid>
+        
+        
+        <category>digital</category>
+        
+        <category>teaching</category>
+        
+        <category>academia</category>
+        
+      </item>
     
       <item>
         <title>Snow Days and Twitter Reporting</title>
@@ -19,10 +379,32 @@
 
 &lt;p&gt;Using the twitter tag &lt;a href=&quot;https://twitter.com/hashtag/tspotter?f=realtime&amp;amp;src=hash&quot;&gt;#tspotter&lt;/a&gt;, I used Martin Hawksey’s &lt;a href=&quot;https://tags.hawksey.info/get-tags/&quot;&gt;TAGS API&lt;/a&gt; to analyze the network data. TAGS is much easier to use than Gephi or other network analysis tools, and is free, which is rare. All you have to do is copy TAGS as a google doc and authorize your twitter account. After that you run the script, which aggregates all the 3000 latest tweets from the last week. #tspotter had about 1200 unique tweets, and I used Hawksey’s TAGSExplorer to visualize the network.
 &lt;a href=&quot;https://my.vanderbilt.edu/vidl/2015/02/snow-days-twitter-reporting/&quot;&gt;Read the rest here…&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://zoeleblanc.github.io/img/post-assets/picofvandyice.jpg&quot; alt=&quot;picofvandyice&quot; /&gt;
+Picture of Ice on Vanderbilt Campus by @ewillmot&lt;/p&gt;
+
+&lt;p&gt;Using the twitter tag &lt;a href=&quot;&amp;quot;https://twitter.com/hashtag/tspotter?f=realtime&amp;amp;src=hash&amp;quot;&quot;&gt;#tspotter&lt;/a&gt;, I used Martin Hawksey’s &lt;a href=&quot;&amp;quot;https://tags.hawksey.info/get-tags/&amp;quot; target=&amp;quot;_blank&amp;quot;&quot;&gt;TAGS API&lt;/a&gt; to analyze the network data. TAGS is much easier to use than Gephi or other network analysis tools, and is free, which is rare. All you have to do is copy TAGS as a google doc and authorize your twitter account. After that you run the script, which aggregates all the 3000 latest tweets from the last week. #tspotter had about 1200 unique tweets, and I used Hawksey’s TAGSExplorer to visualize the network.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://zoeleblanc.github.io/img/post-assets/tspotter1.jpg&quot; alt=&quot;tspotter1&quot; /&gt;
+Network of replies from #tspotter&lt;/p&gt;
+
+&lt;p&gt;This first graph is of the replies from #tspotter, and shows a very loose network with the exception of @NashSeverWX and @NWSNashville. You can inspect the dynamic network &lt;a href=&quot;&amp;quot;http://hawksey.info/tagsexplorer/?key=19uW2gLmN-fFdg1EhCZM_GAplwpdRUDiNLKizwdoCfL8&amp;amp;gid=400689247&amp;quot;&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://zoeleblanc.github.io/img/post-assets/tspotter2.jpg&quot; alt=&quot;tspotter2&quot; /&gt;
+Network of replies and mentions of #tspotter&lt;/p&gt;
+
+&lt;p&gt;This second graph of replies and mentions of #tspotter is starting to show a more dense network, though still with a lot of outliers. You can explore the dynamic network &lt;a href=&quot;&amp;quot;http://hawksey.info/tagsexplorer/?key=19uW2gLmN-fFdg1EhCZM_GAplwpdRUDiNLKizwdoCfL8&amp;amp;gid=400689247&amp;amp;mentions=true&amp;quot;&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://zoeleblanc.github.io/img/post-assets/tspotter3.jpg&quot; alt=&quot;tspotter3&quot; /&gt;
+Network of replies, mentions, and retweets of #tspotter&lt;/p&gt;
+
+&lt;p&gt;This final graph of the replies, mentions, and retweets of #tspotter is as you would expect much more dense. However, I was really blown away with how much this graph seems to represent a community of Tennesseans taking to twitter to show their experiences of this rare metereological event. The fact that the top tweeter is &lt;a href=&quot;&amp;quot;https://twitter.com/NashSevereWx&amp;quot;&quot;&gt;@NashSevereWX&lt;/a&gt;, which relies on social media to report on weather, I think speaks to the growth of social media as a tool for citizen participation. You can check out the final graph &lt;a href=&quot;&amp;quot;http://hawksey.info/tagsexplorer/?key=19uW2gLmN-fFdg1EhCZM_GAplwpdRUDiNLKizwdoCfL8&amp;amp;gid=400689247&amp;amp;mentions=true&amp;amp;retweets=true&amp;quot;&quot;&gt;here&lt;/a&gt; and feel free to post your pics below or tweet us &lt;a href=&quot;&amp;quot;http://twitter.com/VUdigital&amp;quot; target=&amp;quot;_blank&amp;quot;&quot;&gt;@VUdigital&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Stay warm Tennessee!&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Mar 2015 20:31:30 +0000</pubDate>
-        <link>http://zoeleblanc.github.io/snow-days-twitter-reporting</link>
-        <guid isPermaLink="true">http://zoeleblanc.github.io/snow-days-twitter-reporting</guid>
+        <link>https://zoeleblanc.github.io/snow-days-twitter-reporting</link>
+        <guid isPermaLink="true">https://zoeleblanc.github.io/snow-days-twitter-reporting</guid>
         
         
         <category>digital</category>
@@ -50,8 +432,8 @@ Then a digital humanities training workshop is for you.&lt;/p&gt;
  &lt;a href=&quot;https://my.vanderbilt.edu/vidl/2014/11/in-pursuit-of-digital-pedagogy-off-campus-resources-digital-humanities-workshops&quot;&gt;Read the rest here&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 20 Nov 2014 20:31:30 +0000</pubDate>
-        <link>http://zoeleblanc.github.io/off-campus-dh-resources</link>
-        <guid isPermaLink="true">http://zoeleblanc.github.io/off-campus-dh-resources</guid>
+        <link>https://zoeleblanc.github.io/off-campus-dh-resources</link>
+        <guid isPermaLink="true">https://zoeleblanc.github.io/off-campus-dh-resources</guid>
         
         
         <category>digital</category>
@@ -72,8 +454,8 @@ Then a digital humanities training workshop is for you.&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 14 Nov 2014 18:52:28 +0000</pubDate>
-        <link>http://zoeleblanc.github.io/in-pursuit-of-digital-pedagogy</link>
-        <guid isPermaLink="true">http://zoeleblanc.github.io/in-pursuit-of-digital-pedagogy</guid>
+        <link>https://zoeleblanc.github.io/in-pursuit-of-digital-pedagogy</link>
+        <guid isPermaLink="true">https://zoeleblanc.github.io/in-pursuit-of-digital-pedagogy</guid>
         
         
         <category>digital</category>
@@ -91,12 +473,10 @@ Then a digital humanities training workshop is for you.&lt;/p&gt;
 In 2007, Haruki Murakami, the great Japanese novelist, published my favorite type of book – the ones where writers talk about writing. The book, entitled What I Talk About When I Talk About Running, is a great read, full of philosophical musings; life lessons; and some really great quotes. My favorite is perhaps the most famous line from the book: “Pain is inevitable. Suffering is optional.”While Murakami was writing primarily about marathon running and the endurance needed to be a writer, I apply this same wisdom to my thoughts on digital learning.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://zoeleblanc.github.io/img/post-assets/fire.jpg&quot; alt=&quot;Fire image&quot; /&gt;&lt;/p&gt;
-
 </description>
         <pubDate>Tue, 02 Sep 2014 08:41:30 +0100</pubDate>
-        <link>http://zoeleblanc.github.io/vidl-intro-piece</link>
-        <guid isPermaLink="true">http://zoeleblanc.github.io/vidl-intro-piece</guid>
+        <link>https://zoeleblanc.github.io/vidl-intro-piece</link>
+        <guid isPermaLink="true">https://zoeleblanc.github.io/vidl-intro-piece</guid>
         
         
         <category>digital</category>
@@ -188,120 +568,13 @@ In 2007, Haruki Murakami, the great Japanese novelist, published my favorite typ
 &lt;p&gt;So go forth and conquer your exams!&lt;/p&gt;
 </description>
         <pubDate>Mon, 16 Jun 2014 00:00:00 +0100</pubDate>
-        <link>http://zoeleblanc.github.io/surviving-comps-part-3</link>
-        <guid isPermaLink="true">http://zoeleblanc.github.io/surviving-comps-part-3</guid>
+        <link>https://zoeleblanc.github.io/surviving-comps-part-3</link>
+        <guid isPermaLink="true">https://zoeleblanc.github.io/surviving-comps-part-3</guid>
         
         
         <category>academia</category>
         
         <category>history</category>
-        
-      </item>
-    
-      <item>
-        <title>Surviving Comps Part II</title>
-        <description>&lt;p&gt;So here’s where I actually breakdown how to survive, and hopefully thrive, during your comprehensive exams. I’m going to breakdown my strategy into a suggested timeline for how to prepare for your exams; how I organized my workflow; and resources for your exams. However, full disclosure this is not the timeline I followed. Just the one I wish someone had given me on my first day of grad school. Also I’ve only done the exams once, so please take all recommendations with a giant grain of salt. Lastly, I’m a notorious procrastinator so if you are too then virtual high-five and don’t panic if you are a few weeks away from your exams. Just do what you can and it will be enough.&lt;/p&gt;
-
-&lt;h3 id=&quot;timeline&quot;&gt;TIMELINE&lt;/h3&gt;
-
-&lt;h5 id=&quot;first-two-years-of-coursework&quot;&gt;First Two Years of Coursework:&lt;/h5&gt;
-
-&lt;p&gt;Are you a plucky first year grad student already thinking about your comps exams and some how stumbled here? If so, good for you.&lt;/p&gt;
-
-&lt;p&gt;If you’re not, all is not lost but one thing I wish I had done was use my courses wisely. By that I mean I wish I had taken the extra bit of time each week and made good notes from the readings and discussions. Even though I’m training to be a historian, I have a memory like a sieve, and so trying to remember two years later what we discussed in the weeks on Progressivism or the Vietnam War was a bit tough.&lt;/p&gt;
-
-&lt;p&gt;I’ll go into note taking templates later on but you can click here if you want to jump ahead. Besides taking notes, start thinking about your lists and compiling potential books. Making the lists for your exams actually takes a considerable amount of time and so start keeping track of books you read, or want to read that has recent reviews posted on h-net. One thing to be aware of is that if you pick books that were published in the last year, you’ll be lucky to find any reviews. Reviews are key for your exams, as trying to read all the books is in my opinion impossible and unnecessary. So just keep in mind that if half of your list comprises of books from the last year, you’ll need to allocate the time to read and take notes on the books.&lt;/p&gt;
-
-&lt;h5 id=&quot;exams-on-the-horizon-somewhere-between-8-5-months-before-your-exams&quot;&gt;Exams on the horizon (somewhere between 8-5 months before your exams):&lt;/h5&gt;
-
-&lt;p&gt;Alright, time to get down to work and start kicking some proverbial academic butt. Number one thing to remember is to pace yourself. The exams are a marathon and if you burn out too early, you’ll never make it through the actual exams, let alone get through all the prep.&lt;/p&gt;
-
-&lt;p&gt;Start with making your lists.&lt;/p&gt;
-
-&lt;p&gt;I would recommend talking to your main advisor(s) about expectations and format of the exams. Also now is a good time to call in favors and ask other grad students in your department and fields to share lists. Weirdly enough, most people are very territorial about their lists and book summaries, which I find bizarre but hopefully someone will share. In that spirit, I’m sharing my lists here and feel free to use them. (Click for my major list on US in the World 1 and 2; minor list on Modern Middle Eastern and North African Histories; and minor list American History Since 1865 List). Your department will likely have their own distinct ways of doing things so be sure to clear everything with your advisor and DGS earlier than later.&lt;/p&gt;
-
-&lt;p&gt;Once your lists are approved is when the real fun begins. And by fun, I mean weeks of high anxiety torture.&lt;/p&gt;
-
-&lt;p&gt;Now that you have your road map time to start compiling notes. I go more into workflow stuff here, but suffice to say, this activity will take lots of time and energy so once again pace yourself.&lt;/p&gt;
-
-&lt;h5 id=&quot;exams-ahoy-a-few-weeks-pre-exams&quot;&gt;Exams ahoy (a few weeks pre-exams):&lt;/h5&gt;
-
-&lt;p&gt;Ok, just breathe. You can do this. You’re the academic version of [insert favorite Marvel superhero/heroine of choice]. You eat comprehensive exams for breakfast, lunch, and dinner.&lt;/p&gt;
-
-&lt;p&gt;Ok, enough with the bravado. The fact is if at this point you aren’t experiencing some form of mental health issue, I applaud you and am deeply envious. I started developing migraines for the first time in my life a few weeks before my exams, so don’t feel like you’re alone if you are feeling overwhelmed/stress/depressed/etc… Just head on over to my rant post here, and feel free to vent in the comments.&lt;/p&gt;
-
-&lt;p&gt;Now depending on your ability to deal with stress, you can start moving towards meta-level prepping a few weeks or days before the exams start. One of the preparation activities that helped the most was writing meta overviews of each subsection of my readings. I would try to list trends, big questions/debates in the subsections, and my critiques. These mini meta-overviews saved me during the exams. Don’t be too detailed or you’ll just end up with too much bulk for your paper. At most I would recommend a paragraph or two, but ideally bullet points.&lt;/p&gt;
-
-&lt;h5 id=&quot;stop-exam-time&quot;&gt;Stop! Exam Time:&lt;/h5&gt;
-
-&lt;p&gt;My exams started with seven days to write four ten page essays, and then a week later I sat my two hour oral exam. By the time I started my written exams, I was pretty exhausted and so I decided to start with the question I felt was the hardest first. In hindsight, I would reverse this decision as I spent way too long on the harder paper and wrote my last two papers in a flurry at the end. Be sure to get lots of sleep and remember done is better than perfect when it comes to these papers. I tried to shoot for about forty references in each paper, whether through footnotes or listing titles in the paper. Ten pages is pretty short and so brevity is key. However, I would also recommend having a bit of fun with the writing. I made all my titles so form of pun, and used the pun as a framework for writing. Pretty much whatever strikes you at the moment of writing, go with it even if it feels silly or tangential. You can always revise or change tactic once you’ve put digital pen to paper.&lt;/p&gt;
-
-&lt;p&gt;For the oral exam, I would recommend preparing any questions you didn’t answer, as well as reviewing the papers you’ve submitted. My oral exam was intense but I just tried to remember that everyone on my committee had already been exposed to my brand of rambling answers, and that if I couldn’t answer a question well too bad! One area where I was told to improve was to be more specific in my answers (damn you sieve-like memory) but honestly, everyone wants you to pass so just try and do your best.&lt;/p&gt;
-
-&lt;h5 id=&quot;post-apocalypse-or-after-your-exams&quot;&gt;Post-Apocalypse (or after your exams):&lt;/h5&gt;
-
-&lt;p&gt;TAKE TIME OFF!&lt;/p&gt;
-
-&lt;p&gt;I wish I had scheduled a week or two of nothing but relaxation time, instead of jetting off to do research. Remember also to celebrate your achievement. Passing your exams can be actually rather anti-climatic so make sure you plan to party and savor the feeling of freedom.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 15 Jun 2014 00:00:00 +0100</pubDate>
-        <link>http://zoeleblanc.github.io/surviving-comps-part-2</link>
-        <guid isPermaLink="true">http://zoeleblanc.github.io/surviving-comps-part-2</guid>
-        
-        
-        <category>academia</category>
-        
-        <category>history</category>
-        
-      </item>
-    
-      <item>
-        <title>Surviving Comps Part I</title>
-        <description>&lt;p&gt;There are few things that inspire as much fear in graduate students as the dreaded comprehensive exam. Clouded in mystery, the exams are a hazing ritual that unites all graduate students, regardless of discipline. This past May [2014], after putting off my exams for a year (not something I recommend), I was finally forced to face my fears, and I survived. Well, survived may be the wrong word, especially since I feel as though I am in need of social reintegration program after spending months chained to my desk. Nonetheless, I thought I would write this post as a way to have some closure on the experience, as well as share some of my hard learned lessons. While my experience is primarily aimed at History graduate students, I hope others will find my ‘wisdom’ useful.&lt;/p&gt;
-
-&lt;p&gt;Before I begin sharing my experience, I need to vent a bit. Feel free to skip ahead here but if you are feeling particularly annoyed, confused, or angry about the exams then know you are not alone and read on.&lt;/p&gt;
-
-&lt;p&gt;Though, the comprehensive exams were something I feared, a greater part of my reluctance to sit the exams was because I thought and still do think that comprehensive exams in their current iteration are a pretty big waste of time.&lt;/p&gt;
-
-&lt;p&gt;I don’t think the exams are a waste of time because they force graduate students to work hard. In fact, I found that part of the exam satisfying, along with the structured-ness of studying for the exams over the vagaries of coursework or research. Furthermore, I now have a large database of secondary source material, which hopefully will be helpful in the future. In my department, we have three fields (one major and two minors), and have to write four essays in seven days, and then sit a two hour oral exam. The entire experience is a little surreal since you only sit the exams once, and there is no way to really prepare for trying to summarize 100 plus books in ten pages. I found the experience exhausting and nerve-racking, and the writing portion particularly bizarre since historians are rarely under time pressured constraints. Nonetheless, none of these issues are why I think the exams are a large time sink with few pay offs.&lt;/p&gt;
-
-&lt;p&gt;My critique of the exams arises from the disconnect between the exams’ stated purpose and the reality of the experience. The rationales I have heard for the exams include: to prepare your knowledge of the secondary sources for your dissertation; to certify you to teach in your exam fields; and lastly, and most troubling, as a rite of passage. The first reasoning I know is true for some graduate students, but in my case unfortunately my exams fields and dissertation research had little overlap. However, even for those students where there is a great deal of overlap, I feel the type of secondary source research required for dissertation prep and exam prep is quite different, and that this exam prep is only useful if you are still looking for a topic. The second reasoning I feel is a bit of stretch, unless the exams are intended to prepare for teaching graduate level courses in those fields. The exams are intended as a meta-level analysis of your fields, and would be largely useless in most undergraduate classes. I also feel that the degree of variability between exams within a department, let alone the discipline, seems to undermine any weight of the exams as a teaching certification mechanism. How can a hiring committee know if I’m truly qualified to teach Modern Middle Eastern history based on an exam they’ll never read or listen to?&lt;/p&gt;
-
-&lt;p&gt;The final reasoning is the one I find the most problematic. While academia is usually stereotyped as antiquated, the rationale of the exams as a hazing ritual seems particular outdated and pernicious. Can you imagine many other jobs where the entire rationale is based on the logic that this is how we’ve done things since the 19th century, so you have to as well? One of the hardest aspects of the exams for me to swallow was how varied the degree to hazing was due to the make-up of a student’s committee. Thus, depending on your fields and advisors in my department, you could end up with 25 books or over 100. This final point brings me to my biggest beef with the exams - the lack of transparency.&lt;/p&gt;
-
-&lt;p&gt;For some reason these exams are treated more like an induction into a secret cult, then an actual certification process. Instead of being able to show the amount of work and time that went into preparing for these exams, I have to take it on faith that hiring committees will infer the weeks of 14 hour days that went into my preparation. This assumption is even more distressing when trying to imagine how to communicate the amount of work this activity required to employers outside of the academe. While I realize given the unique nature of each graduate student, standardizing the exams would be difficult and likely undesirable. However, I can’t help but wish I had more to show for my efforts. Perhaps a portfolio of material or some type of actual certification that regardless of where I work after my dissertation I would be able to point to and show that I’m a hard worker and you should hire me.&lt;/p&gt;
-
-&lt;p&gt;I now realize this rant is my entire post so I’ll have to make the next post about actually surviving these exams but I would be happy to hear others thoughts on their experiences with the exams, and whether there is a way to make the entire process more transparent and perhaps fair. For those about to take your exams, remember that you are not alone, and that you’re likely already much more prepared and equipped for your exams after years of coursework then you even realize.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 14 Jun 2014 00:00:00 +0100</pubDate>
-        <link>http://zoeleblanc.github.io/surviving-comps-part-1</link>
-        <guid isPermaLink="true">http://zoeleblanc.github.io/surviving-comps-part-1</guid>
-        
-        
-        <category>academia</category>
-        
-        <category>history</category>
-        
-      </item>
-    
-      <item>
-        <title>Starting Fresh</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://zoeleblanc.github.io/img/post-assets/silhouette.jpg&quot; alt=&quot;Self-portrait&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://zoeleblanc.github.io/img/post-assets/fun-in-my-room.gif&quot; alt=&quot;fun in my room&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 14 Jun 2014 00:00:00 +0100</pubDate>
-        <link>http://zoeleblanc.github.io/starting-fresh</link>
-        <guid isPermaLink="true">http://zoeleblanc.github.io/starting-fresh</guid>
-        
-        
-        <category>thoughts</category>
-        
-        <category>digital</category>
         
       </item>
     

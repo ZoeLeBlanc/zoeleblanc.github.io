@@ -8,9 +8,9 @@ author_url : /author/zoe
 author_avatar: zoeworkphoto1
 show_avatar : false
 read_time : 6
-feature_image: feature-water
+feature_image: feature-sunset3
 show_related_posts: true
-square_related: recommend-mountain
+square_related: recommend-sunset3
 ---
 I feel I should apologize for the size of this post. What started as one post is now a series, but hopefully this expansion is just a sign of how much wisdom I have to impart. Or maybe I’ve converted my tendency to ramble into written form. Regardless, I’ve finally arrived at the meat of this post - workflow and resources for your exams.
 

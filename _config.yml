@@ -10,13 +10,15 @@ nav_list:
   About : ['About', '/author/zoe', 'fa-asterisk']
   Archives: ['Archives', '/archives', 'fa-archive']
   CV : ['CV', '/cv', 'fa-graduation-cap']
+  Research: ['Research', '/research', 'fa-book']
+  Teaching: ['Teaching', '/teaching', 'fa-paper-plane']
   Twitter : ['Twitter', 'https://twitter.com/Zoe_LeBlanc', 'fa-twitter']
   Github : ['Github', 'https://github.com/ZoeLeBlanc/', 'fa-github']
   Contact : ['Contact', '/contact', 'fa-envelope']
-single_footer: '<p>Zoe LeBlanc &copy; 2015 | built with Nutella <a href="/">latest posts</a></p>'
+single_footer: '<p>Zoe LeBlanc &copy; 2015 | built with Jekyll and Nutella <a href="/">latest posts</a></p>'
 footer_links:
     Home: ['Home', '/']
-    About: ['About', '/about']
+    About: ['About', '/author/zoe']
     Archives: ['Archives', '/archives']
     Twitter: ['Twitter', 'https://twitter.com/Zoe_LeBlanc']
 

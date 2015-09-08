@@ -8,9 +8,9 @@ author_url : /author/zoe
 author_avatar: zoeworkphoto1
 show_avatar : false
 read_time : 3
-feature_image: feature-wolf
+feature_image: feature-window
 show_related_posts: true
-square_related: recommend-iceland
+square_related: recommend-window
 ---
 > This past year I was lucky enough to be selected for a cool new center on campus, the Vanderbilt Institute for Digital Learning. I've spent the year blogging for them about graduate digital education, digital pedagogy, and my (mis)adventures in becoming a digitalist. Here's my first post in the series, In Pursuit of Digital Pedagogy and please visit the VIDL site too for more great posts from my fellow grad fellows. 
 

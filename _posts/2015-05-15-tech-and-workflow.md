@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "In Pursuit of Digital Pedagogy: Workflow and Teaching"
+title: "Workflow and Teaching"
 date: 2015-05-15
 categories: digital teaching academia
 author_name : Zoe 
@@ -8,9 +8,9 @@ author_url : /author/zoe
 author_avatar: zoeworkphoto1
 show_avatar : false
 read_time : 6
-feature_image: feature-window
+feature_image: feature-workflow
 show_related_posts: true
-square_related: recommend-peak
+square_related: recommend-workflow
 ---
 
 > This post was one I produced for my VIDL Series "In Pursuit of Digital Pedagogy", which you can read [here.]("https://my.vanderbilt.edu/vidl/2015/05/in-pursuit-of-digital-pedagogy-workflow-teaching/")
@@ -26,7 +26,7 @@ I think part of this blindness to the nuts and bolts of knowledge production is 
 
 So in this post, I want to outline some potential ways for integrating teaching workflow into your classroom. At the end, I also have a number of links for more on particular tools for digital workflows, as well as some descriptions of academic workflows.
 
-#####So what is a workflow?#####
+### So what is a workflow?
 Wikipedia defines it as "an orchestrated and repeatable pattern of business activity enabled by the systematic organization of resources into processes that transform materials, provide services, or process information."
 
 While this definition is correct, I think a workflow is more defined by its characteristics. I particularly like Chad Black's outline on what a good workflow should have:
@@ -38,15 +38,15 @@ While this definition is correct, I think a workflow is more defined by its char
 
 However, you define workflow, I think teaching workflow is incredibly important for helping students develop some of the more abstract skill sets such as critical thinking and clear communication. Furthermore, many students and professors (myself included) struggle to be organized and systematic researchers - an area where a conscious workflow can help.
 
-#####So how to teach workflows?#####
+### So how to teach workflows?
 
-*1. Don't approach teaching workflow as a one-off session.*
+**1. Don't approach teaching workflow as a one-off session.**
 Many professors schedule one of their first class meetings for learning effective researching methods. Usually hosted at the library, these sessions teach students how to use library databases and find scholarly materials. While these sessions can be helpful, workflow is an iterative process that often involves repeating steps, as well as continually refining how you work. I think a more successful approach would be to begin a course with a broad overview of how you conceptualize a workflow and, especially, a research project. Then, over the course of the semester as different assignments come up, teach students various parts of these workflows - from how to find materials to organizing research materials to building databases to revising writing. Such an approach I think models more closely how many academics work, as well as underscoring the importance of workflow to students. I would encourage the use of mind mapping and brainstorming tools. Three of my favorites are Stormboard, LucidChart, and MyThoughts, but you can even just share a basic Google Doc.
 
-*2. Allow for diversity of workflows*
+**2. Allow for diversity of workflows**
 Most of the blog posts on workflow are written by academics who are self-proclaimed technophiles. While I agree with most of these posts, I think that allowing students to use low or no-tech methods for workflow is important. I enjoy sometimes drawing outlines for papers and I often jot down research ideas in my notebook. Yet, I also want to emphasize that consistent and comprehensive practices in your workflow is critical. You don't want to end up with a bunch of loose leaf paper or thousands of unorganized files. So regardless of what tools you use for your workflow, encourage your students to be mindful in how they develop a workflow. If you use a combination of tech and non-tech, be sure to integrate the two whether through transcribing notes, taking photos, or printing out materials.
 
-*3. Remember Occam's Razor*
+**3. Remember Occam's Razor**
 With the continual releasing of new productivity tools, I find myself always wanting to try the newest tool or gadget. Yet, the best workflow is the simplest one that allows for productive and effective work. For some people, that workflow involves working on a linux machine and for others it means using index cards. Sometimes students might have suggestions, so you could potentially create a collaborative workflow that you develop over the course of the semester. The key thing to remember though is consciously thinking about your workflow, and not allowing happenstance to govern how you or your students work.
 
 In my discipline of history, there is a general tendency to privilege low or no tech for workflows. However, while I think you can use a mixed approach to workflows, I do think that professors need to start thinking about how digital tools can exponentially improve workflows. In particular, two of my favorite tools are Devonthink for databases and organizing research, and Scrivener for writing and planning out projects.
@@ -54,10 +54,12 @@ In my discipline of history, there is a general tendency to privilege low or no 
 Do you teach workflows to your students? Feel free to share suggestions on how to teach workflow and any tools you like to use.
 
 Cheers,
+
 Zoe
 
-* * *
-#####List of blog posts on workflows#####
+* * * * * 
+
+### List of blog posts on workflows 
 
 * A great forum on digital research workflow at [Digital Humanities.org]("http://digitalhumanities.org/answers/topic/share-your-digital-research-workflow") which resulted in the mega post for resources by Miriam Posner. An ["Embarrassment of Riches"]("http://miriamposner.com/blog/embarrassments-of-riches-managing-research-assets/") is a must post for anyone looking to develop a digital workflow, and looking for a list of available tools (though one thing to note is that this post is from 2011).
 * An example [mind map of a workflow by Shawn Graham]("https://bubbl.us/mindmap?h=9cd6f/12f200/64X0rKA2wjvAU").
