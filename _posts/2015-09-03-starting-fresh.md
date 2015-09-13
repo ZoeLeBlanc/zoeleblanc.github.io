@@ -22,11 +22,13 @@ In the spirit of a new academic year and a fresh state, I've decided to finally 
 
 If you've visited previous iterations of my personal site, you'll find most of the same material. But under the hood this site is all new. For the last version of my site, I bought a turbo charged wordpress theme.[^2] But I quickly realized that I don't need most of the features like a store front or members only area. 
 
-I really like the look of [Lincoln Mullen]("http://lincolnmullen.com") and [Jason Heppler's]("http://jasonheppler.org") sites, so I decided to make the move to Jekyll and Markdown (both of which seem increasingly to be the norm for digital humanists). 
+I really like the look of [Lincoln Mullen](http://lincolnmullen.com) and [Jason Heppler's](http://jasonheppler.org) sites, so I decided to make the move to Jekyll and Markdown (both of which seem increasingly to be the norm for digital humanists). 
 
 Already I'm loving the simplicity of building up the site from the basics of a theme I bought[^3], and if you're considering making the change, I would highly recommend it. Afterall, fall is for making fresh starts.
 
 -Z
+
+UPDATE: just found this post on the Chronicle on ["How to Curate Your Digital Identity as an Academic"](http://chronicle.com/article/How-to-Curate-Your-Digital/151001/), which was kind of the impetus for this redesign. I've also tried to clean up my digital presence and get rid of all the half formed websites I've created over the years.
 
 * * *
 
