@@ -12,9 +12,9 @@ feature_image: feature-bigdata
 show_related_posts: true
 square_related: recommend-bigdata
 ---
-Big Data and the Cold War are two things that seem like they should go together. Both are big unwieldy entities. And both seem to drive scholars a bit batty. But with the exception of a few digital history projects, I haven't really ever come across the two together.
+Big Data and the Cold War are two things that seem like they should go together. Both are big unwieldy entities. And both seem to drive scholars a bit batty. But with the exception of a few digital history projects, I haven't really ever come across the two together.[^1]
 
-This all changed the past month, when big data and Cold War history did sort of come together for me as I was able to attend two separate conferences on each topic.[^1] Even though the two conferences were quite different in format and subject, I wanted to write and think about them together - kind of a forced engagement - even if it's just in my head, and now on my website. I’ve written down some of the major questions/problems/shifts that were discussed at these conferences, but what follows is in no way a faithful representation of these conferences (sorry, you’ll have to try and attend them next year). Rather, think of this post as my conference doodles come to life - incoherent and shoddily sketched, but hopefully the beginning of something much more.
+This all changed the past month, when big data and Cold War history did sort of come together for me as I was able to attend two separate conferences on each topic.[^2] Even though the two conferences were quite different in format and subject, I wanted to write and think about them together - kind of a forced engagement - even if it's just in my head, and now on my website. I’ve written down some of the major questions/problems/shifts that were discussed at these conferences, but what follows is in no way a faithful representation of these conferences (sorry, you’ll have to try and attend them next year). Rather, think of this post as my conference doodles come to life - incoherent and shoddily sketched, but hopefully the beginning of something much more.
 
 I still wanted to write a bit about each conference so I've created little subheadings. Feel free to jump ahead if you just want my ideas on the intersections between big data and Cold War history. 
 
@@ -23,7 +23,7 @@ I still wanted to write a bit about each conference so I've created little subhe
 ***************
 
 <a name="makingbigdatahuman"></a>
-The first conference was one I found on [twitter](https://twitter.com/dhiptweets/status/637969086270599169), called Making Big Data Human. [^2]
+The first conference was one I found on [twitter](https://twitter.com/dhiptweets/status/637969086270599169), called Making Big Data Human. [^3]
 
 ![Making Big Data Human Poster]({{site.url}}/img/post-assets/makingbigdatahuman.jpg)
 
@@ -58,6 +58,7 @@ The conference itself was at the Societa Geografia Italiana, which is in a  gorg
 ![View from the conference]({{site.url}}/img/post-assets/romeview1.jpg)
 
 ![View from the conference]({{site.url}}/img/post-assets/romeview2.jpg)
+View from the Conference 
 
 Given that the Cold War spanned a huge swath of time, the papers at the conference covered a wide variety of topics. I won't cover each one here, but just touch on some broader questions/topics.
 
@@ -93,7 +94,8 @@ Thinking about these questions together has, for me at least, started the wheels
 ******
  **Jump [back to top](#backtotop)**
 
-[^1]: Sadly yes this is a post about conferences and not how big data can solve the Cold War. Although I'm sure someone out there is working on that...
-[^2]: Yes, twitter can be useful sometimes. I found this tweet after looking at the IHR digital history seminar page, I checked out their twitter stream [#dhist](https://twitter.com/search?q=%23dhist&src=typd) and [@IHRDigHist](https://twitter.com/IHRDigHist)
+[^1]: When I say a few, I'm really thinking of two in particular: Micki Kaufman's [Quantifying Kissinger](http://blog.quantifyingkissinger.com) and Matthew Connelly's [History Lab](http://blog.quantifyingkissinger.com). If you know of any please let me know!
+[^2] Sadly yes this is a post about conferences and not how big data can solve the Cold War. Although I'm sure someone out there is working on that...
+[^3]: Yes, twitter can be useful sometimes. I found this tweet after looking at the IHR digital history seminar page, I checked out their twitter stream [#dhist](https://twitter.com/search?q=%23dhist&src=typd) and [@IHRDigHist](https://twitter.com/IHRDigHist)
 
 
