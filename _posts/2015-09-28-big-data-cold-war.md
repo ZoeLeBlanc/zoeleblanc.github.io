@@ -23,9 +23,9 @@ I still wanted to write a bit about each conference so I've created little subhe
 ***************
 
 <a name="makingbigdatahuman"></a>
-The first conference was one I found on twitter, called Making Big Data Human. [^2]
+The first conference was one I found on [twitter](https://twitter.com/dhiptweets/status/637969086270599169), called Making Big Data Human. [^2]
 
-{% twitter oembed https://twitter.com/dhiptweets/status/637969086270599169 align='center' %}
+![View from the conference]({{site.url}}/img/post-assets/makingbigdatahuman.jpg)
 
 Luckily, someone canceled last minute so I was able to attend as a participant and head to Cambridge for the first time. The conference was hosted by a great group called [Doing History in Public](http://doinghistoryinpublic.org). The conference was a day long and covered a whole host of topics - from web archiving to database and keyword searches to human geography and visualization. Marta Musso storified the twitter exchange [here](https://storify.com/martamusso/making-big-data-human), which gives a good live feed of the conference, as well as some of my thoughts that I won't rehash here. 
 
