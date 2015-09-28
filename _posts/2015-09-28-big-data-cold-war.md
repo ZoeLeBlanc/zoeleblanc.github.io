@@ -95,7 +95,7 @@ Thinking about these questions together has, for me at least, started the wheels
  **Jump [back to top](#backtotop)**
 
 [^1]: When I say a few, I'm really thinking of two in particular: Micki Kaufman's [Quantifying Kissinger](http://blog.quantifyingkissinger.com) and Matthew Connelly's [History Lab](http://blog.quantifyingkissinger.com). If you know of any please let me know!
-[^2] Sadly yes this is a post about conferences and not how big data can solve the Cold War. Although I'm sure someone out there is working on that...
+[^2]: Sadly yes this is a post about conferences and not how big data can solve the Cold War. Although I'm sure someone out there is working on that...
 [^3]: Yes, twitter can be useful sometimes. I found this tweet after looking at the IHR digital history seminar page, I checked out their twitter stream [#dhist](https://twitter.com/search?q=%23dhist&src=typd) and [@IHRDigHist](https://twitter.com/IHRDigHist)
 
 
