@@ -5,9 +5,119 @@
     <description></description>
     <link>https://zoeleblanc.github.io/</link>
     <atom:link href="https://zoeleblanc.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Sep 2015 10:28:07 +0100</pubDate>
-    <lastBuildDate>Tue, 08 Sep 2015 10:28:07 +0100</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Mon, 28 Sep 2015 13:29:05 +0100</pubDate>
+    <lastBuildDate>Mon, 28 Sep 2015 13:29:05 +0100</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Big Data and the Cold War</title>
+        <description>&lt;p&gt;Big Data and the Cold War are two things that seem like they should go together. Both are big unwieldy entities. And both seem to drive scholars a bit batty. But with the exception of a few digital history projects, I haven’t really ever come across the two together.&lt;/p&gt;
+
+&lt;p&gt;This all changed the past month, when big data and Cold War history did sort of come together for me as I was able to attend two separate conferences on each topic.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Even though the two conferences were quite different in format and subject, I wanted to write and think about them together - kind of a forced engagement - even if it’s just in my head, and now on my website. I’ve written down some of the major questions/problems/shifts that were discussed at these conferences, but what follows is in no way a faithful representation of these conferences (sorry, you’ll have to try and attend them next year). Rather, think of this post as my conference doodles come to life - incoherent and shoddily sketched, but hopefully the beginning of something much more.&lt;/p&gt;
+
+&lt;p&gt;I still wanted to write a bit about each conference so I’ve created little subheadings. Feel free to jump ahead if you just want my ideas on the intersections between big data and Cold War history. &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h4 id=&quot;jump-to-making-big-data-humanmakingbigdatahuman--european-summer-school-on-cold-war-historyesscwh--big-data-and-cold-war-historybigdatacoldwar-a-namebacktotopa&quot;&gt;Jump to &lt;a href=&quot;#makingbigdatahuman&quot;&gt;Making Big Data Human&lt;/a&gt; | &lt;a href=&quot;#esscwh&quot;&gt;European Summer School on Cold War History&lt;/a&gt; | &lt;a href=&quot;#bigdatacoldwar&quot;&gt;Big Data and Cold War history&lt;/a&gt; &lt;a name=&quot;backtotop&quot;&gt;&lt;/a&gt;&lt;/h4&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a name=&quot;makingbigdatahuman&quot;&gt;&lt;/a&gt;
+The first conference was one I found on twitter, called Making Big Data Human. &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;div class=&quot;embed twitter&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot; align=&quot;center&quot; width=&quot;350&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Newly updated programme for &lt;a href=&quot;https://twitter.com/hashtag/makingbigdatahuman?src=hash&quot;&gt;#makingbigdatahuman&lt;/a&gt;! And 2 days left to register &lt;a href=&quot;http://t.co/U71uvnzOuZ&quot;&gt;http://t.co/U71uvnzOuZ&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/BigData?src=hash&quot;&gt;#BigData&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/history?src=hash&quot;&gt;#history&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/dhist?src=hash&quot;&gt;#dhist&lt;/a&gt;&lt;/p&gt;&amp;mdash; doinghistoryinpublic (@dhiptweets) &lt;a href=&quot;https://twitter.com/dhiptweets/status/637969086270599169&quot;&gt;August 30, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+&lt;p&gt;Luckily, someone canceled last minute so I was able to attend as a participant and head to Cambridge for the first time. The conference was hosted by a great group called &lt;a href=&quot;http://doinghistoryinpublic.org&quot;&gt;Doing History in Public&lt;/a&gt;. The conference was a day long and covered a whole host of topics - from web archiving to database and keyword searches to human geography and visualization. Marta Musso storified the twitter exchange &lt;a href=&quot;https://storify.com/martamusso/making-big-data-human&quot;&gt;here&lt;/a&gt;, which gives a good live feed of the conference, as well as some of my thoughts that I won’t rehash here. &lt;/p&gt;
+
+&lt;p&gt;So here are the (my) big thoughts from the conference:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. How do we deal with inconsistency and uncertainty in big data?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In the opening keynote, Jane Winters talked about the problems inherent to the patchiness of data collection, especially with respect to web archives. How do we know what’s missing in massive data set or the degree of accuracy in the data collection? Compounding this difficulty is the reliance of big data on keyword searching, algorithms, and curated web archives, which can be problematic when you consider how these entities may fail to show the gaps in data and flatten complexities though the presentation of materials (i.e. think a list of google search hits versus searching in physical archives). I don’t think this problem is actually an obstacle, but rather an opportunity to reconsider how we think and talk about our data in the humanities, allowing for some space between object and interpretation.&lt;/p&gt;
+
+&lt;p&gt;We also had a great discussion about the limitations of databases and queries. I think these discussions are signs of a growing scholarly critique of how data has been and continues to be collected and organized. Yet, we still have a long way to go for how we incorporate the reality of the patchiness of data into our scholarly research and interpretations. For example, we all know archives are abstractions but more often than not we hide many of the limitations of our studies in the footnotes. This approach is less productive in the context of big data, which requires fairly explicit discussion regarding the dataset’s specific parameters. Hopefully, the broader scope of evidence available through “big data” can help historians become a bit more honest about their data and analyses.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. How do we identity and work with institutional structures and overcome institutional obstacles to big data in the humanities?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A secondary and largely connected theme was that big data projects require] collaborations across disciplines, career stages, and institutions. The conference was great in actually bringing together scholars from across the sciences and the humanities. But it can be difficult to find collaborators in other departments. Furthermore, collaborating raises questions about the intellectual ownership of these digital projects, particularly for humanists who cannot program. In the UK and the EU more so than in the US, there’s a tendency to fund large scale big data initiatives, which is great for the scope of the project, but poses challenges regarding the division of labor between a single Primary Investigator and many postdocs and students. How this will be resolved remains to be seen, but clearly some of the best collaborations are happening on campuses were some type of infrastructure exists to encourage and facilitate cross-disciplinary collaborations.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. How do we define big data?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Lastly, we often returned to the theme of definitions and nomenclature in big data. How do we define big data? Is it merely a large data set? Or is a set of tools? Or even more profoundly, a new methodological and intellectual approach for the humanities? At the end of the conference, we still hadn’t come to one definitive answer, and like most things in the humanities, I doubt we ever will (which I actually think is a good thing).&lt;/p&gt;
+
+&lt;p&gt;Many of the speakers and participants in the conference almost immediately started slipping between big data and digital history, which for me raised questions of the overlap between the two. There was also a fairly strong critique over whether big data was anything new or simply the latest iteration of the computational approach first pioneered in the 60s and 70s. Personally, I believe that the changes in web technology and the ability to store and manipulate data has fundamentally altered the potential for big data and digital history, but placing this shift within the context of the early computing revolution is important for not overly exaggerating our current potential.&lt;/p&gt;
+
+&lt;p&gt;Connected to this question of definition is also a clear need for some way to evaluate the quality of big data and digital history projects. With the AHA releasing its guidelines this summer, clearly the profession is moving in that direction. However, at the conference, many of the critiques revolved around the absence of applying the same scholarly critiques to big data that are applied in more traditional scholarship. Bridging this gap is going to be tough, but increasingly departments are encouraging students and faculty to experiment with digital projects, which will hopefully lead to a more widespread engagement with big data across the humanities.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&quot;esscwh&quot;&gt;&lt;/a&gt;
+With these questions in mind, I jetted off to Rome for the &lt;a href=&quot;http://www.lse.ac.uk/IDEAS/Projects/Cold%20War%20Studies/Events/Cold%20War%20Summer%20School/CWSS2015CfP.aspx&quot;&gt;European Summer School on Cold War History&lt;/a&gt; . Organized by a consortium of European Universities, this year’s hosts were Università Roma Tre e Università Roma Tor Vergata. At the conference, I presented a paper on the impact of the Congo Crisis on Cairo, which I’ll hopefully blog about at a later date. I unfortunately didn’t tweet at all during the conference (I’m not sure anyone did actually), so I don’t have an overview of all the papers or discussions.&lt;/p&gt;
+
+&lt;p&gt;The conference itself was at the Societa Geografia Italiana, which is in a  gorgeous old italian villa in Rome.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://zoeleblanc.github.io/img/post-assets/romeview1.jpg&quot; alt=&quot;View from the conference&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://zoeleblanc.github.io/img/post-assets/romeview2.jpg&quot; alt=&quot;View from the conference&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Given that the Cold War spanned a huge swath of time, the papers at the conference covered a wide variety of topics. I won’t cover each one here, but just touch on some broader questions/topics.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. How do we define the Cold War?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Quite a bit of ink has been spilt on this question, but I was struck by how little we actually discussed the Cold War as an entity, given that this conference addressed the topic (which I actually think is a positive development, instead of getting stuck in circular arguments). I think what the Cold War means really depends on your particular research question. For my work, the Cold War is both a temporal marker and also a force that limits the space for third world solidarities. For others, the Cold War is a historical object that was constructed or a historical actor that shaped cultural identities. I think this multiplicity is a sign of the richness of the scholarship, but the conference did make me think more deeply about what the Cold War means for my work, and how a Cold War lens can illuminate different dynamics.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Rise of spatial and intellectual history lenses&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I was also quite pleased to see a number of scholars using spatial and intellectual history lenses, though often implicitly. I think that with the plethora of sources available to modern historians, we sometimes are a little more lazy with respect to the theoretical and analytical framing of our research. Yet, at the conference many of the papers engaged with these analytics, with a focus on spaces like ports and islands, as well as an emphasis on tracing intellectual histories of expertise and discourses. I’m always struck by the “emergent-ness” of scholarship around a particular lens. Did everyone just hear about these topics in their graduate seminars, or are we all truly the product of our times? Suppose the answer is probably a bit of both. I hope that this trend continues in part selfishly, because it’s the type of work I find most interesting, but also because I think it will truly open up new fruitful subfields of scholarship. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Pushback on transnational as a framework&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Although the term “transnational” was thrown around rather liberally at the conference, on the whole, most of the papers actually focused on local histories within internationalized dynamics, rather than transnational movements. While some stories are inherently transnational (international organizations for example), I think qualifying and limiting the use of transnational is important. Personally, I often feel that transnational histories tend to skew towards a neoliberal imaging of movement, which often ignores power dynamics and states, as well as ignoring the instrumentality of international solidarities/events for local spaces. In simpler terms, very few topics are truly transnational whereas I think most historians are actually working on local spaces that become internationalized, even if they’re studying social movements or the movements of goods. So I was quite pleased that even though I was at a conference on something profoundly global like the Cold War, the term transnational was not thrown around as liberally or loosely as I’ve seen in the past.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&quot;bigdatacoldwar&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;So now coming back to this question of how these two incredibly broad topics relate to one another. &lt;/p&gt;
+
+&lt;p&gt;The most obvious overlap is the corpus of materials from the Cold War, and how big data projects might help us understand these archives. This idea is increasingly becoming a reality with the use of digital cameras. However, unlike 19th century historians, Cold War historians still have to contend with copyright laws. In my research, this reality produces counterintuitive emphasis on declassified government documents over press materials, which are still under copyright law. &lt;/p&gt;
+
+&lt;p&gt;Big data methods also open the opportunity for truly global histories of the Cold War, using a scale of materials beyond the capacity of one researcher to synthesize. Many of the papers at the ESSCWH used multinational and multilingual sources. However, many of the applications for OCR and text mining privilege romantic languages, which at least for now limits and could potentially skew these types of projects. I’m still struggling with OCR on Arabic script, which makes it difficult to see large-scale patterns in the Arabic daily newspapers I work with.&lt;/p&gt;
+
+&lt;p&gt;Excepting these limits, big data provides incredible opportunities to visualize narratives in new ways, as well as to trace patterns over time and space. Ultimately, I think big data will help historians of the Cold War be more honest about the gaps in our data and our archives - an important and necessary shift for historians. &lt;/p&gt;
+
+&lt;p&gt;I also think that thinking about the Cold War can make us more critical about big data. First and foremost, much of higher education was shaped during the Cold War, especially disciplinary and departmental divisions. Historicizing these divisions is critical for opening up spaces for collaborations. At the moment most historians using big data are either using previously digitized or digitally born materials as the basis for their corpus. However, as OCR and cloud services improve, the potential for big data from text sources will increasingly become a reality. Most humanities scholars, and especially historians, are not equipped with the skills to work with these resources and so finding collaborators in the social and computer sciences is going to become critical. &lt;/p&gt;
+
+&lt;p&gt;Thinking about these questions together has, for me at least, started the wheels turning about  the obstacles of copyright, collaboration, and data collection that I think has prohibited Cold War historians from adopting more of the the digital history/big data methods employed by historians of other time periods. I hope that in the future, digital historians will more clearly illustrate the overlap between these two topics. Until then, I guess I’ll have to keep thinking about them, and hope you do too.&lt;/p&gt;
+
+&lt;p&gt;-Z&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Jump &lt;a href=&quot;#backtotop&quot;&gt;back to top&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Sadly yes this is a post about conferences and not how big data can solve the Cold War. Although I’m sure someone out there is working on that… &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Yes, twitter can be useful sometimes. I found this tweet after looking at the IHR digital history seminar page, I checked out their twitter stream &lt;a href=&quot;https://twitter.com/search?q=%23dhist&amp;amp;src=typd&quot;&gt;#dhist&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/IHRDigHist&quot;&gt;@IHRDigHist&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 14 Sep 2015 00:00:00 +0100</pubDate>
+        <link>https://zoeleblanc.github.io/big-data-cold-war</link>
+        <guid isPermaLink="true">https://zoeleblanc.github.io/big-data-cold-war</guid>
+        
+        
+        <category>digital</category>
+        
+        <category>academia</category>
+        
+        <category>history</category>
+        
+      </item>
     
       <item>
         <title>Starting Fresh</title>
@@ -23,11 +133,13 @@
 
 &lt;p&gt;If you’ve visited previous iterations of my personal site, you’ll find most of the same material. But under the hood this site is all new. For the last version of my site, I bought a turbo charged wordpress theme.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; But I quickly realized that I don’t need most of the features like a store front or members only area. &lt;/p&gt;
 
-&lt;p&gt;I really like the look of &lt;a href=&quot;&amp;quot;http://lincolnmullen.com&amp;quot;&quot;&gt;Lincoln Mullen&lt;/a&gt; and &lt;a href=&quot;&amp;quot;http://jasonheppler.org&amp;quot;&quot;&gt;Jason Heppler’s&lt;/a&gt; sites, so I decided to make the move to Jekyll and Markdown (both of which seem increasingly to be the norm for digital humanists). &lt;/p&gt;
+&lt;p&gt;I really like the look of &lt;a href=&quot;http://lincolnmullen.com&quot;&gt;Lincoln Mullen&lt;/a&gt; and &lt;a href=&quot;http://jasonheppler.org&quot;&gt;Jason Heppler’s&lt;/a&gt; sites, so I decided to make the move to Jekyll and Markdown (both of which seem increasingly to be the norm for digital humanists). &lt;/p&gt;
 
 &lt;p&gt;Already I’m loving the simplicity of building up the site from the basics of a theme I bought&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, and if you’re considering making the change, I would highly recommend it. Afterall, fall is for making fresh starts.&lt;/p&gt;
 
 &lt;p&gt;-Z&lt;/p&gt;
+
+&lt;p&gt;UPDATE: just found this post on the Chronicle on &lt;a href=&quot;http://chronicle.com/article/How-to-Curate-Your-Digital/151001/&quot;&gt;“How to Curate Your Digital Identity as an Academic”&lt;/a&gt;, which was kind of the impetus for this redesign. I’ve also tried to clean up my digital presence and get rid of all the half formed websites I’ve created over the years.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -59,7 +171,7 @@
       <item>
         <title>Workflow and Teaching</title>
         <description>&lt;blockquote&gt;
-  &lt;p&gt;This post was one I produced for my VIDL Series “In Pursuit of Digital Pedagogy”, which you can read &lt;a href=&quot;&amp;quot;https://my.vanderbilt.edu/vidl/2015/05/in-pursuit-of-digital-pedagogy-workflow-teaching/&amp;quot;&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;This post was one I produced for my VIDL Series “In Pursuit of Digital Pedagogy”, which you can read &lt;a href=&quot;https://my.vanderbilt.edu/vidl/2015/05/in-pursuit-of-digital-pedagogy-workflow-teaching/&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Now that the semester is over and grades are submitted, the campus feels like a sleepy oasis. Most professors and grad students are off doing research, and trying not to think of the fall. Yet, I think summer is perhaps the best time to start thinking about course planning, and especially about how to integrate digital pedagogy into the next semester. This past semester, one standout issue I noticed was the question of workflow and digital tools. In my experience, there are few things as secretive or idiosyncratic as an academic’s workflow.&lt;/p&gt;
@@ -110,14 +222,14 @@ With the continual releasing of new productivity tools, I find myself always wan
 &lt;h3 id=&quot;list-of-blog-posts-on-workflows&quot;&gt;List of blog posts on workflows&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;A great forum on digital research workflow at &lt;a href=&quot;&amp;quot;http://digitalhumanities.org/answers/topic/share-your-digital-research-workflow&amp;quot;&quot;&gt;Digital Humanities.org&lt;/a&gt; which resulted in the mega post for resources by Miriam Posner. An &lt;a href=&quot;&amp;quot;http://miriamposner.com/blog/embarrassments-of-riches-managing-research-assets/&amp;quot;&quot;&gt;“Embarrassment of Riches”&lt;/a&gt; is a must post for anyone looking to develop a digital workflow, and looking for a list of available tools (though one thing to note is that this post is from 2011).&lt;/li&gt;
-  &lt;li&gt;An example &lt;a href=&quot;&amp;quot;https://bubbl.us/mindmap?h=9cd6f/12f200/64X0rKA2wjvAU&amp;quot;&quot;&gt;mind map of a workflow by Shawn Graham&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;William J Turkel offers comprehensive guide for developing a digital workflow using either pay &lt;a href=&quot;&amp;quot;http://williamjturkel.net/how-to/&amp;quot; target=&amp;quot;_blank&amp;quot;&quot;&gt;for programs or a linux machine&lt;/a&gt;.  He also has a great post on using &lt;a href=&quot;&amp;quot;http://williamjturkel.net/2011/04/04/write-and-cluster/&amp;quot;&quot;&gt;Devonthink and Scrivener&lt;/a&gt;, which has helped me improve my use of these programs.&lt;/li&gt;
-  &lt;li&gt;Chad Black’s post I mentioned above also has a &lt;a href=&quot;&amp;quot;https://parezcoydigo.wordpress.com/2011/03/14/update-on-the-ever-changing-workflow/&amp;quot;&quot;&gt;great list of digital tools.&lt;/a&gt;. Black also has a post on using &lt;a href=&quot;&amp;quot;https://parezcoydigo.wordpress.com/2008/11/13/devonthink-for-historical-research-part-ii/&amp;quot;&quot;&gt;Devonthink to construct databases.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Dan Royles writes about &lt;a href=&quot;&amp;quot;http://chronicle.com/blogs/profhacker/digital-workflows-for-the-archives/53505&amp;quot;&quot;&gt;Digital Workflows for the archives&lt;/a&gt;, and he lists a number of tools that will be useful for various disciplines.&lt;/li&gt;
-  &lt;li&gt;Amy Cavender writes about &lt;a href=&quot;&amp;quot;http://chronicle.com/blogs/profhacker/keeping-the-workflow-simple/41281&amp;quot;&quot;&gt;Keeping the Workflow Simple&lt;/a&gt;, and her use of Byword and Dropbox.&lt;/li&gt;
-  &lt;li&gt;Lincoln Mullen has a great piece on &lt;a href=&quot;&amp;quot;http://chronicle.com/blogs/profhacker/how-to-make-prudent-choices-about-your-tools/51261&amp;quot;&quot;&gt;How to Make Prudent Choices About Your Tools for your workflow.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Jason Shafer has a helpful post on &lt;a href=&quot;&amp;quot;http://www.gradhacker.org/2011/08/12/going-paperless-from-day-one-digital-academic-workflow-for-grads/&amp;quot;&quot;&gt;Going Paperless from Day One: Digital Academic Workflow for Graduate Students&lt;/a&gt;, but that really applies to all academics.&lt;/li&gt;
+  &lt;li&gt;A great forum on digital research workflow at &lt;a href=&quot;http://digitalhumanities.org/answers/topic/share-your-digital-research-workflow&quot;&gt;Digital Humanities.org&lt;/a&gt; which resulted in the mega post for resources by Miriam Posner. An &lt;a href=&quot;http://miriamposner.com/blog/embarrassments-of-riches-managing-research-assets/&quot;&gt;“Embarrassment of Riches”&lt;/a&gt; is a must post for anyone looking to develop a digital workflow, and looking for a list of available tools (though one thing to note is that this post is from 2011).&lt;/li&gt;
+  &lt;li&gt;An example &lt;a href=&quot;https://bubbl.us/mindmap?h=9cd6f/12f200/64X0rKA2wjvAU&quot;&gt;mind map of a workflow by Shawn Graham&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;William J Turkel offers comprehensive guide for developing a digital workflow using either pay &lt;a href=&quot;http://williamjturkel.net/how-to/&quot;&gt;for programs or a linux machine&lt;/a&gt;.  He also has a great post on using &lt;a href=&quot;http://williamjturkel.net/2011/04/04/write-and-cluster/&quot;&gt;Devonthink and Scrivener&lt;/a&gt;, which has helped me improve my use of these programs.&lt;/li&gt;
+  &lt;li&gt;Chad Black’s post I mentioned above also has a &lt;a href=&quot;https://parezcoydigo.wordpress.com/2011/03/14/update-on-the-ever-changing-workflow/&quot;&gt;great list of digital tools.&lt;/a&gt;. Black also has a post on using &lt;a href=&quot;https://parezcoydigo.wordpress.com/2008/11/13/devonthink-for-historical-research-part-ii/&quot;&gt;Devonthink to construct databases.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Dan Royles writes about &lt;a href=&quot;http://chronicle.com/blogs/profhacker/digital-workflows-for-the-archives/53505&quot;&gt;Digital Workflows for the archives&lt;/a&gt;, and he lists a number of tools that will be useful for various disciplines.&lt;/li&gt;
+  &lt;li&gt;Amy Cavender writes about &lt;a href=&quot;http://chronicle.com/blogs/profhacker/keeping-the-workflow-simple/41281&quot;&gt;Keeping the Workflow Simple&lt;/a&gt;, and her use of Byword and Dropbox.&lt;/li&gt;
+  &lt;li&gt;Lincoln Mullen has a great piece on &lt;a href=&quot;http://chronicle.com/blogs/profhacker/how-to-make-prudent-choices-about-your-tools/51261&quot;&gt;How to Make Prudent Choices About Your Tools for your workflow.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Jason Shafer has a helpful post on &lt;a href=&quot;http://www.gradhacker.org/2011/08/12/going-paperless-from-day-one-digital-academic-workflow-for-grads/&quot;&gt;Going Paperless from Day One: Digital Academic Workflow for Graduate Students&lt;/a&gt;, but that really applies to all academics.&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
@@ -137,28 +249,28 @@ With the continual releasing of new productivity tools, I find myself always wan
       <item>
         <title>Citizen Journalism and Video Essays</title>
         <description>&lt;blockquote&gt;
-  &lt;p&gt;This post was one I produced for my VIDL Series “In Pursuit of Digital Pedagogy”, which you can read &lt;a href=&quot;&amp;quot;https://my.vanderbilt.edu/vidl/2015/04/in-pursuit-of-digital-pedagogy-3/&amp;quot;&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;This post was one I produced for my VIDL Series “In Pursuit of Digital Pedagogy”, which you can read &lt;a href=&quot;https://my.vanderbilt.edu/vidl/2015/04/in-pursuit-of-digital-pedagogy-3/&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h3 id=&quot;in-pursuit-of-digital-pedagogy-a-series-on-digital-tools-in-the-classroom&quot;&gt;In Pursuit of Digital Pedagogy: A Series on Digital Tools in the Classroom&lt;/h3&gt;
 
-&lt;p&gt;New to the series? Check out &lt;a href=&quot;&amp;quot;https://my.vanderbilt.edu/vidl/2015/03/in-pursuit-of-digital-pedagogy-citizen-journalism-infographics/&amp;quot;&quot;&gt;Part I&lt;/a&gt; and &lt;a href=&quot;&amp;quot;https://my.vanderbilt.edu/vidl/2015/04/in-pursuit-of-digital-pedagogy-citizen-journalism-multimedia-essays/&amp;quot;&quot;&gt;Part II&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;New to the series? Check out &lt;a href=&quot;https://my.vanderbilt.edu/vidl/2015/03/in-pursuit-of-digital-pedagogy-citizen-journalism-infographics/&quot;&gt;Part I&lt;/a&gt; and &lt;a href=&quot;https://my.vanderbilt.edu/vidl/2015/04/in-pursuit-of-digital-pedagogy-citizen-journalism-multimedia-essays/&quot;&gt;Part II&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;So we’re finally at the end of this series on Citizen Journalism, and as is often the case the end point is much different than the one I envisioned in September when I first proposed the idea to the VIDL team. Since my first forays into this method, I’ve learned a number of new digital tools, explored alternatives to Citizen Journalism, and finally, created what I hope is a productive and effective alternative method for teaching - Citizen Research.&lt;/p&gt;
 
-&lt;p&gt;For this final post, I continued my infographic/multimedia essay piece, but I also blogged on this method of Citizen research, so read the post . You can find the final post &lt;a href=&quot;&amp;quot;https://medium.com/@zoe_leblanc/in-pursuit-of-digital-pedagogy-a-vidl-blog-post-citizen-researcher-digitally-born-pedagogies-73461331e735&amp;quot;&quot;&gt;here at Medium&lt;/a&gt; and let me know what you think about the overall use of this tool to ‘make’ my argument.&lt;/p&gt;
+&lt;p&gt;For this final post, I continued my infographic/multimedia essay piece, but I also blogged on this method of Citizen research, so read the post . You can find the final post &lt;a href=&quot;https://medium.com/@zoe_leblanc/in-pursuit-of-digital-pedagogy-a-vidl-blog-post-citizen-researcher-digitally-born-pedagogies-73461331e735&quot;&gt;here at Medium&lt;/a&gt; and let me know what you think about the overall use of this tool to ‘make’ my argument.&lt;/p&gt;
 
-&lt;p&gt;In addition to the infographic/multimedia essay, I also decided that for my final piece I would try out Mozilla’s Popcorn Maker and make my own video essay. Whether the end result was successful remains to be seen, I figured that I should continue my forays into learning new tools/methods with each post so please bare with my video essay. After reading the Picktochart post, check out this connected video &lt;a href=&quot;&amp;quot;https://zoeleblanc.makes.org/popcorn/2mb9&amp;quot;&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In addition to the infographic/multimedia essay, I also decided that for my final piece I would try out Mozilla’s Popcorn Maker and make my own video essay. Whether the end result was successful remains to be seen, I figured that I should continue my forays into learning new tools/methods with each post so please bare with my video essay. After reading the Picktochart post, check out this connected video &lt;a href=&quot;https://zoeleblanc.makes.org/popcorn/2mb9&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;So what is a video essay?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;After watching my video, you might still have this question and all I can say in my defense is that this video is my first and I won’t be quitting my day job to be a video editor anytime soon. Nonetheless, I feel the video essay was actually ideal for my argument, as I was making an original argument that could benefit from some dramatic music and stirring visuals. Furthermore, my argument lacked any data visualizations or primary source materials.&lt;/p&gt;
 
-&lt;p&gt;Royal Roads University provides a good overview of video essays &lt;a href=&quot;&amp;quot;http://libguides.royalroads.ca/mediaelements&amp;quot;&quot;&gt;here&lt;/a&gt;. The site defines video essays as using: “audiovisual materials to present research or explore topics. Like written essays, they may contain an introduction, argument, supporting evidence, and conclusion.”&lt;/p&gt;
+&lt;p&gt;Royal Roads University provides a good overview of video essays &lt;a href=&quot;http://libguides.royalroads.ca/mediaelements&quot;&gt;here&lt;/a&gt;. The site defines video essays as using: “audiovisual materials to present research or explore topics. Like written essays, they may contain an introduction, argument, supporting evidence, and conclusion.”&lt;/p&gt;
 
 &lt;p&gt;Similar to textual ones, a key aspect to video essays is the narrative. A video essay allows for the visualization of a story and/or argument through a combination of imagery, audio, video, and sometimes text.&lt;/p&gt;
 
-&lt;p&gt;Some great examples of video essays include Matthias Stork’s &lt;a href=&quot;&amp;quot;http://www.slate.com/blogs/browbeat/2013/01/15/movies_and_video_games_watch_a_great_video_essay_on_transmedia_video.html&amp;quot;&quot;&gt;“Transmedia Synergies: Remediating Films and Video Games”&lt;/a&gt;, which examines the relationship between movies and video games. Another great resource is Delve.tv, which is a site dedicated to creating video essays on complex ideas - you can check out &lt;a href=&quot;&amp;quot;http://delve.tv/essays/&amp;quot;&quot;&gt;their essays&lt;/a&gt;. These examples demonstrate the potential for video essays when you can get high enough production value. A series of student productions can also be found at &lt;a href=&quot;&amp;quot;http://videoessays.tumblr.com/&amp;quot;&quot;&gt;http://videoessays.tumblr.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Some great examples of video essays include Matthias Stork’s &lt;a href=&quot;http://www.slate.com/blogs/browbeat/2013/01/15/movies_and_video_games_watch_a_great_video_essay_on_transmedia_video.html&quot;&gt;“Transmedia Synergies: Remediating Films and Video Games”&lt;/a&gt;, which examines the relationship between movies and video games. Another great resource is Delve.tv, which is a site dedicated to creating video essays on complex ideas - you can check out &lt;a href=&quot;http://delve.tv/essays/&quot;&gt;their essays&lt;/a&gt;. These examples demonstrate the potential for video essays when you can get high enough production value. A series of student productions can also be found at &lt;a href=&quot;http://videoessays.tumblr.com/&quot;&gt;http://videoessays.tumblr.com/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;So why video essays? And how can video essays work in the classroom?&lt;/strong&gt;&lt;/p&gt;
 
@@ -166,11 +278,11 @@ With the continual releasing of new productivity tools, I find myself always wan
 
 &lt;p&gt;Nonetheless, I think that video essays are useful in the classroom but that I would caution that if like me you are a novice with audiovisual then be sure to bring in an expert and perhaps try out making your own video before you assign one. There are a number of conventions about videos that I completely ignored, and next time I would hope to do more preparatory work on how to pace and visualize my argument.&lt;/p&gt;
 
-&lt;p&gt;The last issue to consider with video essays, though this point is true for all online work, is the question of intellectual property and creative ownership. Unless you are shooting your own material for your video essay, you will likely be remixing videos and images that you find online. Contrary to academic standards of intellectual property, remixing is a completely acceptable and legal form of creative work. However, a key point for both educators and students is engaging with online standards of intellectual ownership - namely, the Creative Commons licenses. You can read more about the various types of Creative Commons licenses &lt;a href=&quot;&amp;quot;https://creativecommons.org/licenses/&amp;quot;&quot;&gt;here&lt;/a&gt;, but generally speaking many of the videos on YouTube or Vimeo are available for use under some version of Creative Commons licenses. You can search on those sites for videos with certain licenses, and I would recommend using either Attribution, Attribution-ShareAlike, and/or Attribution-NonCommercial-ShareAlike. Using the Creative Commons licenses is also a great exercise for discussing the broader question of what constitutes intellectual property and academic standards of plagiarism.&lt;/p&gt;
+&lt;p&gt;The last issue to consider with video essays, though this point is true for all online work, is the question of intellectual property and creative ownership. Unless you are shooting your own material for your video essay, you will likely be remixing videos and images that you find online. Contrary to academic standards of intellectual property, remixing is a completely acceptable and legal form of creative work. However, a key point for both educators and students is engaging with online standards of intellectual ownership - namely, the Creative Commons licenses. You can read more about the various types of Creative Commons licenses &lt;a href=&quot;https://creativecommons.org/licenses/&quot;&gt;here&lt;/a&gt;, but generally speaking many of the videos on YouTube or Vimeo are available for use under some version of Creative Commons licenses. You can search on those sites for videos with certain licenses, and I would recommend using either Attribution, Attribution-ShareAlike, and/or Attribution-NonCommercial-ShareAlike. Using the Creative Commons licenses is also a great exercise for discussing the broader question of what constitutes intellectual property and academic standards of plagiarism.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;So what tools should you use and how difficult is it to make video essays?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;To make my video essay, I used Mozilla’s free tool &lt;a href=&quot;&amp;quot;https://popcorn.webmaker.org/&amp;quot;&quot;&gt;popcorn maker&lt;/a&gt;, which allows you to use video clips from YouTube or Vimeo, images, audio, and text to create a web hosted video. Popcorn maker is fairly straightforward and easy to use, with drag and drop functionality. At times the site could be glitchy, but for a free tool it worked pretty consistently. The other benefit is that you can share and embed the videos fairly easily.&lt;/p&gt;
+&lt;p&gt;To make my video essay, I used Mozilla’s free tool &lt;a href=&quot;https://popcorn.webmaker.org/&quot;&gt;popcorn maker&lt;/a&gt;, which allows you to use video clips from YouTube or Vimeo, images, audio, and text to create a web hosted video. Popcorn maker is fairly straightforward and easy to use, with drag and drop functionality. At times the site could be glitchy, but for a free tool it worked pretty consistently. The other benefit is that you can share and embed the videos fairly easily.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Overall Assessment of Mozilla Popcorn Maker&lt;/strong&gt;&lt;/p&gt;
 
@@ -186,7 +298,7 @@ Ability to Integrate into Curriculum: B- (depending on your previous experience 
 
 &lt;p&gt;&lt;strong&gt;Alternative tools?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;In addition to Popcorn Maker, I also wanted to mention some additional tools for video essays. First is iMovie for Macs or iSkysoft for PCs, which are two desktop options that are supposed to be fairly easy to use and offer more customization and templates then Popcorn Maker. However, if you want a web application I would also recommend checking out &lt;a href=&quot;&amp;quot;http://www.educanon.com/index&amp;quot;&quot;&gt;eduCanon&lt;/a&gt;. EduCanon is a free site for educators to use in the classroom that allows you to create videos with embedded content like quizzes and additional information. I haven’t used any of these tools, but all of them seem promising alternatives that have their own pros and cons.&lt;/p&gt;
+&lt;p&gt;In addition to Popcorn Maker, I also wanted to mention some additional tools for video essays. First is iMovie for Macs or iSkysoft for PCs, which are two desktop options that are supposed to be fairly easy to use and offer more customization and templates then Popcorn Maker. However, if you want a web application I would also recommend checking out &lt;a href=&quot;http://www.educanon.com/index&quot;&gt;eduCanon&lt;/a&gt;. EduCanon is a free site for educators to use in the classroom that allows you to create videos with embedded content like quizzes and additional information. I haven’t used any of these tools, but all of them seem promising alternatives that have their own pros and cons.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Final Thoughts&lt;/strong&gt;&lt;/p&gt;
 
@@ -215,14 +327,14 @@ Ability to Integrate into Curriculum: B- (depending on your previous experience 
       <item>
         <title>Citizen Journalism and Multimedia Essays</title>
         <description>&lt;blockquote&gt;
-  &lt;p&gt;This post was one I produced for my VIDL Series “In Pursuit of Digital Pedagogy”, which you can read &lt;a href=&quot;&amp;quot;https://my.vanderbilt.edu/vidl/2015/04/in-pursuit-of-digital-pedagogy-2/&amp;quot;&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;This post was one I produced for my VIDL Series “In Pursuit of Digital Pedagogy”, which you can read &lt;a href=&quot;https://my.vanderbilt.edu/vidl/2015/04/in-pursuit-of-digital-pedagogy-2/&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h3 id=&quot;in-pursuit-of-digital-pedagogy-a-series-on-digital-tools-in-the-classroom&quot;&gt;In Pursuit of Digital Pedagogy: A Series on Digital Tools in the Classroom&lt;/h3&gt;
 
-&lt;p&gt;So now that you’ve seen my first ‘infographic’ on Citizen Journalism (or in case you haven’t click &lt;a href=&quot;&amp;quot;https://my.vanderbilt.edu/vidl/2014/12/in-pursuit-of-digital-pedagogy-citizen-journalism-infographics&amp;quot;&quot;&gt;here&lt;/a&gt;, and hopefully you’re at least intrigued by this idea of Citizen Journalism in the classroom, but wondering how will this all work.&lt;/p&gt;
+&lt;p&gt;So now that you’ve seen my first ‘infographic’ on Citizen Journalism (or in case you haven’t click &lt;a href=&quot;https://my.vanderbilt.edu/vidl/2014/12/in-pursuit-of-digital-pedagogy-citizen-journalism-infographics&quot;&gt;here&lt;/a&gt;, and hopefully you’re at least intrigued by this idea of Citizen Journalism in the classroom, but wondering how will this all work.&lt;/p&gt;
 
-&lt;p&gt;Well sit back and enjoy &lt;a href=&quot;&amp;quot;https://magic.piktochart.com/output/2790193-citizen-journalism-digital-learn&amp;quot;&quot;&gt;my second post in this series on Citizen Journalism and Digital Pedagogy&lt;/a&gt;. Hopefully, I can convince you of the utility of this pedagogy, while also providing some models for how to incorporate this methodology in your classroom. Have you tried something similar before? Let me know about your experiences and whether you think this method could work for you.&lt;/p&gt;
+&lt;p&gt;Well sit back and enjoy &lt;a href=&quot;https://magic.piktochart.com/output/2790193-citizen-journalism-digital-learn&quot;&gt;my second post in this series on Citizen Journalism and Digital Pedagogy&lt;/a&gt;. Hopefully, I can convince you of the utility of this pedagogy, while also providing some models for how to incorporate this methodology in your classroom. Have you tried something similar before? Let me know about your experiences and whether you think this method could work for you.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;p&gt;So returning to my meta-approach of discussing Digital Pedagogy, in this post I want to talk about what I accidentally created - a multimedia essay.&lt;/p&gt;
@@ -231,7 +343,7 @@ Ability to Integrate into Curriculum: B- (depending on your previous experience 
 
 &lt;p&gt;&lt;strong&gt;So what is a multimedia essay?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;A multimedia essay is a type of digital narrative that uses multiple mediums to represent an argument. A lot of the online discussions of multimedia discuss the broader implications for a communications revolution, or how this method is tied to multimodal learning environments. This post is more focused on using multimedia essays in the classroom, but if you want to find out more check out the wiki page on Multimodality &lt;a href=&quot;&amp;quot;https://en.wikipedia.org/wiki/Multimodality&amp;quot;&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A multimedia essay is a type of digital narrative that uses multiple mediums to represent an argument. A lot of the online discussions of multimedia discuss the broader implications for a communications revolution, or how this method is tied to multimodal learning environments. This post is more focused on using multimedia essays in the classroom, but if you want to find out more check out the wiki page on Multimodality &lt;a href=&quot;https://en.wikipedia.org/wiki/Multimodality&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Multimedia essays can comprise of a powerpoint presentations, remixed videos, imbedded blog posts, or really any combination of multimedia resources to make an argument. Similar to a written essay, a multimedia essay still requires an argument and supporting evidence, as well as issues of flow and relevance. The benefit of multimedia essays is to allow for a greater range of creativity for your students, and force them to think through how they are representing their argument. Many of my students often to struggle to understand how in the written form their argument can be confusing or poorly structured. In visualizing the argument in a different medium, students are forced to further think through the structure and evidence of their argument, which can assist students in seeing the holes in their argumentation.&lt;/p&gt;
 
@@ -250,13 +362,13 @@ Ability to Integrate into Curriculum: B- (depending on your previous experience 
 &lt;p&gt;As I mentioned above, the idea of multimedia essays has been around for some time and is quite popular so a quick google search will produce lots of results. Some of the resources I found useful include:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Verena Kick’s HASTAC post &lt;a href=&quot;&amp;quot;http://www.hastac.org/blogs/vkick/2014/11/18/media-assignments-%E2%80%93-experiments-experiences-examples&amp;quot;&quot;&gt;Media assignments – experiments, experiences, examples?&lt;/a&gt;poses the questions of what are media assignments and how do you assess them. Her post has a number of useful comments from HASTAC members.&lt;/li&gt;
-  &lt;li&gt;Amanada Starling Gould’s HASTAC post &lt;a href=&quot;&amp;quot;http://www.hastac.org/blogs/amanda-starling-gould/2014/02/02/digital-pedagogy-project-teaching-transmedia-essay&amp;quot;&quot;&gt;Digital Pedagogy Project: Teaching the Transmedia Essay&lt;/a&gt; discusses her course on ‘Augmenting Realities’. Amanda had her students write ‘transmedia essays’ and create (re)mediated elements. On her HASTAC post, she provides in-depth assignment outline and assessment guidelines, detailing how the essay should involve multiple medias to visualize their projects. I would highly recommend reading the blog but my favorite part was her final section on the results which I’ve excerpted:
+  &lt;li&gt;Verena Kick’s HASTAC post &lt;a href=&quot;http://www.hastac.org/blogs/vkick/2014/11/18/media-assignments-%E2%80%93-experiments-experiences-examples&quot;&gt;Media assignments – experiments, experiences, examples?&lt;/a&gt;poses the questions of what are media assignments and how do you assess them. Her post has a number of useful comments from HASTAC members.&lt;/li&gt;
+  &lt;li&gt;Amanada Starling Gould’s HASTAC post &lt;a href=&quot;http://www.hastac.org/blogs/amanda-starling-gould/2014/02/02/digital-pedagogy-project-teaching-transmedia-essay&quot;&gt;Digital Pedagogy Project: Teaching the Transmedia Essay&lt;/a&gt; discusses her course on ‘Augmenting Realities’. Amanda had her students write ‘transmedia essays’ and create (re)mediated elements. On her HASTAC post, she provides in-depth assignment outline and assessment guidelines, detailing how the essay should involve multiple medias to visualize their projects. I would highly recommend reading the blog but my favorite part was her final section on the results which I’ve excerpted:
     &lt;ul&gt;
       &lt;li&gt;“The students wrote rather complex and thoughtful essays that integrated a wide range of ‘media elements’ that they created to complement, challenge, or construct their critical arguments. They coded chat bots, programmed new digital humanities text analysis tools, created digital video games, mapped narrative structures and set EEG brain waves to music. They posted their transmedia essays in a web journal they titled Augmenting Realities: How We View and Shape Our World. Each student created a page here for his/her project. Additionally, they collaboratively authored several pages including the introduction and topical bibliography.”&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;My all time favorite example is the &lt;em&gt;Documenting Culture: LA Art Worlds&lt;/em&gt; course taught at UCLS in conjunction with the Fowler Museum. This course taught by Prof. Aparna Sharma, Emily Zeamer, Will O’Loughlen, and Meena Murugesan focused on the use of visual and digital media to document and study the artistic spaces and practices of LA. The course features a beautiful website and you can check out the syllabus here: &lt;a href=&quot;&amp;quot;https://drive.google.com/file/d/0B1SMJT_M-dOpbmo3VFA4YlhQbHc/edit&amp;quot;&quot;&gt;https://drive.google.com/file/d/0B1SMJT_M-dOpbmo3VFA4YlhQbHc/edit&lt;/a&gt;. Teaching field research, digital creation, and archival practices, this course zooms in on the potential of multimedia essays and uses them as the final assignment. You can see what the students produced here &lt;a href=&quot;&amp;quot;http://documentingculture.com/category/assignment/multimedia-essay/&amp;quot;&quot;&gt;http://documentingculture.com/category/assignment/multimedia-essay/&lt;/a&gt; and examine how the instructors embedded multiple mediums and technologies within the course.&lt;/li&gt;
+  &lt;li&gt;My all time favorite example is the &lt;em&gt;Documenting Culture: LA Art Worlds&lt;/em&gt; course taught at UCLS in conjunction with the Fowler Museum. This course taught by Prof. Aparna Sharma, Emily Zeamer, Will O’Loughlen, and Meena Murugesan focused on the use of visual and digital media to document and study the artistic spaces and practices of LA. The course features a beautiful website and you can check out the syllabus here: &lt;a href=&quot;https://drive.google.com/file/d/0B1SMJT_M-dOpbmo3VFA4YlhQbHc/edit&quot;&gt;https://drive.google.com/file/d/0B1SMJT_M-dOpbmo3VFA4YlhQbHc/edit&lt;/a&gt;. Teaching field research, digital creation, and archival practices, this course zooms in on the potential of multimedia essays and uses them as the final assignment. You can see what the students produced here &lt;a href=&quot;http://documentingculture.com/category/assignment/multimedia-essay/&quot;&gt;http://documentingculture.com/category/assignment/multimedia-essay/&lt;/a&gt; and examine how the instructors embedded multiple mediums and technologies within the course.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;Final Thoughts&lt;/strong&gt;&lt;/p&gt;
@@ -286,18 +398,18 @@ Ability to Integrate into Curriculum: B- (depending on your previous experience 
       <item>
         <title>Citizen Journalism and Infographics</title>
         <description>&lt;blockquote&gt;
-  &lt;p&gt;This post was one I produced for my VIDL Series “In Pursuit of Digital Pedagogy”, which you can read &lt;a href=&quot;&amp;quot;https://my.vanderbilt.edu/vidl/2015/04/in-pursuit-of-digital-pedagogy-1/&amp;quot;&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;This post was one I produced for my VIDL Series “In Pursuit of Digital Pedagogy”, which you can read &lt;a href=&quot;https://my.vanderbilt.edu/vidl/2015/04/in-pursuit-of-digital-pedagogy-1/&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h3 id=&quot;in-pursuit-of-digital-pedagogy-a-series-on-digital-tools-in-the-classroom&quot;&gt;In Pursuit of Digital Pedagogy: A Series on Digital Tools in the Classroom&lt;/h3&gt;
 
 &lt;p&gt;For this post, I decided to &lt;em&gt;investigate&lt;/em&gt; a digitally based methodology that I have often stumbled upon but yet to try - &lt;em&gt;Citizen Journalism&lt;/em&gt;. If you are unfamiliar with the term, I would suggest that you do a quick web search just to see the wealth of examples and debates about Citizen Journalism.&lt;/p&gt;
 
-&lt;p&gt;What attracted me to this method was the ethos of Citizen Journalism, which emphasizes the use of digital and open source tools to collaborate and be engaged as citizens. To explore this method, I decided to adopt a meta-approach of trying out a potential digital tool that I wanted to use in my classroom as a medium for my post. I explain the methodology of Citizen Journalism in my first infographic so click &lt;a href=&quot;&amp;quot;https://magic.piktochart.com/output/2690247-the-rise-of-citizen-journalism-c&amp;quot;&quot;&gt;here&lt;/a&gt; to see how this method could work for you.&lt;/p&gt;
+&lt;p&gt;What attracted me to this method was the ethos of Citizen Journalism, which emphasizes the use of digital and open source tools to collaborate and be engaged as citizens. To explore this method, I decided to adopt a meta-approach of trying out a potential digital tool that I wanted to use in my classroom as a medium for my post. I explain the methodology of Citizen Journalism in my first infographic so click &lt;a href=&quot;https://magic.piktochart.com/output/2690247-the-rise-of-citizen-journalism-c&quot;&gt;here&lt;/a&gt; to see how this method could work for you.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;So what is an infographic?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Don’t worry if you’ve never heard of an infographic, the concept is pretty straight forward. To quote Wikipedia, &lt;a href=&quot;&amp;quot;https://en.wikipedia.org/wiki/Infographic&amp;quot;&quot;&gt;“Information graphics or infographics are graphic visual representations of information, data or knowledge intended to present complex information quickly and clearly”&lt;/a&gt;. In my opinion, infographics or infograms are a great method for creating an eye catching visualization of an argument that forces both the ‘producer’ and ‘consumer’ to actively consider how information is presented and organized. This method is particularly suited to visualizing data or analyzing visual media.&lt;/p&gt;
+&lt;p&gt;Don’t worry if you’ve never heard of an infographic, the concept is pretty straight forward. To quote Wikipedia, &lt;a href=&quot;https://en.wikipedia.org/wiki/Infographic&quot;&gt;“Information graphics or infographics are graphic visual representations of information, data or knowledge intended to present complex information quickly and clearly”&lt;/a&gt;. In my opinion, infographics or infograms are a great method for creating an eye catching visualization of an argument that forces both the ‘producer’ and ‘consumer’ to actively consider how information is presented and organized. This method is particularly suited to visualizing data or analyzing visual media.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;So why infographics? And how can infographics work in the classroom?&lt;/strong&gt;&lt;/p&gt;
 
@@ -313,7 +425,7 @@ Ability to Integrate into Curriculum: B- (depending on your previous experience 
 
 &lt;p&gt;Most humanities classes usually assign a smaller, low stakes writing assignment in the first few weeks of a course to get students thinking about larger paper topics and exposed to academic writing conventions. While, I’m still a proponent of writing assignments, I believe using an infographic can further the overall goal of these assignments.&lt;/p&gt;
 
-&lt;p&gt;So instead of a first writing assignment have your students build an infographic about whatever issue or problem relates to your course. Be sure to walk through with students on how to use an infographic and the principles of good design. If you google for design tips for infographics you’ll find lots of hits, and I personally found the &lt;a href=&quot;&amp;quot;https://www.reddit.com/r/Infographics/&amp;quot;&quot;&gt;subreddit Infographics&lt;/a&gt; helpful.&lt;/p&gt;
+&lt;p&gt;So instead of a first writing assignment have your students build an infographic about whatever issue or problem relates to your course. Be sure to walk through with students on how to use an infographic and the principles of good design. If you google for design tips for infographics you’ll find lots of hits, and I personally found the &lt;a href=&quot;https://www.reddit.com/r/Infographics/&quot;&gt;subreddit Infographics&lt;/a&gt; helpful.&lt;/p&gt;
 
 &lt;p&gt;Next step, have your students post their infographic to the course website or virtual collaborative space, and either in class or digitally have your students comment and offer suggestions on the infographics. Revising an infographic seems more low-stakes than revising an entire essay, but the results can be just as worthwhile.&lt;/p&gt;
 
@@ -325,9 +437,9 @@ Ability to Integrate into Curriculum: B- (depending on your previous experience 
 
 &lt;p&gt;Before starting this project, I had always wanted to try out making my own infographic but had zero previous experience. [Full disclosure, I wish I had spent more time on thinking and reading about design prior to making my infographics.] If like me you’re a neophyte when it comes to design, this assignment may be a great opportunity to either bring in an outside expert from campus or the public to talk about design prior to staring the assignment.&lt;/p&gt;
 
-&lt;p&gt;In terms of tools, I tried out two free tools: &lt;a href=&quot;&amp;quot;https://infogr.am/&amp;quot;&quot;&gt;Infogr.am&lt;/a&gt; and &lt;a href=&quot;&amp;quot;https://magic.piktochart.com/&amp;quot;&quot;&gt;Piktochart&lt;/a&gt;. Both tools are user friendly and allow for a diverse range of multimedia in the infographic. For this project, I decided to use Piktochart because of the wider ability to embed media. However, if I wanted to visualize any graphs I probably would have chosen Infogram.&lt;/p&gt;
+&lt;p&gt;In terms of tools, I tried out two free tools: &lt;a href=&quot;https://infogr.am/&quot;&gt;Infogr.am&lt;/a&gt; and &lt;a href=&quot;https://magic.piktochart.com/&quot;&gt;Piktochart&lt;/a&gt;. Both tools are user friendly and allow for a diverse range of multimedia in the infographic. For this project, I decided to use Piktochart because of the wider ability to embed media. However, if I wanted to visualize any graphs I probably would have chosen Infogram.&lt;/p&gt;
 
-&lt;p&gt;Piktochart was really easy to use and allowed me to move around images, pictures, and embed videos from Youtube and Vimeo. I particularly enjoyed the easy of uploading images and the fairly wide range of graphics already available on the site. I started my infographics from scratch but there are numerous templates to choose from for free. Finally, Piktochart allows continuous web publishing, has a slideshow capability, and looks really clean and powerful when finished. One difficulty was embedding piktochart onto my Wordpress blog, which initially didn’t work great. Luckily, there is a free &lt;a href=&quot;&amp;quot;https://github.com/birgire/wp-piktochart-embed&amp;quot;&quot;&gt;github Wordpress shortcode&lt;/a&gt; for Piktochart that you can easily upload into your plugins and works seemlessly with Piktochart.&lt;/p&gt;
+&lt;p&gt;Piktochart was really easy to use and allowed me to move around images, pictures, and embed videos from Youtube and Vimeo. I particularly enjoyed the easy of uploading images and the fairly wide range of graphics already available on the site. I started my infographics from scratch but there are numerous templates to choose from for free. Finally, Piktochart allows continuous web publishing, has a slideshow capability, and looks really clean and powerful when finished. One difficulty was embedding piktochart onto my Wordpress blog, which initially didn’t work great. Luckily, there is a free &lt;a href=&quot;https://github.com/birgire/wp-piktochart-embed&quot;&gt;github Wordpress shortcode&lt;/a&gt; for Piktochart that you can easily upload into your plugins and works seemlessly with Piktochart.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Overall Assessment of Piktochart&lt;/strong&gt;&lt;/p&gt;
 
@@ -347,9 +459,9 @@ Ability to Integrate into Curriculum: A
 
 &lt;p&gt;&lt;strong&gt;Want more information?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Check out The Vanderbilt CFT’s great guide on Visualization and Teaching, which has a section on infographics that you can look at &lt;a href=&quot;&amp;quot;http://cft.vanderbilt.edu/guides-sub-pages/visual-thinking/#dataviz&amp;quot;&quot;&gt;here&lt;/a&gt;. On HASTAC, Lorna Gonzalez has a &lt;a href=&quot;&amp;quot;http://www.hastac.org/blogs/lorna-gonzalez/2014/02/13/infovisual-literacy-teaching-ela-high-school&amp;quot;&quot;&gt;post&lt;/a&gt; about using infographics in the High School classroom, and provides a lot of detailed analysis on initial setup, working through the assignment, and assessment.&lt;/p&gt;
+&lt;p&gt;Check out The Vanderbilt CFT’s great guide on Visualization and Teaching, which has a section on infographics that you can look at &lt;a href=&quot;http://cft.vanderbilt.edu/guides-sub-pages/visual-thinking/#dataviz&quot;&gt;here&lt;/a&gt;. On HASTAC, Lorna Gonzalez has a &lt;a href=&quot;http://www.hastac.org/blogs/lorna-gonzalez/2014/02/13/infovisual-literacy-teaching-ela-high-school&quot;&gt;post&lt;/a&gt; about using infographics in the High School classroom, and provides a lot of detailed analysis on initial setup, working through the assignment, and assessment.&lt;/p&gt;
 
-&lt;p&gt;Have you tried using infographics in your classroom? If you haven’t what are the concerns that keep you from trying? If you have, any tips or suggestions? I would love to hear about your experiences so please comment or &lt;a href=&quot;&amp;quot;//twitter.com/home/?status=@Zoe_LeBlanc&amp;quot;&quot;&gt;tweet me&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Have you tried using infographics in your classroom? If you haven’t what are the concerns that keep you from trying? If you have, any tips or suggestions? I would love to hear about your experiences so please comment or &lt;a href=&quot;http://twitter.com/home/?status=@Zoe_LeBlanc&quot;&gt;tweet me&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Now to visualize ALL the things.&lt;/p&gt;
 
@@ -383,22 +495,22 @@ Ability to Integrate into Curriculum: A
 &lt;p&gt;&lt;img src=&quot;https://zoeleblanc.github.io/img/post-assets/picofvandyice.jpg&quot; alt=&quot;picofvandyice&quot; /&gt;
 Picture of Ice on Vanderbilt Campus by @ewillmot&lt;/p&gt;
 
-&lt;p&gt;Using the twitter tag &lt;a href=&quot;&amp;quot;https://twitter.com/hashtag/tspotter?f=realtime&amp;amp;src=hash&amp;quot;&quot;&gt;#tspotter&lt;/a&gt;, I used Martin Hawksey’s &lt;a href=&quot;&amp;quot;https://tags.hawksey.info/get-tags/&amp;quot; target=&amp;quot;_blank&amp;quot;&quot;&gt;TAGS API&lt;/a&gt; to analyze the network data. TAGS is much easier to use than Gephi or other network analysis tools, and is free, which is rare. All you have to do is copy TAGS as a google doc and authorize your twitter account. After that you run the script, which aggregates all the 3000 latest tweets from the last week. #tspotter had about 1200 unique tweets, and I used Hawksey’s TAGSExplorer to visualize the network.&lt;/p&gt;
+&lt;p&gt;Using the twitter tag &lt;a href=&quot;https://twitter.com/hashtag/tspotter?f=realtime&amp;amp;src=hash&quot;&gt;#tspotter&lt;/a&gt;, I used Martin Hawksey’s &lt;a href=&quot;https://tags.hawksey.info/get-tags/&quot;&gt;TAGS API&lt;/a&gt; to analyze the network data. TAGS is much easier to use than Gephi or other network analysis tools, and is free, which is rare. All you have to do is copy TAGS as a google doc and authorize your twitter account. After that you run the script, which aggregates all the 3000 latest tweets from the last week. #tspotter had about 1200 unique tweets, and I used Hawksey’s TAGSExplorer to visualize the network.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://zoeleblanc.github.io/img/post-assets/tspotter1.jpg&quot; alt=&quot;tspotter1&quot; /&gt;
 Network of replies from #tspotter&lt;/p&gt;
 
-&lt;p&gt;This first graph is of the replies from #tspotter, and shows a very loose network with the exception of @NashSeverWX and @NWSNashville. You can inspect the dynamic network &lt;a href=&quot;&amp;quot;http://hawksey.info/tagsexplorer/?key=19uW2gLmN-fFdg1EhCZM_GAplwpdRUDiNLKizwdoCfL8&amp;amp;gid=400689247&amp;quot;&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This first graph is of the replies from #tspotter, and shows a very loose network with the exception of @NashSeverWX and @NWSNashville. You can inspect the dynamic network &lt;a href=&quot;http://hawksey.info/tagsexplorer/?key=19uW2gLmN-fFdg1EhCZM_GAplwpdRUDiNLKizwdoCfL8&amp;amp;gid=400689247&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://zoeleblanc.github.io/img/post-assets/tspotter2.jpg&quot; alt=&quot;tspotter2&quot; /&gt;
 Network of replies and mentions of #tspotter&lt;/p&gt;
 
-&lt;p&gt;This second graph of replies and mentions of #tspotter is starting to show a more dense network, though still with a lot of outliers. You can explore the dynamic network &lt;a href=&quot;&amp;quot;http://hawksey.info/tagsexplorer/?key=19uW2gLmN-fFdg1EhCZM_GAplwpdRUDiNLKizwdoCfL8&amp;amp;gid=400689247&amp;amp;mentions=true&amp;quot;&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This second graph of replies and mentions of #tspotter is starting to show a more dense network, though still with a lot of outliers. You can explore the dynamic network &lt;a href=&quot;http://hawksey.info/tagsexplorer/?key=19uW2gLmN-fFdg1EhCZM_GAplwpdRUDiNLKizwdoCfL8&amp;amp;gid=400689247&amp;amp;mentions=true&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://zoeleblanc.github.io/img/post-assets/tspotter3.jpg&quot; alt=&quot;tspotter3&quot; /&gt;
 Network of replies, mentions, and retweets of #tspotter&lt;/p&gt;
 
-&lt;p&gt;This final graph of the replies, mentions, and retweets of #tspotter is as you would expect much more dense. However, I was really blown away with how much this graph seems to represent a community of Tennesseans taking to twitter to show their experiences of this rare metereological event. The fact that the top tweeter is &lt;a href=&quot;&amp;quot;https://twitter.com/NashSevereWx&amp;quot;&quot;&gt;@NashSevereWX&lt;/a&gt;, which relies on social media to report on weather, I think speaks to the growth of social media as a tool for citizen participation. You can check out the final graph &lt;a href=&quot;&amp;quot;http://hawksey.info/tagsexplorer/?key=19uW2gLmN-fFdg1EhCZM_GAplwpdRUDiNLKizwdoCfL8&amp;amp;gid=400689247&amp;amp;mentions=true&amp;amp;retweets=true&amp;quot;&quot;&gt;here&lt;/a&gt; and feel free to post your pics below or tweet us &lt;a href=&quot;&amp;quot;http://twitter.com/VUdigital&amp;quot; target=&amp;quot;_blank&amp;quot;&quot;&gt;@VUdigital&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This final graph of the replies, mentions, and retweets of #tspotter is as you would expect much more dense. However, I was really blown away with how much this graph seems to represent a community of Tennesseans taking to twitter to show their experiences of this rare metereological event. The fact that the top tweeter is &lt;a href=&quot;https://twitter.com/NashSevereWx&quot;&gt;@NashSevereWX&lt;/a&gt;, which relies on social media to report on weather, I think speaks to the growth of social media as a tool for citizen participation. You can check out the final graph &lt;a href=&quot;http://hawksey.info/tagsexplorer/?key=19uW2gLmN-fFdg1EhCZM_GAplwpdRUDiNLKizwdoCfL8&amp;amp;gid=400689247&amp;amp;mentions=true&amp;amp;retweets=true&quot;&gt;here&lt;/a&gt; and feel free to post your pics below or tweet us &lt;a href=&quot;http://twitter.com/VUdigital&quot;&gt;@VUdigital&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Stay warm Tennessee!&lt;/p&gt;
 </description>
@@ -482,99 +594,6 @@ In 2007, Haruki Murakami, the great Japanese novelist, published my favorite typ
         <category>digital</category>
         
         <category>teaching</category>
-        
-      </item>
-    
-      <item>
-        <title>Surviving Comps Part III</title>
-        <description>&lt;p&gt;I feel I should apologize for the size of this post. What started as one post is now a series, but hopefully this expansion is just a sign of how much wisdom I have to impart. Or maybe I’ve converted my tendency to ramble into written form. Regardless, I’ve finally arrived at the meat of this post - workflow and resources for your exams.&lt;/p&gt;
-
-&lt;p&gt;An efficient workflow is key to productivity, and if you are unfamiliar with the concept I would recommend checking out Gradhacker’s numerous posts on productivity &lt;a href=&quot;http://www.gradhacker.org/tag/productivity-2/&quot;&gt;here&lt;/a&gt;. One of gradhacker’s most apropos posts is on note taking for comps &lt;a href=&quot;http://www.gradhacker.org/2014/02/19/5-strategies-for-organizing-notes-for-comprehensive-exams/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;For my comprehensive exams, I used a combination of DEVONThink Pro, Evernote, and Scrivener. If you are unfamiliar with these programs, I won’t repeat what others have said but point you to the following posts.
-*For more about DEVONThink, check out &lt;a href=&quot;http://www.gradhacker.org/2013/10/02/building-a-research-database-with-devonthink-pro-office&quot;&gt;this gradhacker post&lt;/a&gt; (though the price of the program is cheaper as a student/educator then listed in the post), &lt;a href=&quot;http://cliotropic.org/blog/2011/10/ocring-archival-research-photos-with-devonthink&quot;&gt;this Cliotropic post on OCRing archival material&lt;/a&gt; , and &lt;a href=&quot;http://idlethink.wordpress.com/2011/06/24/on-devonthink-and-history-research-i&quot;&gt;this Idlethink post on devonthink and historical research&lt;/a&gt;
-*For more about Evernote and exams, check out Cameron Blevins’ posts on surviving exams &lt;a href=&quot;http://historying.org/2012/01/23/surviving-quals-part-ii-the-grind/&quot;&gt;here&lt;/a&gt;. 
-*For more about Scrivener, see Ryan Cordell’s post on Profhacker &lt;a href=&quot;http://chronicle.com/blogs/profhacker/scrivener-scrivening-scriverastic/23026&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;So now you know about these programs, and perhaps bit the bullet and purchased them. Don’t worry I can guarantee these programs will help. First thing to do is create a database in DEVONThink. In this database put everything remotely related to your exams. Old papers, colleagues’ papers, research notes, etc… I imagine my database like a giant moving box, where I could throw everything and use the search tool to find relevant material. Also if you have any images, DEVONThink will OCR them which lets you edit and search the images. To begin preparing for the exams, I started with searching what other graduate students’ posted reading summaries, since in my opinion there’s no need to invent the wheel twice. The most useful sites I found are:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://chnm.gmu.edu/courses/schrag/wiki/index.php?title=Main_Page&quot;&gt;George Mason Wiki&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.elizabethcovart.com/wp-content/uploads/2013/02/Covart-20th-Century-Notes.pdf&quot;&gt;Elizabeth Covart’s list&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.cameronblevins.org/u-s-history-book-summaries/&quot;&gt;Cameron Blevins’ book summaries&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;All of these summaries are for US history, and I have yet to find equivalents for US in the World or Arab/Islamic Worlds. I may over the next few months post my reading summaries, but they are in pretty rough shape at the moment so it will be some time before I share them.&lt;/p&gt;
-
-&lt;p&gt;After this step, I started searching for book reviews. H-net is a godsend. I usually tried to find at least three reviews for each book. This strategy was to make sure any crummy reviews or overly critical reviewers would not skew my own sense of the book. Now I started off trying to read the introduction to each book and a bit of the chapters. If I had started a year in advance preparing I might have stuck with this strategy, but as noted earlier I’m a procrastinator and so I quickly turned to published book reviews. This strategy is not infallible and sometimes you do need the original book. However, the benefit of using book reviews is that you can add them to DEVONThink and keep your workspace tidy, instead of being crowded with books (which will all be due the day your exam starts because karma). After compiling everything in my database, I started moving and organizing material in Scrivener.&lt;/p&gt;
-
-&lt;p&gt;After making the switch about a year ago, I now swear by Scrivener for all my projects. I split my exams by fields, creating one Scrivener project for each field. With the split screen feature in Scrivener, I was able to take notes easily from the reviews, crafting entries for each book and article. I used two templates: an ambitious one and a bare bones one. The ambitious template I used in Scrivener and comprised of the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Title:&lt;/li&gt;
-  &lt;li&gt;Author:&lt;/li&gt;
-  &lt;li&gt;Year:&lt;/li&gt;
-  &lt;li&gt;Categories:&lt;/li&gt;
-  &lt;li&gt;Place:&lt;/li&gt;
-  &lt;li&gt;Time Period:&lt;/li&gt;
-  &lt;li&gt;Argument Synopsis:&lt;/li&gt;
-  &lt;li&gt;Key Themes and Concepts/Structure:&lt;/li&gt;
-  &lt;li&gt;Historical Problem and Larger Questions:&lt;/li&gt;
-  &lt;li&gt;Similar Books:&lt;/li&gt;
-  &lt;li&gt;Notes:&lt;/li&gt;
-  &lt;li&gt;Historiographical Points:&lt;/li&gt;
-  &lt;li&gt;Review Articles:&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This template was helpful for organizing the large amount of info I had for each book entry. I then would parse down the entry in Evernote using the following outline:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;ARGUMENT:&lt;/li&gt;
-  &lt;li&gt;HISTORICAL PROBLEM and LARGER QUESTIONS:&lt;/li&gt;
-  &lt;li&gt;HISTORIOGRAPHICAL POINTS:&lt;/li&gt;
-  &lt;li&gt;THEMES and STRUCTURE:&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;While using both Evernote and Scrivener is a bit of overkill, I really liked the set up for a few reasons. First, the Scrivener entries tended to be longer then necessary, as I was scared of cutting out pertinent information. So instead of having a duplicate Scrivener project, I used Evernote to clean things up. Also Evernote’s remote backup feature gave me piece of mind in case something should happen to my hard drive. You could probably use one or the other, but I liked using both. In addition to the book entries, I also wrote a historiographical trends entry for each section.&lt;/p&gt;
-
-&lt;p&gt;For example, for my section on Missions in my US in the World list, I had the following:&lt;/p&gt;
-
-&lt;h6 id=&quot;readings&quot;&gt;Readings&lt;/h6&gt;
-&lt;pre&gt;&lt;code&gt;* Ryan Dunch, “Beyond Cultural Imperialism: Cultural Theory, Christian Missions, and Global Modernity,” _History and Theory_, Vol. 41 (Oct. 2002), pp. 301-325.
-* Jane Hunter, _The Gospel of Gentility: American Women Missionaries in Turn-of-the-Century China_ (New Haven: Yale University Press, 1984)
-* Ian Tyrrell, _Reforming the World: The Creation of America’s Moral Empire_ (Princeton: Princeton University Press, 2010)
-* Lian Xi, _The Conversion of Missionaries: Liberalism in American Protestant Missions in China, 1907-1932_ (Pennsylvania State University Press, 1997)
-* Lawrence S. Little, _Disciples of Liberty: The African Methodist Episcopal Church in the Age of Imperialism, 1884-1916_ (Knoxville: University of Tennessee Press, 2000).
-* Ussama Makdisi, _The Artillery of Heaven: American Missionaries and the Failed Conversion of the Middle East_ (Ithaca: Cornell University Press, 2008).
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h6 id=&quot;historiographical-trends&quot;&gt;Historiographical Trends:&lt;/h6&gt;
-&lt;pre&gt;&lt;code&gt;* Critique of cultural imperialism - missionaries as intermediaries of modernity?
-* How did missionaries shape America’s moral empire? Women missionaries and influence domestically
-* Moves towards cultural exchange/entanglement models - how to define missionary activity? differs at global and local levels
-* What is the agency of host cultures or converts? Complicating methodological nationalism in national historiographies
-* What is success or failure for missionaries? Intellectual/Religious shifts
-* Strong resonances of Americanization - similar on how to think about missionaries
-* Distinctions - metrocentric vs. pericentric perceptions - origins, flow of influences - missionary networks -inclusion of European, European descended or non-European converts into missions
-* What level are missionary encounters happening? conversions?
-* How you define missions in the first place? How historians define these organizations?
-* Where is the role of the host state? national status of missionaries / missionary status of nations
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;As you can see these write ups are informal and bullet form but trust me, these trends will be helpful when you are writing your exam paper and trying to squeeze the last drop of analysis into your paper.&lt;/p&gt;
-
-&lt;p&gt;These three posts pretty much sum up how I survived my exams, as well as my thoughts on the entire ordeal. Feel free to use any of this information or disregard completely. One last point I want to stress is to ASK FOR HELP. Graduate students, especially in the humanities, seem to have an especially strong aversion to collaboration and asking for help. My most successful field was the one I collaborated on with a fellow graduate student. We split up the readings, shared write-ups, and helped one another work through areas where we were particularly weak. While these exams are a test of your own intellectual merit, collaborating does not equate to plagiarizing or somehow slacking on the work. Even if I had collaborated on every field, all the ideas and interpretations are ultimately my own. Working with someone helps make the exams more manageable and means that you end up with better book summaries. In fact, I think collaborating is probably the best way to survive exams, if for the only to not feel so alone.&lt;/p&gt;
-
-&lt;p&gt;So go forth and conquer your exams!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 16 Jun 2014 00:00:00 +0100</pubDate>
-        <link>https://zoeleblanc.github.io/surviving-comps-part-3</link>
-        <guid isPermaLink="true">https://zoeleblanc.github.io/surviving-comps-part-3</guid>
-        
-        
-        <category>academia</category>
-        
-        <category>history</category>
         
       </item>
     

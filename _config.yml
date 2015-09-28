@@ -26,7 +26,9 @@ twitter:
   consumer_secret: UlRmvLLqxGtK2CZfLsxFAUoSDeW9eRR2eN3QhKXBQ
   access_token: 840043015-7os6HSaUtcvDJ67gMZXEBAYxoDBk09tspynl6zJI
   access_token_secret: 4FiqpPuNXxMABEc3dDusKb2cND0pvfa3oxruuqjKs
-
+instagram:
+  instagram_cache: true
+  instagram_cache_dir: '.instagram-cache'
 
 # Build settings
 markdown: kramdown
