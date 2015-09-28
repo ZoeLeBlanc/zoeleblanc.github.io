@@ -12,13 +12,14 @@ feature_image: feature-bigdata
 show_related_posts: true
 square_related: recommend-bigdata
 ---
+<a name="backtotop"></a>
 Big Data and the Cold War are two things that seem like they should go together. Both are big unwieldy entities. And both seem to drive scholars a bit batty. But with the exception of a few digital history projects, I haven't really ever come across the two together.[^1]
 
 This all changed the past month, when big data and Cold War history did sort of come together for me as I was able to attend two separate conferences on each topic.[^2] Even though the two conferences were quite different in format and subject, I wanted to write and think about them together - kind of a forced engagement - even if it's just in my head, and now on my website. I’ve written down some of the major questions/problems/shifts that were discussed at these conferences, but what follows is in no way a faithful representation of these conferences (sorry, you’ll have to try and attend them next year). Rather, think of this post as my conference doodles come to life - incoherent and shoddily sketched, but hopefully the beginning of something much more.
 
 I still wanted to write a bit about each conference so I've created little subheadings. Feel free to jump ahead if you just want my ideas on the intersections between big data and Cold War history. 
 
-> #### Jump to [Making Big Data Human](#makingbigdatahuman) | [European Summer School on Cold War History](#esscwh) | [Big Data and Cold War history](#bigdatacoldwar) <a name="backtotop"></a>
+> #### Jump to [Making Big Data Human](#makingbigdatahuman) | [European Summer School on Cold War History](#esscwh) | [Big Data and Cold War history](#bigdatacoldwar) 
 
 ***************
 
