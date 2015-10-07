@@ -1,7 +1,7 @@
 ---
 layout: author
 permalink: author/zoe/
-feature_image: feature-nashville
+feature_image: feature-zoeroom
 author_avatar: zoeworkphoto
 show_avatar: false
 author_name: Zoe
