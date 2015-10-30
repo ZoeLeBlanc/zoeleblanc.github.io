@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-feature_image: feature-zoe
+feature_image: feature-window
 ---
 ### [Dissertation](#dissertation) | [Papers](#papers) | [Digital Projects](#digitalprojects) | [Research Experience](#researchexperience) <a name="backtotop"></a>
 
