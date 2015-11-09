@@ -12,6 +12,8 @@ feature_image: feature-notebook
 show_related_posts: true
 square_related: recommend-peak
 ---
+    Back, back, back it up (Awww $#*!) - Lil Jon, "Get Low" 2002
+
 In my pre-grad school life, I worked in a computer store. One of my most memorable customers was a PhD student whose laptop crashed. While crashed laptops were a staple at the store (*shakes fist at at you Toshiba, HP, and Dell*), he was memorable because of the sheer misery on his face because he didn't have a backup of his dissertation. 
 
 I've known that pain too. My final year of undergrad, I essentially did the equivalent of drop kicking my laptop when I decided to watch the six hour BBC version of Pride and Prejudice while my laptop ominously clicked away. [^1] 
@@ -22,16 +24,18 @@ Well, you're in luck because I have some tried and tested tips to share on backi
 
 >First, thing you need to realize is that there is no one template for how to create a smart data backup system.[^2] 
 
-That being said, I do think there is a way to be more mindful about why and how you backup your data. In grad school, we talk a lot about research questions and methods, but never about research work flow. [See post] This omission is quickly becoming a problem as more and more historians are using digital cameras and scanners. These tools are letting us gather big data sets but were left scratching our heads at how to deal with a terabyte or two of pictures.[^3] 
+That being said, I do think there is a way to be more mindful about why and how you backup your data. In grad school, we talk a lot about research questions and methods, but never about research work flow. [See post] This omission is quickly becoming a problem as more and more historians are using digital cameras and scanners. These tools are letting us gather big data sets but were left scratching our heads at how to deal with a terabyte or two of pictures.[^3] I like to think of this dilemma as the 'big little data problem'.These data problems are big for us historians, but little compared to actual big data.
 
-My solution involved considering a number of factors:
+On small caveat - this post is mostly about how to deal with this problem of too much data for your harddrive problem. If you're looking for something to backup your notes and a few photos, then I've heard good things about Backblaze and Crashplan. Here's a pretty [decent review of the two](http://thesweetsetup.com/apps/best-cloud-backup-service/). Personally, I'm a big fan of the in-cloud apps in Google Drive for editing and sharing documents. I used to rely on Dropbox, but lately I've found it glitchy for finding materials and not great with the in-cloud apps. 
+
+So returning to this 'big little data problem'. My solution involved considering a number of factors:
 
 * **Cost.** I wanted as cheap a solution possible.
 * **Redundicies.** I wanted to be sure that I had enough duplicates in both cloud and physical form that I would never experience data lost.
 * **Ease of transferring/accessing data.** I wanted a solution that did not take months to load the data to a cloud service, and would allow me to transfer data between multiple OS.
-* **Keep data in raw form.** I wanted to make sure that my data was kept as 'raw' as possible so that if certain programs became obsolete I could always access all my materials. 
+* **Keep data in the original form.** I wanted to make sure that my data was kept as 'raw' as possible so that if certain programs became obsolete I could always access all my materials. 
 
-Some things I decided I didn't need were the ability to edit my data, whether docs or pics, in the cloud, and I didn't need a file management system. I'm also not that concerned with encryption though I would prefer some rather none. Essentially I wanted a complete copy of my data as I had organized it on my hard drive. 
+Some things I decided I didn't need were the ability to edit my data, whether docs or pics, in the cloud, and I didn't need a file management system. I'm also not that concerned with encryption, though I would prefer some rather than none. Essentially I wanted a complete copy of my data as I had organized it on my hard drive. 
 
 While having a clear picture helped, I still found it difficult to decide which solution was best for me, especially in regards to cloud solutions. For external hard drives, I've always liked the WD MyPassports for Mac, as they were more reliable when I worked at the computer store than Seagate or Lacie. I would ideally like to get a solid state but I'm waiting a year or two for the price to drop and the storage size to increase. If you have the money, solid state is the way to go though.
 
