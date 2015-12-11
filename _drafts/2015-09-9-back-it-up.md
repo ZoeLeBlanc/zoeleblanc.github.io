@@ -24,33 +24,43 @@ Well, you're in luck because I have some tried and tested tips to share on backi
 
 >First, thing you need to realize is that there is no one template for how to create a smart data backup system.[^2] 
 
-That being said, I do think there is a way to be more mindful about why and how you backup your data. In grad school, we talk a lot about research questions and methods, but never about research work flow. [See post] This omission is quickly becoming a problem as more and more historians are using digital cameras and scanners. These tools are letting us gather big data sets but were left scratching our heads at how to deal with a terabyte or two of pictures.[^3] I like to think of this dilemma as the 'big little data problem'.These data problems are big for us historians, but little compared to actual big data.
+That being said, I do think there is a way to be more mindful about why and how you backup your data. In grad school, we talk a lot about research questions and methods, but never about research work flow. This omission is quickly becoming a problem as more and more historians are using digital cameras and scanners. These tools are letting us gather big data sets but were left scratching our heads at how to deal with a terabyte or two of pictures.[^3] I like to think of this dilemma as the 'big little data problem'.These data problems are big for us historians, but little compared to actual big data in other fields.
 
-On small caveat - this post is mostly about how to deal with this problem of too much data for your harddrive problem. If you're looking for something to backup your notes and a few photos, then I've heard good things about Backblaze and Crashplan. Here's a pretty [decent review of the two](http://thesweetsetup.com/apps/best-cloud-backup-service/). Personally, I'm a big fan of the in-cloud apps in Google Drive for editing and sharing documents. I used to rely on Dropbox, but lately I've found it glitchy for finding materials and not great with the in-cloud apps. 
+*****
+On small caveat - this post is mostly about how to deal with this problem of too much data for your hard drive. If you're looking for advice on how to backup your notes and a few photos, then I've heard good things about Backblaze and Crashplan. Here's a pretty [decent review of the two](http://thesweetsetup.com/apps/best-cloud-backup-service/). Personally, I'm a big fan of the in-cloud apps in Google Drive for editing and sharing documents. I used to rely on Dropbox, but lately I've found it glitchy for finding materials and not great with the in-cloud apps. There's also a new cloud backup startup called [UpThere](https://www.upthere.com/), which claims to offer a smart cloud option for all your photos and documents. They only have a beta version but the Mac desktop app is really sleek.
+
+*****
 
 So returning to this 'big little data problem'. My solution involved considering a number of factors:
 
 * **Cost.** I wanted as cheap a solution possible.
 * **Redundicies.** I wanted to be sure that I had enough duplicates in both cloud and physical form that I would never experience data lost.
-* **Ease of transferring/accessing data.** I wanted a solution that did not take months to load the data to a cloud service, and would allow me to transfer data between multiple OS.
+* **Ease of transferring/accessing data.** I wanted a solution that did not take weeks to load the data to a cloud service, and would allow me to transfer data between multiple OS.
 * **Keep data in the original form.** I wanted to make sure that my data was kept as 'raw' as possible so that if certain programs became obsolete I could always access all my materials. 
 
 Some things I decided I didn't need were the ability to edit my data, whether docs or pics, in the cloud, and I didn't need a file management system. I'm also not that concerned with encryption, though I would prefer some rather than none. Essentially I wanted a complete copy of my data as I had organized it on my hard drive. 
 
 While having a clear picture helped, I still found it difficult to decide which solution was best for me, especially in regards to cloud solutions. For external hard drives, I've always liked the WD MyPassports for Mac, as they were more reliable when I worked at the computer store than Seagate or Lacie. I would ideally like to get a solid state but I'm waiting a year or two for the price to drop and the storage size to increase. If you have the money, solid state is the way to go though.
 
-At the moment, the undisputed leader in cloud storage is Amazon Web Services. However, AWS is really more geared towards large scale business solutions, so for some the difficulty of using AWS is too high of a barrier. If you want a service that let's you edit documents in the cloud, then Google Drive is really the obvious choice. But for most hitorians, we just need somewhere to put our photos until we're using them in either a database or text analysis. 
+For cloud storage, the amount of choice can be a bit daunting as were currently into a race to the bottom type mentality between a few different providers. When I first started writing this post I was using Amazon Web Services, with a combination of their S3 and Glacier options. However in recent weeks, I started getting frustrated with AWS and reading up on their crazy pricing structure. I also learned about Google Nearline, which offers many of the same features of AWS Glacier without the hassle or weird pricing. I found this [great hacker news post](https://news.ycombinator.com/item?id=9183830) debating the relative merits of various backup options if you want more information.   
 
+![pricecomparisonfromarqbackup]({{site.url}}/img/post-assets/pricingcloudstorage.jpg)
 
+http://gaul.org/object-store-comparison/
+
+    **Pricing**
     Amazon Cloud Drive unlimited data storage for $59.99/year
     Google Drive 15GB free or 1TB/user for $10/month
     Dropbox 2GB free or 1TB for $9.99/month
     Amazon S3 free tier for 5GB 1 year or $0.3/GB per month
     Amazon Glacier $0.1/GB per month + $0.05/GB in per request fees
 
-I decided to use a combination of AWS Glacier and S3. A big factor in my choice was the upload speed, which is significantly faster than the Dropbox Pro I was using before. The cost was also a big factor, since I prefer to pay for what I use and at the moment I pay something like $8 a month to store all my data.
+However, the one downside of AWS is the lack of userface. AWS is really more geared towards large scale business solutions, and so until recently, unless you were comfortable with the command line there was a pretty step learning curve. In the last two years though, a number of companies have started building interfaces for AWS. My favorite and current choice is Arq Backup by Haystack Software. You can fine more information on them [here](https://www.arqbackup.com), as well as a free thirty day trial of Arq.
 
-The one downside of AWS is the lack of user interface. While I'm pretty comfortable 
+The reasons I like Arq is because it makes using AWS Glacier and S3 as my cloud backup seamless. Arq has great tutorials for setting up your AWS accounts, and also works with other backup services like Dropbox and Google Drive. I decided on AWS Glacier and S3 because of the price (I pay about $6 a month) and the backup speed, which was substantially faster than Dropbox. Now that I've set up Arq, I just plug in my external hard drive and automatically it backs up to AWS. Arq keeps versions of files and backups all file formats. Arq also works great for transfering files between operating systems and has some serious encrycption. If you want to read about Arq features, check out their website [https://www.arqbackup.com/features/](https://www.arqbackup.com/features/).
+
+
+
 
 
 
