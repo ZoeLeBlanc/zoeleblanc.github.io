@@ -12,8 +12,6 @@ feature_image: feature-maurymap
 show_related_posts: true
 square_related: recommend-peak
 ---
-#Digital History Workshop
-
 At Vanderbilt, our main departmental gathering is the Vanderbilt History Seminar (aka VHS). In recent years, VHS has started funding small mini workshops on a variety of topics. Last year, I presented at one on the concept of rituals of belonging in our research. This fall I proposed and had accepted a set of two workshops on digital history. You can read my proposal [here], but essentially my desire was to start a conversation in the department about how to meaningfully produce and evaluate digital history scholarship. In many ways, the impetus was the AHA’s recent Guidelines for Evaluating Digital History, but the proposal was also self-interested. 
 
 Since last May, I’ve been engaging more deeply with the literature on digital history/humanities, after a great Skype call with Micki Kaufman, who encouraged me to make the leap. So far I’ve presented some preliminary research at SHAFR in June, and eventually designed and developed this website in September. But I’ve been a bit hesitant on how to move forward more meaningfully with digital history in my scholarship. 
@@ -24,6 +22,7 @@ This week I’ve been going back over blog posts, articles, and digital projects
 
     “But there is one area in which digital history has lagged behind: academic scholarship. To be clear: I’m intentionally using “academic scholarship” in its traditional, hidebound sense of marshaling evidence to make original, explicit arguments. This is an artificial distinction in obvious ways. One of digital history’s major contributions has, in fact, been to expand the disciplinary definition of scholarship to include things like databases, tools, and archival projects. The scholarship tent has gotten bigger, and that’s a good thing. Nevertheless there is still an important place inside that tent for using digital methods specifically to advance scholarly claims and arguments about the past.
  
+
     In terms of argument-driven scholarship, digital history has over-promised and under-delivered. It’s not that historians aren’t using digital tools to make new arguments about the past. It’s that there is a fundamental imbalance between the proliferation of digital history workshops, courses, grants, institutes, centers, and labs over the past decade, and the impact this has had in terms of generating scholarly claims and interpretations. The digital wave has crashed headlong into many corners of the discipline. Argument-driven scholarship has largely not been one of them.”
 
 The rest of the post is great too, but when this passage really made me want to high five my screen and shout YES! I realize that digital history doesn’t just have to be about scholarship, but I’m excited to see that others are both identifying this gap, and producing examples of great digital historical scholarship.
