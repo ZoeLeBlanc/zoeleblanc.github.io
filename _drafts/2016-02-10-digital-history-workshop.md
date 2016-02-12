@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Digital History Workshop"
-date: 2014-06-14
+date: 2016-02-12
 categories: history digital academia 
 author_name : Zoe 
 author_url : /author/zoe
