@@ -9,7 +9,6 @@ nav_list:
   Home : ['Home', '/', 'fa-home']
   About : ['About', '/author/zoe', 'fa-asterisk']
   Archives: ['Archives', '/archives', 'fa-archive']
-  CV : ['CV', '/cv', 'fa-graduation-cap']
   Research: ['Research', '/research', 'fa-book']
   Teaching: ['Teaching', '/teaching', 'fa-paper-plane']
   Twitter : ['Twitter', 'https://twitter.com/Zoe_LeBlanc', 'fa-twitter']
