@@ -5,7 +5,7 @@ permalink: /teaching/
 feature_image: feature-teaching
 ---
 
-# Credentials
+### Credentials
 
 * Vanderbilt Institute for Digital Learning Graduate Fellow 2014-2015
     - Designed and blogged about a series, In Pursuit of Digital Pedagogy, on possible digital tools and methods for higher education
@@ -16,7 +16,7 @@ feature_image: feature-teaching
 * Teaching Practicum Fall 2012
     - Completed History Department seminar on college teaching. Included lectures, syllabi, and teaching philosophy.
 
-# Experience
+### Experience
 
 * *Teaching Assistant, HIST287E: The Federalist Papers, Vanderbilt University, Spring 2015.*
     - Assisted the Chancellor with leading a senior seminar, and was lead instructor for three of the seminars. Responsible for grading and meeting with students.
