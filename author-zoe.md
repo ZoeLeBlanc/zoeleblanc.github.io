@@ -9,6 +9,8 @@ author_name: Zoe
 ---
 # Hi! I'm Zoe.
 
+> <i class="fa fa-download"></i> Download my most recent [CV here]({{ site.url }}/img/post-assets/LeBlancCVMarch2016.pdf). Also feel free to add me on [Linkedin](https://www.linkedin.com/pub/zoe-leblanc/46/650/70b) and [Academia.edu](https://vanderbilt.academia.edu/ZoeLeBlanc).
+
 > #### Jump to [Academic Bio](#academiabio) <a name="backtotop"></a>
 
 I'm an aspiring digital historian, who studies networks, ideas, and spaces in modern history. I specialize in American, Middle Eastern, and North African histories, and consider myself an international historian. I like thinking about race and religion, especially from the perspective of institutions and states. 
@@ -49,7 +51,7 @@ Zoe is broadly interested in the intersections of spatial, intellectual, and soc
 
 Zoe also works in digital history, and is interested in exploring the development of statistical models and web applications for historical research. Zoe's research is currently supported by the Canadian Social Sciences and Humanities Research Council and Vanderbilt University.
 
-Zoe graduated from the University of Toronto in 2010 with her Honours Bachelor of Arts with high distinction. Zoe is fluent in both English and French, with an honours Bilingual certificate from the Ontario government. She also has advanced traning in Arabic, and has traveled to Jordan, Israel/Palestine, Lebanon, Morocco, Egypt, and Turkey. Zoe is currently working with Dr. Thomas A. Schwartz, Dr. Paul Kramer, and Dr. Leor Halevi. For a more detailed list of Zoe’s activities, please see her [CV.]({{ site.url }}/cv)
+Zoe graduated from the University of Toronto in 2010 with her Honours Bachelor of Arts with high distinction. Zoe is fluent in both English and French, with an honours Bilingual certificate from the Ontario government. She also has advanced traning in Arabic, and has traveled to Jordan, Israel/Palestine, Lebanon, Morocco, Egypt, and Turkey. Zoe is currently working with Dr. Thomas A. Schwartz, Dr. Paul Kramer, and Dr. Leor Halevi. For a more detailed list of Zoe’s activities, please see her [CV.]({{ site.url }}/img/post-assets/LeBlancCVMarch2016.pdf)
 
 > #### Jump [back to top](#backtotop) 
 
