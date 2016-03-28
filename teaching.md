@@ -6,6 +6,7 @@ feature_image: feature-teaching
 ---
 
 ###Credentials
+
 * Vanderbilt Institute for Digital Learning Graduate Fellow 2014-2015
     - Designed and blogged about a series, In Pursuit of Digital Pedagogy, on possible digital tools and methods for higher education
 * Certificate in College Teaching Seminar Spring 2015
