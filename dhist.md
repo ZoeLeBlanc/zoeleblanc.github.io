@@ -1,10 +1,9 @@
 ---
-layout: page
 title: VHS Digital History Workshop 2016
-permalink: /dhist/
+permalink: "/dhist/"
+layout: page
 feature_image: feature-maurymap
 ---
-
 
 ###Thanks for visiting the VHS Digital History Workshop 2016 Page! 
 

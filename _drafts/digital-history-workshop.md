@@ -1,17 +1,21 @@
 ---
+title: Digital History Workshop
+date: 2016-02-12 00:00:00 Z
+categories:
+- history
+- digital
+- academia
 layout: post
-title: "Digital History Workshop"
-date: 2016-02-12
-categories: history digital academia 
-author_name : Zoe 
-author_url : /author/zoe
+author_name: Zoe
+author_url: "/author/zoe"
 author_avatar: zoeworkphoto1
-show_avatar : false
-read_time : 6
+show_avatar: false
+read_time: 6
 feature_image: feature-maurymap
 show_related_posts: true
 square_related: recommend-peak
 ---
+
 #Digital History Workshop
 
 At Vanderbilt, our main departmental gathering is the Vanderbilt History Seminar (aka VHS). In recent years, VHS has started funding small mini workshops on a variety of topics. Last year, I presented at one on the concept of rituals of belonging in our research. This fall I proposed and had accepted a set of two workshops on digital history. You can read my proposal [here], but essentially my desire was to start a conversation in the department about how to meaningfully produce and evaluate digital history scholarship. In many ways, the impetus was the AHA’s recent Guidelines for Evaluating Digital History, but the proposal was also self-interested. 

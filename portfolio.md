@@ -1,7 +1,7 @@
 ---
-layout: portfolio
 title: Portfolio
-permalink: /portfolio/
+permalink: "/portfolio/"
+layout: portfolio
 feature_image: feature-workstation
 ---
 

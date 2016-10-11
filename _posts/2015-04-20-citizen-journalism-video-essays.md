@@ -1,13 +1,16 @@
 ---
+title: Citizen Journalism and Video Essays
+date: 2015-04-20 00:00:00 Z
+categories:
+- digital
+- teaching
+- academia
 layout: post
-title: "Citizen Journalism and Video Essays"
-date: 2015-04-20
-categories: digital teaching academia
-author_name : Zoe 
-author_url : /author/zoe
+author_name: Zoe
+author_url: "/author/zoe"
 author_avatar: zoeworkphoto1
-show_avatar : false
-read_time : 6
+show_avatar: false
+read_time: 6
 feature_image: feature-desktop
 show_related_posts: true
 square_related: recommend-desktop

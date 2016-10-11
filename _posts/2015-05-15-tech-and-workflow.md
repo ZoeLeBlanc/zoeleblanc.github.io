@@ -1,13 +1,16 @@
 ---
+title: Workflow and Teaching
+date: 2015-05-15 00:00:00 Z
+categories:
+- digital
+- teaching
+- academia
 layout: post
-title: "Workflow and Teaching"
-date: 2015-05-15
-categories: digital teaching academia
-author_name : Zoe 
-author_url : /author/zoe
+author_name: Zoe
+author_url: "/author/zoe"
 author_avatar: zoeworkphoto1
-show_avatar : false
-read_time : 6
+show_avatar: false
+read_time: 6
 feature_image: feature-workflow
 show_related_posts: true
 square_related: recommend-workflow

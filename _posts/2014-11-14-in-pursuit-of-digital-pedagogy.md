@@ -1,17 +1,20 @@
 ---
+title: In Pursuit of Digital Pedagogy
+date: 2014-11-14 18:52:28 Z
+categories:
+- digital
+- teaching
 layout: post
-title:  "In Pursuit of Digital Pedagogy"
-date: 2014-11-14 18:52:28
-categories: digital teaching
-author_name : Zoe 
-author_url : /author/zoe
+author_name: Zoe
+author_url: "/author/zoe"
 author_avatar: zoeworkphoto1
-show_avatar : false
-read_time : 3
+show_avatar: false
+read_time: 3
 feature_image: feature-window
 show_related_posts: true
 square_related: recommend-window
 ---
+
 > This past year I was lucky enough to be selected for a cool new center on campus, the Vanderbilt Institute for Digital Learning. I've spent the year blogging for them about graduate digital education, digital pedagogy, and my (mis)adventures in becoming a digitalist. Here's my first post in the series, In Pursuit of Digital Pedagogy and please visit the VIDL site too for more great posts from my fellow grad fellows. 
 
 For the last few weeks, I’ve been working on a number of posts for VIDL, and I’m excited to share the results of my first forays into the best practices for digital learning pedagogies and tools. However, as I was creating these posts, I realized I needed almost another introduction to give some context to the concepts underlying both my interests and projects for VIDL. So, here is my introduction redux. If you want to know more about my big picture approach to digital learning please check out my first intro post . Otherwise, sit back and let me take you back in time.

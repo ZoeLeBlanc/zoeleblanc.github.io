@@ -1,17 +1,20 @@
 ---
+title: Starting Fresh
+date: 2015-09-03 00:00:00 Z
+categories:
+- thoughts
+- digital
 layout: post
-title: "Starting Fresh"
-date: 2015-09-03
-categories: thoughts digital
-author_name : Zoe 
-author_url : /author/zoe
+author_name: Zoe
+author_url: "/author/zoe"
 author_avatar: zoeworkphoto1
-show_avatar : false
-read_time : 2
+show_avatar: false
+read_time: 2
 feature_image: feature-fall
 show_related_posts: true
 square_related: recommend-fall
 ---
+
 > Fall is my favorite time of year.
 
 Someone once asked me why and in a freudian slip I admitted that it was because of the first day of school. It was a prett nerdy admission, even for me. But it's honestly true. 

@@ -1,9 +1,10 @@
 ---
-layout: page
 title: Research
-permalink: /research/
+permalink: "/research/"
+layout: page
 feature_image: feature-window
 ---
+
 ### [Dissertation](#dissertation) | [Papers](#papers) | [Digital Projects](#digitalprojects) | [Research Experience](#researchexperience) <a name="backtotop"></a>
 
 <a name="dissertation"></a>
