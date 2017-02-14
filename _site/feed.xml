@@ -3,11 +3,48 @@
   <channel>
     <title>Zoe Genevieve LeBlanc</title>
     <description></description>
-    <link>https://zoeleblanc.github.io/</link>
-    <atom:link href="https://zoeleblanc.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Feb 2016 07:27:40 -0600</pubDate>
-    <lastBuildDate>Fri, 12 Feb 2016 07:27:40 -0600</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 13 Feb 2017 20:23:54 -0600</pubDate>
+    <lastBuildDate>Mon, 13 Feb 2017 20:23:54 -0600</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Digital History Workshop</title>
+        <description>&lt;p&gt;At Vanderbilt, our main departmental gathering is the Vanderbilt History Seminar (aka VHS). In recent years, VHS has started funding small mini workshops on a variety of topics. Last year, I presented at one on the concept of rituals of belonging in our research. This fall I proposed and had accepted a set of two workshops on digital history. You can read my proposal [here], but essentially my desire was to start a conversation in the department about how to meaningfully produce and evaluate digital history scholarship. In many ways, the impetus was the AHA’s recent Guidelines for Evaluating Digital History, but the proposal was also self-interested.&lt;/p&gt;
+
+&lt;p&gt;Since last May, I’ve been engaging more deeply with the literature on digital history/humanities, after a great Skype call with Micki Kaufman, who encouraged me to make the leap. So far I’ve presented some preliminary research at SHAFR in June, and eventually designed and developed this website in September. But I’ve been a bit hesitant on how to move forward more meaningfully with digital history in my scholarship.&lt;/p&gt;
+
+&lt;p&gt;In part, I’ve been busy with archival work and dissertation writing. However, as I’ve become more conversant and interested in digital history, I’ve also become increasingly conflicted, and even at times skeptical, over the term/field. I don’t want to rehash any of the debates over nomenclature here, but at least personally, I’m still unsure if I see digital history as something similar to oral history (as a new methodology) or something more akin to cultural or social history (as in a new analytic for asking historical questions). I know it doesn’t have to be one or the other, but the question boils down to whether one is a digital historian or whether every historian should be using some form of digital [insert tool/method]. While I realize we won’t solve this dilemma in the workshop, I’m hoping that the workshop produces some new understandings about what constitutes digital history.&lt;/p&gt;
+
+&lt;p&gt;This week I’ve been going back over blog posts, articles, and digital projects to create a list of materials for the workshop.  Somehow I missed it when he initially posted it, but I found Cameron Blevins’ blog post &lt;a href=&quot;http://www.cameronblevins.org/posts/perpetual-sunrise-methodology/&quot;&gt;“The Perpetual Sunrise of Methodology”&lt;/a&gt;. and wow he really hits the nail on the head. I encourage everyone to read it, but I also wanted to post this particular section that really resonated with me.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“But there is one area in which digital history has lagged behind: academic scholarship. To be clear: I’m intentionally using “academic scholarship” in its traditional, hidebound sense of marshaling evidence to make original, explicit arguments. This is an artificial distinction in obvious ways. One of digital history’s major contributions has, in fact, been to expand the disciplinary definition of scholarship to include things like databases, tools, and archival projects. The scholarship tent has gotten bigger, and that’s a good thing. Nevertheless there is still an important place inside that tent for using digital methods specifically to advance scholarly claims and arguments about the past.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In terms of argument-driven scholarship, digital history has over-promised and under-delivered. It’s not that historians aren’t using digital tools to make new arguments about the past. It’s that there is a fundamental imbalance between the proliferation of digital history workshops, courses, grants, institutes, centers, and labs over the past decade, and the impact this has had in terms of generating scholarly claims and interpretations. The digital wave has crashed headlong into many corners of the discipline. Argument-driven scholarship has largely not been one of them.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The rest of the post is great too, but when this passage really made me want to high five my screen and shout YES! All my protean frustrations I realize that digital history doesn’t just have to be about scholarship, but I’m excited to see that others are both identifying this gap, and producing examples of great digital historical scholarship.&lt;/p&gt;
+
+&lt;p&gt;Our first workshop is this morning, and beneath the excitement and nerves, I’m hoping our workshop can start a discussion of how historians can engage more directly with digital history projects. I hope we also help people start thinking about how their research questions might develop through a digital history lens. These goals are a tall order for a workshop, but already I’ve been pleasantly surprised at the amount of interest. If you’re at Vandy and interested in attending, feel free to stop by (we still have a few more seats) and you can check out details on our website &lt;a href=&quot;https://vhsdhist.wordpress.com/&quot;&gt;vhsdist.wordpress.com&lt;/a&gt;. I’ll try and write about the experience of the first workshop over the weekend.&lt;/p&gt;
+
+&lt;p&gt;Also this morning, just found that the latest American Historical Review has a whole roundtable about &lt;a href=&quot;http://ahr.oxfordjournals.org.proxy.library.vanderbilt.edu/content/121/1.toc&quot;&gt;Digital History&lt;/a&gt;. Talk about timing!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 12 Feb 2016 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/digital-history-workshop</link>
+        <guid isPermaLink="true">http://localhost:4000/digital-history-workshop</guid>
+        
+        
+        <category>history</category>
+        
+        <category>digital</category>
+        
+        <category>academia</category>
+        
+      </item>
     
       <item>
         <title>Big Data and the Cold War</title>
@@ -16,7 +53,7 @@ Big Data and the Cold War are two things that seem like they should go together.
 
 &lt;p&gt;This all changed the past month, when big data and Cold War history did sort of come together for me as I was able to attend two separate conferences on each topic.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Even though the two conferences were quite different in format and subject, I wanted to write and think about them together - kind of a forced engagement - even if it’s just in my head, and now on my website. I’ve written down some of the major questions/problems/shifts that were discussed at these conferences, but what follows is in no way a faithful representation of these conferences (sorry, you’ll have to try and attend them next year). Rather, think of this post as my conference doodles come to life - incoherent and shoddily sketched, but hopefully the beginning of something much more.&lt;/p&gt;
 
-&lt;p&gt;I still wanted to write a bit about each conference so I’ve created little subheadings. Feel free to jump ahead if you just want my ideas on the intersections between big data and Cold War history. &lt;/p&gt;
+&lt;p&gt;I still wanted to write a bit about each conference so I’ve created little subheadings. Feel free to jump ahead if you just want my ideas on the intersections between big data and Cold War history.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;h4 id=&quot;jump-to-making-big-data-humanmakingbigdatahuman--european-summer-school-on-cold-war-historyesscwh--big-data-and-cold-war-historybigdatacoldwar&quot;&gt;Jump to &lt;a href=&quot;#makingbigdatahuman&quot;&gt;Making Big Data Human&lt;/a&gt; | &lt;a href=&quot;#esscwh&quot;&gt;European Summer School on Cold War History&lt;/a&gt; | &lt;a href=&quot;#bigdatacoldwar&quot;&gt;Big Data and Cold War history&lt;/a&gt;&lt;/h4&gt;
@@ -27,9 +64,9 @@ Big Data and the Cold War are two things that seem like they should go together.
 &lt;p&gt;&lt;a name=&quot;makingbigdatahuman&quot;&gt;&lt;/a&gt;
 The first conference was one I found on &lt;a href=&quot;https://twitter.com/dhiptweets/status/637969086270599169&quot;&gt;twitter&lt;/a&gt;, called Making Big Data Human. &lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://zoeleblanc.github.io/img/post-assets/makingbigdatahuman.jpg&quot; alt=&quot;Making Big Data Human Poster&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/post-assets/makingbigdatahuman.jpg&quot; alt=&quot;Making Big Data Human Poster&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Luckily, someone canceled last minute so I was able to attend as a participant and head to Cambridge for the first time. The conference was hosted by a great group called &lt;a href=&quot;http://doinghistoryinpublic.org&quot;&gt;Doing History in Public&lt;/a&gt;. The conference was a day long and covered a whole host of topics - from web archiving to database and keyword searches to human geography and visualization. Marta Musso storified the twitter exchange &lt;a href=&quot;https://storify.com/martamusso/making-big-data-human&quot;&gt;here&lt;/a&gt;, which gives a good live feed of the conference, as well as some of my thoughts that I won’t rehash here. &lt;/p&gt;
+&lt;p&gt;Luckily, someone canceled last minute so I was able to attend as a participant and head to Cambridge for the first time. The conference was hosted by a great group called &lt;a href=&quot;http://doinghistoryinpublic.org&quot;&gt;Doing History in Public&lt;/a&gt;. The conference was a day long and covered a whole host of topics - from web archiving to database and keyword searches to human geography and visualization. Marta Musso storified the twitter exchange &lt;a href=&quot;https://storify.com/martamusso/making-big-data-human&quot;&gt;here&lt;/a&gt;, which gives a good live feed of the conference, as well as some of my thoughts that I won’t rehash here.&lt;/p&gt;
 
 &lt;p&gt;So here are the (my) big thoughts from the conference:&lt;/p&gt;
 
@@ -57,10 +94,10 @@ With these questions in mind, I jetted off to Rome for the &lt;a href=&quot;http
 
 &lt;p&gt;The conference itself was at the Societa Geografia Italiana, which is in a  gorgeous old italian villa in Rome.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://zoeleblanc.github.io/img/post-assets/romeview1.jpg&quot; alt=&quot;View from the conference&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/post-assets/romeview1.jpg&quot; alt=&quot;View from the conference&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://zoeleblanc.github.io/img/post-assets/romeview2.jpg&quot; alt=&quot;View from the conference&quot; /&gt;
-View from the Conference &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/post-assets/romeview2.jpg&quot; alt=&quot;View from the conference&quot; /&gt;
+View from the Conference&lt;/p&gt;
 
 &lt;p&gt;Given that the Cold War spanned a huge swath of time, the papers at the conference covered a wide variety of topics. I won’t cover each one here, but just touch on some broader questions/topics.&lt;/p&gt;
 
@@ -70,7 +107,7 @@ View from the Conference &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;2. Rise of spatial and intellectual history lenses&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;I was also quite pleased to see a number of scholars using spatial and intellectual history lenses, though often implicitly. I think that with the plethora of sources available to modern historians, we sometimes are a little more lazy with respect to the theoretical and analytical framing of our research. Yet, at the conference many of the papers engaged with these analytics, with a focus on spaces like ports and islands, as well as an emphasis on tracing intellectual histories of expertise and discourses. I’m always struck by the “emergent-ness” of scholarship around a particular lens. Did everyone just hear about these topics in their graduate seminars, or are we all truly the product of our times? Suppose the answer is probably a bit of both. I hope that this trend continues in part selfishly, because it’s the type of work I find most interesting, but also because I think it will truly open up new fruitful subfields of scholarship. &lt;/p&gt;
+&lt;p&gt;I was also quite pleased to see a number of scholars using spatial and intellectual history lenses, though often implicitly. I think that with the plethora of sources available to modern historians, we sometimes are a little more lazy with respect to the theoretical and analytical framing of our research. Yet, at the conference many of the papers engaged with these analytics, with a focus on spaces like ports and islands, as well as an emphasis on tracing intellectual histories of expertise and discourses. I’m always struck by the “emergent-ness” of scholarship around a particular lens. Did everyone just hear about these topics in their graduate seminars, or are we all truly the product of our times? Suppose the answer is probably a bit of both. I hope that this trend continues in part selfishly, because it’s the type of work I find most interesting, but also because I think it will truly open up new fruitful subfields of scholarship.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;3. Pushback on transnational as a framework&lt;/strong&gt;&lt;/p&gt;
 
@@ -79,15 +116,15 @@ View from the Conference &lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;a name=&quot;bigdatacoldwar&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;So now coming back to this question of how these two incredibly broad topics relate to one another. &lt;/p&gt;
+&lt;p&gt;So now coming back to this question of how these two incredibly broad topics relate to one another.&lt;/p&gt;
 
-&lt;p&gt;The most obvious overlap is the corpus of materials from the Cold War, and how big data projects might help us understand these archives. This idea is increasingly becoming a reality with the use of digital cameras. However, unlike 19th century historians, Cold War historians still have to contend with copyright laws. In my research, this reality produces counterintuitive emphasis on declassified government documents over press materials, which are still under copyright law. &lt;/p&gt;
+&lt;p&gt;The most obvious overlap is the corpus of materials from the Cold War, and how big data projects might help us understand these archives. This idea is increasingly becoming a reality with the use of digital cameras. However, unlike 19th century historians, Cold War historians still have to contend with copyright laws. In my research, this reality produces counterintuitive emphasis on declassified government documents over press materials, which are still under copyright law.&lt;/p&gt;
 
 &lt;p&gt;Big data methods also open the opportunity for truly global histories of the Cold War, using a scale of materials beyond the capacity of one researcher to synthesize. Many of the papers at the ESSCWH used multinational and multilingual sources. However, many of the applications for OCR and text mining privilege romantic languages, which at least for now limits and could potentially skew these types of projects. I’m still struggling with OCR on Arabic script, which makes it difficult to see large-scale patterns in the Arabic daily newspapers I work with.&lt;/p&gt;
 
-&lt;p&gt;Excepting these limits, big data provides incredible opportunities to visualize narratives in new ways, as well as to trace patterns over time and space. Ultimately, I think big data will help historians of the Cold War be more honest about the gaps in our data and our archives - an important and necessary shift for historians. &lt;/p&gt;
+&lt;p&gt;Excepting these limits, big data provides incredible opportunities to visualize narratives in new ways, as well as to trace patterns over time and space. Ultimately, I think big data will help historians of the Cold War be more honest about the gaps in our data and our archives - an important and necessary shift for historians.&lt;/p&gt;
 
-&lt;p&gt;I also think that thinking about the Cold War can make us more critical about big data. First and foremost, much of higher education was shaped during the Cold War, especially disciplinary and departmental divisions. Historicizing these divisions is critical for opening up spaces for collaborations. At the moment most historians using big data are either using previously digitized or digitally born materials as the basis for their corpus. However, as OCR and cloud services improve, the potential for big data from text sources will increasingly become a reality. Most humanities scholars, and especially historians, are not equipped with the skills to work with these resources and so finding collaborators in the social and computer sciences is going to become critical. &lt;/p&gt;
+&lt;p&gt;I also think that thinking about the Cold War can make us more critical about big data. First and foremost, much of higher education was shaped during the Cold War, especially disciplinary and departmental divisions. Historicizing these divisions is critical for opening up spaces for collaborations. At the moment most historians using big data are either using previously digitized or digitally born materials as the basis for their corpus. However, as OCR and cloud services improve, the potential for big data from text sources will increasingly become a reality. Most humanities scholars, and especially historians, are not equipped with the skills to work with these resources and so finding collaborators in the social and computer sciences is going to become critical.&lt;/p&gt;
 
 &lt;p&gt;Thinking about these questions together has, for me at least, started the wheels turning about  the obstacles of copyright, collaboration, and data collection that I think has prohibited Cold War historians from adopting more of the the digital history/big data methods employed by historians of other time periods. I hope that in the future, digital historians will more clearly illustrate the overlap between these two topics. Until then, I guess I’ll have to keep thinking about them, and hope you do too.&lt;/p&gt;
 
@@ -111,8 +148,8 @@ View from the Conference &lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 14 Sep 2015 00:00:00 -0500</pubDate>
-        <link>https://zoeleblanc.github.io/big-data-cold-war</link>
-        <guid isPermaLink="true">https://zoeleblanc.github.io/big-data-cold-war</guid>
+        <link>http://localhost:4000/big-data-cold-war</link>
+        <guid isPermaLink="true">http://localhost:4000/big-data-cold-war</guid>
         
         
         <category>digital</category>
@@ -129,15 +166,15 @@ View from the Conference &lt;/p&gt;
   &lt;p&gt;Fall is my favorite time of year.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Someone once asked me why and in a freudian slip I admitted that it was because of the first day of school. It was a prett nerdy admission, even for me. But it’s honestly true. &lt;/p&gt;
+&lt;p&gt;Someone once asked me why and in a freudian slip I admitted that it was because of the first day of school. It was a prett nerdy admission, even for me. But it’s honestly true.&lt;/p&gt;
 
-&lt;p&gt;I’ve always loved that excitement when you start off new classes and get to see everyone from their summer adventures. I’m lucky enough that my chosen career has allowed me to continue to experience the early September new school year magic (and might in part be why academia has such an allure). But for the last three years, I’ve been abroad during September (Rabat, Tel Aviv, and now London). Luckily, London has some nice fall weather so I’m at least feeling that warm fall coziness.  &lt;/p&gt;
+&lt;p&gt;I’ve always loved that excitement when you start off new classes and get to see everyone from their summer adventures. I’m lucky enough that my chosen career has allowed me to continue to experience the early September new school year magic (and might in part be why academia has such an allure). But for the last three years, I’ve been abroad during September (Rabat, Tel Aviv, and now London). Luckily, London has some nice fall weather so I’m at least feeling that warm fall coziness.&lt;/p&gt;
 
 &lt;p&gt;In the spirit of a new academic year and a fresh state, I’ve decided to finally clean up my web presence and get my website off the ground. I’ve realized over the last few years that I’m actually slightly addicted to building websites (websitophilia?) but not really blogging. In fact, I’m not really all that comfortable posting anything on the web, whether it’s twitter, instagram, or reddit.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; However, as much as I enjoy being an internet lurker, I also want to start producing something, even if it’s not a very good something (we all have to start somewhere right?).&lt;/p&gt;
 
-&lt;p&gt;If you’ve visited previous iterations of my personal site, you’ll find most of the same material. But under the hood this site is all new. For the last version of my site, I bought a turbo charged wordpress theme.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; But I quickly realized that I don’t need most of the features like a store front or members only area. &lt;/p&gt;
+&lt;p&gt;If you’ve visited previous iterations of my personal site, you’ll find most of the same material. But under the hood this site is all new. For the last version of my site, I bought a turbo charged wordpress theme.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; But I quickly realized that I don’t need most of the features like a store front or members only area.&lt;/p&gt;
 
-&lt;p&gt;I really like the look of &lt;a href=&quot;http://lincolnmullen.com&quot;&gt;Lincoln Mullen&lt;/a&gt; and &lt;a href=&quot;http://jasonheppler.org&quot;&gt;Jason Heppler’s&lt;/a&gt; sites, so I decided to make the move to Jekyll and Markdown (both of which seem increasingly to be the norm for digital humanists). &lt;/p&gt;
+&lt;p&gt;I really like the look of &lt;a href=&quot;http://lincolnmullen.com&quot;&gt;Lincoln Mullen&lt;/a&gt; and &lt;a href=&quot;http://jasonheppler.org&quot;&gt;Jason Heppler’s&lt;/a&gt; sites, so I decided to make the move to Jekyll and Markdown (both of which seem increasingly to be the norm for digital humanists).&lt;/p&gt;
 
 &lt;p&gt;Already I’m loving the simplicity of building up the site from the basics of a theme I bought&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, and if you’re considering making the change, I would highly recommend it. Afterall, fall is for making fresh starts.&lt;/p&gt;
 
@@ -162,8 +199,8 @@ View from the Conference &lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 03 Sep 2015 00:00:00 -0500</pubDate>
-        <link>https://zoeleblanc.github.io/starting-fresh</link>
-        <guid isPermaLink="true">https://zoeleblanc.github.io/starting-fresh</guid>
+        <link>http://localhost:4000/starting-fresh</link>
+        <guid isPermaLink="true">http://localhost:4000/starting-fresh</guid>
         
         
         <category>thoughts</category>
@@ -183,7 +220,7 @@ View from the Conference &lt;/p&gt;
 &lt;p&gt;Ask an academic about an ongoing research project? You better be ready for at least an hour long discussion.
 Ask an academic about how they organize their workflow? At best you’ll get some brief comments on how ‘their’ system works, but mostly you’ll get blank stares.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://zoeleblanc.github.io/img/post-assets/xkcdworkflow.jpg&quot; alt=&quot;xkcdworkflow&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/post-assets/xkcdworkflow.jpg&quot; alt=&quot;xkcdworkflow&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I think part of this blindness to the nuts and bolts of knowledge production is because academics in the humanities are trained to focus on the bigger picture of their research. Yet, I think this silence about workflows is detrimental, especially for undergraduates. Why do we spend semesters talking about topic sentences and proper citations, but never discuss how to organize notes, pdfs, primary data and intelligently work on writing revisions? After grading numerous papers, I’m not advocating for the dismissal of proper writing etiquette, which I think is a necessity for many students. Instead, I think we should expand teaching to include helping students learn productive workflow habits. And of course, I think digital tools have a large role to play in creating an effective workflow.&lt;/p&gt;
 
@@ -194,11 +231,12 @@ Ask an academic about how they organize their workflow? At best you’ll get som
 
 &lt;p&gt;While this definition is correct, I think a workflow is more defined by its characteristics. I particularly like Chad Black’s outline on what a good workflow should have:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;* platform independence and future proofing
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* platform independence and future proofing
 * flexible files
 * robust searching
 * version control, lots of access and backup
 &lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;p&gt;However, you define workflow, I think teaching workflow is incredibly important for helping students develop some of the more abstract skill sets such as critical thinking and clear communication. Furthermore, many students and professors (myself included) struggle to be organized and systematic researchers - an area where a conscious workflow can help.&lt;/p&gt;
 
@@ -238,8 +276,8 @@ With the continual releasing of new productivity tools, I find myself always wan
 
 </description>
         <pubDate>Fri, 15 May 2015 00:00:00 -0500</pubDate>
-        <link>https://zoeleblanc.github.io/tech-and-workflow</link>
-        <guid isPermaLink="true">https://zoeleblanc.github.io/tech-and-workflow</guid>
+        <link>http://localhost:4000/tech-and-workflow</link>
+        <guid isPermaLink="true">http://localhost:4000/tech-and-workflow</guid>
         
         
         <category>digital</category>
@@ -290,13 +328,14 @@ With the continual releasing of new productivity tools, I find myself always wan
 
 &lt;p&gt;&lt;strong&gt;Overall Assessment of Mozilla Popcorn Maker&lt;/strong&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;Allows for Creative Content Creation: A
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Allows for Creative Content Creation: A
 Ease of Use: B
 Open Source: A-
 Ease to Publish or Share: B (because you cannot download your movies)
 Ease of Assessing Learning: A
 Ability to Integrate into Curriculum: B- (depending on your previous experience with video editing, as well as your students)
 &lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Recommendation: Great tool with a low barrier to use and high potential for innovative learning.&lt;/strong&gt;&lt;/p&gt;
 
@@ -316,8 +355,8 @@ Ability to Integrate into Curriculum: B- (depending on your previous experience 
 
 </description>
         <pubDate>Mon, 20 Apr 2015 00:00:00 -0500</pubDate>
-        <link>https://zoeleblanc.github.io/citizen-journalism-video-essays</link>
-        <guid isPermaLink="true">https://zoeleblanc.github.io/citizen-journalism-video-essays</guid>
+        <link>http://localhost:4000/citizen-journalism-video-essays</link>
+        <guid isPermaLink="true">http://localhost:4000/citizen-journalism-video-essays</guid>
         
         
         <category>digital</category>
@@ -351,7 +390,7 @@ Ability to Integrate into Curriculum: B- (depending on your previous experience 
 
 &lt;p&gt;Multimedia essays can comprise of a powerpoint presentations, remixed videos, imbedded blog posts, or really any combination of multimedia resources to make an argument. Similar to a written essay, a multimedia essay still requires an argument and supporting evidence, as well as issues of flow and relevance. The benefit of multimedia essays is to allow for a greater range of creativity for your students, and force them to think through how they are representing their argument. Many of my students often to struggle to understand how in the written form their argument can be confusing or poorly structured. In visualizing the argument in a different medium, students are forced to further think through the structure and evidence of their argument, which can assist students in seeing the holes in their argumentation.&lt;/p&gt;
 
-&lt;p&gt;In many ways, a multimedia essay is the most similar digital expression of a more traditional essay, but involves representing an argument in a more dynamic fashion. However, I believe this shift in visualizing and expressing an argument in new mediums does ultimately produce a new type of knowledge and critical thinking. Now the question inevitably arises about why do we need a new way to represent and communicate an argument? After all, the essay model has been working for centuries and the ability to write cogently will always be highly valued. Well, I certainly think essay writing is critical and difficult skill to develop, I think that the multimedia essay is particularly suited to courses engaging with a wide array of digital materials and that the two do not need to be exclusive. &lt;/p&gt;
+&lt;p&gt;In many ways, a multimedia essay is the most similar digital expression of a more traditional essay, but involves representing an argument in a more dynamic fashion. However, I believe this shift in visualizing and expressing an argument in new mediums does ultimately produce a new type of knowledge and critical thinking. Now the question inevitably arises about why do we need a new way to represent and communicate an argument? After all, the essay model has been working for centuries and the ability to write cogently will always be highly valued. Well, I certainly think essay writing is critical and difficult skill to develop, I think that the multimedia essay is particularly suited to courses engaging with a wide array of digital materials and that the two do not need to be exclusive.&lt;/p&gt;
 
 &lt;p&gt;As I mentioned in my previous post on Infographics, the best way to use digital tools is to integrate them into the iterative process of research-writing-feedback that already exists. In adding these tools, this process becomes more iterative and hopefully leads to more conscious engagement with the argument. Ultimately, the utility of a multimedia essay depends on the context, but nonetheless, this method provides an avenue for independent and creative content production.&lt;/p&gt;
 
@@ -379,7 +418,7 @@ Ability to Integrate into Curriculum: B- (depending on your previous experience 
 
 &lt;p&gt;Overall, seeing the potential of multimedia essays with some of the examples I posted above, I think you’ll quickly agree that what I created was not even close to pushing the boundaries for this type of assignment. I think that if given enough support and guidance, students would really enjoy the creativity and possibilities of a multimedia essay. However, key to any of these digital pedagogies is ensuring that we apply the same level of academic rigor and seriousness to these assignments. In my experience, students have a tendency, at least in the humanities, to view digital assignments as akin to ‘group projects’ or ‘less serious work’. I have struggled to combat this type of preconceived notion, and I think the multimedia essay is a great transition assignment for students. Ultimately, I see multimedia essays as building upon an already known quantity - the essay, but expanding the limits for how and why we present our arguments.&lt;/p&gt;
 
-&lt;p&gt;Have you tried using multimedia essays in your classroom? What was your experience? &lt;/p&gt;
+&lt;p&gt;Have you tried using multimedia essays in your classroom? What was your experience?&lt;/p&gt;
 
 &lt;p&gt;Hope you enjoy!&lt;/p&gt;
 
@@ -387,8 +426,8 @@ Ability to Integrate into Curriculum: B- (depending on your previous experience 
 
 </description>
         <pubDate>Wed, 01 Apr 2015 00:00:00 -0500</pubDate>
-        <link>https://zoeleblanc.github.io/citizen-journalism-media-essays</link>
-        <guid isPermaLink="true">https://zoeleblanc.github.io/citizen-journalism-media-essays</guid>
+        <link>http://localhost:4000/citizen-journalism-media-essays</link>
+        <guid isPermaLink="true">http://localhost:4000/citizen-journalism-media-essays</guid>
         
         
         <category>digital</category>
@@ -447,13 +486,14 @@ Ability to Integrate into Curriculum: B- (depending on your previous experience 
 
 &lt;p&gt;&lt;strong&gt;Overall Assessment of Piktochart&lt;/strong&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;Allows for Creative Content Creation: A
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Allows for Creative Content Creation: A
 Ease of Use: A
 Open Source: A+
 Ease to Publish or Share: B (because of issues in embedding Piktochart on wordpress, though its not impossible)
 Ease of Assessing Learning: A
 Ability to Integrate into Curriculum: A
 &lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Recommendation: Great tool with a low barrier to use and high potential for innovative learning.&lt;/strong&gt;&lt;/p&gt;
 
@@ -473,8 +513,8 @@ Ability to Integrate into Curriculum: A
 
 </description>
         <pubDate>Wed, 18 Mar 2015 00:00:00 -0500</pubDate>
-        <link>https://zoeleblanc.github.io/citizen-journalism-infographics</link>
-        <guid isPermaLink="true">https://zoeleblanc.github.io/citizen-journalism-infographics</guid>
+        <link>http://localhost:4000/citizen-journalism-infographics</link>
+        <guid isPermaLink="true">http://localhost:4000/citizen-journalism-infographics</guid>
         
         
         <category>digital</category>
@@ -496,22 +536,22 @@ Ability to Integrate into Curriculum: A
 &lt;p&gt;Using the twitter tag &lt;a href=&quot;https://twitter.com/hashtag/tspotter?f=realtime&amp;amp;src=hash&quot;&gt;#tspotter&lt;/a&gt;, I used Martin Hawksey’s &lt;a href=&quot;https://tags.hawksey.info/get-tags/&quot;&gt;TAGS API&lt;/a&gt; to analyze the network data. TAGS is much easier to use than Gephi or other network analysis tools, and is free, which is rare. All you have to do is copy TAGS as a google doc and authorize your twitter account. After that you run the script, which aggregates all the 3000 latest tweets from the last week. #tspotter had about 1200 unique tweets, and I used Hawksey’s TAGSExplorer to visualize the network.
 &lt;a href=&quot;https://my.vanderbilt.edu/vidl/2015/02/snow-days-twitter-reporting/&quot;&gt;Read the rest here…&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://zoeleblanc.github.io/img/post-assets/picofvandyice.jpg&quot; alt=&quot;picofvandyice&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/post-assets/picofvandyice.jpg&quot; alt=&quot;picofvandyice&quot; /&gt;
 Picture of Ice on Vanderbilt Campus by @ewillmot&lt;/p&gt;
 
 &lt;p&gt;Using the twitter tag &lt;a href=&quot;https://twitter.com/hashtag/tspotter?f=realtime&amp;amp;src=hash&quot;&gt;#tspotter&lt;/a&gt;, I used Martin Hawksey’s &lt;a href=&quot;https://tags.hawksey.info/get-tags/&quot;&gt;TAGS API&lt;/a&gt; to analyze the network data. TAGS is much easier to use than Gephi or other network analysis tools, and is free, which is rare. All you have to do is copy TAGS as a google doc and authorize your twitter account. After that you run the script, which aggregates all the 3000 latest tweets from the last week. #tspotter had about 1200 unique tweets, and I used Hawksey’s TAGSExplorer to visualize the network.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://zoeleblanc.github.io/img/post-assets/tspotter1.jpg&quot; alt=&quot;tspotter1&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/post-assets/tspotter1.jpg&quot; alt=&quot;tspotter1&quot; /&gt;
 Network of replies from #tspotter&lt;/p&gt;
 
 &lt;p&gt;This first graph is of the replies from #tspotter, and shows a very loose network with the exception of @NashSeverWX and @NWSNashville. You can inspect the dynamic network &lt;a href=&quot;http://hawksey.info/tagsexplorer/?key=19uW2gLmN-fFdg1EhCZM_GAplwpdRUDiNLKizwdoCfL8&amp;amp;gid=400689247&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://zoeleblanc.github.io/img/post-assets/tspotter2.jpg&quot; alt=&quot;tspotter2&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/post-assets/tspotter2.jpg&quot; alt=&quot;tspotter2&quot; /&gt;
 Network of replies and mentions of #tspotter&lt;/p&gt;
 
 &lt;p&gt;This second graph of replies and mentions of #tspotter is starting to show a more dense network, though still with a lot of outliers. You can explore the dynamic network &lt;a href=&quot;http://hawksey.info/tagsexplorer/?key=19uW2gLmN-fFdg1EhCZM_GAplwpdRUDiNLKizwdoCfL8&amp;amp;gid=400689247&amp;amp;mentions=true&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://zoeleblanc.github.io/img/post-assets/tspotter3.jpg&quot; alt=&quot;tspotter3&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/post-assets/tspotter3.jpg&quot; alt=&quot;tspotter3&quot; /&gt;
 Network of replies, mentions, and retweets of #tspotter&lt;/p&gt;
 
 &lt;p&gt;This final graph of the replies, mentions, and retweets of #tspotter is as you would expect much more dense. However, I was really blown away with how much this graph seems to represent a community of Tennesseans taking to twitter to show their experiences of this rare metereological event. The fact that the top tweeter is &lt;a href=&quot;https://twitter.com/NashSevereWx&quot;&gt;@NashSevereWX&lt;/a&gt;, which relies on social media to report on weather, I think speaks to the growth of social media as a tool for citizen participation. You can check out the final graph &lt;a href=&quot;http://hawksey.info/tagsexplorer/?key=19uW2gLmN-fFdg1EhCZM_GAplwpdRUDiNLKizwdoCfL8&amp;amp;gid=400689247&amp;amp;mentions=true&amp;amp;retweets=true&quot;&gt;here&lt;/a&gt; and feel free to post your pics below or tweet us &lt;a href=&quot;http://twitter.com/VUdigital&quot;&gt;@VUdigital&lt;/a&gt;.&lt;/p&gt;
@@ -519,8 +559,8 @@ Network of replies, mentions, and retweets of #tspotter&lt;/p&gt;
 &lt;p&gt;Stay warm Tennessee!&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Mar 2015 15:31:30 -0500</pubDate>
-        <link>https://zoeleblanc.github.io/snow-days-twitter-reporting</link>
-        <guid isPermaLink="true">https://zoeleblanc.github.io/snow-days-twitter-reporting</guid>
+        <link>http://localhost:4000/snow-days-twitter-reporting</link>
+        <guid isPermaLink="true">http://localhost:4000/snow-days-twitter-reporting</guid>
         
         
         <category>digital</category>
@@ -548,8 +588,8 @@ Then a digital humanities training workshop is for you.&lt;/p&gt;
  &lt;a href=&quot;https://my.vanderbilt.edu/vidl/2014/11/in-pursuit-of-digital-pedagogy-off-campus-resources-digital-humanities-workshops&quot;&gt;Read the rest here&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 20 Nov 2014 14:31:30 -0600</pubDate>
-        <link>https://zoeleblanc.github.io/off-campus-dh-resources</link>
-        <guid isPermaLink="true">https://zoeleblanc.github.io/off-campus-dh-resources</guid>
+        <link>http://localhost:4000/off-campus-dh-resources</link>
+        <guid isPermaLink="true">http://localhost:4000/off-campus-dh-resources</guid>
         
         
         <category>digital</category>
@@ -561,7 +601,7 @@ Then a digital humanities training workshop is for you.&lt;/p&gt;
       <item>
         <title>In Pursuit of Digital Pedagogy</title>
         <description>&lt;blockquote&gt;
-  &lt;p&gt;This past year I was lucky enough to be selected for a cool new center on campus, the Vanderbilt Institute for Digital Learning. I’ve spent the year blogging for them about graduate digital education, digital pedagogy, and my (mis)adventures in becoming a digitalist. Here’s my first post in the series, In Pursuit of Digital Pedagogy and please visit the VIDL site too for more great posts from my fellow grad fellows. &lt;/p&gt;
+  &lt;p&gt;This past year I was lucky enough to be selected for a cool new center on campus, the Vanderbilt Institute for Digital Learning. I’ve spent the year blogging for them about graduate digital education, digital pedagogy, and my (mis)adventures in becoming a digitalist. Here’s my first post in the series, In Pursuit of Digital Pedagogy and please visit the VIDL site too for more great posts from my fellow grad fellows.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;For the last few weeks, I’ve been working on a number of posts for VIDL, and I’m excited to share the results of my first forays into the best practices for digital learning pedagogies and tools. However, as I was creating these posts, I realized I needed almost another introduction to give some context to the concepts underlying both my interests and projects for VIDL. So, here is my introduction redux. If you want to know more about my big picture approach to digital learning please check out my first intro post . Otherwise, sit back and let me take you back in time.&lt;/p&gt;
@@ -570,29 +610,8 @@ Then a digital humanities training workshop is for you.&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 14 Nov 2014 12:52:28 -0600</pubDate>
-        <link>https://zoeleblanc.github.io/in-pursuit-of-digital-pedagogy</link>
-        <guid isPermaLink="true">https://zoeleblanc.github.io/in-pursuit-of-digital-pedagogy</guid>
-        
-        
-        <category>digital</category>
-        
-        <category>teaching</category>
-        
-      </item>
-    
-      <item>
-        <title>VIDL Intro Piece</title>
-        <description>&lt;p&gt;Check out my &lt;a href=&quot;https://my.vanderbilt.edu/vidl/2014/09/zoe-leblanc-vidl-graduate-fellow-introductory-post&quot;&gt;latest post&lt;/a&gt;for the Vanderbilt Institute for Digital Learning. This post was a bit tricky to write and it might be a bit tricky to read as it is more of a conceptual road map then an intro about me or my work. Nonetheless, hope you enjoy!&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Here’s a brief excerpt:
-In 2007, Haruki Murakami, the great Japanese novelist, published my favorite type of book – the ones where writers talk about writing. The book, entitled What I Talk About When I Talk About Running, is a great read, full of philosophical musings; life lessons; and some really great quotes. My favorite is perhaps the most famous line from the book: “Pain is inevitable. Suffering is optional.”While Murakami was writing primarily about marathon running and the endurance needed to be a writer, I apply this same wisdom to my thoughts on digital learning.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-</description>
-        <pubDate>Tue, 02 Sep 2014 02:41:30 -0500</pubDate>
-        <link>https://zoeleblanc.github.io/vidl-intro-piece</link>
-        <guid isPermaLink="true">https://zoeleblanc.github.io/vidl-intro-piece</guid>
+        <link>http://localhost:4000/in-pursuit-of-digital-pedagogy</link>
+        <guid isPermaLink="true">http://localhost:4000/in-pursuit-of-digital-pedagogy</guid>
         
         
         <category>digital</category>

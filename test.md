@@ -13,9 +13,7 @@ author_name: Zoe
 
 > #### Jump to [Academic Bio](#academiabio) <a name="backtotop"></a>
 
-I'm an aspiring digital historian and web developer. I'm interested in
-
- specialize in American, Middle Eastern, and North African histories, and consider myself an international historian. I like thinking about race and religion, especially from the perspective of institutions and states. 
+I'm an aspiring digital historian, who studies networks, ideas, and spaces in modern history. I specialize in American, Middle Eastern, and North African histories, and consider myself an international historian. I like thinking about race and religion, especially from the perspective of institutions and states. 
 
 Things that fascinate me (in no particular order):
 

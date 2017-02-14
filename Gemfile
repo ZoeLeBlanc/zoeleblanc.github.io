@@ -9,6 +9,4 @@ gem "jekyll"
 # gem “activesupport”
 # gem “stringex”
 gem "kramdown"
-gem "instagram"
 gem "github-pages"
-gem "jekyll-twitter-plugin"

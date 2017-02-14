@@ -16,20 +16,14 @@ nav_list:
   Github : ['Github', 'https://github.com/ZoeLeBlanc/', 'fa-github']
   Tumblr : ['Tumblr', 'http://zoegenevieve.tumblr.com', 'fa-tumblr']
   Contact : ['Contact', '/contact', 'fa-envelope']
-single_footer: '<p>Zoe LeBlanc &copy; 2015 | built with Jekyll and Nutella <a href="/">latest posts</a></p>'
+single_footer: '<p>Zoe LeBlanc &copy; 2017 | built with Jekyll and Nutella <a href="/">latest posts</a></p>'
 footer_links:
     Home: ['Home', '/']
     About: ['About', '/author/zoe']
     Archives: ['Archives', '/archives']
+    Projects: ['Projects', 'https://zoeleblanc.github.io/portfolio']
     Twitter: ['Twitter', 'https://twitter.com/Zoe_LeBlanc']
-twitter:
-  consumer_key: 4MiOwZo9OiU4ufy4ZjpTQ
-  consumer_secret: UlRmvLLqxGtK2CZfLsxFAUoSDeW9eRR2eN3QhKXBQ
-  access_token: 840043015-7os6HSaUtcvDJ67gMZXEBAYxoDBk09tspynl6zJI
-  access_token_secret: 4FiqpPuNXxMABEc3dDusKb2cND0pvfa3oxruuqjKs
-instagram:
-  instagram_cache: true
-  instagram_cache_dir: '.instagram-cache'
+
 
 # Build settings
 markdown: kramdown
