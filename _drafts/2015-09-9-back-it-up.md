@@ -1,17 +1,21 @@
 ---
+title: Back It Up
+date: 2015-09-09 00:00:00 Z
+categories:
+- digital
+- academia
+- history
 layout: post
-title: "Back It Up"
-date: 2015-09-09
-categories: digital academia history
-author_name : Zoe 
-author_url : /author/zoe
+author_name: Zoe
+author_url: "/author/zoe"
 author_avatar: zoeworkphoto1
-show_avatar : false
-read_time : 6
+show_avatar: false
+read_time: 6
 feature_image: feature-notebook
 show_related_posts: true
 square_related: recommend-peak
 ---
+
     Back, back, back it up (Awww $#*!) - Lil Jon, "Get Low" 2002
 
 In my pre-grad school life, I worked in a computer store. One of my most memorable customers was a PhD student whose laptop crashed. While crashed laptops were a staple at the store (*shakes fist at at you Toshiba, HP, and Dell*), he was memorable because of the sheer misery on his face because he didn't have a backup of his dissertation. 

@@ -1,7 +1,7 @@
 ---
-layout: archives
 title: Archives
-permalink: /archives/
+permalink: "/archives/"
+layout: archives
 feature_image: feature-workstation
 ---
 

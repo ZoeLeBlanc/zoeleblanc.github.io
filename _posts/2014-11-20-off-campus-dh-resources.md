@@ -1,16 +1,20 @@
 ---
+title: Off Campus Dh Resources
+date: 2014-11-20 20:31:30 Z
+categories:
+- digital
+- teaching
 layout: post
-date: 2014-11-20 20:31:30
-categories: digital teaching
-author_name : Zoe 
-author_url : /author/zoe
+author_name: Zoe
+author_url: "/author/zoe"
 author_avatar: zoeworkphoto1
-show_avatar : false
-read_time : 3
+show_avatar: false
+read_time: 3
 feature_image: feature-dh
 show_related_posts: true
 square_related: recommend-dh
 ---
+
 > This post is one that I originally wrote for VIDL for my series, In Pursuit of Digital Pedagogy.
 
 Have you ever wanted to learn how to program? Or how to visualize networks? Or how to create video games? Or develop and manage digital projects?

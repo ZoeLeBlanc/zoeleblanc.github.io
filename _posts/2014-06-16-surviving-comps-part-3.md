@@ -1,17 +1,20 @@
 ---
+title: Surviving Comps Part III
+date: 2014-06-16 00:00:00 Z
+categories:
+- academia
+- history
 layout: post
-title: "Surviving Comps Part III"
-date: 2014-06-16
-categories: academia history
-author_name : Zoe 
-author_url : /author/zoe
+author_name: Zoe
+author_url: "/author/zoe"
 author_avatar: zoeworkphoto1
-show_avatar : false
-read_time : 6
+show_avatar: false
+read_time: 6
 feature_image: feature-sunset3
 show_related_posts: true
 square_related: recommend-sunset3
 ---
+
 I feel I should apologize for the size of this post. What started as one post is now a series, but hopefully this expansion is just a sign of how much wisdom I have to impart. Or maybe I’ve converted my tendency to ramble into written form. Regardless, I’ve finally arrived at the meat of this post - workflow and resources for your exams.
 
 An efficient workflow is key to productivity, and if you are unfamiliar with the concept I would recommend checking out Gradhacker’s numerous posts on productivity [here](http://www.gradhacker.org/tag/productivity-2/). One of gradhacker’s most apropos posts is on note taking for comps [here](http://www.gradhacker.org/2014/02/19/5-strategies-for-organizing-notes-for-comprehensive-exams/)

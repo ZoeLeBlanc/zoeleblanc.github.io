@@ -1,17 +1,21 @@
 ---
+title: Big Data and the Cold War
+date: 2015-09-14 00:00:00 Z
+categories:
+- digital
+- academia
+- history
 layout: post
-title: "Big Data and the Cold War"
-date: 2015-09-14
-categories: digital academia history
-author_name : Zoe 
-author_url : /author/zoe
+author_name: Zoe
+author_url: "/author/zoe"
 author_avatar: zoeworkphoto1
-show_avatar : false
-read_time : 11
+show_avatar: false
+read_time: 11
 feature_image: feature-bigdata
 show_related_posts: true
 square_related: recommend-bigdata
 ---
+
 <a name="backtotop"></a>
 Big Data and the Cold War are two things that seem like they should go together. Both are big unwieldy entities. And both seem to drive scholars a bit batty. But with the exception of a few digital history projects, I haven't really ever come across the two together.[^1]
 

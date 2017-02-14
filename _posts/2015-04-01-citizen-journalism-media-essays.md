@@ -1,17 +1,21 @@
 ---
+title: Citizen Journalism and Multimedia Essays
+date: 2015-04-01 00:00:00 Z
+categories:
+- digital
+- teaching
+- academia
 layout: post
-title: "Citizen Journalism and Multimedia Essays"
-date: 2015-04-01
-categories: digital teaching academia
-author_name : Zoe 
-author_url : /author/zoe
+author_name: Zoe
+author_url: "/author/zoe"
 author_avatar: zoeworkphoto1
-show_avatar : false
-read_time : 6
+show_avatar: false
+read_time: 6
 feature_image: feature-smartphone
 show_related_posts: true
 square_related: recommend-smartphone
 ---
+
 > This post was one I produced for my VIDL Series "In Pursuit of Digital Pedagogy", which you can read [here.](https://my.vanderbilt.edu/vidl/2015/04/in-pursuit-of-digital-pedagogy-2/)
 
 ### In Pursuit of Digital Pedagogy: A Series on Digital Tools in the Classroom

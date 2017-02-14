@@ -1,8 +1,16 @@
-# Site settings
+---
 title: Zoe Genevieve LeBlanc
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: zgleblanc@gmail.com
-description: > # Zoe LeBlanc's thoughts and scribbles.
-url: "https://zoeleblanc.github.io" # the base hostname & protocol for your site
+description: ''
+url: https://zoeleblanc.github.io
 enable_retina: false
 permalink: :title
 nav_list:
@@ -21,9 +29,69 @@ footer_links:
     Home: ['Home', '/']
     About: ['About', '/author/zoe']
     Archives: ['Archives', '/archives']
-    Projects: ['Projects', 'https://zoeleblanc.github.io/portfolio']
+    Portfolio: ['Portfolio', 'https://zoeleblanc.github.io/portfolio']
     Twitter: ['Twitter', 'https://twitter.com/Zoe_LeBlanc']
 
 
 # Build settings
+=======
+  Home:
+  - Home
+  - "/"
+  - fa-home
+  About:
+  - About
+  - "/author/zoe"
+  - fa-asterisk
+  Archives:
+  - Archives
+  - "/archives"
+  - fa-archive
+  Research:
+  - Research
+  - "/research"
+  - fa-book
+  Teaching:
+  - Teaching
+  - "/teaching"
+  - fa-paper-plane
+  Portfolio:
+  - Portfolio
+  - https://zoeleblanc.github.io/portfolio
+  - fa-folder
+  Twitter:
+  - Twitter
+  - https://twitter.com/Zoe_LeBlanc
+  - fa-twitter
+  Github:
+  - Github
+  - https://github.com/ZoeLeBlanc/
+  - fa-github
+  Tumblr:
+  - Tumblr
+  - http://zoegenevieve.tumblr.com
+  - fa-tumblr
+  Contact:
+  - Contact
+  - "/contact"
+  - fa-envelope
+single_footer: <p>Zoe LeBlanc &copy; 2017 | built with Jekyll and Nutella <a href="/">latest
+  posts</a></p>
+footer_links:
+  Home:
+  - Home
+  - "/"
+  About:
+  - About
+  - "/author/zoe"
+  Archives:
+  - Archives
+  - "/archives"
+  Twitter:
+  - Twitter
+  - https://twitter.com/Zoe_LeBlanc
+  Portfolio:
+  - Portfolio 
+  - https://zoeleblanc.github.io/portfolio
+
 markdown: kramdown
