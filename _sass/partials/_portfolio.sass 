@@ -1,0 +1,23 @@
+.menu-trigger
+    top: 15px
+    left: 15px
+    z-index: 1080
+    position: absolute
+    display: block
+    height: 40px
+    width: 40px
+    background: #333
+    padding-top: 8px
+    cursor: pointer
+
+.portfolio 
+    padding: 50px 0
+
+.portfolio-item 
+    margin-bottom: 30px
+
+
+.img-portfolio 
+    margin: 0 auto
+    &:hover 
+    opacity: 0.8
