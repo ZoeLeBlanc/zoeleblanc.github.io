@@ -1,4 +1,4 @@
 lib/node_modules/
 lib/bower_components/
 .DS_Store
-.sass_cache
+lib/.sass_cache
