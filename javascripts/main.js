@@ -1,8 +1,11 @@
 "use strict";
+
+if(window.location.toString().includes('research')){
+    window.location.replace('http://localhost:8080/projects');
+}
 $(window).on('load', ()=>{
    $(".button-collapse").sideNav();
     var $year = new Date().getFullYear();
-    console.log($year);
     var statement = '© ' + $year + ' Copyright | Built by Zoe LeBlanc 😄 🍁 ☕';
     $('#year-copyright').append(statement);
     $('select').material_select();
@@ -87,4 +90,3 @@ $(document).ready( ()=>{
         }
     });
 });
-console.log(window.location);
