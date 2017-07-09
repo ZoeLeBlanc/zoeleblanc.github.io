@@ -385,6 +385,9 @@ footer a:hover { color: #B509AC; }
 
 #project_img { max-width: 100%; }
 
+@media screen and (max-width: 2000px) { #google_docs_chart { width: 783.9181042837758px; height: 265.3779180726275px; } }
+@media screen and (max-width: 600px) { #google_docs_chart { width: 100%; } }
+
 .profile { float: right !important; }
 .profile img { box-shadow: 0 0 5px #828282; width: 100%; }
 

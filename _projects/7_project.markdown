@@ -5,53 +5,39 @@ description: Smaller code projects, 2016 - Present
 img: /assets/img/markus-spiske-207946.jpg
 ---
 
-https://freddy-vs-json.firebaseapp.com/
+These are a selection of programming projects I built while at the Nashville Software School. If you want to see more of my code, check out my [Github Profile](https://github.com/ZoeLeBlanc)
 
-http://zoeleblanc.com/hogwarts-game/
+****
+Harry Potter Game
 
+<img src="{{ site.baseurl }}/assets/img/harrypotter1.png" id="project_img" />
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+Game built using prototypal inheritance in Javascript and JQuery with Grunt and Browersify. Convinced my teammates to make it Harry Potter theme after I got a hedgehog as my patronus on Pottermore.
+<img src="{{ site.baseurl }}/assets/img/harrypotter2.png" id="project_img" />
+Users get sorted into Hogwart Houses and can select a patronus.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<img src="{{ site.baseurl }}/assets/img/harrypotter3.png" id="project_img" />
+They then can battle Voldemort and the Death Eaters, using spells and getting help from magical friends.
 
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-
-<div class="img_row">
-    <img class="col one" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-    <img class="col three" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+You can play the game [here](http://zoeleblanc.com/hogwarts-game/) or check out the github repo [here](https://github.com/ZoeLeBlanc/hogwarts-game)
 
 
-<div class="img_row">
-    <img class="col two" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+****
+Freddy VS JSON
 
+<img src="{{ site.baseurl }}/assets/img/freddy_v_json.gif" id="project_img" />
 
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
+A movie rating and saving app built in Javascript and JQuery with Materialize. You can search for movies using the OMDB API, and save them and rate them.
 
-    <div class="img_row">
-      <img class="col two" src="/img/6.jpg"/>
-      <img class="col one" src="/img/11.jpg"/>
-    </div>
+You can create an account and try it out [here](https://freddy-vs-json.firebaseapp.com/), or view the github repo [here](https://github.com/ZoeLeBlanc/movie-history-freddie-vs-json).
+
+****
+NSS Cohort 16 Website
+
+<img src="{{ site.baseurl }}/assets/img/cohort16pro.png" id="project_img" />
+
+Built the majority of my cohort's website in Javascript, JQuery, Materialize, and Grunt. Came up with the theme of having a professional version and then switching to Sweet 16 Party mode on a button click.
+
+<img src="{{ site.baseurl }}/assets/img/cohort16party.png" id="project_img" />
+
+You can try it out [here](http://www.cohort16.com/) or view the github repo [here](https://github.com/ZoeLeBlanc/cohort-16-website)

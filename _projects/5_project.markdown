@@ -11,5 +11,4 @@ This project grew out of my dissertation research and my realization that I was 
 
 You can read more about my initial foray into these methods in my post of [my SHAFR 2017 conference talk]({{ site.baseurl }}/blog/2017/depictions-of-decolonization-shafr-2017/).
 
-
-![slide10]({{ site.baseurl }}/assets/img/Plots_of_covers.gif)
+<img src="{{ site.baseurl }}/assets/img/Plots_of_covers.gif" id="project_img" />

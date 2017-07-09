@@ -80,3 +80,12 @@
 #project_img {
     max-width: 100%;
 }
+#google_docs_chart {
+    @include media-query($on-laptop) {
+        width: 783.9181042837758px;
+        height: 265.3779180726275px;
+    }
+    @include media-query($on-palm) {
+        width: 100%;
+    }
+}

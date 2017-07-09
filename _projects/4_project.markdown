@@ -9,7 +9,7 @@ This project was my first foray into using digital history methods in my researc
 
 I initially started with just organizing my materials, which you can see here.
 
-<iframe width="783.9181042837758" height="265.3779180726275" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1x13ki4al659DjfR1fkb80xX-OuXX-rKqo9TZagRuQdM/pubchart?oid=219032079&amp;format=interactive"></iframe>
+<iframe id="google_docs_chart" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1x13ki4al659DjfR1fkb80xX-OuXX-rKqo9TZagRuQdM/pubchart?oid=219032079&amp;format=interactive"></iframe>
 
 Then I used a combination of David McClure's Textplot, Voyant's Principal Components Analysis, AntConc, Mallet, and OverviewDocs to explore how words in the documents clustered and co-located. 
 
