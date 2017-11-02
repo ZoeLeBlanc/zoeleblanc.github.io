@@ -10,4 +10,7 @@
         <a class="sidenav-link" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a>
       {% endif %}
     {% endfor %}
+
+    <!-- Search -->
+    <a class="page-link" href="{{ '/search/' | prepend: site.baseurl | prepend: site.url }}"><i class="fa fa-search" aria-hidden="true"></i></a>
 </div>

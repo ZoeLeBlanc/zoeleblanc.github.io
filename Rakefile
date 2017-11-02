@@ -1,13 +1,12 @@
 require 'date'
 require 'time'
-require 'html-proofer'
 require 'rake'
 require 'json'
 require 'front_matter_parser'
 require 'open3'
 
 desc "Create corpus for search"
-file './corpus.json' => ['./', *Rake::FileList['./*.md','_posts/*.md'].exclude('./ISSUE_TEMPLATE.md', './PULL_REQUEST_TEMPLATE.md', './README.md', './index.md', './code_of_conduct.md')] do |md_file|
+file './corpus.json' => ['./', *Rake::FileList['_posts/*.md'].exclude()] do |md_file|
     unsafe_loader = ->(string) { YAML.load(string) }
     corpus = md_file.sources.grep(/\.md$/)
       .map do |path|
@@ -15,7 +14,7 @@ file './corpus.json' => ['./', *Rake::FileList['./*.md','_posts/*.md'].exclude('
         parsed = FrontMatterParser::Parser.parse_file(file_path, loader: unsafe_loader)
         {
           id: path.pathmap('%n'),
-          title: path.pathmap('%n').gsub('_', ' '),,
+          name: path.pathmap('%n').gsub('_', ' '),
           content: parsed.content,
         }
       end
