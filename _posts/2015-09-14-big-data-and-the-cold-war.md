@@ -16,9 +16,9 @@ I still wanted to write a bit about each conference so I've created little subhe
 ***************
 
 <a name="makingbigdatahuman"></a>
-The first conference was one I found on [twitter](https://twitter.com/dhiptweets/status/637969086270599169), called Making Big Data Human. [^3]
+The first conference was one I found on [twitter](https://twitter.com/dhiptweets/status/637969086270599169), called Making Big Data Human. [^2]
 
-![Making Big Data Human Poster]({{site.baseurl}}/assets/img/makingbigdatahuman.png)
+![View from the conference]({{site.url}}/img/post-assets/makingbigdatahuman.jpg)
 
 Luckily, someone canceled last minute so I was able to attend as a participant and head to Cambridge for the first time. The conference was hosted by a great group called [Doing History in Public](http://doinghistoryinpublic.org). The conference was a day long and covered a whole host of topics - from web archiving to database and keyword searches to human geography and visualization. Marta Musso storified the twitter exchange [here](https://storify.com/martamusso/making-big-data-human), which gives a good live feed of the conference, as well as some of my thoughts that I won't rehash here. 
 
@@ -88,5 +88,4 @@ Thinking about these questions together has, for me at least, started the wheels
  **Jump [back to top](#backtotop)**
 
 [^1]: When I say a few, I'm really thinking of two in particular: Micki Kaufman's [Quantifying Kissinger](http://blog.quantifyingkissinger.com) and Matthew Connelly's [History Lab](http://blog.quantifyingkissinger.com). If you know of any please let me know!
-[^2]: Sadly yes this is a post about conferences and not how big data can solve the Cold War. Although I'm sure someone out there is working on that...
-[^3]: Yes, twitter can be useful sometimes. I found this tweet after looking at the IHR digital history seminar page, I checked out their twitter stream [#dhist](https://twitter.com/search?q=%23dhist&src=typd) and [@IHRDigHist](https://twitter.com/IHRDigHist)
+[^w]: Yes, twitter can be useful sometimes. I found this tweet after looking at the IHR digital history seminar page, I checked out their twitter stream [#dhist](https://twitter.com/search?q=%23dhist&src=typd) and [@IHRDigHist](https://twitter.com/IHRDigHist)
