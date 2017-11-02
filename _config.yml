@@ -29,7 +29,7 @@ blog_description: A blog about history, web development, and the overlap between
 
 # Pagination
 paginate: 4
-permalink: /blog/:year/:title/
+permalink: /blog/:title/
 paginate_path: /blog/page:num/
 
 text:

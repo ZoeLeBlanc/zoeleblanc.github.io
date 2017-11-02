@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Surviving Comps Part I
+title: Surviving Comps Part One
 date: 2014-06-14 
 description: First part in a series about my comps experience
 ---

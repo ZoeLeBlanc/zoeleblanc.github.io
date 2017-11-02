@@ -11,6 +11,8 @@ jQuery(function() {
               'id' : key[1].id,
               'content': key[1].content,
               'name': key[1].name,
+              'url': key[1].url,
+
           };
           window.documents.push(doc);
       });
@@ -33,8 +35,8 @@ jQuery(function() {
         a = document.createElement('a'),
         p1 = document.createElement('p')
 
-    a.dataset.field = 'name';
-    a.href += '/' + doc.name;
+    a.dataset.field = 'url';
+    a.href += '/blog/' + doc.url;
     a.textContent = doc.name;
 
     p1.dataset.field = 'content';

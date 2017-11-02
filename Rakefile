@@ -14,7 +14,8 @@ file './corpus.json' => ['./', *Rake::FileList['_posts/*.md'].exclude()] do |md_
         parsed = FrontMatterParser::Parser.parse_file(file_path, loader: unsafe_loader)
         {
           id: path.pathmap('%n'),
-          name: path.pathmap('%n').gsub('_', ' '),
+          name: parsed['title'],
+          url: parsed['title'].downcase.strip.gsub(' ', '-'),
           content: parsed.content,
         }
       end

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Surviving Comps Part III
+title: Surviving Comps Part Three
 date: 2014-06-16
 description: Part Three in Comps Series
 ---

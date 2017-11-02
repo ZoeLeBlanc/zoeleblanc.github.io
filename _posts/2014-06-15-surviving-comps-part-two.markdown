@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Surviving Comps Part II
+title: Surviving Comps Part Two
 date: 2014-06-15 
 description: Second part in my comps exams series
 ---

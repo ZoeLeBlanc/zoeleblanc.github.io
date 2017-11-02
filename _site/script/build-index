@@ -18,6 +18,7 @@ stdin.on('end', function () {
   var idx = lunr( (builder) => {
     builder.ref('id')
     builder.field('name')
+    builder.field('url')
     builder.field('content')
     // This is required to provide the position of terms in
     // in the index. Currently position data is opt-in due

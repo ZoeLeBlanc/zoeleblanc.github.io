@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SHAFR 2017 Presentation 'Depictions of Decolonization'
+title: Depictions of Decolonization SHAFR 2017 
 date: 2017-06-23
 description: Talk presented on the Doing Digital History panel
 ---
