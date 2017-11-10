@@ -7,6 +7,7 @@ require 'open3'
 
 desc "Create corpus for search"
 file './corpus.json' => ['./', *Rake::FileList['_posts/*.md', '_posts/*.markdown'].exclude()] do |md_file|
+file './corpus.json' => ['./', *Rake::FileList['_posts/*.md'].exclude()] do |md_file|
     unsafe_loader = ->(string) { YAML.load(string) }
     corpus = md_file.sources.grep(/\.md$/)
       .map do |path|
