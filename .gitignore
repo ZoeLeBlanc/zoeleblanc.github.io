@@ -1,0 +1,10 @@
+lib/node_modules/
+lib/bower_components/
+.DS_Store
+lib/.sass_cache
+_drafts/
+.sass-cache
+.jekyll-metadata
+.ruby-version
+Gemfile.lock
+node_modules/
