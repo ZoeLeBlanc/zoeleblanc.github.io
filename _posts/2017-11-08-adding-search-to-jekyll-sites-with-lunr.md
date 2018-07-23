@@ -334,4 +334,4 @@ Paste this code into your `search.html` or on which ever page you want the searc
 ```
 Now that you have everything set up, you should be able to run `rake` and have your search index built. Then once you build your jekyll site and serve it, you can go to wherever you're hosting your search page and put in a query.
 
-You can try out the search function on my site and let me know if you have any issues with lunr! Happy searching 🕵️
+You can try out <a href="{{ site.baseurl | prepend: site.url }}/search"> the search function on my site </a> and let me know if you have any issues with lunr! Happy searching 🕵️

@@ -6,11 +6,11 @@
 
     <!-- Pages -->
     {% for page in site.pages %}
-      {% if page.title and page.url != "/" %}
+      {% if page.title and page.url != "/" and page.title != "projects" %}
         <a class="sidenav-link" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a>
       {% endif %}
     {% endfor %}
 
     <!-- Search -->
-    <a class="sidenav-link" href="{{ '/search/' | prepend: site.baseurl | prepend: site.url }}"><i class="fa fa-search" aria-hidden="true"></i></a>
+    <!-- <a class="sidenav-link" href="{{ '/search/' | prepend: site.baseurl | prepend: site.url }}"><i class="fa fa-search" aria-hidden="true"></i></a>  -->
 </div>

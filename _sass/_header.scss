@@ -36,7 +36,6 @@
         top: 0px;
         right: 10px;
         text-align: right;
-        line-height: $mobile-height;
         .page-link{
             display: none;
         }
@@ -44,7 +43,7 @@
             display: block;
         }
         .sidenav-link{
-            font-size: 12px;
+            font-size: 15px;
             // &:not(:first-child) {
             //     margin-left: 10px;
             // }

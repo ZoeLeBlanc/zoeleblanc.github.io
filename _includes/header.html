@@ -5,12 +5,12 @@
     {% if page.layout != "about" %}
     <span class="site-title">
         {% assign name = site.name | split: ' ' %}
-        <strong>{{ name | first }}</strong> {{ name | last }}
+       <a class="page-link" href="{{ site.baseurl }}/"> <strong>{{ name | first }}</strong> {{ name | last }} </a>
     </span>
     {% else %}
     <span class="site-title">
         {% assign name = site.name | split: ' ' %}
-        <strong>{{ name | first }}</strong> {{ name | last }}
+        <a class="page-link" href="{{ site.baseurl }}/"> <strong>{{ name | first }}</strong> {{ name | last }} </a>
     </span>
     {% endif %}
 
@@ -25,13 +25,13 @@
 
         <!-- Pages -->
         {% for page in site.pages %}
-          {% if page.title and page.url != "/" %}
+          {% if page.title and page.url != "/" and page.title != "projects" %}
             <a class="page-link" href="{{ page.url | prepend: site.url }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
 
         <!-- Search -->
-        <a class="page-link" href="{{ '/search/' | prepend: site.baseurl | prepend: site.url }}"><i class="fa fa-search" aria-hidden="true"></i></a>
+        <!--  <a class="page-link" href="{{ '/search/' | prepend: site.baseurl | prepend: site.url }}"><i class="fa fa-search" aria-hidden="true"></i></a> -->
 
         {% include sidenav.html %}
 

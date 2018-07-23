@@ -10,7 +10,7 @@ footer_text:
 
 url: #zoeleblanc.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: Friday June 30, 2017
+last_updated: July 2018
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -18,14 +18,13 @@ last_updated: Friday June 30, 2017
 github_username: ZoeLeBlanc
 twitter_username: Zoe_LeBlanc
 linkedin_username: zoe-leblanc
-tumblr_username: zoegenevieve
 contact_note: Best contacted via Twitter or Email.
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: History & Development
-blog_description: A blog about history, web development, and the overlap between the two.
+blog_name: Blog 🔮
+blog_description: Archives mostly about digital history & graduate school
 
 # Pagination
 paginate: 4
@@ -52,13 +51,14 @@ collections:
   news:
     defaults:
       layout: post
+    future: true
     output: true
     permalink: /news/:path/
   projects:
     output: true
     permalink: /projects/:path/
 
-news_limit: 5
+news_limit: 3
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -67,6 +67,8 @@ news_limit: 5
 # Build settings
 markdown: kramdown
 highlighter: pygments
+future: true
+
 
 # Includes
 include: ['_pages']
