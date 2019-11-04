@@ -270,7 +270,9 @@ DEPENDENCIES
   jekyll-scholar
   jemoji
   json
+  nokogiri
   rake
+  rubyzip
 
 BUNDLED WITH
    1.14.6

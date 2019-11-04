@@ -3,14 +3,14 @@
 # -----------------------------------------------------------------------------
 name: Zoe Genevieve LeBlanc
 email: zgleblanc@gmail.com
-description: Zoe LeBlanc, Historian & Developer.
+description: Zoe LeBlanc, Digital Historian.
 footer_text: 
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 url: #zoeleblanc.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: July 2018
+last_updated: August 2019
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -24,7 +24,7 @@ contact_note: Best contacted via Twitter or Email.
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: Blog 🔮
-blog_description: Archives mostly about digital history & graduate school
+blog_description: Archives mostly about digital experiments & historical research
 
 # Pagination
 paginate: 4

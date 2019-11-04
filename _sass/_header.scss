@@ -2,10 +2,10 @@
     border-bottom: 1px solid $grey-color-light;
     background-color: #fff;
     opacity: 0.95;
-    position:fixed;
-    left:0px;
-    top:0px;
-    width:100%;
+    position: fixed;
+    left: calc((100vw - 100%)/2);
+    top: 0px;
+    width: 100%;
     z-index: 50;
 }
 
@@ -14,44 +14,86 @@
     line-height: $nav-height;
     letter-spacing: -1px;
     margin-bottom: 0;
-    @include media-query($on-palm) {
-        text-align: left;
-    }
 }
+
 .site-nav {
     float: right;
     line-height: $nav-height;
-    .page-link{
+
+    .nav-trigger {
+        display: none;
+    }
+
+    .menu-icon {
+        display: none;
+    }
+
+    .page-link {
         line-height: $line-height;
+
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: 10px;
         }
     }
-    .sidenav {
-        display: none;
-    }
+
+    // added for hamburger
     @include media-query($on-palm) {
-        position: fixed;
-        top: 0px;
-        right: 10px;
+        position: absolute;
+        top: 9px;
+        right: $horizontal-spacing-unit / 2;
+        background-color: $background-color;
+        border: 1px solid $grey-color-light;
+        border-radius: 5px;
         text-align: right;
-        .page-link{
+
+        label[for="nav-trigger"] {
+            display: block;
+            float: right;
+            width: 36px;
+            height: 36px;
+            z-index: 2;
+            cursor: pointer;
+        }
+
+        .menu-icon {
+            display: block;
+            float: right;
+            width: 36px;
+            height: 26px;
+            line-height: 0;
+            padding-top: 10px;
+            text-align: center;
+
+            >svg path {
+                fill: $grey-color-dark;
+            }
+        }
+
+        input~.trigger {
+            clear: both;
             display: none;
         }
-        .sidenav{
+
+        input:checked~.trigger {
             display: block;
+            padding-bottom: 5px;
         }
-        .sidenav-link{
-            font-size: 15px;
-            // &:not(:first-child) {
-            //     margin-left: 10px;
-            // }
+
+        .page-link {
+            display: block;
+            padding: 5px 10px;
+
+            &:not(:last-child) {
+                margin-right: 0;
+            }
+
+            margin-left: 10px;
         }
     }
 }
 
-.header-bar{
+.header-bar {
     border-bottom: 1px solid $light-gray;
     font-size: 20px;
     display: block;
@@ -62,20 +104,13 @@
     padding-bottom: $space-4;
     line-height: 3em;
     z-index: 25;
-    h1{
+
+    h1 {
         color: $theme-color;
-        font-size:75px;
+        font-size: 75px;
     }
-    h2{
-        font-size:25px;
-    }
-    @include media-query($on-palm) {
-        h1{
-            color: $theme-color;
-            font-size:45px;
-        }
-        h2{
-            font-size:20px;
-        }
+
+    h2 {
+        font-size: 25px;
     }
 }
