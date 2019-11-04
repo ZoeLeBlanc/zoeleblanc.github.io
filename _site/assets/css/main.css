@@ -298,7 +298,9 @@ hr { border: 0; border-bottom-style: solid; border-bottom-width: 1px; border-bot
 
 .px4 { padding-left: 4rem; padding-right: 4rem; }
 
-html, body { height: auto; min-height: 100%; }
+html { margin-left: calc(100vw - 100%); margin-right: 0; }
+
+html, body { height: auto; min-height: 100%; -webkit-text-size-adjust: 100%; }
 
 img { max-width: none; }
 
@@ -307,7 +309,6 @@ em img { max-width: 100%; margin-left: 0; }
 body { box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; }
 
 .wrapper { max-width: -webkit-calc(800px - (50px * 2)); max-width: calc(800px - (50px * 2)); margin-right: auto; margin-left: auto; padding-right: 50px; padding-left: 50px; }
-@media screen and (max-width: 600px) { .wrapper { margin-right: 20px; margin-left: 20px; padding-left: 0; padding-right: 0; } }
 
 .row { display: flex; flex-direction: row; flex-wrap: wrap; width: 100%; }
 
@@ -347,11 +348,11 @@ body { box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: 
 
 .site-wrap { -webkit-box-flex: 1; -webkit-flex: 1; -ms-flex: 1 0 auto; flex: 1 0 auto; }
 
-footer { background-color: #424242; border-top: thin solid #424242; color: #ccc; font-size: 0.75rem; font-weight: 300; padding: 0.5rem; left: 0px; bottom: 0px; width: 100%; }
+footer { background-color: #424242; border-top: thin solid #424242; color: #ccc; font-size: 0.75rem; font-weight: 300; padding: 0.5rem; position: fixed; left: 0px; bottom: 0px; width: 100%; }
 footer a { color: #fff; }
 footer a:hover { color: #B509AC; }
 
-.page-content { padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */ }
+.page-content { padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */ min-height: 90vh; }
 
 .page-heading { font-size: 20px; }
 
