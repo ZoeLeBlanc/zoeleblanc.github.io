@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Zoe</strong> LeBlanc 
-description: Historian of Information & International Politics | Scholar Computational Methods and Digital History
+description: Digital Historian ✨ International Histories of Information ✨ Data Narratives and Computational Methods
 
 profile:
   align: right

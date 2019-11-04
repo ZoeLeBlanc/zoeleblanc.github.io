@@ -120,13 +120,13 @@
 
 <p>Add these gems to your Gemfile.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gem 'json'
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gem 'json'
 gem 'rake'
 gem 'front_matter_parser'
 </code></pre></div></div>
-<p>then run  <code class="highlighter-rouge">bundle install</code></p>
+<p>then run  <code class="language-plaintext highlighter-rouge">bundle install</code></p>
 
-<p>Now either run <code class="highlighter-rouge">npm init</code> or create a package.json. Then run <code class="highlighter-rouge">npm install lunr</code>, <code class="highlighter-rouge">npm install jquery</code>, and if you’re using dates <code class="highlighter-rouge">npm install moment</code></p>
+<p>Now either run <code class="language-plaintext highlighter-rouge">npm init</code> or create a package.json. Then run <code class="language-plaintext highlighter-rouge">npm install lunr</code>, <code class="language-plaintext highlighter-rouge">npm install jquery</code>, and if you’re using dates <code class="language-plaintext highlighter-rouge">npm install moment</code></p>
 
 <p><strong>Now let’s create some automated tasks to compile our corpus and search index</strong></p>
 
@@ -135,13 +135,13 @@ gem 'front_matter_parser'
 <p>Open your Rakefile or create one if you don’t have one in the main directory of your site. In your Rakefile, we’re going to create a task to take all your desired inputs and create a corpus with them.</p>
 
 <p>At the top of your Rakefile make sure to require the necessary packages.</p>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>require 'rake'
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>require 'rake'
 require 'json'
 require 'front_matter_parser'
 require 'open3'
 </code></pre></div></div>
 <p>Then let’s create your first rake task.</p>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>desc "Create corpus for search"
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>desc "Create corpus for search"
 file './corpus.json' =&gt; ['./', *Rake::FileList['_posts/*.md'].exclude()] do |md_file|
      unsafe_loader = -&gt;(string) { YAML.load(string) } #required by front matter parser. Read more at the githu brepo
      corpus = md_file.sources.grep(/\.md$/)
@@ -160,12 +160,12 @@ file './corpus.json' =&gt; ['./', *Rake::FileList['_posts/*.md'].exclude()] do |
      end
 end
 </code></pre></div></div>
-<p>So this task starts with a description, <em>creating a corpus for search</em>. Then we list the file we’re creating, <code class="highlighter-rouge">corpus.json</code> (you can call yours whatever you like but be sure to change it everywhere it’s referenced). Then we pass in the files we want to use for the corpus. Right now I’m just passing in the posts, but you could pass in all the pages to the filelist. You can also exclude certain files.
+<p>So this task starts with a description, <em>creating a corpus for search</em>. Then we list the file we’re creating, <code class="language-plaintext highlighter-rouge">corpus.json</code> (you can call yours whatever you like but be sure to change it everywhere it’s referenced). Then we pass in the files we want to use for the corpus. Right now I’m just passing in the posts, but you could pass in all the pages to the filelist. You can also exclude certain files.
 For example:</p>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>*Rake::FileList['_posts/*.md', '_projects/*.md'].exclude('1project.markdown')]
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>*Rake::FileList['_posts/*.md', '_projects/*.md'].exclude('1project.markdown')]
 </code></pre></div></div>
-<p>At the end of the <code class="highlighter-rouge">do</code> statement we specify that we’re inputting markdown files with <code class="highlighter-rouge">md_file</code>. Then we start mapping each file and passing it to the front matter parser gem.</p>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>file_path = './' + path
+<p>At the end of the <code class="language-plaintext highlighter-rouge">do</code> statement we specify that we’re inputting markdown files with <code class="language-plaintext highlighter-rouge">md_file</code>. Then we start mapping each file and passing it to the front matter parser gem.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>file_path = './' + path
  parsed = FrontMatterParser::Parser.parse_file(file_path, loader: unsafe_loader)
  {
     id: path.pathmap('%n'),
@@ -174,10 +174,10 @@ For example:</p>
     content: parsed.content,
  }
 </code></pre></div></div>
-<p>In the object you specify which properties you want for the corpus and your search index. The front matter parser gem will be able to parse any front matter property. One thing I would recommending is even if you change the properties, be sure to include the url for the search functionality since it’s how people can click on a post. Finally we write the file to JSON and now you should have a <code class="highlighter-rouge">corpus.json</code>.</p>
+<p>In the object you specify which properties you want for the corpus and your search index. The front matter parser gem will be able to parse any front matter property. One thing I would recommending is even if you change the properties, be sure to include the url for the search functionality since it’s how people can click on a post. Finally we write the file to JSON and now you should have a <code class="language-plaintext highlighter-rouge">corpus.json</code>.</p>
 
 <p>Then comes our second rake task to build the search index.</p>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>file './search_index.json' =&gt; ['./corpus.json'] do |t|
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>file './search_index.json' =&gt; ['./corpus.json'] do |t|
      Open3.popen2('script/build-index') do |stdin, stdout, wt|
         IO.copy_stream(t.source, stdin)
         stdin.close
@@ -185,64 +185,64 @@ For example:</p>
      end
 end
 </code></pre></div></div>
-<p>In this task we create <code class="highlighter-rouge">search_index.json</code> from our <code class="highlighter-rouge">corpus.json</code> and a script we have yet to create, called <code class="highlighter-rouge">build-index</code>. This task essentially streams the contents of the corpus into the script and outputs the result to the search index.</p>
+<p>In this task we create <code class="language-plaintext highlighter-rouge">search_index.json</code> from our <code class="language-plaintext highlighter-rouge">corpus.json</code> and a script we have yet to create, called <code class="language-plaintext highlighter-rouge">build-index</code>. This task essentially streams the contents of the corpus into the script and outputs the result to the search index.</p>
 
 <p>Now at the bottom of your Rakefile, add these two tasks.</p>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>task :default =&gt; ['./corpus.json', './search_index.json']
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>task :default =&gt; ['./corpus.json', './search_index.json']
 </code></pre></div></div>
 
 <p><strong>Now we need to create the build-index script.</strong></p>
 
-<p>In your script folder, create a file called <code class="highlighter-rouge">build-index</code> and paste this code in it.</p>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">#!/usr/bin/env node
-</span>
-<span class="kd">var</span> <span class="nx">lunr</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="s1">'lunr'</span><span class="p">),</span>
- <span class="nx">stdin</span> <span class="o">=</span> <span class="nx">process</span><span class="p">.</span><span class="nx">stdin</span><span class="p">,</span>
- <span class="nx">stdout</span> <span class="o">=</span> <span class="nx">process</span><span class="p">.</span><span class="nx">stdout</span><span class="p">,</span>
- <span class="nx">buffer</span> <span class="o">=</span> <span class="p">[]</span>
+<p>In your script folder, create a file called <code class="language-plaintext highlighter-rouge">build-index</code> and paste this code in it.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>#!/usr/bin/env node
 
-<span class="nx">stdin</span><span class="p">.</span><span class="nx">resume</span><span class="p">()</span>
-<span class="nx">stdin</span><span class="p">.</span><span class="nx">setEncoding</span><span class="p">(</span><span class="s1">'utf8'</span><span class="p">)</span>
+var lunr = require('lunr'),
+ stdin = process.stdin,
+ stdout = process.stdout,
+ buffer = []
 
-<span class="nx">stdin</span><span class="p">.</span><span class="nx">on</span><span class="p">(</span><span class="s1">'data'</span><span class="p">,</span> <span class="kd">function</span> <span class="p">(</span><span class="nx">data</span><span class="p">)</span> <span class="p">{</span>
-    <span class="nx">buffer</span><span class="p">.</span><span class="nx">push</span><span class="p">(</span><span class="nx">data</span><span class="p">)</span>
-<span class="p">})</span>
+stdin.resume()
+stdin.setEncoding('utf8')
 
-<span class="nx">stdin</span><span class="p">.</span><span class="nx">on</span><span class="p">(</span><span class="s1">'end'</span><span class="p">,</span> <span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
-     <span class="kd">var</span> <span class="nx">corpus</span> <span class="o">=</span> <span class="nx">JSON</span><span class="p">.</span><span class="nx">parse</span><span class="p">(</span><span class="nx">buffer</span><span class="p">.</span><span class="nx">join</span><span class="p">(</span><span class="s1">''</span><span class="p">))</span>
+stdin.on('data', function (data) {
+    buffer.push(data)
+})
 
-     <span class="kd">var</span> <span class="nx">idx</span> <span class="o">=</span> <span class="nx">lunr</span><span class="p">(</span> <span class="p">(</span><span class="nx">builder</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
-         <span class="nx">builder</span><span class="p">.</span><span class="nx">ref</span><span class="p">(</span><span class="s1">'id'</span><span class="p">)</span>
-         <span class="nx">builder</span><span class="p">.</span><span class="nx">field</span><span class="p">(</span><span class="s1">'name'</span><span class="p">)</span>
-         <span class="nx">builder</span><span class="p">.</span><span class="nx">field</span><span class="p">(</span><span class="s1">'url'</span><span class="p">)</span>
-         <span class="nx">builder</span><span class="p">.</span><span class="nx">field</span><span class="p">(</span><span class="s1">'content'</span><span class="p">)</span>
-         <span class="nx">builder</span><span class="p">.</span><span class="nx">metadataWhitelist</span> <span class="o">=</span> <span class="p">[</span><span class="s1">'position'</span><span class="p">]</span>
-         <span class="c1">// This is required to provide the position of terms in</span>
-         <span class="c1">// in the index. Currently position data is opt-in due</span>
-         <span class="c1">// to the increase in index size required to store all</span>
-         <span class="c1">// the positions. This is currently not well documented</span>
-         <span class="c1">// and a better interface may be required to expose builder</span>
-         <span class="c1">// to consumers.</span>
-         <span class="c1">// This is the biggest change to the interface over the</span>
-         <span class="c1">// 0.x and 1.x branches. Documents must be added to the</span>
-         <span class="c1">// index within builder closure. When builder function completes</span>
-         <span class="c1">// the index is immutable, no more documents can be added.</span>
-         <span class="nx">corpus</span><span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="kd">function</span> <span class="p">(</span><span class="nx">doc</span><span class="p">)</span> <span class="p">{</span>
-             <span class="nx">builder</span><span class="p">.</span><span class="nx">add</span><span class="p">(</span><span class="nx">doc</span><span class="p">)</span>
-         <span class="p">},</span> <span class="nx">builder</span><span class="p">)</span>
-     <span class="p">})</span>
+stdin.on('end', function () {
+     var corpus = JSON.parse(buffer.join(''))
 
-    <span class="nx">stdout</span><span class="p">.</span><span class="nx">write</span><span class="p">(</span><span class="nx">JSON</span><span class="p">.</span><span class="nx">stringify</span><span class="p">(</span><span class="nx">idx</span><span class="p">))</span>
-<span class="p">})</span>
+     var idx = lunr( (builder) =&gt; {
+         builder.ref('id')
+         builder.field('name')
+         builder.field('url')
+         builder.field('content')
+         builder.metadataWhitelist = ['position']
+         // This is required to provide the position of terms in
+         // in the index. Currently position data is opt-in due
+         // to the increase in index size required to store all
+         // the positions. This is currently not well documented
+         // and a better interface may be required to expose builder
+         // to consumers.
+         // This is the biggest change to the interface over the
+         // 0.x and 1.x branches. Documents must be added to the
+         // index within builder closure. When builder function completes
+         // the index is immutable, no more documents can be added.
+         corpus.forEach(function (doc) {
+             builder.add(doc)
+         }, builder)
+     })
+
+    stdout.write(JSON.stringify(idx))
+})
 </code></pre></div></div>
-<p>In this file, we’re calling Lunr and essentially buffering our corpus data through the Lunr constructor, specifying the fields we want to include and then stringifying the output to write to JSON. The output becomes our <code class="highlighter-rouge">search_index.json</code></p>
+<p>In this file, we’re calling Lunr and essentially buffering our corpus data through the Lunr constructor, specifying the fields we want to include and then stringifying the output to write to JSON. The output becomes our <code class="language-plaintext highlighter-rouge">search_index.json</code></p>
 
-<p>The comments included are from the creator of Lunr. This script is the biggest change to Lunr, since now both the <code class="highlighter-rouge">builder</code> constructor (instead of earlier use of <code class="highlighter-rouge">ref</code>) and the fact that all the documents have to be added where the Lunr instance is created.</p>
+<p>The comments included are from the creator of Lunr. This script is the biggest change to Lunr, since now both the <code class="language-plaintext highlighter-rouge">builder</code> constructor (instead of earlier use of <code class="language-plaintext highlighter-rouge">ref</code>) and the fact that all the documents have to be added where the Lunr instance is created.</p>
 
-<p>Now we need to create a <code class="highlighter-rouge">search.js</code> file in our javascript assets, which will call the <code class="highlighter-rouge">search_index.json</code> and allow us to return search results.</p>
+<p>Now we need to create a <code class="language-plaintext highlighter-rouge">search.js</code> file in our javascript assets, which will call the <code class="language-plaintext highlighter-rouge">search_index.json</code> and allow us to return search results.</p>
 
-<p>Paste this code into <code class="highlighter-rouge">search.js</code></p>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>jQuery(function() {
+<p>Paste this code into <code class="language-plaintext highlighter-rouge">search.js</code></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>jQuery(function() {
 
   $.getJSON('/search_index.json', (data, err) =&gt; {
     window.idx = data;
@@ -380,18 +380,18 @@ end
   }
 });
 </code></pre></div></div>
-<p>The first thing we do in the file is load the <code class="highlighter-rouge">search_index.json</code> and the <code class="highlighter-rouge">corpus.json</code> into global variables. We transform the corpus file into an array with a series of objects. If you’re not familiar with <code class="highlighter-rouge">window</code> that allows you to access the variables in the browser console, which is helpful for trouble shooting the search index.</p>
+<p>The first thing we do in the file is load the <code class="language-plaintext highlighter-rouge">search_index.json</code> and the <code class="language-plaintext highlighter-rouge">corpus.json</code> into global variables. We transform the corpus file into an array with a series of objects. If you’re not familiar with <code class="language-plaintext highlighter-rouge">window</code> that allows you to access the variables in the browser console, which is helpful for trouble shooting the search index.</p>
 
 <p>Next we create an event listener on the search input field. In this code block, we also instantiate the Lunr Index and pass it our search_index data. Then we can pass that index our search queries from the input field. Finally we pass the results to our functions to display the search results.</p>
 
-<p>The <code class="highlighter-rouge">display_search_results</code> function takes the results and makes sure there is an actual result. It then empties out the div of any existing results. Then it loops through the results and filters the corpus to get the right post, and passes the post to the <code class="highlighter-rouge">buildSearchResult</code> function. In that function, we create the DOM elements that we’ll be inserting on the page and we set what elements from the corpus we want to visualize. In this case, I’m showing the name in an anchor tag with the post url, and then a truncated version of the content.</p>
+<p>The <code class="language-plaintext highlighter-rouge">display_search_results</code> function takes the results and makes sure there is an actual result. It then empties out the div of any existing results. Then it loops through the results and filters the corpus to get the right post, and passes the post to the <code class="language-plaintext highlighter-rouge">buildSearchResult</code> function. In that function, we create the DOM elements that we’ll be inserting on the page and we set what elements from the corpus we want to visualize. In this case, I’m showing the name in an anchor tag with the post url, and then a truncated version of the content.</p>
 
-<p>That DOM element is then passed to a loop that looks through the metadata of the results to find the exact position of each word in a document and then pass it to the <code class="highlighter-rouge">wrapTerms</code> function. This function deals with the element nodes and positions of each word in the document to wrap the word with the native html mark tag, which highlights the term. Finally the results are append to the page or if there are no results, then a <code class="highlighter-rouge">no results found</code> is appended.</p>
+<p>That DOM element is then passed to a loop that looks through the metadata of the results to find the exact position of each word in a document and then pass it to the <code class="language-plaintext highlighter-rouge">wrapTerms</code> function. This function deals with the element nodes and positions of each word in the document to wrap the word with the native html mark tag, which highlights the term. Finally the results are append to the page or if there are no results, then a <code class="language-plaintext highlighter-rouge">no results found</code> is appended.</p>
 
-<p>The final steps are to create the <code class="highlighter-rouge">search.html</code> page and link the javascript scripts and node modules.</p>
+<p>The final steps are to create the <code class="language-plaintext highlighter-rouge">search.html</code> page and link the javascript scripts and node modules.</p>
 
-<p>Paste this code into your <code class="highlighter-rouge">search.html</code> or on which ever page you want the search to be available.</p>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;br/&gt;&amp;nbsp;
+<p>Paste this code into your <code class="language-plaintext highlighter-rouge">search.html</code> or on which ever page you want the search to be available.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;br/&gt;&amp;nbsp;
 &lt;form action="get" id="site_search"&gt;
 &lt;center&gt;
   &lt;input style="font-size:20px;" type="text" id="search_box"&gt;
@@ -412,7 +412,7 @@ end
 &lt;script src="/node_modules/lunr/lunr.js" type="text/javascript" charset="utf-8"&gt;&lt;/script&gt;
 &lt;script src="/assets/js/search.js" type="text/javascript" charset="utf-8"&gt;&lt;/script&gt;
 </code></pre></div></div>
-<p>Now that you have everything set up, you should be able to run <code class="highlighter-rouge">rake</code> and have your search index built. Then once you build your jekyll site and serve it, you can go to wherever you’re hosting your search page and put in a query.</p>
+<p>Now that you have everything set up, you should be able to run <code class="language-plaintext highlighter-rouge">rake</code> and have your search index built. Then once you build your jekyll site and serve it, you can go to wherever you’re hosting your search page and put in a query.</p>
 
 <p>You can try out <a href="http://localhost:4000/search"> the search function on my site </a> and let me know if you have any issues with lunr! Happy searching 🕵️</p>
 
