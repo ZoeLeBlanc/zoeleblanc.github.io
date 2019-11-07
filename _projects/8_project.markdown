@@ -12,17 +12,18 @@ img: /assets/img/mitch-rosen-203803.jpg
     <h1>Visualizing Cairo's Congo Crisis</h1>
     <div class="row">
         <p>
-            Visualizing Cairo's Congo Crisis is an interactive, data history of how the Congo Crisis of the 1960s was influenced by *and* influential in Egypt. After the Free Officers' Revolution of 1952, Gamal Abdel Nasser and his coterie of military officers turned bureaucrats sought to make Cairo an international hub for anti-colonial movements and institutions. While the Bandung Conference of 1955, the Suez Crisis of 1956, and the Afro-Asian People's Solidarity Conference of 1957, were all instrumental in making Egypt an international force in decolonization, I argue that the Congo Crisis of 1960 and onwards marked a turning point.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> Indeed, the crisis writ large was a “postwar moment of truth” according to Jason Parker, since it challenged the United Nations’ role in “North-South relations” and was a “catalyst for Afro-Asian unity.”<sup id="fnref:2"><a href="#fn:2" class="footnote">1</a></sup> Yet uncovering 
+            Visualizing Cairo's Congo Crisis is an interactive, data history of how the Congo Crisis of the 1960s was influenced by <i>and</i> influential in Egypt. After the Free Officers' Revolution of 1952, Gamal Abdel Nasser and his coterie of military officers turned bureaucrats sought to make Cairo an international hub for anti-colonial movements and institutions. While the Bandung Conference of 1955, the Suez Crisis of 1956, and the Afro-Asian People's Solidarity Conference of 1957, were all instrumental in making Egypt an international force in decolonization, I argue that the Congo Crisis of 1960 and onwards marked a turning point.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> Indeed, the crisis writ large was a “postwar moment of truth” according to Jason Parker, since it challenged the United Nations’ role in “North-South relations” and was a “catalyst for Afro-Asian unity.”<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> The larger article uncovers Cairo's role in the crisis, and contextualizes how the conflict went on to shape Egyptian anti-colonial politics. This digital project covers some of the similar narrative, but zooms in on how computational methods can elucidate how the meanings of anti-colonialism transformed over the 1960s.
         </p>
     </div>
     <div class="row">
-        <h3>Project Background</h3>
-        <p>
-            Beginning in 2015, at the <a href="https://nationalhistorycenter.org/decolonization-seminar-2015/">International Seminar on Decolonization</a>, I started a project to understand the ways in which the Congo Crisis of the 1960s was influenced by and influential in Egypt. While initially this seminar paper utilized established historical methods,
-            eventually became part of my larger dissertation and future book project, but in the interrim, my fluency in computational methods transformed.
+        <h3 class="col three">Project Background</h3>
+        <p class="col two">
+            This project was first conceived at the <a href="https://nationalhistorycenter.org/decolonization-seminar-2015/">International Seminar on Decolonization in August 2015</a>, as an exploration into Egypt's place in the Congo Crisis of the 1960s - an event that was on my radar after a few international histories had started to re-examine the conflict<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup>. While initially this seminar paper utilized diplomatic cables and Egyptian newspapers, I became particularly interested in the existence of Egyptian periodicals that were produced by the state and published in multiple languages. These magazines blurred the boundaries between political propaganda, news reporting, and public relations, and by the mid-1960s they were circulating across the globe.
         </p>
-        <p>
-            Beginning in 2015 at the International Seminar on Decolonization, I started a project to understand the ways in which the Congo Crisis of the 1960s was influenced by and influential in Egypt. This seminar eventually became part of my larger dissertation and future book project, but in the interrim, my fluency in computational methods transformed.
+        <div class="col one">
+            <img src="{{ site.baseurl }}/assets/img/congo2.png" alt="Arab Observer July 1960" style="max-width:100%;" >
+        </div>
+        <p class="col three">
         </p>
     </div>
     <div class="row" style="justify-content:center;">
