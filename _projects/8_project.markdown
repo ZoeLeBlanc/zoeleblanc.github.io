@@ -12,17 +12,32 @@ img: /assets/img/mitch-rosen-203803.jpg
     <h1>Visualizing Cairo's Congo Crisis</h1>
     <div class="row">
         <p>
-            Visualizing Cairo's Congo Crisis is an interactive, data history of how the Congo Crisis of the 1960s was influenced by <i>and</i> influential in Egypt. After the Free Officers' Revolution of 1952, Gamal Abdel Nasser and his coterie of military officers turned bureaucrats sought to make Cairo an international hub for anti-colonial movements and institutions. While the Bandung Conference of 1955, the Suez Crisis of 1956, and the Afro-Asian People's Solidarity Conference of 1957, were all instrumental in making Egypt an international force in decolonization, I argue that the Congo Crisis of 1960 and onwards marked a turning point.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> Indeed, the crisis writ large was a “postwar moment of truth” according to Jason Parker, since it challenged the United Nations’ role in “North-South relations” and was a “catalyst for Afro-Asian unity.”<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> The larger article uncovers Cairo's role in the crisis, and contextualizes how the conflict went on to shape Egyptian anti-colonial politics. This digital project covers some of the similar narrative, but zooms in on how computational methods can elucidate how the meanings of anti-colonialism transformed over the 1960s.
+            Visualizing Cairo's Congo Crisis is an interactive, data history of how the Congo Crisis of the 1960s was influenced by <i>and</i> influential in Egypt. After the Free Officers' Revolution of 1952, Gamal Abdel Nasser and his coterie of military officers turned bureaucrats sought to make Cairo an international hub for anti-colonial movements and institutions. While the Bandung Conference of 1955, the Suez Crisis of 1956, and the Afro-Asian People's Solidarity Conference of 1957, were all instrumental in making Egypt an international force in decolonization, I argue that the Congo Crisis of 1960 and onwards marked a turning point.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> Indeed, according to Jason Parker the crisis writ large was a “postwar moment of truth,” since it challenged the United Nations’ role in “North-South relations” and was a “catalyst for Afro-Asian unity.”<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> The larger article uncovers Cairo's role in the crisis, and contextualizes how the conflict went on to shape Egyptian anti-colonial politics. This digital project covers some of the similar narrative, but zooms in on how computational methods can elucidate how the meanings of anti-colonialism transformed over the 1960s.
         </p>
     </div>
     <div class="row">
         <h3 class="col three">Project Background</h3>
         <p class="col two">
-            This project was first conceived at the <a href="https://nationalhistorycenter.org/decolonization-seminar-2015/">International Seminar on Decolonization in August 2015</a>, as an exploration into Egypt's place in the Congo Crisis of the 1960s - an event that was on my radar after a few international histories had started to re-examine the conflict<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup>. While initially this seminar paper utilized diplomatic cables and Egyptian newspapers, I became particularly interested in the existence of Egyptian periodicals that were produced by the state and published in multiple languages. These magazines blurred the boundaries between political propaganda, news reporting, and public relations, and by the mid-1960s they were circulating across the globe.
+            This project was first conceived at the <a href="https://nationalhistorycenter.org/decolonization-seminar-2015/">International Seminar on Decolonization in August 2015</a>, as an exploration into Egypt's place in the Congo Crisis of the 1960s - an event that was on my radar after a few international histories had started to re-examine the conflict through the lenses of the Cold War and decolonization.<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup> While initially my seminar paper utilized diplomatic cables and Egyptian newspapers, I became particularly interested in the existence of Egyptian periodicals that were produced by the state and published in multiple languages. Flipping through the pages in these magazines, I quickly became fascinated with the ways in which they blurred the boundaries between political propaganda, news reporting, and public relations, all while circulating across the globe by the mid-1960s (at least that's my sense based on subscription rates).
         </p>
         <div class="col one">
             <img src="{{ site.baseurl }}/assets/img/congo2.png" alt="Arab Observer July 1960" style="max-width:100%;" >
         </div>
+        <p class="col three">
+            While historians have used these magazines as sources, none have explored them of objects of inquiry outright. My larger research contextualizes them within the Egyptian state's expanding efforts to control and circulate information. This part of the project is focused on how looking at coverage of one event (the Congo crisis) over the full-run of these magazines might uncover additional evidence for my historical argument and help.
+        </p>
+        <p class="col three">
+            Usually this would be the point in a project where a digital historian would say something about scale being the rationale for their analysis. Given that there were dozens of these magazines printed in Cairo and elsewhere from the late 1950s to the 1970s, scale is certainly a factor in my use of computational methods. But more significant in my calculus is that these methods have forced me to confront what exactly I mean when I try to study meanings. In particular, understanding historical discourses with computational methods requires both formalizing the relationships between words that represent these ideas, and then also interpreting how statistical models can <i>and</i> cannot uncover these relationships.
+        </p>
+        <p class="col three">
+            Ultimately, some of the findings from these models confirm our previous understandings of anti-colonialism. Such a result will be seen by some scholars as a rationale for dismissing these methods as some form of fancy footwork. Yet fundamentally I believe that using computational methods produces new forms of knowledge that can be valuable to historical research. Rather than seeing these methods as a rehashing of qualitative versus quantitative knowledge hierarchies, I view them as a way for capturing concepts, albeit crudely, and making them commensurable within a set of curated sources.
+        </p>
+        <div class="col one">
+            <a href="https://www.press.uchicago.edu/ucp/books/book/chicago/D/bo35853783.html" target="_blank"><img src="https://tmm.chicagodistributioncenter.com/IsbnImages/9780226612836.jpg" alt="Distant Horizons" style="max-width:100%;"></a>
+        </div>
+        <p class="col two">
+            In <a href="https://www.press.uchicago.edu/ucp/books/book/chicago/D/bo35853783.html" target="_blank"><i>Distant Horizons: Digital Evidence and Literary Change</i></a>, Ted Underwood describes this far more eloquently than I do, with his concept of “perspectival modeling.” Underwood contends that “perspectival models do not aim simply to reproduce human judgement. They are used instead to measure the parallax between different observers.”<sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup>   This ‘perspectival’ and ‘parallax’ approach does not attempt to replicate how humans would categorize documents. Instead, when provided with categories or classes, these methods capture relationships between words across a corpus, and in the process surface the most distinctive features for each of these categories. While this approach is most commonly used in spam email identification, this method has become increasingly popular in cultural analytics, including recent research exploring linguistic features of genre and the impact of publishing trends on literary language.<sup id="fnref:5"><a href="#fn:5" class="footnote">5</a></sup>
+        </p>
         <p class="col three">
         </p>
     </div>
@@ -59,16 +74,22 @@ img: /assets/img/mitch-rosen-203803.jpg
     <div class="footnotes">
     <ol>
         <li id="fn:1">
-        <p>For more on the 1957 conference, see Reem Abou-El-Fadl  "Building Egypt’s Afro-Asian Hub: Infrastructures of Solidarity and the 1957 Cairo Conference." *Journal of World History*, 2019. Project MUSE, <a href="doi:10.1353/jwh.2019.0048">doi:10.1353/jwh.2019.0048</a>.&nbsp;<a href="#fnref:1" class="reversefootnote">↩</a></p>
+        <p>For more on the 1957 conference, see Reem Abou-El-Fadl  "Building Egypt’s Afro-Asian Hub: Infrastructures of Solidarity and the 1957 Cairo Conference." *Journal of World History*, 2019. Project MUSE, <a href="doi:10.1353/jwh.2019.0048" target="_blank">doi:10.1353/jwh.2019.0048</a>.&nbsp;<a href="#fnref:1" class="reversefootnote">↩</a></p>
         </li>
         <li id="fn:2">
         <p> Jason C. Parker, Hearts, Minds, Voices: US Cold War Public Diplomacy and the Formation of the Third World. (New York: Oxford University Press, 2016), 144.&nbsp;<a href="#fnref:2" class="reversefootnote">↩</a></p>
         </li>
-        <li id="fn:1">
-        <p>Speeches mentioned include John Kale, Director of the Uganda Office in Cairo, who was the chairman of the meeting, as well as one by Tewfik Teutora, who represented the Algerian Provisional Government. Embassy Cairo to Department of State, RG 84 Box 9 Folder 310 Afro Asian People’s Solidarity Organization, August 4 1960.&nbsp;<a href="#fnref:1" class="reversefootnote">↩</a></p>
+        <li id="fn:3">
+        <p>&nbsp;<a href="#fnref:3" class="reversefootnote">↩</a></p>
         </li>
-        <li id="fn:2">
-        <p>Embassy Cairo to Department of State, Aug 4 1960, Folder 310 Afro Asian People’s Solidarity Organization, Box 9, Egypt US Embassy General Records 1959-1961, RG 84&nbsp;<a href="#fnref:2" class="reversefootnote">↩</a></p>
+        <li id="fn:4">
+        <p>Ted Underwood <i>Distant Horizons: Digital Evidence and Literary Change</i> (University of Chicago Press, 2019), xv.&nbsp;<a href="#fnref:4" class="reversefootnote">↩</a></p>
+        </li>
+        <li id="fn:5">
+        <p>For examples, see Ted Underwood “Why an Age of Machine Learning Needs the Humanities” <i>Public Books</i> December 5 2018 <a href="https://www.publicbooks.org/why-an-age-of-machine-learning-needs-the-humanities/" target="_blank">https://www.publicbooks.org/why-an-age-of-machine-learning-needs-the-humanities/</a> and Dan Sinykin “How Capitalism Changed American Literature” <i>Public Books</i> July 17 2019 <a href="https://www.publicbooks.org/how-capitalism-changed-american-literature/" target="_blank">https://www.publicbooks.org/how-capitalism-changed-american-literature/</a>&nbsp;<a href="#fnref:5" class="reversefootnote">↩</a></p>
+        </li>
+        <li id="fn:4">
+        <p>Embassy Cairo to Department of State, Aug 4 1960, Folder 310 Afro Asian People’s Solidarity Organization, Box 9, Egypt US Embassy General Records 1959-1961, RG 84&nbsp;<a href="#fnref:4" class="reversefootnote">↩</a></p>
         </li>
     </ol>
     </div>
