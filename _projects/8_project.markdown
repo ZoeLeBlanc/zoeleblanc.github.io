@@ -67,7 +67,7 @@ img: /assets/img/mitch-rosen-203803.jpg
         <p class="col three">
             On Monday August 2, 1960, one month after the announcement of Congo’s independence and the subsequent the crisis over the secession of its most rich province Katanga, Egypt, then known as the United Arab Republic, observed Congo Day by hosting a series of mass demonstrations and public meetings throughout Cairo. Organized jointly by the National Union, the primary Egyptian political party and governing body; the African Association; and the Afro-Asian People’s Solidarity Organization (AAPSO), these events lasted two days, and included speeches from Mohamed Fuad Galal, the Deputy Speaker of the Egyptian National Union Assembly; Youssef El Sebai, the Secretary General of the Permanent Secretariat of the AAPSO; and Abdel Rashidov, the USSR delegate to the AAPSO in Cairo, as well as representatives from national liberation movements in Uganda, Algeria, Cameroon, Zanzibar, Northern Rhodesia, Somalia, and Ruanda-Urundi.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>
         </p>
-        <h4 class="col three">Congo Frequencies Per Year</h4>
+        <h4 class="col three" style="justify-content:center;">Congo Frequencies Per Year Compared to Total Words in the <i>Arab Observer</i></h4>
         <div class="col three" id="fig1">
         </div>
     </div>
