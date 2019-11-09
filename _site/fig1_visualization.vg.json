@@ -1,0 +1,623 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "background": "white",
+  "padding": 5,
+  "height": 150,
+  "data": [
+    {
+      "name": "selector003_store"
+    },
+    {
+      "name": "data-592f03571b52502ee965c08dc5282579",
+      "format": {},
+      "values": [
+        {
+          "year": 1960,
+          "total_frequency": 166765,
+          "congo_frequency": 387,
+          "norm_counts": 0.002320630827811591
+        },
+        {
+          "year": 1961,
+          "total_frequency": 516974,
+          "congo_frequency": 945,
+          "norm_counts": 0.001827944925663573
+        },
+        {
+          "year": 1962,
+          "total_frequency": 844108,
+          "congo_frequency": 394,
+          "norm_counts": 0.00046676491633771983
+        },
+        {
+          "year": 1963,
+          "total_frequency": 1427432,
+          "congo_frequency": 264,
+          "norm_counts": 0.0001849475141372759
+        },
+        {
+          "year": 1964,
+          "total_frequency": 1708352,
+          "congo_frequency": 451,
+          "norm_counts": 0.0002639971153485933
+        },
+        {
+          "year": 1965,
+          "total_frequency": 1046946,
+          "congo_frequency": 327,
+          "norm_counts": 0.0003123370259784172
+        },
+        {
+          "year": 1966,
+          "total_frequency": 973919,
+          "congo_frequency": 151,
+          "norm_counts": 0.00015504369459883215
+        }
+      ]
+    },
+    {
+      "name": "data-51f5a364df37037f9e95cf023a641c2b",
+      "values": [
+        {
+          "1": 545.5566076110608,
+          "xfit": 166765
+        },
+        {
+          "1": 495.2672144126203,
+          "xfit": 475082.4
+        },
+        {
+          "1": 444.9778212141798,
+          "xfit": 783399.8
+        },
+        {
+          "1": 394.6884280157393,
+          "xfit": 1091717.2000000002
+        },
+        {
+          "1": 344.3990348172989,
+          "xfit": 1400034.6
+        },
+        {
+          "1": 294.1096416188584,
+          "xfit": 1708352
+        }
+      ]
+    },
+    {
+      "name": "data_1",
+      "source": "data-592f03571b52502ee965c08dc5282579",
+      "transform": [
+        {
+          "type": "filter",
+          "expr": "isValid(datum[\"congo_frequency\"]) && isFinite(+datum[\"congo_frequency\"])"
+        }
+      ]
+    },
+    {
+      "name": "data_2",
+      "source": "data-592f03571b52502ee965c08dc5282579",
+      "transform": [
+        {
+          "type": "filter",
+          "expr": "isValid(datum[\"total_frequency\"]) && isFinite(+datum[\"total_frequency\"]) && isValid(datum[\"congo_frequency\"]) && isFinite(+datum[\"congo_frequency\"])"
+        }
+      ]
+    },
+    {
+      "name": "data_3",
+      "source": "data-51f5a364df37037f9e95cf023a641c2b",
+      "transform": [
+        {
+          "type": "formula",
+          "expr": "toNumber(datum[\"xfit\"])",
+          "as": "xfit"
+        },
+        {
+          "type": "fold",
+          "fields": [
+            "1"
+          ],
+          "as": [
+            "degree",
+            "yfit"
+          ]
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "name": "concat_0_width",
+      "value": 300
+    },
+    {
+      "name": "concat_1_width",
+      "value": 300
+    },
+    {
+      "name": "unit",
+      "value": {},
+      "on": [
+        {
+          "events": "mousemove",
+          "update": "isTuple(group()) ? group() : unit"
+        }
+      ]
+    },
+    {
+      "name": "selector003",
+      "update": "vlSelectionResolve(\"selector003_store\")"
+    }
+  ],
+  "layout": {
+    "padding": 20,
+    "bounds": "full",
+    "align": "each"
+  },
+  "marks": [
+    {
+      "type": "group",
+      "name": "concat_0_group",
+      "style": "cell",
+      "encode": {
+        "update": {
+          "width": {
+            "signal": "concat_0_width"
+          },
+          "height": {
+            "signal": "height"
+          }
+        }
+      },
+      "signals": [
+        {
+          "name": "selector003_tuple",
+          "on": [
+            {
+              "events": [
+                {
+                  "source": "scope",
+                  "type": "click"
+                }
+              ],
+              "update": "datum && item().mark.marktype !== 'group' ? {unit: \"concat_0\", fields: selector003_tuple_fields, values: [(item().isVoronoi ? datum.datum : datum)[\"year\"]]} : null",
+              "force": true
+            },
+            {
+              "events": [
+                {
+                  "source": "scope",
+                  "type": "dblclick"
+                }
+              ],
+              "update": "null"
+            }
+          ]
+        },
+        {
+          "name": "selector003_tuple_fields",
+          "value": [
+            {
+              "type": "E",
+              "field": "year"
+            }
+          ]
+        },
+        {
+          "name": "selector003_modify",
+          "update": "modify(\"selector003_store\", selector003_tuple, true)"
+        }
+      ],
+      "marks": [
+        {
+          "name": "concat_0_marks",
+          "type": "rect",
+          "style": [
+            "bar"
+          ],
+          "interactive": true,
+          "from": {
+            "data": "data_1"
+          },
+          "encode": {
+            "update": {
+              "fill": [
+                {
+                  "test": "!(length(data(\"selector003_store\"))) || (vlSelectionTest(\"selector003_store\", datum))",
+                  "scale": "color",
+                  "field": "year"
+                },
+                {
+                  "value": "lightgray"
+                }
+              ],
+              "x": {
+                "scale": "concat_0_x",
+                "field": "year"
+              },
+              "width": {
+                "scale": "concat_0_x",
+                "band": true
+              },
+              "y": {
+                "scale": "concat_0_y",
+                "field": "congo_frequency"
+              },
+              "y2": {
+                "scale": "concat_0_y",
+                "value": 0
+              }
+            }
+          }
+        }
+      ],
+      "axes": [
+        {
+          "scale": "concat_0_y",
+          "orient": "left",
+          "gridScale": "concat_0_x",
+          "grid": true,
+          "tickCount": {
+            "signal": "ceil(height/40)"
+          },
+          "domain": false,
+          "labels": false,
+          "maxExtent": 0,
+          "minExtent": 0,
+          "ticks": false,
+          "zindex": 0
+        },
+        {
+          "scale": "concat_0_x",
+          "orient": "bottom",
+          "grid": false,
+          "labelAlign": "center",
+          "labelBaseline": "top",
+          "zindex": 0
+        },
+        {
+          "scale": "concat_0_y",
+          "orient": "left",
+          "grid": false,
+          "labelOverlap": true,
+          "tickCount": {
+            "signal": "ceil(height/40)"
+          },
+          "zindex": 0
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "concat_1_group",
+      "style": "cell",
+      "encode": {
+        "update": {
+          "width": {
+            "signal": "concat_1_width"
+          },
+          "height": {
+            "signal": "height"
+          }
+        }
+      },
+      "signals": [
+        {
+          "name": "selector003_tuple",
+          "on": [
+            {
+              "events": [
+                {
+                  "source": "scope",
+                  "type": "click"
+                }
+              ],
+              "update": "datum && item().mark.marktype !== 'group' ? {unit: \"concat_1_layer_0\", fields: selector003_tuple_fields, values: [(item().isVoronoi ? datum.datum : datum)[\"year\"]]} : null",
+              "force": true
+            },
+            {
+              "events": [
+                {
+                  "source": "scope",
+                  "type": "dblclick"
+                }
+              ],
+              "update": "null"
+            }
+          ]
+        },
+        {
+          "name": "selector003_tuple_fields",
+          "value": [
+            {
+              "type": "E",
+              "field": "year"
+            }
+          ]
+        },
+        {
+          "name": "selector003_modify",
+          "update": "modify(\"selector003_store\", selector003_tuple, true)"
+        }
+      ],
+      "marks": [
+        {
+          "name": "concat_1_layer_0_marks",
+          "type": "symbol",
+          "style": [
+            "point"
+          ],
+          "interactive": true,
+          "from": {
+            "data": "data_2"
+          },
+          "encode": {
+            "update": {
+              "opacity": {
+                "value": 0.7
+              },
+              "size": {
+                "value": 200
+              },
+              "fill": [
+                {
+                  "test": "!(length(data(\"selector003_store\"))) || (vlSelectionTest(\"selector003_store\", datum))",
+                  "scale": "color",
+                  "field": "year"
+                },
+                {
+                  "value": "lightgray"
+                }
+              ],
+              "tooltip": {
+                "signal": "{\"year\": format(datum[\"year\"], \"\"), \"congo_frequency\": format(datum[\"congo_frequency\"], \"\"), \"total_frequency\": format(datum[\"total_frequency\"], \"\")}"
+              },
+              "x": {
+                "scale": "concat_1_x",
+                "field": "total_frequency"
+              },
+              "y": {
+                "scale": "concat_1_y",
+                "field": "congo_frequency"
+              }
+            }
+          }
+        },
+        {
+          "name": "concat_1_layer_1_marks",
+          "type": "line",
+          "style": [
+            "line"
+          ],
+          "sort": {
+            "field": "datum[\"xfit\"]"
+          },
+          "interactive": false,
+          "from": {
+            "data": "data_3"
+          },
+          "encode": {
+            "update": {
+              "stroke": {
+                "value": "black"
+              },
+              "x": {
+                "scale": "concat_1_x",
+                "field": "xfit"
+              },
+              "y": {
+                "scale": "concat_1_y",
+                "field": "yfit"
+              },
+              "defined": {
+                "signal": "isValid(datum[\"xfit\"]) && isFinite(+datum[\"xfit\"]) && isValid(datum[\"yfit\"]) && isFinite(+datum[\"yfit\"])"
+              }
+            }
+          }
+        }
+      ],
+      "axes": [
+        {
+          "scale": "concat_1_x",
+          "orient": "bottom",
+          "gridScale": "concat_1_y",
+          "grid": true,
+          "tickCount": {
+            "signal": "ceil(concat_1_width/40)"
+          },
+          "domain": false,
+          "labels": false,
+          "maxExtent": 0,
+          "minExtent": 0,
+          "ticks": false,
+          "zindex": 0
+        },
+        {
+          "scale": "concat_1_y",
+          "orient": "left",
+          "gridScale": "concat_1_x",
+          "grid": true,
+          "tickCount": {
+            "signal": "ceil(height/40)"
+          },
+          "domain": false,
+          "labels": false,
+          "maxExtent": 0,
+          "minExtent": 0,
+          "ticks": false,
+          "zindex": 0
+        },
+        {
+          "scale": "concat_1_x",
+          "orient": "bottom",
+          "grid": false,
+          "title": "Total Word Counts Per Year",
+          "labelAlign": "center",
+          "labelBaseline": "top",
+          "labelFlush": true,
+          "labelOverlap": true,
+          "tickCount": {
+            "signal": "ceil(concat_1_width/40)"
+          },
+          "zindex": 0
+        },
+        {
+          "scale": "concat_1_y",
+          "orient": "left",
+          "grid": false,
+          "labelOverlap": true,
+          "tickCount": {
+            "signal": "ceil(height/40)"
+          },
+          "zindex": 0
+        }
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "color",
+      "type": "ordinal",
+      "domain": {
+        "fields": [
+          {
+            "data": "data_1",
+            "field": "year"
+          },
+          {
+            "data": "data_2",
+            "field": "year"
+          }
+        ],
+        "sort": true
+      },
+      "range": {
+        "scheme": "plasma"
+      }
+    },
+    {
+      "name": "concat_0_x",
+      "type": "band",
+      "domain": {
+        "data": "data_1",
+        "field": "year",
+        "sort": true
+      },
+      "range": [
+        0,
+        {
+          "signal": "concat_0_width"
+        }
+      ],
+      "paddingInner": 0.1,
+      "paddingOuter": 0.05
+    },
+    {
+      "name": "concat_0_y",
+      "type": "linear",
+      "domain": {
+        "data": "data_1",
+        "field": "congo_frequency"
+      },
+      "range": [
+        {
+          "signal": "height"
+        },
+        0
+      ],
+      "nice": true,
+      "zero": true
+    },
+    {
+      "name": "concat_1_x",
+      "type": "linear",
+      "domain": {
+        "fields": [
+          {
+            "data": "data_2",
+            "field": "total_frequency"
+          },
+          {
+            "data": "data_3",
+            "field": "xfit"
+          }
+        ]
+      },
+      "range": [
+        0,
+        {
+          "signal": "concat_1_width"
+        }
+      ],
+      "nice": true,
+      "zero": true
+    },
+    {
+      "name": "concat_1_y",
+      "type": "linear",
+      "domain": {
+        "fields": [
+          {
+            "data": "data_2",
+            "field": "congo_frequency"
+          },
+          {
+            "data": "data_3",
+            "field": "yfit"
+          }
+        ]
+      },
+      "range": [
+        {
+          "signal": "height"
+        },
+        0
+      ],
+      "nice": true,
+      "zero": true
+    }
+  ],
+  "legends": [
+    {
+      "fill": "color",
+      "gradientLength": {
+        "signal": "clamp(height, 64, 200)"
+      },
+      "symbolType": "circle",
+      "title": "year",
+      "encode": {
+        "symbols": {
+          "update": {
+            "opacity": {
+              "value": 0.7
+            }
+          }
+        }
+      }
+    }
+  ],
+  "config": {
+    "axis": {
+      "labelFont": "Garamond",
+      "titleFont": "Garamond"
+    },
+    "axisX": {
+      "labelAngle": 0
+    },
+    "legend": {
+      "labelFont": "Garamond",
+      "titleFont": "Garamond"
+    },
+    "style": {
+      "cell": {
+        "width": 400,
+        "height": 300
+      },
+      "group-title": {
+        "font": "Garamond",
+        "fontSize": 14
+      }
+    }
+  }
+}
