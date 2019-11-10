@@ -67,15 +67,23 @@ img: /assets/img/mitch-rosen-203803.jpg
         <p class="col three">
             On Monday August 2, 1960, one month after the announcement of Congo’s independence and the subsequent the crisis over the secession of its most rich province Katanga, Egypt, then known as the United Arab Republic, observed Congo Day by hosting a series of mass demonstrations and public meetings throughout Cairo. Organized jointly by the National Union, the primary Egyptian political party and governing body; the African Association; and the Afro-Asian People’s Solidarity Organization (AAPSO), these events lasted two days, and included speeches from Mohamed Fuad Galal, the Deputy Speaker of the Egyptian National Union Assembly; Youssef El Sebai, the Secretary General of the Permanent Secretariat of the AAPSO; and Abdel Rashidov, the USSR delegate to the AAPSO in Cairo, as well as representatives from national liberation movements in Uganda, Algeria, Cameroon, Zanzibar, Northern Rhodesia, Somalia, and Ruanda-Urundi.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>
         </p>
+        <div class="row" style="justify-content:center;">
+            <div>
+                <img src="{{ site.baseurl }}/assets/img/congo1.png" alt="Congo Day" style="max-width:100%;" >
+            </div>
+        </div>
         <h4 class="col three" style="justify-content:center;">Congo Frequencies Per Year Compared to Total Words in the <i>Arab Observer</i></h4>
         <div class="col three" id="fig1">
         </div>
     </div>
-    <div class="row" style="justify-content:center;">
-        <div>
-            <img src="{{ site.baseurl }}/assets/img/congo1.png" alt="Congo Day" style="max-width:100%;" >
-        </div>
+</div>
+<div class="row" style="justify-content:center;">
+    <div class="row" style="overflow: auto; padding:50px; max-width: 80%;border: lightgrey solid;margin: 50px;">
+        {% include vis_data.html %}
     </div>
+</div>
+<div class="wrapper">
+    
     <div class="row">
         <p>
         The speeches called for Belgium to end its imperialism in Africa, for the United Nations to negotiate the withdrawal of Belgian troops from the Congo, and lastly, for support of Patrice Lumumba to maintain the Congo’s “freedom, unity and sovereignty.”<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> According to the daily Egyptian newspaper, *al-Ahram*, the rally even sent a cable to Lumumba offering volunteers to fight Belgium imperialists, inspired in part from Cairo’s struggle against imperialist aggression in the Suez Crisis of 1956.   The rally also sent a cable to United Nations Secretary General, Dag Hammarskjöld about Congo Day and the desire for UN involvement in the Congo, claiming to represent all concerned African citizens. The demonstrations eventually dispersed after waiting at the Belgium Embassy for the Ambassador to address “the African freedom fighters.”<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup>
