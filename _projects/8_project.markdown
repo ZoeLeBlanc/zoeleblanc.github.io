@@ -2,7 +2,7 @@
 layout: data
 title: Visualizing Cairo's Congo Crisis
 description: Digital history project to trace representations of Congo and anti-colonialism, 2019-Present
-img: /assets/img/mitch-rosen-203803.jpg
+img: /assets/img/congo1.png
 ---
 <script src="https://cdn.jsdelivr.net/npm/vega@5.7.2"></script>
 <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.0.0-beta.10"></script>
@@ -71,7 +71,18 @@ img: /assets/img/mitch-rosen-203803.jpg
             <div>
                 <img src="{{ site.baseurl }}/assets/img/congo1.png" alt="Congo Day" style="max-width:100%;" >
             </div>
-        </div>
+        </div><p>
+        The speeches called for Belgium to end its imperialism in Africa, for the United Nations to negotiate the withdrawal of Belgian troops from the Congo, and lastly, for support of Patrice Lumumba to maintain the Congo’s “freedom, unity and sovereignty.”<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> According to the daily Egyptian newspaper, *al-Ahram*, the rally even sent a cable to Lumumba offering volunteers to fight Belgium imperialists, inspired in part from Cairo’s struggle against imperialist aggression in the Suez Crisis of 1956.   The rally also sent a cable to United Nations Secretary General, Dag Hammarskjöld about Congo Day and the desire for UN involvement in the Congo, claiming to represent all concerned African citizens. The demonstrations eventually dispersed after waiting at the Belgium Embassy for the Ambassador to address “the African freedom fighters.”<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup>
+        </p>
+        <p>
+        While there was some coverage of Congo Day in the Egyptian dallies, the majority of these existing accounts come from the *Arab Observer*, a weekly magazine published by the National Publications House, an initiative of the Egyptian government that started in 1960. The *Arab Observer*, printed in English and modeled on *Newsweek*, was one of eventually dozen Egyptian government publications that were marketed to a new international Arabic and non-Arabic speaking Third World audiences during the 1960s. Yet, the events of Congo Day in Cairo and the existence of magazines like the *Arab Observer* remain marginalized in both national histories of Egypt as well as global histories of the Congo crisis and the Third World. In the few books on Egypt's relations with Africa, only one briefly mentions Congo Day, and while some of these books utilize the Arab Observer as a source, none of them explore how the magazine was part of a larger information strategy intended to export Cairo's message across the globe.  Relative to the entirety of the Congo crisis, the omission of Congo Day in Cairo is minor. Similarly, although Cairo was the capital for print in the Arab world, the Arab Observer represented a fraction of the news published in Cairo. Yet, protests over the Congo would continue to spill on to the streets of Cairo six months later after the murder of Patrice Lumumba and again three years later after American and Belgium involvement in the Simba Rebellion and Stanleyville in late 1964, while Egyptian information regime would become the model for decolonizing states seeking to challenge foreign news coverage, threatening both Western and Soviet interests in the Third World.
+        </p>
+    </div>
+</div>
+
+<div class="wrapper">
+    <div class="row">
+        <h3 id="discourses_data" class="col three">Discourses and Data</h3>
         <h4 class="col three" style="text-align:center;">Congo Frequencies Per Year Compared to Total Words in the <i>Arab Observer</i></h4>
         <div class="col three" id="fig1">
         </div>
@@ -83,17 +94,6 @@ img: /assets/img/mitch-rosen-203803.jpg
         {% include vis_data.html %}
     </div>
 </div>
-<div class="wrapper">
-    <div class="row">
-        <p>
-        The speeches called for Belgium to end its imperialism in Africa, for the United Nations to negotiate the withdrawal of Belgian troops from the Congo, and lastly, for support of Patrice Lumumba to maintain the Congo’s “freedom, unity and sovereignty.”<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> According to the daily Egyptian newspaper, *al-Ahram*, the rally even sent a cable to Lumumba offering volunteers to fight Belgium imperialists, inspired in part from Cairo’s struggle against imperialist aggression in the Suez Crisis of 1956.   The rally also sent a cable to United Nations Secretary General, Dag Hammarskjöld about Congo Day and the desire for UN involvement in the Congo, claiming to represent all concerned African citizens. The demonstrations eventually dispersed after waiting at the Belgium Embassy for the Ambassador to address “the African freedom fighters.”<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup>
-        </p>
-        <p>
-        While there was some coverage of Congo Day in the Egyptian dallies, the majority of these existing accounts come from the *Arab Observer*, a weekly magazine published by the National Publications House, an initiative of the Egyptian government that started in 1960. The *Arab Observer*, printed in English and modeled on *Newsweek*, was one of eventually dozen Egyptian government publications that were marketed to a new international Arabic and non-Arabic speaking Third World audiences during the 1960s. Yet, the events of Congo Day in Cairo and the existence of magazines like the *Arab Observer* remain marginalized in both national histories of Egypt as well as global histories of the Congo crisis and the Third World. In the few books on Egypt's relations with Africa, only one briefly mentions Congo Day, and while some of these books utilize the Arab Observer as a source, none of them explore how the magazine was part of a larger information strategy intended to export Cairo's message across the globe.  Relative to the entirety of the Congo crisis, the omission of Congo Day in Cairo is minor. Similarly, although Cairo was the capital for print in the Arab world, the Arab Observer represented a fraction of the news published in Cairo. Yet, protests over the Congo would continue to spill on to the streets of Cairo six months later after the murder of Patrice Lumumba and again three years later after American and Belgium involvement in the Simba Rebellion and Stanleyville in late 1964, while Egyptian information regime would become the model for decolonizing states seeking to challenge foreign news coverage, threatening both Western and Soviet interests in the Third World.
-        </p>
-    </div>
-</div>
-
 <div style="display:flex; flex-direction:row;">
     <div id="vis"></div>
     <div style="display:flex; flex-direction:column;">

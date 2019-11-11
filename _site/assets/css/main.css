@@ -380,10 +380,10 @@ footer a:hover { color: #B509AC; }
 .project .thumbnail { overflow: hidden; height: 200px; width: 100%; }
 .project .thumbnail img { height: auto; position: relative; left: -25%; top: -5%; width: 500px; }
 .project .thumbnail a { float: left; height: 230px; position: relative; width: 100%; }
-.project .thumbnail a span { display: none; position: absolute; top: 0; left: 0; bottom: 0; right: 0; background: rgba(0, 0, 0, 0.4); color: #e8e8e8; padding: 40px; text-align: center; }
+.project .thumbnail a span { display: block; position: absolute; top: 0; left: 0; bottom: 0; right: 0; background: rgba(0, 0, 0, 0.4); color: #e8e8e8; padding: 30px; text-align: center; text-shadow: 2px 2px 8px #000000; }
 .project .thumbnail a span h1 { font-size: 1rem; margin: 0; }
-.project .thumbnail a span p { color: #e8e8e8; font-size: 0.8rem; }
-.project .thumbnail a:hover span { display: block; }
+.project .thumbnail a span p { color: #e8e8e8; font-size: 0.8rem; display: none; text-shadow: 2px 2px 8px #000000; }
+.project .thumbnail a:hover p { display: block; }
 
 @media screen and (max-width: 2000px) { #networks-graph { width: 800px; height: 700px; display: block; } }
 @media screen and (max-width: 600px) { #networks-graph { display: none; } }
