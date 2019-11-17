@@ -3,6 +3,7 @@ layout: page
 title: Depictions of Decolonization
 description: Digital image analysis project to trace representations of anti-colonialism, 2017-Present
 img: /assets/img/mitch-rosen-203803.jpg
+display: True
 ---
 
 <img src="{{ site.baseurl }}/assets/img/median_v_brightness_full.jpg" id="project_img" />

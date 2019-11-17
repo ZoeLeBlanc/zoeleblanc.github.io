@@ -3,16 +3,20 @@ layout: data
 title: Visualizing Cairo's Congo Crisis
 description: Digital history project to trace representations of Congo and anti-colonialism, 2019-Present
 img: /assets/img/congo1.png
+display: False
 ---
 <script src="https://cdn.jsdelivr.net/npm/vega@5.7.2"></script>
 <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.0.0-beta.10"></script>
 <script src="https://cdn.jsdelivr.net/npm/vega-embed@5.1.3"></script>
 
 <div class="wrapper">
-    <h1>Visualizing Cairo's Congo Crisis</h1>
+    <button onclick="topFunction()" id="scrollButton" title="Go to top">Back to Top</button>
+    <h1>Visualizing Cairo's Congo Crisis </h1>
+    <h4 style="color: indianred;"><span class="fa fa-pencil"></span> Currently in draft. Estimated publication date is January 2020 <span class="fa fa-pencil"></span></h4>
+    <br>
     <div class="row">
         <p>
-            Visualizing Cairo's Congo Crisis is an interactive, data history of how the Congo Crisis of the 1960s was influenced by <i>and</i> influential in Egypt. After the Free Officers' Revolution of 1952, Gamal Abdel Nasser and his coterie of military officers turned bureaucrats sought to make Cairo an international hub for anti-colonial movements and institutions. While the Bandung Conference of 1955, the Suez Crisis of 1956, and the Afro-Asian People's Solidarity Conference of 1957, were all instrumental in making Egypt an international force in decolonization, I argue that the Congo Crisis of 1960 and onwards marked a turning point.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> Indeed, according to Jason Parker the crisis writ large was a “postwar moment of truth,” since it challenged the United Nations’ role in “North-South relations” and was a “catalyst for Afro-Asian unity.”<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> The larger article uncovers Cairo's role in the crisis, and contextualizes how the conflict went on to shape Egyptian anti-colonial politics. This digital project covers some of the similar narrative, but zooms in on how computational methods can elucidate how the meanings of anti-colonialism transformed over the 1960s.
+            <i>Visualizing Cairo's Congo Crisis</i> is an interactive, data history of how the Congo Crisis of the 1960s was influenced by <i>and</i> influential in Egypt. After the Free Officers' Revolution of 1952, Gamal Abdel Nasser and his coterie of military officers turned bureaucrats sought to make Cairo an international hub for anti-colonial movements and institutions. While the Bandung Conference of 1955, the Suez Crisis of 1956, and the Afro-Asian People's Solidarity Conference of 1957, were all instrumental in making Egypt an international force in decolonization, I argue that the Congo Crisis of 1960 and onwards marked a turning point.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> Indeed, according to Jason Parker the crisis writ large was a “postwar moment of truth,” since it challenged the United Nations’ role in “North-South relations” and was a “catalyst for Afro-Asian unity.”<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> <i>Visualizing Cairo's Congo Crisis</i> is a companion piece to a forthcoming article, which uncovers Cairo's role in the crisis, and contextualizes how the conflict went on to shape Egyptian anti-colonial politics. This digital project covers some of the same material, but zooms in on how computational methods can elucidate how the meanings of anti-colonialism(s) transformed over the 1960s.
         </p>
     </div>
     <div class="col three">
@@ -32,13 +36,13 @@ img: /assets/img/congo1.png
     <div class="row">
         <h3 id="project_background" class="col three">Project Background</h3>
         <p class="col two">
-            This project was first conceived at the <a href="https://nationalhistorycenter.org/decolonization-seminar-2015/">International Seminar on Decolonization in August 2015</a>, as an exploration into Egypt's place in the Congo Crisis of the 1960s - an event that was on my radar after a few international histories had started to re-examine the conflict through the lenses of the Cold War and decolonization.<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup> While initially my seminar paper utilized diplomatic cables and Egyptian newspapers, I became particularly interested in the existence of Egyptian periodicals that were produced by the state and published in multiple languages. Flipping through the pages in these magazines, I quickly became fascinated with the ways in which they blurred the boundaries between political propaganda, news reporting, and public relations, all while circulating across the globe by the mid-1960s (at least that's my sense based on subscription rates).
+            This project was first conceived at the <a href="https://nationalhistorycenter.org/decolonization-seminar-2015/">International Seminar on Decolonization in August 2015</a>, as an exploration into Egypt's place in the Congo Crisis of the 1960s - an event that was on my radar after a few international histories had started to re-examine the conflict through the lenses of the Cold War and decolonization.<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup> While initially my seminar paper utilized diplomatic cables and Egyptian newspapers, I became particularly interested in the existence of Egyptian periodicals that were produced by the state and published in multiple languages. Flipping through the pages in these magazines, I quickly became fascinated with the ways in which they blurred the boundaries between political propaganda, news reporting, and public relations, all while circulating across the globe by the mid-1960s.
         </p>
         <div class="col one">
             <img src="{{ site.baseurl }}/assets/img/congo2.png" alt="Arab Observer July 1960" style="max-width:100%;" >
         </div>
         <p class="col three">
-            While historians have used these magazines as sources, none have explored them of objects of inquiry outright. My larger research contextualizes them within the Egyptian state's expanding efforts to control and circulate information. This part of the project is focused on how looking at coverage of one event (the Congo crisis) over the full-run of these magazines might uncover additional evidence for my historical argument and help.
+            While historians have used these magazines as sources, none have explored them of objects of inquiry outright. My larger research contextualizes them within the Egyptian state's expanding efforts to control and circulate information. <i>Visualizing Cairo's Congo Crisis</i> delves into the content of the magazines, and traces the coverage of one event (the Congo crisis) over the full-run of these magazines. Tying together media and intellectual history I hope to 
         </p>
         <p class="col three">
             Usually this would be the point in a project where a digital historian would say something about scale being the rationale for their analysis. Given that there were dozens of these magazines printed in Cairo and elsewhere from the late 1950s to the 1970s, scale is certainly a factor in my use of computational methods. But more significant in my calculus is that these methods have forced me to confront what exactly I mean when I try to study meanings. In particular, understanding historical discourses with computational methods requires both formalizing the relationships between words that represent these ideas, and then also interpreting how statistical models can <i>and</i> cannot uncover these relationships.
@@ -65,16 +69,17 @@ img: /assets/img/congo1.png
             The conflict in Congo emerged within days of the initial independence celebrations, when the Congolese military mutinied against the white officers while mobs attacked the remaining enclaves of foreign colonialists. Widely reported in the international press as a parable for decolonization gone too far, Belgium used this pretext to support the enemies of the recently elected Prime Minister Patrice Lumumba, and to send Belgium troops to the province of Katanga, the copper-rich region of the country.<sup id="fnref:9"><a href="#fn:9" class="footnote">9</a></sup> On July 11, 1960 Moïse Tshombe, a former businessman and leader of the Confédération des associations tribales du Katanga (CONAKAT), announced the secession of Katanga with the backing of Belgium. The news from Congo set off a flurry of press releases and messages between Cairo and the rest of the world. This flurry of activities was reflected in both Egyptian media and on the streets of Cairo.
         </p>
         <p class="col three">
-            On Monday August 2, 1960, one month after the announcement of Congo’s independence and the subsequent the crisis over the secession of its most rich province Katanga, Egypt, then known as the United Arab Republic, observed Congo Day by hosting a series of mass demonstrations and public meetings throughout Cairo. Organized jointly by the National Union, the primary Egyptian political party and governing body; the African Association; and the Afro-Asian People’s Solidarity Organization (AAPSO), these events lasted two days, and included speeches from Mohamed Fuad Galal, the Deputy Speaker of the Egyptian National Union Assembly; Youssef El Sebai, the Secretary General of the Permanent Secretariat of the AAPSO; and Abdel Rashidov, the USSR delegate to the AAPSO in Cairo, as well as representatives from national liberation movements in Uganda, Algeria, Cameroon, Zanzibar, Northern Rhodesia, Somalia, and Ruanda-Urundi.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>
+            On Monday August 1 and 2, 1960, Cairo “Congo Day”, these protests were organized by the NU; the African Association; and the Afro-Asian People’s Solidarity Organization (AAPSO), and included speeches from Mohamed Fuad Galal, the Deputy Speaker of the Egyptian National Union Assembly; Youssef al-Sibai, who was now the Secretary General of the Permanent Secretariat of the AAPSO; and Abdel Rashidov, the USSR delegate to the AAPSO in Cairo, as well as representatives of African liberation movements from Uganda, Algeria, Cameroon, Zanzibar, Northern Rhodesia, Somalia, and Ruanda-Urundi.   The speeches called for Belgium to end its imperialism in Africa, for the UN to negotiate the withdrawal of Belgium troops from the Congo, and lastly, for support of Patrice Lumumba to maintain the Congo’s “freedom, unity and sovereignty.”  According to the daily Egyptian newspaper, al-Ahram, the rally not only sent more cables to Hammarskjöld, but also to Lumumba, offering volunteers to fight Belgium imperialists and the support of “all concerned African citizens.” <sup id="fnref:10"><a href="#fn:10" class="footnote">10</a></sup>
         </p>
         <div class="row" style="justify-content:center;">
             <div>
                 <img src="{{ site.baseurl }}/assets/img/congo1.png" alt="Congo Day" style="max-width:100%;" >
             </div>
-        </div><p>
-        The speeches called for Belgium to end its imperialism in Africa, for the United Nations to negotiate the withdrawal of Belgian troops from the Congo, and lastly, for support of Patrice Lumumba to maintain the Congo’s “freedom, unity and sovereignty.”<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> According to the daily Egyptian newspaper, *al-Ahram*, the rally even sent a cable to Lumumba offering volunteers to fight Belgium imperialists, inspired in part from Cairo’s struggle against imperialist aggression in the Suez Crisis of 1956.   The rally also sent a cable to United Nations Secretary General, Dag Hammarskjöld about Congo Day and the desire for UN involvement in the Congo, claiming to represent all concerned African citizens. The demonstrations eventually dispersed after waiting at the Belgium Embassy for the Ambassador to address “the African freedom fighters.”<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup>
+        </div>
+        <p class="col three">
+        The speeches called for Belgium to end its imperialism in Africa, for the United Nations to negotiate the withdrawal of Belgian troops from the Congo, and lastly, for support of Patrice Lumumba to maintain the Congo’s “freedom, unity and sovereignty.”<sup id="fnref:11"><a href="#fn:11" class="footnote">11</a></sup> According to the daily Egyptian newspaper, *al-Ahram*, the rally even sent a cable to Lumumba offering volunteers to fight Belgium imperialists, inspired in part from Cairo’s struggle against imperialist aggression in the Suez Crisis of 1956. The rally also sent a cable to United Nations Secretary General, Dag Hammarskjöld about Congo Day and the desire for UN involvement in the Congo, claiming to represent all concerned African citizens. The demonstrations eventually dispersed after waiting at the Belgium Embassy for the Ambassador to address “the African freedom fighters.”<sup id="fnref:12"><a href="#fn:12" class="footnote">12</a></sup>
         </p>
-        <p>
+        <p class="col three">
         While there was some coverage of Congo Day in the Egyptian dallies, the majority of these existing accounts come from the *Arab Observer*, a weekly magazine published by the National Publications House, an initiative of the Egyptian government that started in 1960. The *Arab Observer*, printed in English and modeled on *Newsweek*, was one of eventually dozen Egyptian government publications that were marketed to a new international Arabic and non-Arabic speaking Third World audiences during the 1960s. Yet, the events of Congo Day in Cairo and the existence of magazines like the *Arab Observer* remain marginalized in both national histories of Egypt as well as global histories of the Congo crisis and the Third World. In the few books on Egypt's relations with Africa, only one briefly mentions Congo Day, and while some of these books utilize the Arab Observer as a source, none of them explore how the magazine was part of a larger information strategy intended to export Cairo's message across the globe.  Relative to the entirety of the Congo crisis, the omission of Congo Day in Cairo is minor. Similarly, although Cairo was the capital for print in the Arab world, the Arab Observer represented a fraction of the news published in Cairo. Yet, protests over the Congo would continue to spill on to the streets of Cairo six months later after the murder of Patrice Lumumba and again three years later after American and Belgium involvement in the Simba Rebellion and Stanleyville in late 1964, while Egyptian information regime would become the model for decolonizing states seeking to challenge foreign news coverage, threatening both Western and Soviet interests in the Third World.
         </p>
     </div>
@@ -87,6 +92,8 @@ img: /assets/img/congo1.png
         <div class="col three" id="fig1">
         </div>
     </div>
+</div>
+<div class="col three" id="fig2">
 </div>
 <div class="row" style="justify-content:center;">
     <div class="row" style="overflow: auto; padding:40px; max-width: 80%;border: lightgrey solid;margin: 50px;">
@@ -131,12 +138,29 @@ img: /assets/img/congo1.png
 </div>
 
 <script type="text/javascript">
+    // Scroll javascript
+    var topFunction = () => {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+    };
+    var scrollButton = document.getElementById("scrollButton");
+    var makeScroll = () => {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+            scrollButton.style.display = "block";
+        } else {
+            scrollButton.style.display = "none";
+        }
+    };
+    window.onscroll = () => {makeScroll();};
+    // Visualization javascript
     var spec = "/visualization.vl.json";
     var spec1 = "/distribution_viz.vg.json";
+    var spec2 = "/test.vg.json";
     var fig1 = "/fig1_visualization.vg.json";
     let term = '';
     let terms = [];
-    vegaEmbed('#fig1', fig1)
+    vegaEmbed('#fig1', fig1);
+    vegaEmbed('#fig2', spec2);
     $('#clear').click(() => {
         console.log('click');
         terms = [];
@@ -163,12 +187,15 @@ img: /assets/img/congo1.png
     }
     var distGraph = vegaEmbed('#dist', spec1).then(p => window.view = p.view);
     var pointsGraph = vegaEmbed('#vis', spec).then(({spec, view}) => {
-        view.addEventListener('click', function (event, item) {
-            console.log(item.datum);
-            if (item.datum.term.length > 0){
-                term = item.datum.term;
-                getCounts(term);
-            }
+        // view.addEventListener('click', function (event, item) {
+        //     console.log(item.datum);
+        //     if (item.datum.term.length > 0){
+        //         term = item.datum.term;
+        //         getCounts(term);
+        //     }
+        // });
+        view.addEventListener('wheel', function (event, item) {
+            console.log('event', event, item);
         });
     });
 

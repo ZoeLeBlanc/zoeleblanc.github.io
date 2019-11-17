@@ -3,6 +3,7 @@ layout: page
 title: Coding Projects
 description: Smaller code projects, 2016 - Present
 img: /assets/img/markus-spiske-207946.jpg
+display: True
 ---
 
 These are a selection of programming projects I built while at the Nashville Software School. If you want to see more of my code, check out my [Github Profile](https://github.com/ZoeLeBlanc)

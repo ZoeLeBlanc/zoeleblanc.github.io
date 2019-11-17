@@ -4,6 +4,7 @@ title: Archivlo
 description: Web app to help researchers find and share archival listings, 2016-Present
 img: /assets/img/9.jpg
 <!-- redirect: https://unsplash.com -->
+display: True
 ---
 Archivlo was a project I started thinking about while spending months doing my archival research. Historians often gush about going to the archives/doing archival research, but to be honest I had a really rough time when I was in the midst of my research. 
 

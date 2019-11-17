@@ -3,6 +3,7 @@ layout: page
 title: Image Lucida
 description: Web app for to help create datasets from archival images, 2017-Present
 img: /assets/img/feature-fujifilm.png
+display: True
 ---
 
 I started working on Image Lucida as my final project at the Nashville Software School. The idea for the app was born out of my frustrations trying to digitize archival materials and extract meta-data from them. I've been using for a few years a combination of DevonThink and AbbyFinereader, but I really struggled with basic image file managment (my DevonThink projects would get too large to open) and OCRing files without extracting images. 

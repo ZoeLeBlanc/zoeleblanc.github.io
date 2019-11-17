@@ -314,6 +314,10 @@ body { box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: 
 
 .column { display: flex; flex-direction: column; flex-basis: 100%; flex: 1; }
 
+#scrollButton { display: none; position: fixed; bottom: 60px; right: 30px; z-index: 99; font-size: 18px; border: none; outline: none; background-color: #828282; color: white; cursor: pointer; padding: 15px; border-radius: 4px; }
+
+#scrollButton:hover { background-color: #B509AC; }
+
 .clearfix:before, .wrapper:before, .clearfix:after, .wrapper:after { content: ' '; display: table; }
 
 .clearfix:after, .wrapper:after { clear: both; }

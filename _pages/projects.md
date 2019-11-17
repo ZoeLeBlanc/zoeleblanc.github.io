@@ -7,6 +7,8 @@ description: collection of past, present, and future works.
 
 {% for project in site.projects %}
 
+{% if project.display %}
+
 {% if project.redirect %}
 <div class="project">
     <div class="thumbnail">
@@ -42,6 +44,8 @@ description: collection of past, present, and future works.
         </a>
     </div>
 </div>
+
+{% endif %}
 
 {% endif %}
 

@@ -8,3 +8,4 @@ _drafts/
 .ruby-version
 Gemfile.lock
 node_modules/
+.vscode

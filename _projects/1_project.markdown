@@ -3,6 +3,7 @@ layout: page
 title: Constructing Anti-Colonial Cairo
 description: Dissertation research 2014-Present
 img: /assets/img/cairo_nile.jpg
+display: True
 ---
 
 

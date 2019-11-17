@@ -3,6 +3,7 @@ layout: page
 title: Dispatches from Cairo
 description: Text analysis project of American and British diplomatic cables from Cairo, 1955-1965, 2016-Present
 img: /assets/img/sergey-zolkin-403.jpg
+display: True
 ---
 
 This project was my first foray into using digital history methods in my research. Prior to this project, I had mostly been interested in digital pedagogy, but after some encouragement from Micki Kaufman (whose work is amazing and if you're not familiar with it, check out her project [Quantifying Kissinger](http://blog.quantifyingkissinger.com/)) I decided to delve into some text analysis methods.
