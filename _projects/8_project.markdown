@@ -160,7 +160,7 @@ display: False
     let term = '';
     let terms = [];
     vegaEmbed('#fig1', fig1);
-    vegaEmbed('#fig2', spec2);
+    // vegaEmbed('#fig2', spec2);
     $('#clear').click(() => {
         console.log('click');
         terms = [];
@@ -168,8 +168,7 @@ display: False
     });
     var getCounts = (term) => {
         console.log('term', term);
-        terms.push(term); 
-        // term = 'kennedy';
+        terms.push(term);
         $.getJSON("/distribution_years.json", (data) => {
             console.log(data);
             let datasets = data.filter(da => terms.includes(da.term))
@@ -187,13 +186,12 @@ display: False
     }
     var distGraph = vegaEmbed('#dist', spec1).then(p => window.view = p.view);
     var pointsGraph = vegaEmbed('#vis', spec).then(({spec, view}) => {
-        // view.addEventListener('click', function (event, item) {
-        //     console.log(item.datum);
-        //     if (item.datum.term.length > 0){
-        //         term = item.datum.term;
-        //         getCounts(term);
-        //     }
-        // });
+        view.addEventListener('click', function (event, item) {
+            if (item.datum.term.length > 0){
+                term = item.datum.term;
+                getCounts(term);
+            }
+        });
         view.addEventListener('wheel', function (event, item) {
             console.log('event', event, item);
         });

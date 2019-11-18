@@ -4,8 +4,22 @@
     &copy; Copyright {{ site.time | date: '%Y' }} {{ site.name }} 😄 🍁 ☕.
     {{ site.footer_text }}
     {% if site.last_updated %}
-        Last updated: {{ site.last_updated }}.
+        Last updated: <span id="modified-date"></span>
     {% endif %}
   </div>
 
 </footer>
+<script>
+  (function () {
+    var githubAPI = "https://api.github.com/repos/ZoeLeBlanc/zoeleblanc.github.io/commits";
+    $.getJSON(githubAPI, {
+        path: "{{page.path}}"
+      })
+      .done(function (data) {
+        var date = new Date(data[0].commit.author.date);
+        var options = { day: 'numeric', month: 'long', year: 'numeric'};
+        var formatted_date = new Intl.DateTimeFormat('en-US', options).format(date);
+        $("#modified-date").text(formatted_date);
+      });
+  })();
+</script>

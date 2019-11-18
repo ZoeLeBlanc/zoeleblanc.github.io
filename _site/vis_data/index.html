@@ -179,12 +179,25 @@ if(typeof(LDAvis) !== "undefined"){
     &copy; Copyright 2019 Zoe Genevieve LeBlanc 😄 🍁 ☕.
     Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
     
-        Last updated: October 2019.
+        Last updated: <span id="modified-date"></span>
     
   </div>
 
 </footer>
-
+<script>
+  (function () {
+    var githubAPI = "https://api.github.com/repos/ZoeLeBlanc/zoeleblanc.github.io/commits";
+    $.getJSON(githubAPI, {
+        path: "_pages/vis_data.md"
+      })
+      .done(function (data) {
+        var date = new Date(data[0].commit.author.date);
+        var options = { day: 'numeric', month: 'long', year: 'numeric'};
+        var formatted_date = new Intl.DateTimeFormat('en-US', options).format(date);
+        $("#modified-date").text(formatted_date);
+      });
+  })();
+</script>
 
     
 

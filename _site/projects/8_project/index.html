@@ -162,10 +162,10 @@ ga('send', 'pageview');
             <img src="/assets/img/congo2.png" alt="Arab Observer July 1960" style="max-width:100%;" />
         </div>
         <p class="col three">
-            While historians have used these magazines as sources, none have explored them of objects of inquiry outright. My larger research contextualizes them within the Egyptian state's expanding efforts to control and circulate information. <i>Visualizing Cairo's Congo Crisis</i> delves into the content of the magazines, and traces the coverage of one event (the Congo crisis) over the full-run of these magazines. Tying together media and intellectual history I hope to 
+            While historians have used these magazines as sources, none have explored them of objects of inquiry outright. My larger research contextualizes them within the Egyptian state's expanding efforts to control and circulate information. <i>Visualizing Cairo's Congo Crisis</i> delves into the content of the magazines, and traces the coverage of one event (the Congo crisis) over the full-run of these magazines, with the aim of bridging together media and intellectual history to understand this political moment.
         </p>
         <p class="col three">
-            Usually this would be the point in a project where a digital historian would say something about scale being the rationale for their analysis. Given that there were dozens of these magazines printed in Cairo and elsewhere from the late 1950s to the 1970s, scale is certainly a factor in my use of computational methods. But more significant in my calculus is that these methods have forced me to confront what exactly I mean when I try to study meanings. In particular, understanding historical discourses with computational methods requires both formalizing the relationships between words that represent these ideas, and then also interpreting how statistical models can <i>and</i> cannot uncover these relationships.
+            To explore the discourses in these publications, I have employed a variety of digital and computational methods. Part of the rationale for these methods is the scale of these periodicals, given that there were dozens of these magazines printed in Cairo and elsewhere from the late 1950s to the 1970s. But more significant in my calculus is that these methods have forced me to confront what exactly I mean when I try to study meanings. In particular, understanding historical discourses with computational methods requires both formalizing the relationships between words that represent these ideas, and then also interpreting how statistical models can <i>and</i> cannot uncover these relationships.
         </p>
         <p class="col three">
             Ultimately, some of the findings from these models confirm our previous understandings of anti-colonialism. Such a result will be seen by some scholars as a rationale for dismissing these methods as some form of fancy footwork. Yet fundamentally I believe that using computational methods produces new forms of knowledge that can be valuable to historical research. Rather than seeing these methods as a rehashing of qualitative versus quantitative knowledge hierarchies, I view them as a way for capturing concepts, albeit crudely, and making them commensurable within a set of curated sources.
@@ -320,7 +320,7 @@ if(typeof(LDAvis) !== "undefined"){
     let term = '';
     let terms = [];
     vegaEmbed('#fig1', fig1);
-    vegaEmbed('#fig2', spec2);
+    // vegaEmbed('#fig2', spec2);
     $('#clear').click(() => {
         console.log('click');
         terms = [];
@@ -328,8 +328,7 @@ if(typeof(LDAvis) !== "undefined"){
     });
     var getCounts = (term) => {
         console.log('term', term);
-        terms.push(term); 
-        // term = 'kennedy';
+        terms.push(term);
         $.getJSON("/distribution_years.json", (data) => {
             console.log(data);
             let datasets = data.filter(da => terms.includes(da.term))
@@ -347,13 +346,12 @@ if(typeof(LDAvis) !== "undefined"){
     }
     var distGraph = vegaEmbed('#dist', spec1).then(p => window.view = p.view);
     var pointsGraph = vegaEmbed('#vis', spec).then(({spec, view}) => {
-        // view.addEventListener('click', function (event, item) {
-        //     console.log(item.datum);
-        //     if (item.datum.term.length > 0){
-        //         term = item.datum.term;
-        //         getCounts(term);
-        //     }
-        // });
+        view.addEventListener('click', function (event, item) {
+            if (item.datum.term.length > 0){
+                term = item.datum.term;
+                getCounts(term);
+            }
+        });
         view.addEventListener('wheel', function (event, item) {
             console.log('event', event, item);
         });
@@ -371,12 +369,25 @@ if(typeof(LDAvis) !== "undefined"){
     &copy; Copyright 2019 Zoe Genevieve LeBlanc 😄 🍁 ☕.
     Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
     
-        Last updated: October 2019.
+        Last updated: <span id="modified-date"></span>
     
   </div>
 
 </footer>
-
+<script>
+  (function () {
+    var githubAPI = "https://api.github.com/repos/ZoeLeBlanc/zoeleblanc.github.io/commits";
+    $.getJSON(githubAPI, {
+        path: "_projects/8_project.markdown"
+      })
+      .done(function (data) {
+        var date = new Date(data[0].commit.author.date);
+        var options = { day: 'numeric', month: 'long', year: 'numeric'};
+        var formatted_date = new Intl.DateTimeFormat('en-US', options).format(date);
+        $("#modified-date").text(formatted_date);
+      });
+  })();
+</script>
 
     
 
