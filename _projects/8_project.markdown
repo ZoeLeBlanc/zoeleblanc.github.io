@@ -48,22 +48,22 @@ display: False
             To explore the discourses in these publications, I have employed a variety of digital and computational methods. Part of the rationale for these methods is the scale of these periodicals, given that there were dozens of these magazines printed in Cairo and elsewhere from the late 1950s to the 1970s. But more significant in my calculus is that these methods have forced me to confront what exactly I mean when I try to study meanings. In particular, understanding historical discourses with computational methods requires both formalizing the relationships between words that represent these ideas, and then also interpreting how statistical models can <i>and</i> cannot uncover these relationships.
         </p>
         <p class="col three">
-            Ultimately, some of the findings from these models confirm our previous understandings of anti-colonialism. Such a result will be seen by some scholars as a rationale for dismissing these methods as some form of fancy footwork. Yet fundamentally I believe that using computational methods produces new forms of knowledge that can be valuable to historical research. Rather than seeing these methods as a rehashing of qualitative versus quantitative knowledge hierarchies, I view them as a way for capturing concepts, albeit crudely, and making them commensurable within a set of curated sources.
+            Ultimately, some of the findings from these models confirm our previous understandings of anti-colonialism. Yet fundamentally I believe that using computational methods produces new forms of knowledge that provide valuable additional evidence for my historical research. Rather than seeing these methods as a rehashing of qualitative versus quantitative knowledge hierarchies, I view them as a way for capturing concepts, albeit crudely, and making them commensurable within a set of curated sources.
         </p>
         <div class="col one">
             <a href="https://www.press.uchicago.edu/ucp/books/book/chicago/D/bo35853783.html" target="_blank"><img src="https://tmm.chicagodistributioncenter.com/IsbnImages/9780226612836.jpg" alt="Distant Horizons" style="max-width:100%;"></a>
         </div>
         <p class="col two">
-            In <a href="https://www.press.uchicago.edu/ucp/books/book/chicago/D/bo35853783.html" target="_blank"><i>Distant Horizons: Digital Evidence and Literary Change</i></a>, Ted Underwood describes this far more eloquently than I do, with his concept of “perspectival modeling.” Underwood contends that “perspectival models do not aim simply to reproduce human judgement. They are used instead to measure the parallax between different observers.”<sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup> Unlike earlier efforts to a priori define human phenomena as discrete variable, this ‘perspectival’ and ‘parallax’ approach <i>learns</i> a set of relationships depending the data and ontologies provided. Thus, instead of trying to replicate how humans would categorize documents, these methods capture relationships between words across a corpus, and in the process surface the most distinctive features for each of these categories. While this approach is most commonly used in spam email identification, this method has become increasingly popular in cultural analytics, including recent research exploring linguistic features of genre and the impact of publishing trends on literary language.<sup id="fnref:5"><a href="#fn:5" class="footnote">5</a></sup>
+            In <a href="https://www.press.uchicago.edu/ucp/books/book/chicago/D/bo35853783.html" target="_blank"><i>Distant Horizons: Digital Evidence and Literary Change</i></a>, Ted Underwood describes this far more eloquently, with his concept of “perspectival modeling.” Underwood contends that “perspectival models do not aim simply to reproduce human judgement. They are used instead to measure the parallax between different observers.”<sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup> Unlike earlier efforts to a priori define human phenomena as discrete variable, this ‘perspectival’ and ‘parallax’ approach <i>learns</i> a set of relationships depending on the data and ontologies provided. Instead of trying to replicate how humans would categorize documents, these methods capture relationships between words across a corpus, and in the process surface the most distinctive features for each of these categories. While this approach is most commonly used in spam email identification, this method has become increasingly popular in cultural analytics, including recent research exploring linguistic features of genre and the impact of publishing trends on literary language.<sup id="fnref:5"><a href="#fn:5" class="footnote">5</a></sup>
         </p>
         <p class="col three">
-            Most of the methods I implement to do "perspectival modeling" were developed prior the period I study, but the relatively recent rise of computational power has only now made it trivial to utilize these approaches. Instead, the largest barrier remains acquiring relevant historical sources and transforming them into machine-readable datasets. To this end, I developed a web application called Image Lucida to do exactly this and you can read more about it <a href="{{ site.baseurl }}/projects/2_project/">here</a>. This project is very much a work-in-progress and so in the coming weeks, I plan to include more information about what I plan to experiment with next. Some initial ideas include scrollytelling interactivity, high dimensional reduction visualizations like tsne or umap to explore more of the data, and increasing my initial dataset. The next section provides some historical background to the Congo Crisis in Cairo.
+            Most of the methods I implement to do "perspectival modeling" were developed prior the period I study, but the relatively recent rise of computational power has only now made it trivial to utilize these approaches. The largest barrier remains acquiring relevant historical sources and transforming them into machine-readable datasets. To this end, I developed a web application called Image Lucida to do exactly this and you can read more about it <a href="{{ site.baseurl }}/projects/2_project/">here</a>. This project is very much a work-in-progress and so in the coming weeks, I plan to include more information about what I plan to experiment with next. Some initial ideas include scrollytelling interactivity, high dimensional reduction visualizations like tsne or umap to explore more of the data, and increasing my initial dataset. The next section provides some historical background to the Congo Crisis in Cairo.
         </p>
     </div>
      <div class="row">
         <h3 id="congo_cairo" class="col three">The Congo Crisis in Cairo</h3>
         <p class="col three">
-            Prior to 1960, Egypt had already endeavored to promote Cairo as a hub for anti-colonial movements. After the revolution in 1952, Cairo had become a safe haven for nationalists from North Africa and the Arab Middle East.<sup id="fnref:6"><a href="#fn:6" class="footnote">6</a></sup> Then after the Bandung Conference of 1955, the Egyptian government increasingly offered support to nationalists from south of the Sahara, largely through scholarships to attend al-Azhar and funds to setup national liberation bureaus.<sup id="fnref:7"><a href="#fn:7" class="footnote">7</a></sup> After 1958, with the creation of the union with Syria, known as the United Arab Republic (UAR), and the emergence of what Malcolm Kerr termed the "Arab Cold War," Cairo was shifting its focus towards the African continent. Indeed, Helmi Sharawy, one of the Egyptian officials who worked initially for the African Association and then the Bureau, described 1960 as being of “crucial importance to the National Liberation of Africa, not only because the Declaration of Independence of All Colonised Peoples was adopted by the United Nations on 14 December, but also because it was the year where much was achieved in the way of clarifying the difference between the concepts of formal independence and real national liberation.”<sup id="fnref:8"><a href="#fn:8" class="footnote">8</a></sup>  While the UN declaration would only be signed at the end of 1960, Sharawy’s assertion about the difference between “formal independence and real national liberation” was an allusion to the Congo crisis, which first erupted that Summer and eventually challenged the very premise of Cairo’s involvement in African affairs.
+            Prior to 1960, Egypt had already endeavored to promote Cairo as a hub for anti-colonial movements. After the revolution in 1952, Cairo became a refuge for nationalists from North African and Middle Eastern countries still under colonial rule.<sup id="fnref:6"><a href="#fn:6" class="footnote">6</a></sup> Then after the Bandung Conference of 1955, the Egyptian government increasingly offered support to nationalists from south of the Sahara, largely through scholarships to attend al-Azhar and funds to setup national liberation bureaus.<sup id="fnref:7"><a href="#fn:7" class="footnote">7</a></sup> After 1958, with the creation of the union with Syria, known as the United Arab Republic (UAR), and the emergence of what Malcolm Kerr termed the "Arab Cold War," Cairo was shifting its focus towards the African continent. Indeed, Helmi Sharawy, one of the Egyptian officials who worked initially for the African Association and then the Bureau, described 1960 as being of “crucial importance to the National Liberation of Africa, not only because the Declaration of Independence of All Colonised Peoples was adopted by the United Nations on 14 December, but also because it was the year where much was achieved in the way of clarifying the difference between the concepts of formal independence and real national liberation.”<sup id="fnref:8"><a href="#fn:8" class="footnote">8</a></sup>  While the UN declaration would only be signed at the end of 1960, Sharawy’s assertion about the difference between “formal independence and real national liberation” was an allusion to the Congo crisis, which first erupted that Summer and eventually challenged the very premise of Cairo’s involvement in African affairs.
         </p>
         <p class="col three">
             The conflict in Congo emerged within days of the initial independence celebrations, when the Congolese military mutinied against the white officers while mobs attacked the remaining enclaves of foreign colonialists. Widely reported in the international press as a parable for decolonization gone too far, Belgium used this pretext to support the enemies of the recently elected Prime Minister Patrice Lumumba, and to send Belgium troops to the province of Katanga, the copper-rich region of the country.<sup id="fnref:9"><a href="#fn:9" class="footnote">9</a></sup> On July 11, 1960 Moïse Tshombe, a former businessman and leader of the Confédération des associations tribales du Katanga (CONAKAT), announced the secession of Katanga with the backing of Belgium. The news from Congo set off a flurry of press releases and messages between Cairo and the rest of the world. This flurry of activities was reflected in both Egyptian media and on the streets of Cairo.
@@ -77,10 +77,13 @@ display: False
             </div>
         </div>
         <p class="col three">
-        The speeches called for Belgium to end its imperialism in Africa, for the United Nations to negotiate the withdrawal of Belgian troops from the Congo, and lastly, for support of Patrice Lumumba to maintain the Congo’s “freedom, unity and sovereignty.”<sup id="fnref:11"><a href="#fn:11" class="footnote">11</a></sup> According to the daily Egyptian newspaper, *al-Ahram*, the rally even sent a cable to Lumumba offering volunteers to fight Belgium imperialists, inspired in part from Cairo’s struggle against imperialist aggression in the Suez Crisis of 1956. The rally also sent a cable to United Nations Secretary General, Dag Hammarskjöld about Congo Day and the desire for UN involvement in the Congo, claiming to represent all concerned African citizens. The demonstrations eventually dispersed after waiting at the Belgium Embassy for the Ambassador to address “the African freedom fighters.”<sup id="fnref:12"><a href="#fn:12" class="footnote">12</a></sup>
+            The speeches called for Belgium to end its imperialism in Africa, for the United Nations to negotiate the withdrawal of Belgian troops from the Congo, and lastly, for support of Patrice Lumumba to maintain the Congo’s “freedom, unity and sovereignty.”<sup id="fnref:11"><a href="#fn:11" class="footnote">11</a></sup> According to the daily Egyptian newspaper, *al-Ahram*, the rally even sent a cable to Lumumba offering volunteers to fight Belgium imperialists, inspired in part from Cairo’s struggle against imperialist aggression in the Suez Crisis of 1956. The rally also sent a cable to United Nations Secretary General, Dag Hammarskjöld about Congo Day and the desire for UN involvement in the Congo, claiming to represent all concerned African citizens. The demonstrations eventually dispersed after waiting at the Belgium Embassy for the Ambassador to address “the African freedom fighters.”<sup id="fnref:12"><a href="#fn:12" class="footnote">12</a></sup>
         </p>
         <p class="col three">
-        While there was some coverage of Congo Day in the Egyptian dallies, the majority of these existing accounts come from the *Arab Observer*, a weekly magazine published by the National Publications House, an initiative of the Egyptian government that started in 1960. The *Arab Observer*, printed in English and modeled on *Newsweek*, was one of eventually dozen Egyptian government publications that were marketed to a new international Arabic and non-Arabic speaking Third World audiences during the 1960s. Yet, the events of Congo Day in Cairo and the existence of magazines like the *Arab Observer* remain marginalized in both national histories of Egypt as well as global histories of the Congo crisis and the Third World. In the few books on Egypt's relations with Africa, only one briefly mentions Congo Day, and while some of these books utilize the Arab Observer as a source, none of them explore how the magazine was part of a larger information strategy intended to export Cairo's message across the globe.  Relative to the entirety of the Congo crisis, the omission of Congo Day in Cairo is minor. Similarly, although Cairo was the capital for print in the Arab world, the Arab Observer represented a fraction of the news published in Cairo. Yet, protests over the Congo would continue to spill on to the streets of Cairo six months later after the murder of Patrice Lumumba and again three years later after American and Belgium involvement in the Simba Rebellion and Stanleyville in late 1964, while Egyptian information regime would become the model for decolonizing states seeking to challenge foreign news coverage, threatening both Western and Soviet interests in the Third World.
+            Though there was coverage of Congo Day in the Egyptian dallies, the majority of these existing accounts come from the <i>Arab Observer</i>, which was one of the weekly magazines published by the Egyptian government. These publications were printed in multiple languages and largely modeled on <i>Newsweek</i>, and were marketed to a new international Arabic and non-Arabic speaking Third World audiences during the 1960s. Yet, the events of Congo Day in Cairo and the existence of magazines like the <i>Arab Observer</i> remain marginalized in both national histories of Egypt as well as global histories of the Congo crisis and the Third World. Relative to the entirety of the Congo crisis, the omission of Congo Day in Cairo is minor. Similarly, although Cairo was the capital for print in the Arab world, the <i>Arab Observer</i> represented a fraction of the news published in Cairo. Yet, protests over the Congo would continue to spill on to the streets of Cairo six months later after the murder of Patrice Lumumba and again three years later after American and Belgium involvement in the Simba Rebellion and Stanleyville in late 1964, while Egyptian information regime would become the model for decolonizing states seeking to challenge foreign news coverage, threatening both Western and Soviet interests in the Third World.
+        </p>
+        <p class="col three">
+            While my larger article traces the long arc of the Congo crisis in Cairo, this next section contains my experiments to answer a related question - namely, how, if at all, did the Congo crisis influence discourses in Egypt? Answering this question requires exploring how historians writ large understand <i>'ideas'</i>, and how we can <i>and</i> cannot use computational methods to model these ideas.
         </p>
     </div>
 </div>
@@ -88,20 +91,23 @@ display: False
 <div class="wrapper">
     <div class="row">
         <h3 id="discourses_data" class="col three">Discourses and Data</h3>
-        <h4 class="col three" style="text-align:center;">Congo Frequencies Per Year Compared to Total Words in the <i>Arab Observer</i></h4>
-        <div class="col three" id="fig1">
-        </div>
+        <p class="col three">
+            When historians talk about concepts and ideas, rarely do we drill down to the exact relationships between words that represent these entities.
+        </p>
+        <h4 class="col three" style="text-align:center;">Congo Frequencies Per Year Compared to Total Words in the <i>Arab Observer</i>
+        </h4>
+        <div class="col three" id="fig1"></div>
     </div>
 </div>
 <div class="col three" id="fig2">
 </div>
 <div class="row" style="justify-content:center;">
     <div class="row" style="overflow: auto; padding:40px; max-width: 80%;border: lightgrey solid;margin: 50px;">
-    <h4 class="col three" style="text-align:center;">Top Topics and Terms of Congo-Related Coverage in the <i>Arab Observer</i></h4>
-        {% include vis_data.html %}
+        <h4 class="col three" style="text-align:center;">Top Topics and Terms of Congo-Related Coverage in the <i>Arab Observer</i></h4>
+            {% include vis_data.html %}
     </div>
 </div>
-<div style="display:flex; flex-direction:row;">
+<div style="display:flex; flex-direction:row; overflow: auto; padding:40px; border: lightgrey solid;margin: 50px;">
     <div id="vis"></div>
     <div style="display:flex; flex-direction:column;">
         <div id="click"></div>
@@ -167,14 +173,10 @@ display: False
         getCounts('');
     });
     var getCounts = (term) => {
-        console.log('term', term);
         terms.push(term);
         $.getJSON("/distribution_years.json", (data) => {
-            console.log(data);
-            let datasets = data.filter(da => terms.includes(da.term))
-            console.log(datasets);
+            let datasets = data.filter(da => terms.includes(da.term));
             let changeset = vega.changeset().remove(() => true).insert(datasets);
-            console.log(changeset);
             view.change("data-c193be45f4546e6bef5e606183257717", changeset).run()
             let single_term = data.filter(da => da.term == term)[0];
             if (term.length > 0){
@@ -192,9 +194,7 @@ display: False
                 getCounts(term);
             }
         });
-        view.addEventListener('wheel', function (event, item) {
-            console.log('event', event, item);
-        });
+
     });
 
 </script>
