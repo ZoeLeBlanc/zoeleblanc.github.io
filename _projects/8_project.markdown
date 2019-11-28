@@ -107,6 +107,12 @@ display: False
             {% include vis_data.html %}
     </div>
 </div>
+
+<div class="col three" style="display: flex; justify-content: center; align-items: center;">
+    <div>
+        <iframe src="https://kepler.gl/#/demo?mapUrl=https://gist.githubusercontent.com/ZoeLeBlanc/a37d23babd37d8820bbd66521d0d1574/raw/b7d1205401df6eba60d113e8f05d40189a19d657/keplergl.json" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="900px" width="1200px" allowfullscreen></iframe>
+    </div>
+</div>
 <div style="display:flex; flex-direction:row; overflow: auto; padding:40px; border: lightgrey solid;margin: 50px;">
     <div id="vis"></div>
     <div style="display:flex; flex-direction:column;">

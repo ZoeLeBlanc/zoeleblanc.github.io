@@ -19,6 +19,7 @@
   "dependencies": {
     "lunr": "^2.3.0",
     "moment": "^2.22.2",
+    "regl-scatterplot": "^0.6.0",
     "scrollstory": "^1.1.0"
   }
 }

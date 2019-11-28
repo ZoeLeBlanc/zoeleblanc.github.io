@@ -6,7 +6,8 @@ var colors = {
     'Neither Congo and Belgrade': '#2ca02c'
 }
 d3.json('/features_nam_congo.json', function (data) {
-    data = data.slice(0, 2000);
+    // data = data.slice(0, 2000);
+    data = data.filter( d => d.color == 'Congo Only');
     var margin = {
             top: 20,
             right: 20,
@@ -41,12 +42,12 @@ d3.json('/features_nam_congo.json', function (data) {
         .attr("height", height)
         .attr("x", 0)
         .attr("y", 0);
-    var xExtent = d3.extent(data, function (d) {
-        return d.x;
-    });
-    var yExtent = d3.extent(data, function (d) {
-        return d.y;
-    });
+    // var xExtent = d3.extent(data, function (d) {
+    //     return d.x;
+    // });
+    // var yExtent = d3.extent(data, function (d) {
+    //     return d.y;
+    // });
     x.domain(d3.extent(data, function (d) {
         return d.x;
     })).nice();
@@ -119,6 +120,7 @@ d3.json('/features_nam_congo.json', function (data) {
         .attr('y', d => y(d.y))
         .attr('dx', '.71em')
         .attr('dy', '.35em')
+        // .text((d) => d.term);
         .text((d) => d.texts05 ? d.term : '');
 
     function clicked(d, i) {
@@ -145,7 +147,7 @@ d3.json('/features_nam_congo.json', function (data) {
 
     function brushended() {
         var s = d3.event.selection;
-        console.log('s', s)
+        console.log('s', d3.event)
         if (!s) {
             if (!idleTimeout) return idleTimeout = setTimeout(idled, idleDelay);
             x.domain(d3.extent(data, function (d) {
@@ -158,60 +160,18 @@ d3.json('/features_nam_congo.json', function (data) {
             x.domain([s[0][0], s[1][0]].map(x.invert, x));
             y.domain([s[1][1], s[0][1]].map(y.invert, y));
             d3.select(".brush").call(brush.move, null);
+            // zoomed();
         }
         zoom();
+        
     }
 
     function idled() {
         idleTimeout = null;
     }
 
-    function showLabels() {
-        var y_scale = y.domain();
-        var x_scale = x.domain();
-        var testData = data.filter((d) => {
-            if ((y_scale[0] < d.y && d.y < y_scale[1]) && (x_scale[0] < d.x && d.x < x_scale[1])) {
-                return d;
-            }
-        });
-        var newData = testData.map((data, index) => {
-            if (index == 0)
-                return Object.assign({}, data, {
-                    show: false
-                })
-            return data
-        });
-        labels.data(newData);
-        points.data(newData);
-        labels.exit().remove();
-        points.exit().remove();
-        labels.enter().append('text')
-            .attr("class", "labels")
-            .attr('x', d => x(d.x))
-            .attr('y', d => y(d.y))
-            .attr('dx', '.71em')
-            .attr('dy', '.35em')
-            .text((d) => {
-                if (d.show == true) {
-                    return d.term
-                } else {
-                    return ''
-                }
-            });
-        points.enter().append("circle")
-            .attr("class", "dot")
-            .attr("r", 4)
-            .attr("cx", function (d) {
-                return x(d.x);
-            })
-            .attr("cy", function (d) {
-                return y(d.y);
-            })
-            .attr("opacity", 0.5)
-            .style("fill", d => colors[d.color]);
-    }
-
     function zoom() {
+        console.log(x.domain());
         var t = scatter.transition().duration(750);
         svg.select("#axis--x").transition(t).call(xAxis);
         svg.select("#axis--y").transition(t).call(yAxis);
@@ -229,11 +189,11 @@ d3.json('/features_nam_congo.json', function (data) {
             .attr("y", function (d) {
                 return y(d.y);
             });
-        // showLabels();
     }
 
     function zoomed() {
         // scatter.attr("transform", d3.event.transform);
+        console.log(x, y);
         var t = scatter.transition().duration(300);
         var new_xScale = d3.event.transform.rescaleX(x);
         var new_yScale = d3.event.transform.rescaleY(y);
@@ -264,3 +224,48 @@ d3.json('/features_nam_congo.json', function (data) {
         }
     });
 });
+
+//  function showLabels() {
+//      var y_scale = y.domain();
+//      var x_scale = x.domain();
+//      var testData = data.filter((d) => {
+//          if ((y_scale[0] < d.y && d.y < y_scale[1]) && (x_scale[0] < d.x && d.x < x_scale[1])) {
+//              return d;
+//          }
+//      });
+//      var newData = testData.map((data, index) => {
+//          if (index == 0)
+//              return Object.assign({}, data, {
+//                  show: false
+//              })
+//          return data
+//      });
+//      labels.data(newData);
+//      points.data(newData);
+//      labels.exit().remove();
+//      points.exit().remove();
+//      labels.enter().append('text')
+//          .attr("class", "labels")
+//          .attr('x', d => x(d.x))
+//          .attr('y', d => y(d.y))
+//          .attr('dx', '.71em')
+//          .attr('dy', '.35em')
+//          .text((d) => {
+//              if (d.show == true) {
+//                  return d.term
+//              } else {
+//                  return ''
+//              }
+//          });
+//      points.enter().append("circle")
+//          .attr("class", "dot")
+//          .attr("r", 4)
+//          .attr("cx", function (d) {
+//              return x(d.x);
+//          })
+//          .attr("cy", function (d) {
+//              return y(d.y);
+//          })
+//          .attr("opacity", 0.5)
+//          .style("fill", d => colors[d.color]);
+//  }

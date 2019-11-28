@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html>
 
-  <head>
+<head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Zoe Genevieve LeBlanc | Generalizing Static Sites</title>
+  <title>Zoe Genevieve LeBlanc | Topic Modeling Experiments</title>
   <meta name="description" content="Zoe LeBlanc, Digital Historian.">
 
   <link rel="shortcut icon" href="http://localhost:4000/assets/img/favicon.ico">
 
   <link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/blog/generalizing-static-sites/">
+  <link rel="canonical" href="http://localhost:4000/test2/">
 </head>
 
-  <!-- Load jQuery -->
+<!-- Load jQuery -->
 <script src="//code.jquery.com/jquery-1.12.4.min.js"></script>
 
 <!-- Load Common JS -->
@@ -44,7 +44,7 @@ ga('create', 'UA-XXXXXXXX-X', 'auto');
 ga('send', 'pageview');
 </script>
 
-  <body>
+<body>
 
     <header class="site-header">
 
@@ -130,45 +130,16 @@ ga('send', 'pageview');
 
 
     <div class="page-content">
-      <div class="wrapper">
-        <div class="post">
+        <div>
+            <iframe src="https://kepler.gl/#/demo?mapUrl=https://gist.githubusercontent.com/ZoeLeBlanc/a37d23babd37d8820bbd66521d0d1574/raw/b7d1205401df6eba60d113e8f05d40189a19d657/keplergl.json" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="1000px" allowfullscreen=""></iframe>
+<div id="vis0"></div>
+<script src="https://unpkg.com/rough-viz@1.0.4"></script>
 
-  <header class="post-header">
-    <h1 class="post-title">Generalizing Static Sites</h1>
-    <p class="post-meta">November 6, 2019</p>
-  </header>
+<!-- <script src="/node_modules/regl-scatterplot/dist/regl-scatterplot.js"></script> -->
+<script src="/assets/js/test.js" type="module"></script>
 
-  <article class="post-content">
-    <p>Recently, at the CDH we were discussing the possibility of creating a research periodical using a static site, and the question came up regarding which library to choose. In digital humanities, Jekyll seems to be by far the preferred choice, but beyond DH, there’s hundreds of options. Quickly, I realized that part of the issue for DHers is not so much actually getting a static site up an running, but understanding the larger landscape to decide which fits best for your project/problem.</p>
 
-<p>So I quickly put together a workshop with the idea of talking more about the conceptual issues and technical tradeoffs around static sites, rather than getting people to install another programming library (though I do think that’s the number one way you actually get a sense of static site libraries).</p>
-
-<p>You can find the initial workshop notes <a href="https://github.com/ZoeLeBlanc/static_site_workshop">here</a>, and I’ll be updating them in the coming days to include a bit more in-depth explanation of static sites (namely what is HTML, CSS, and Javascript). There’s lots of links to resources and I tried to lay out the overall workflow of setting up a static site in using multiple libraries.</p>
-
-<p>Regardless, though I tried to focus on these broader questions and how you can answer them.</p>
-
-<ol>
-  <li>
-    <p>What programming language are you interested in using or learning? Most of these involve using HTML, CSS, and JavaScript, but some like GatsbyJS require some knowledge of React whereas Jekyll only requires a tiny bit of Ruby to work in the Makefile</p>
-  </li>
-  <li>
-    <p>How much complexity will your site have? How many pages? How many different types of content? Some static site generators and themes make assumptions for how your content is organized so you may want to find a fairly close example project.</p>
-  </li>
-  <li>
-    <p>How many contributors? If you are working on a team, you’ll want to invest in testing, continuous integration and deployment to make sure the site doesn’t break. You’ll also want to decide on an editorial process (for an example see <a href="https://github.com/programminghistorian/ph-submissions">the submissions process for the Programming Historian</a>).</p>
-  </li>
-  <li>
-    <p>How much do you want to customize your site? Some static site generators like Gatsby are easier to customize the styling, whereas others have a whole host of themes to choose from but are harder to manipulate.</p>
-  </li>
-</ol>
-
-  </article>
-
-  
-
-</div>
-
-      </div>
+        </div>
     </div>
 
     <footer>
@@ -186,7 +157,7 @@ ga('send', 'pageview');
   (function () {
     var githubAPI = "https://api.github.com/repos/ZoeLeBlanc/zoeleblanc.github.io/commits";
     $.getJSON(githubAPI, {
-        path: "_posts/2019-11-06-generalizing-static-sites.md"
+        path: "_pages/test2.md"
       })
       .done(function (data) {
         var date = new Date(data[0].commit.author.date);
@@ -197,6 +168,8 @@ ga('send', 'pageview');
   })();
 </script>
 
-  </body>
+    
+
+</body>
 
 </html>
