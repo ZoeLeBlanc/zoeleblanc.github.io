@@ -113,7 +113,7 @@ display: False
         <iframe src="https://kepler.gl/#/demo?mapUrl=https://gist.githubusercontent.com/ZoeLeBlanc/a37d23babd37d8820bbd66521d0d1574/raw/b7d1205401df6eba60d113e8f05d40189a19d657/keplergl.json" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="900px" width="1200px" allowfullscreen></iframe>
     </div>
 </div>
-<div style="display:flex; flex-direction:row; overflow: auto; padding:40px; border: lightgrey solid;margin: 50px;">
+<div id="visWrapper" style="display:flex; flex-direction:row; overflow: auto; padding:40px; border: lightgrey solid;margin: 50px;">
     <div id="vis"></div>
     <div style="display:flex; flex-direction:column;">
         <div id="click"></div>
@@ -123,34 +123,50 @@ display: False
         </div>
     </div>
 </div>
-
-<div class="wrapper">
-    <div class="footnotes">
-    <ol>
-        <li id="fn:1">
-        <p>For more on the 1957 conference, see Reem Abou-El-Fadl  "Building Egypt’s Afro-Asian Hub: Infrastructures of Solidarity and the 1957 Cairo Conference." *Journal of World History*, 2019. Project MUSE, <a href="doi:10.1353/jwh.2019.0048" target="_blank">doi:10.1353/jwh.2019.0048</a>.&nbsp;<a href="#fnref:1" class="reversefootnote">↩</a></p>
-        </li>
-        <li id="fn:2">
-        <p> Jason C. Parker, Hearts, Minds, Voices: US Cold War Public Diplomacy and the Formation of the Third World. (New York: Oxford University Press, 2016), 144.&nbsp;<a href="#fnref:2" class="reversefootnote">↩</a></p>
-        </li>
-        <li id="fn:3">
-        <p>&nbsp;<a href="#fnref:3" class="reversefootnote">↩</a></p>
-        </li>
-        <li id="fn:4">
-        <p>Ted Underwood <i>Distant Horizons: Digital Evidence and Literary Change</i> (University of Chicago Press, 2019), xv.&nbsp;<a href="#fnref:4" class="reversefootnote">↩</a></p>
-        </li>
-        <li id="fn:5">
-        <p>For examples, see Ted Underwood “Why an Age of Machine Learning Needs the Humanities” <i>Public Books</i> December 5 2018 <a href="https://www.publicbooks.org/why-an-age-of-machine-learning-needs-the-humanities/" target="_blank">https://www.publicbooks.org/why-an-age-of-machine-learning-needs-the-humanities/</a> and Dan Sinykin “How Capitalism Changed American Literature” <i>Public Books</i> July 17 2019 <a href="https://www.publicbooks.org/how-capitalism-changed-american-literature/" target="_blank">https://www.publicbooks.org/how-capitalism-changed-american-literature/</a>&nbsp;<a href="#fnref:5" class="reversefootnote">↩</a></p>
-        </li>
-        <li id="fn:4">
-        <p>Embassy Cairo to Department of State, Aug 4 1960, Folder 310 Afro Asian People’s Solidarity Organization, Box 9, Egypt US Embassy General Records 1959-1961, RG 84&nbsp;<a href="#fnref:4" class="reversefootnote">↩</a></p>
-        </li>
-    </ol>
+<div id='map'></div>
+<div id='story'></div>
+<div id='state-legend' class='legend'>
+    <h4>Periodicals</h4>
+    <div><span style='background-color: #42039d;'></span><i>The Egyptian Economic and Political Review</i></div>
+    <div><span style='background-color: #6a00a8;'></span><i>Arab Observer</i></div>
+    <div><span style='background-color: #900da4;'></span><i>The Arab Review</i></div>
+    <div><span style='background-color: #b12a90;'></span><i>The Scribe</i></div>
+    <div><span style='background-color: #cb4779;'></span><i>The Arab World</i></div>
+    <div><span style='background-color: #e16462;'></span><i>Afro-Asian Bulletin</i></div>
+    <div><span style='background-color: #f2834c;'></span><i>Afro-Asian and World Affairs</i></div>
+    <div><span style='background-color: #fca636;'></span><i>Liberator Magazine</i></div>
+    <div><span style='background-color: #fcce25;'></span><i>Freedomways</i></div>
+</div>
+<div style="background-color: white; width: 100%">
+    <div id="footnotesDiv" class="wrapper">
+        <div class="footnotes">
+        <ol>
+            <li id="fn:1">
+            <p>For more on the 1957 conference, see Reem Abou-El-Fadl  "Building Egypt’s Afro-Asian Hub: Infrastructures of Solidarity and the 1957 Cairo Conference." *Journal of World History*, 2019. Project MUSE, <a href="doi:10.1353/jwh.2019.0048" target="_blank">doi:10.1353/jwh.2019.0048</a>.&nbsp;<a href="#fnref:1" class="reversefootnote">↩</a></p>
+            </li>
+            <li id="fn:2">
+            <p> Jason C. Parker, Hearts, Minds, Voices: US Cold War Public Diplomacy and the Formation of the Third World. (New York: Oxford University Press, 2016), 144.&nbsp;<a href="#fnref:2" class="reversefootnote">↩</a></p>
+            </li>
+            <li id="fn:3">
+            <p>&nbsp;<a href="#fnref:3" class="reversefootnote">↩</a></p>
+            </li>
+            <li id="fn:4">
+            <p>Ted Underwood <i>Distant Horizons: Digital Evidence and Literary Change</i> (University of Chicago Press, 2019), xv.&nbsp;<a href="#fnref:4" class="reversefootnote">↩</a></p>
+            </li>
+            <li id="fn:5">
+            <p>For examples, see Ted Underwood “Why an Age of Machine Learning Needs the Humanities” <i>Public Books</i> December 5 2018 <a href="https://www.publicbooks.org/why-an-age-of-machine-learning-needs-the-humanities/" target="_blank">https://www.publicbooks.org/why-an-age-of-machine-learning-needs-the-humanities/</a> and Dan Sinykin “How Capitalism Changed American Literature” <i>Public Books</i> July 17 2019 <a href="https://www.publicbooks.org/how-capitalism-changed-american-literature/" target="_blank">https://www.publicbooks.org/how-capitalism-changed-american-literature/</a>&nbsp;<a href="#fnref:5" class="reversefootnote">↩</a></p>
+            </li>
+            <li id="fn:4">
+            <p>Embassy Cairo to Department of State, Aug 4 1960, Folder 310 Afro Asian People’s Solidarity Organization, Box 9, Egypt US Embassy General Records 1959-1961, RG 84&nbsp;<a href="#fnref:4" class="reversefootnote">↩</a></p>
+            </li>
+        </ol>
+        </div>
     </div>
 </div>
-
+<script src="{{ site.baseurl }}/assets/js/config.js"></script>
 <script type="text/javascript">
     // Scroll javascript
+    $('.page-content').css({'padding': '50px 0'});
     var topFunction = () => {
         document.body.scrollTop = 0;
         document.documentElement.scrollTop = 0;
@@ -163,7 +179,26 @@ display: False
             scrollButton.style.display = "none";
         }
     };
-    window.onscroll = () => {makeScroll();};
+    window.onscroll = () => {
+        makeScroll();
+        var preMap = $('#vis').offset().top + $('#vis').height();
+        var afterMap = $(window).scrollTop() >= $('#footer').offset().top + $('#footer').outerHeight() - window.innerHeight + 100;
+        console.log(afterMap);
+        var visibleMap = false;
+        if ((preMap < $(window).scrollTop()) && !visibleMap){
+            $('#map').css({'visibility': 'visible', 'opacity': '1'});
+            $('#state-legend').css({'visibility': 'visible', 'opacity': '1'});
+            visibleMap = true;
+            map.resize();
+        } else {
+            $('#map').css({'visibility': 'hidden', 'opacity': '0', 'transition': 'visibility 0s, opacity 0.5s linear'});
+            $('#state-legend').css({'visibility': 'hidden', 'opacity': '0', 'transition': 'visibility 0s, opacity 0.5s linear'});
+            visibleMap = false;
+        }
+        if (afterMap) {
+            $('#state-legend').css({'visibility': 'hidden', 'opacity': '0', 'transition': 'visibility 0s, opacity 0.5s linear'});
+        }
+    };
     // Visualization javascript
     var spec = "/visualization.vl.json";
     var spec1 = "/distribution_viz.vg.json";
@@ -200,7 +235,146 @@ display: False
                 getCounts(term);
             }
         });
-
     });
-
+    var layerTypes = {
+        'fill': ['fill-opacity'],
+        'line': ['line-opacity'],
+        'circle': ['circle-opacity', 'circle-stroke-opacity'],
+        'symbol': ['icon-opacity', 'text-opacity'],
+        'raster': ['raster-opacity'],
+        'fill-extrusion': ['fill-extrusion-opacity']
+    }
+    var alignments = {
+        'left': 'lefty',
+        'center': 'centered',
+        'right': 'righty'
+    }
+    function getLayerPaintType(layer) {
+        console.log(layer, map.getLayer(layer));
+        var layerType = map.getLayer(layer).type;
+        return layerTypes[layerType];
+    }
+    function setLayerOpacity(layer) {
+        var paintProps = getLayerPaintType(layer.layer);
+        paintProps.forEach(function(prop) {
+            map.setPaintProperty(layer.layer, prop, layer.opacity);
+        });
+    }
+    var story = document.getElementById('story');
+    var features = document.createElement('div');
+    features.classList.add(alignments[config.alignment]);
+    features.setAttribute('id', 'features');
+    var header = document.createElement('div');
+    if (config.title) {
+        var titleText = document.createElement('h1');
+        titleText.innerText = config.title;
+        header.appendChild(titleText);
+    }
+    if (config.subtitle) {
+        var subtitleText = document.createElement('h2');
+        subtitleText.innerText = config.subtitle;
+        header.appendChild(subtitleText);
+    }
+    if (config.byline) {
+        var bylineText = document.createElement('p');
+        bylineText.innerText = config.byline;
+        header.appendChild(bylineText);
+    }
+    if (header.innerText.length > 0) {
+        header.classList.add(config.theme);
+        header.setAttribute('id', 'header');
+        story.appendChild(header);
+    }
+    config.chapters.forEach((record, idx) => {
+        var container = document.createElement('div');
+        var chapter = document.createElement('div');
+        if (record.title) {
+            var title = document.createElement('h3');
+            title.innerText = record.title;
+            chapter.appendChild(title);
+        }
+        if (record.image) {
+            var image = new Image();  
+            image.src = record.image;  
+            chapter.appendChild(image);
+        }
+        if (record.description) {
+            var story = document.createElement('p');
+            story.innerHTML = record.description;
+            chapter.appendChild(story);
+        }
+        container.setAttribute('id', record.id);
+        container.classList.add('step');
+        if (idx === 0) {
+            container.classList.add('active');
+        }
+        chapter.classList.add(config.theme);
+        container.appendChild(chapter);
+        features.appendChild(container);
+    });
+    story.appendChild(features);
+    var footer = document.createElement('div');
+    if (config.footer) {
+        var footerText = document.createElement('p');
+        footerText.innerHTML = config.footer;
+        footer.appendChild(footerText);
+    }
+    if (footer.innerText.length > 0) {
+        footer.classList.add(config.theme);
+        footer.setAttribute('id', 'footer');
+        story.appendChild(footer);
+    }
+    mapboxgl.accessToken = config.accessToken;
+    const transformRequest = (url) => {
+        const hasQuery = url.indexOf("?") !== -1;
+        const suffix = hasQuery ? "&pluginName=journalismScrollytelling" : "?pluginName=journalismScrollytelling";
+        return {
+        url: url + suffix
+        }
+    }
+    var map = new mapboxgl.Map({
+        container: 'map',
+        style: config.style,
+        center: config.chapters[0].location.center,
+        zoom: config.chapters[0].location.zoom,
+        bearing: config.chapters[0].location.bearing,
+        pitch: config.chapters[0].location.pitch,
+        scrollZoom: false,
+        transformRequest: transformRequest
+    });
+    var marker = new mapboxgl.Marker();
+    if (config.showMarkers) {
+        marker.setLngLat(config.chapters[0].location.center).addTo(map);
+    }
+    // instantiate the scrollama
+    var scroller = scrollama();
+    map.on("load", function() {
+        // setup the instance, pass callback functions
+        scroller
+        .setup({
+            step: '.step',
+            offset: 0.5,
+            progress: true
+        })
+        .onStepEnter(response => {
+            var chapter = config.chapters.find(chap => chap.id === response.element.id);
+            response.element.classList.add('active');
+            map.flyTo(chapter.location);
+            if (config.showMarkers) {
+                marker.setLngLat(chapter.location.center);
+            }
+            if (chapter.onChapterEnter.length > 0) {
+                chapter.onChapterEnter.forEach(setLayerOpacity);
+            }
+        })
+        .onStepExit(response => {
+            var chapter = config.chapters.find(chap => chap.id === response.element.id);
+            response.element.classList.remove('active');
+            if (chapter.onChapterExit.length > 0) {
+                chapter.onChapterExit.forEach(setLayerOpacity);
+            }
+        });
+    });
+    // setup resize event
+    window.addEventListener('resize', scroller.resize);
 </script>
