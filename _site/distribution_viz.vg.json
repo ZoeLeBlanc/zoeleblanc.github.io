@@ -1,0 +1,482 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "background": "white",
+  "padding": 5,
+  "data": [
+    {
+      "name": "data-c193be45f4546e6bef5e606183257717",
+      "values": [
+        {
+          "term": "leaders",
+          "year": 1960,
+          "nltk_word_counts": 172,
+          "non-alignedness": 0.4345931982377528,
+          "classify": "Congo and Belgrade",
+          "congoness": 0.04573843332040941,
+          "show_label": true
+        },
+        {
+          "term": "leaders",
+          "year": 1961,
+          "nltk_word_counts": 624,
+          "non-alignedness": 0.4345931982377528,
+          "classify": "Congo and Belgrade",
+          "congoness": 0.04573843332040941,
+          "show_label": true
+        },
+        {
+          "term": "leaders",
+          "year": 1962,
+          "nltk_word_counts": 551,
+          "non-alignedness": 0.4345931982377528,
+          "classify": "Congo and Belgrade",
+          "congoness": 0.04573843332040941,
+          "show_label": true
+        },
+        {
+          "term": "leaders",
+          "year": 1963,
+          "nltk_word_counts": 554,
+          "non-alignedness": 0.4345931982377528,
+          "classify": "Congo and Belgrade",
+          "congoness": 0.04573843332040941,
+          "show_label": true
+        },
+        {
+          "term": "leaders",
+          "year": 1964,
+          "nltk_word_counts": 642,
+          "non-alignedness": 0.4345931982377528,
+          "classify": "Congo and Belgrade",
+          "congoness": 0.04573843332040941,
+          "show_label": true
+        },
+        {
+          "term": "leaders",
+          "year": 1965,
+          "nltk_word_counts": 412,
+          "non-alignedness": 0.4345931982377528,
+          "classify": "Congo and Belgrade",
+          "congoness": 0.04573843332040941,
+          "show_label": true
+        },
+        {
+          "term": "leaders",
+          "year": 1966,
+          "nltk_word_counts": 416,
+          "non-alignedness": 0.4345931982377528,
+          "classify": "Congo and Belgrade",
+          "congoness": 0.04573843332040941,
+          "show_label": true
+        },
+        {
+          "term": "kennedy",
+          "year": 1960,
+          "nltk_word_counts": 42,
+          "non-alignedness": 0.4313949227662336,
+          "classify": "Belgrade Only",
+          "congoness": -0.13069338497156066,
+          "show_label": true
+        },
+        {
+          "term": "kennedy",
+          "year": 1961,
+          "nltk_word_counts": 287,
+          "non-alignedness": 0.4313949227662336,
+          "classify": "Belgrade Only",
+          "congoness": -0.13069338497156066,
+          "show_label": true
+        },
+        {
+          "term": "kennedy",
+          "year": 1962,
+          "nltk_word_counts": 195,
+          "non-alignedness": 0.4313949227662336,
+          "classify": "Belgrade Only",
+          "congoness": -0.13069338497156066,
+          "show_label": true
+        },
+        {
+          "term": "kennedy",
+          "year": 1963,
+          "nltk_word_counts": 186,
+          "non-alignedness": 0.4313949227662336,
+          "classify": "Belgrade Only",
+          "congoness": -0.13069338497156066,
+          "show_label": true
+        },
+        {
+          "term": "kennedy",
+          "year": 1964,
+          "nltk_word_counts": 63,
+          "non-alignedness": 0.4313949227662336,
+          "classify": "Belgrade Only",
+          "congoness": -0.13069338497156066,
+          "show_label": true
+        },
+        {
+          "term": "kennedy",
+          "year": 1965,
+          "nltk_word_counts": 32,
+          "non-alignedness": 0.4313949227662336,
+          "classify": "Belgrade Only",
+          "congoness": -0.13069338497156066,
+          "show_label": true
+        },
+        {
+          "term": "kennedy",
+          "year": 1966,
+          "nltk_word_counts": 127,
+          "non-alignedness": 0.4313949227662336,
+          "classify": "Belgrade Only",
+          "congoness": -0.13069338497156066,
+          "show_label": true
+        },
+        {
+          "term": "aligned",
+          "year": 1960,
+          "nltk_word_counts": 8,
+          "non-alignedness": 0.4108064300140026,
+          "classify": "Belgrade Only",
+          "congoness": -0.0051652413866911774,
+          "show_label": true
+        },
+        {
+          "term": "aligned",
+          "year": 1961,
+          "nltk_word_counts": 246,
+          "non-alignedness": 0.4108064300140026,
+          "classify": "Belgrade Only",
+          "congoness": -0.0051652413866911774,
+          "show_label": true
+        },
+        {
+          "term": "aligned",
+          "year": 1962,
+          "nltk_word_counts": 194,
+          "non-alignedness": 0.4108064300140026,
+          "classify": "Belgrade Only",
+          "congoness": -0.0051652413866911774,
+          "show_label": true
+        },
+        {
+          "term": "aligned",
+          "year": 1963,
+          "nltk_word_counts": 180,
+          "non-alignedness": 0.4108064300140026,
+          "classify": "Belgrade Only",
+          "congoness": -0.0051652413866911774,
+          "show_label": true
+        },
+        {
+          "term": "aligned",
+          "year": 1964,
+          "nltk_word_counts": 446,
+          "non-alignedness": 0.4108064300140026,
+          "classify": "Belgrade Only",
+          "congoness": -0.0051652413866911774,
+          "show_label": true
+        },
+        {
+          "term": "aligned",
+          "year": 1965,
+          "nltk_word_counts": 198,
+          "non-alignedness": 0.4108064300140026,
+          "classify": "Belgrade Only",
+          "congoness": -0.0051652413866911774,
+          "show_label": true
+        }
+      ]
+    },
+    {
+      "name": "data_0",
+      "source": "data-c193be45f4546e6bef5e606183257717",
+      "transform": [
+        {
+          "type": "filter",
+          "expr": "isValid(datum[\"nltk_word_counts\"]) && isFinite(+datum[\"nltk_word_counts\"])"
+        }
+      ]
+    },
+    {
+      "name": "column_domain",
+      "source": "data_0",
+      "transform": [
+        {
+          "type": "aggregate",
+          "groupby": [
+            "year"
+          ]
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "name": "child_width",
+      "value": 70
+    },
+    {
+      "name": "child_height",
+      "value": 200
+    }
+  ],
+  "layout": {
+    "padding": 20,
+    "offset": {
+      "columnTitle": 10
+    },
+    "columns": {
+      "signal": "length(data('column_domain'))"
+    },
+    "bounds": "full",
+    "align": "all"
+  },
+  "marks": [
+    {
+      "name": "column-title",
+      "type": "group",
+      "role": "column-title",
+      "title": {
+        "text": "year",
+        "style": "guide-title",
+        "offset": 10
+      }
+    },
+    {
+      "name": "row_header",
+      "type": "group",
+      "role": "row-header",
+      "encode": {
+        "update": {
+          "height": {
+            "signal": "child_height"
+          }
+        }
+      },
+      "axes": [
+        {
+          "scale": "y",
+          "orient": "left",
+          "grid": false,
+          "labelOverlap": true,
+          "tickCount": {
+            "signal": "ceil(child_height/40)"
+          },
+          "zindex": 0
+        }
+      ]
+    },
+    {
+      "name": "column_header",
+      "type": "group",
+      "role": "column-header",
+      "from": {
+        "data": "column_domain"
+      },
+      "sort": {
+        "field": "datum[\"year\"]",
+        "order": "ascending"
+      },
+      "title": {
+        "text": {
+          "signal": "''+parent[\"year\"]"
+        },
+        "style": "guide-label",
+        "frame": "group",
+        "offset": 10
+      },
+      "encode": {
+        "update": {
+          "width": {
+            "signal": "child_width"
+          }
+        }
+      }
+    },
+    {
+      "name": "column_footer",
+      "type": "group",
+      "role": "column-footer",
+      "from": {
+        "data": "column_domain"
+      },
+      "sort": {
+        "field": "datum[\"year\"]",
+        "order": "ascending"
+      },
+      "encode": {
+        "update": {
+          "width": {
+            "signal": "child_width"
+          }
+        }
+      },
+      "axes": [
+        {
+          "scale": "x",
+          "orient": "bottom",
+          "grid": false,
+          "labelAlign": "center",
+          "labelBaseline": "top",
+          "labelOverlap": true,
+          "zindex": 0
+        }
+      ]
+    },
+    {
+      "name": "cell",
+      "type": "group",
+      "style": "cell",
+      "from": {
+        "facet": {
+          "name": "facet",
+          "data": "data_0",
+          "groupby": [
+            "year"
+          ]
+        }
+      },
+      "sort": {
+        "field": [
+          "datum[\"year\"]"
+        ],
+        "order": [
+          "ascending"
+        ]
+      },
+      "encode": {
+        "update": {
+          "width": {
+            "signal": "child_width"
+          },
+          "height": {
+            "signal": "child_height"
+          }
+        }
+      },
+      "marks": [
+        {
+          "name": "child_marks",
+          "type": "rect",
+          "style": [
+            "bar"
+          ],
+          "from": {
+            "data": "facet"
+          },
+          "encode": {
+            "update": {
+              "fill": {
+                "scale": "color",
+                "field": "term"
+              },
+              "x": {
+                "scale": "x",
+                "field": "term"
+              },
+              "width": {
+                "scale": "x",
+                "band": true
+              },
+              "y": {
+                "scale": "y",
+                "field": "nltk_word_counts"
+              },
+              "y2": {
+                "scale": "y",
+                "value": 0
+              }
+            }
+          }
+        }
+      ],
+      "axes": [
+        {
+          "scale": "y",
+          "orient": "left",
+          "gridScale": "x",
+          "grid": true,
+          "tickCount": {
+            "signal": "ceil(child_height/40)"
+          },
+          "domain": false,
+          "labels": false,
+          "maxExtent": 0,
+          "minExtent": 0,
+          "ticks": false,
+          "zindex": 0
+        }
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "x",
+      "type": "band",
+      "domain": {
+        "data": "data_0",
+        "field": "term",
+        "sort": true
+      },
+      "range": [
+        0,
+        {
+          "signal": "child_width"
+        }
+      ],
+      "paddingInner": 0.1,
+      "paddingOuter": 0.05
+    },
+    {
+      "name": "y",
+      "type": "linear",
+      "domain": {
+        "data": "data_0",
+        "field": "nltk_word_counts"
+      },
+      "range": [
+        {
+          "signal": "child_height"
+        },
+        0
+      ],
+      "nice": true,
+      "zero": true
+    },
+    {
+      "name": "color",
+      "type": "ordinal",
+      "domain": {
+        "data": "data_0",
+        "field": "term",
+        "sort": true
+      },
+      "range": "ordinal",
+      "interpolate": "hcl"
+    }
+  ],
+  "legends": [
+    {
+      "fill": "color",
+      "gradientLength": {
+        "signal": "clamp(child_height, 64, 200)"
+      },
+      "symbolType": "square",
+      "title": "term"
+    }
+  ],
+  "config": {
+    "background": "white",
+    "axisX": {
+      "labelAngle": 0,
+      "labels": false
+    },
+    "style": {
+      "cell": {
+        "width": 400,
+        "height": 300
+      }
+    }
+  }
+}
