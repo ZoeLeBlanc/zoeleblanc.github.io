@@ -9,4 +9,4 @@ Digital Humanities Postdoc at CDH [https://cdh.princeton.edu/](https://cdh.princ
 (If you're interested in definitions of DH check out [https://whatisdigitalhumanities.com/](https://whatisdigitalhumanities.com/) )  
 
 ---
-![Third World](../../assets/img/thirdworld.jpeg)
+![Third World](images/thirdworld.jpeg)
