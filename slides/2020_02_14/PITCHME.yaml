@@ -1,3 +1,12 @@
 
 theme            : template
 theme-background : [ "#000000" ]
+theme-headline   : [ "Montserrat", "#FBD95E", "none", "#FFFFFF", "100", "120", "15" ]
+theme-byline     : [ "Concert One", "#FFFFFF", "none", "#FBD95E", "100", "100", "0" ]
+theme-text       : [ "Ubuntu", "#FFFFFF", "none", "#A0C865", "100", "100", "15" ]
+theme-links      : [ "#FBD95E", "#5254F7" ]
+theme-code       : [ "Fira Code", "100", "120" ]
+highlight        : ir-black
+theme-controls   : [ "#C0C0C0" ]
+theme-margins    : [ "0", "15px" ]
+layout           : center
