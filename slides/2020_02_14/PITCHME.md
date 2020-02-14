@@ -10,3 +10,5 @@ Digital Humanities Postdoc at CDH [https://cdh.princeton.edu/](https://cdh.princ
 
 ---
 ![Third World](/slides/2020_02_14/images/thirdworld.jpeg)
+
+---
