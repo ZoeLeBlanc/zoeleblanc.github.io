@@ -24,7 +24,7 @@ Digital Humanities Postdoc at CDH [https://cdh.princeton.edu/](https://cdh.princ
 @snapend
 
 @snap[east span-40 text-08]
-![ithaka](/slides/2020_02_14/images/ithaka.jpeg)
+![ithaka](/slides/2020_02_14/images/ithaka.png)
 @snapend
 ---
 ### GENERAL TRENDS
