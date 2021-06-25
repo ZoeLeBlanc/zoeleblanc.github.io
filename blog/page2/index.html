@@ -12,7 +12,7 @@
   <link rel="shortcut icon" href="/assets/img/favicon.ico">
 
   <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="canonical" href="/blog/">
+  <link rel="canonical" href="/blog/page2/">
 </head>
 
   <!-- Load jQuery -->
@@ -150,27 +150,27 @@ ga('send', 'pageview');
 <ul class="post-list">
   
     <li>
-      <h2><a class="post-title" href="/blog/publish-altair/">Guide to Publishing Humanities Data Analysis</a></h2>
-      <p class="post-meta">June 24, 2021</p>
-      <p>Notes for publishing humanities data analysis graphs and some example code</p>
+      <h2><a class="post-title" href="/blog/depictions-of-decolonization-shafr-2017/">Depictions of Decolonization SHAFR 2017</a></h2>
+      <p class="post-meta">June 23, 2017</p>
+      <p>Talk presented on the Doing Digital History panel</p>
     </li>
   
     <li>
-      <h2><a class="post-title" href="/blog/nlp-and-dh/">NLP and DH</a></h2>
-      <p class="post-meta">January 26, 2020</p>
-      <p>Notes and slides for recent talk</p>
+      <h2><a class="post-title" href="/blog/digital-history-workshop/">Digital History Workshop</a></h2>
+      <p class="post-meta">February 12, 2016</p>
+      <p>Blog post about the digital history workshop I organized at Vanderbilt Spring 2016</p>
     </li>
   
     <li>
-      <h2><a class="post-title" href="/blog/generalizing-static-sites/">Generalizing Static Sites</a></h2>
-      <p class="post-meta">November 6, 2019</p>
-      <p>Thinking about static sites beyond individual libraries</p>
+      <h2><a class="post-title" href="/blog/big-data-and-the-cold-war/">Big Data and the Cold War</a></h2>
+      <p class="post-meta">September 14, 2015</p>
+      <p>Blog post about two conferences I attended in fall 2015</p>
     </li>
   
     <li>
-      <h2><a class="post-title" href="/blog/adding-search-to-jekyll-sites-with-lunr/">Adding Search to Jekyll Sites with Lunr</a></h2>
-      <p class="post-meta">November 8, 2017</p>
-      <p>Tutorial about adding Lunr search indexes to Jekyll sites</p>
+      <h2><a class="post-title" href="/blog/starting-fresh/">Starting Fresh</a></h2>
+      <p class="post-meta">September 3, 2015</p>
+      <p></p>
     </li>
   
 </ul>
@@ -179,15 +179,17 @@ ga('send', 'pageview');
 <div class="pagination clearfix mb1 mt4">
   <div class="left">
     
-      <span class="pagination-item disabled">Newer</span>
+      
+        <a class="pagination-item" href="/blog/">Newer</a>
+      
     
   </div>
   <div class="right">
     
-      <a class="pagination-item" href="/blog/page2/">Older</a>
+      <a class="pagination-item" href="/blog/page3/">Older</a>
     
   </div>
-  <div class="pagination-meta">Page 1 of 5</div>
+  <div class="pagination-meta">Page 2 of 5</div>
 </div>
 
 
@@ -210,7 +212,7 @@ ga('send', 'pageview');
   (function () {
     var githubAPI = "https://api.github.com/repos/ZoeLeBlanc/zoeleblanc.github.io/commits";
     $.getJSON(githubAPI, {
-        path: "blog/index.html"
+        path: "blog/page2/index.html"
       })
       .done(function (data) {
         var date = new Date(data[0].commit.author.date);

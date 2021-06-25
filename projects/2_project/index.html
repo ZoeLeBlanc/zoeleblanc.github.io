@@ -6,13 +6,13 @@
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Zoe Genevieve LeBlanc</title>
+  <title>Zoe Genevieve LeBlanc | Image Lucida</title>
   <meta name="description" content="Zoe LeBlanc, Digital Historian.">
 
   <link rel="shortcut icon" href="/assets/img/favicon.ico">
 
   <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="canonical" href="/blog/">
+  <link rel="canonical" href="/projects/2_project/">
 </head>
 
   <!-- Load jQuery -->
@@ -142,55 +142,54 @@ ga('send', 'pageview');
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="header-bar">
-  <h3>Blog 🔮</h3>
-  <h6>Archives mostly about digital experiments & historical research</h6>
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Image Lucida</h1>
+    <h5 class="post-description">Web app for to help create datasets from archival images, 2017-Present</h5>
+  </header>
+
+  <article class="post-content Image Lucida clearfix">
+    <p>I started working on Image Lucida as my final project at the Nashville Software School. The idea for the app was born out of my frustrations trying to digitize archival materials and extract meta-data from them. I’ve been using for a few years a combination of DevonThink and AbbyFinereader, but I really struggled with basic image file managment (my DevonThink projects would get too large to open) and OCRing files without extracting images.</p>
+
+<p>Image Lucida solves these problems and let’s me fully digitize my research workflow.
+First, I can create projects and folders with relevant information about what they contain.</p>
+<div class="img_row">
+    <img class="col three" src="/assets/img/image_lucida_1.png" alt="" title="example image" />
 </div>
-
-<ul class="post-list">
-  
-    <li>
-      <h2><a class="post-title" href="/blog/publish-altair/">Guide to Publishing Humanities Data Analysis</a></h2>
-      <p class="post-meta">June 24, 2021</p>
-      <p>Notes for publishing humanities data analysis graphs and some example code</p>
-    </li>
-  
-    <li>
-      <h2><a class="post-title" href="/blog/nlp-and-dh/">NLP and DH</a></h2>
-      <p class="post-meta">January 26, 2020</p>
-      <p>Notes and slides for recent talk</p>
-    </li>
-  
-    <li>
-      <h2><a class="post-title" href="/blog/generalizing-static-sites/">Generalizing Static Sites</a></h2>
-      <p class="post-meta">November 6, 2019</p>
-      <p>Thinking about static sites beyond individual libraries</p>
-    </li>
-  
-    <li>
-      <h2><a class="post-title" href="/blog/adding-search-to-jekyll-sites-with-lunr/">Adding Search to Jekyll Sites with Lunr</a></h2>
-      <p class="post-meta">November 8, 2017</p>
-      <p>Tutorial about adding Lunr search indexes to Jekyll sites</p>
-    </li>
-  
-</ul>
-
-
-<div class="pagination clearfix mb1 mt4">
-  <div class="left">
-    
-      <span class="pagination-item disabled">Newer</span>
-    
-  </div>
-  <div class="right">
-    
-      <a class="pagination-item" href="/blog/page2/">Older</a>
-    
-  </div>
-  <div class="pagination-meta">Page 1 of 5</div>
+<div class="col three caption">
+    Screenshot of the main projects area
 </div>
+<p>Then, I can upload images to AWS S3 instance, transform the images to fix any skewed perspective, add meta-data, and place them in a folder.</p>
+<div class="img_row">
+    <img class="col three" src="/assets/img/image_lucida_2.png" alt="" title="example image" />
+</div>
+<div class="col three caption">
+    Screenshot of the view folders area, showing each image and it's properties in the folder
+</div>
+<p>Finally, I can process the individual photos using a combination of OCR, manual image segmentation, and automated image segementation. Initially, I had hoped to use just automated image segmentation using a combination of OpenCV and scikit-image, but the newspaper microfilm copies I have were getting really low OCR rates. So now I manually segment the articles out of my newspapers and then process them with Tesseract or Google Vision OCR APIs.</p>
+<div class="img_row">
+    <img class="col three" src="/assets/img/image_lucida_2.png" alt="" title="example image" />
+</div>
+<div class="col three caption">
+    Screenshot of the manual segmentation of a newspaper.
+</div>
+<p>At the end of the process, I now have an archival image that has searchable text, segmented images, and is tagged for later classification.</p>
+
+<p>Image Lucida was initially built in Django, Python, and Angular. I used a dbsqlite and AWS to store everything. The OCR was completed with the Tesseract and Google Vision APIs, and the image segmentation with Pillow, OpenCV, and scikit-image. I’m currently working on deploying the website live on heroku. You can find some of my analysis using Image Lucida in my Depictions of Decolonization project.</p>
+
+<p><a href="https://github.com/ZoeLeBlanc/ImageLucida">Latest updates for Image Lucida</a></p>
+
+<p><img id="project_gif" src="/assets/img/image_lucida.gif" alt="" title="example image" /></p>
 
 
+  </article>
+
+  
+
+  
+
+</div>
 
       </div>
     </div>
@@ -210,7 +209,7 @@ ga('send', 'pageview');
   (function () {
     var githubAPI = "https://api.github.com/repos/ZoeLeBlanc/zoeleblanc.github.io/commits";
     $.getJSON(githubAPI, {
-        path: "blog/index.html"
+        path: "_projects/2_project.markdown"
       })
       .done(function (data) {
         var date = new Date(data[0].commit.author.date);

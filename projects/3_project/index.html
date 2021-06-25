@@ -6,13 +6,13 @@
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Zoe Genevieve LeBlanc</title>
+  <title>Zoe Genevieve LeBlanc | Archivlo</title>
   <meta name="description" content="Zoe LeBlanc, Digital Historian.">
 
   <link rel="shortcut icon" href="/assets/img/favicon.ico">
 
   <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="canonical" href="/blog/">
+  <link rel="canonical" href="/projects/3_project/">
 </head>
 
   <!-- Load jQuery -->
@@ -142,55 +142,44 @@ ga('send', 'pageview');
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="header-bar">
-  <h3>Blog 🔮</h3>
-  <h6>Archives mostly about digital experiments & historical research</h6>
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Archivlo</h1>
+    <h5 class="post-description">Web app to help researchers find and share archival listings, 2016-Present</h5>
+  </header>
+
+  <article class="post-content Archivlo clearfix">
+    <p>Archivlo was a project I started thinking about while spending months doing my archival research. Historians often gush about going to the archives/doing archival research, but to be honest I had a really rough time when I was in the midst of my research.</p>
+
+<iframe src="https://giphy.com/embed/bq6F8QYqBU7Yc" width="100%" height="360" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe>
+<figcaption> Me after traveling to multiple archives and struggling to manage everything I found.</figcaption>
+
+<p>First, I struggled to find some of the archives, and then I really had a hard time estimating the scope of what was in the archive. Maybe this is a skill you develop with experience, but most of the time I had to either restructure my trip or return to the archive, which was fairly expensive either way. I was also really frustrated with how I would find new material, which was trolling through footnotes and bibliographies. Now most historians consider this important work, and I agree. But I also think it come be a lot more efficient and not disadvantage scholars that don’t have the networks to call on when searching for an archive. I started thinking about how archival researchers might work more collaboratively, and at the same time still get credit for their work in the archives.</p>
+
+<iframe src="https://giphy.com/embed/3o85xIO33l7RlmLR4I" width="100%" height="361" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe>
+<p><a href="https://giphy.com/gifs/yosub-girl-taco-why-not-both-3o85xIO33l7RlmLR4I">via GIPHY</a></p>
+
+<p>Thus, Archivlo was born.</p>
+
+<p>The idea at the core of this project is that we can allow researchers to still be idiosyncratic in their archival research workflow, while still adding vast efficiencies about how archival holdings are identified. I’ve built an initial prototype <a href="https://www.archivlo.com/">here</a> that is live and I’ve disabled the authentication so that you can go in and see a bit (fyi: some of the site data structures aren’t loading properly at the moment). The site is built using Angular, Materialize, and Firebase. I also built a webscraper in Python and BeautifulSoup to get all the archives off of the <a href="http://archiveswiki.historians.org/index.php/Main_Page">AHA’s Archives Wiki</a>. I also integrated the Hypothesis API, so you could pull your annotations of archives and research leads.</p>
+
+<p>A poster about Archivlo was accepted for presentation at DH 2017 in Montreal. You can read our abstract which has more details about the project <a href="/assets/docs/ArchivloDigitizingtheArchivalResearchWorkflow.pdf" target="_blank">here</a>.</p>
+
+<p>My next step is to do a significant refactor of the project for the poster. I’ll be building out the backend probably in Python, but I’m trying to push myself and use Elixir, which is a functional programming language that’s great for scaling an app. I’m also leaning towards using GraphQL and Postgres for the database. The idea of using some type of graph database/query language is key, because a lot of the issues of dealing with archives and archival collections is having to sort through confidence intervals about the quality of the results. What I hope to be able to build is a way to have results improve over time through user activity. I also want to help archivists find out which of their collections is getting the most attention, and if that corresponds to their usage stats.</p>
+
+<p>Obviously, I still have a long way to go before I reach all these goals, and I’m currently the only one working on the project which means progress is slow going. But I’m really excited to build my first beta version and start doing some user testing. I’m also very interested in working with others on this project, so please reach out if you have ideas or would like to be part of it.</p>
+
+<p><a href="https://github.com/ZoeLeBlanc/Archivlo">Latest updates for Archivlo</a></p>
+
+
+  </article>
+
+  
+
+  
+
 </div>
-
-<ul class="post-list">
-  
-    <li>
-      <h2><a class="post-title" href="/blog/publish-altair/">Guide to Publishing Humanities Data Analysis</a></h2>
-      <p class="post-meta">June 24, 2021</p>
-      <p>Notes for publishing humanities data analysis graphs and some example code</p>
-    </li>
-  
-    <li>
-      <h2><a class="post-title" href="/blog/nlp-and-dh/">NLP and DH</a></h2>
-      <p class="post-meta">January 26, 2020</p>
-      <p>Notes and slides for recent talk</p>
-    </li>
-  
-    <li>
-      <h2><a class="post-title" href="/blog/generalizing-static-sites/">Generalizing Static Sites</a></h2>
-      <p class="post-meta">November 6, 2019</p>
-      <p>Thinking about static sites beyond individual libraries</p>
-    </li>
-  
-    <li>
-      <h2><a class="post-title" href="/blog/adding-search-to-jekyll-sites-with-lunr/">Adding Search to Jekyll Sites with Lunr</a></h2>
-      <p class="post-meta">November 8, 2017</p>
-      <p>Tutorial about adding Lunr search indexes to Jekyll sites</p>
-    </li>
-  
-</ul>
-
-
-<div class="pagination clearfix mb1 mt4">
-  <div class="left">
-    
-      <span class="pagination-item disabled">Newer</span>
-    
-  </div>
-  <div class="right">
-    
-      <a class="pagination-item" href="/blog/page2/">Older</a>
-    
-  </div>
-  <div class="pagination-meta">Page 1 of 5</div>
-</div>
-
-
 
       </div>
     </div>
@@ -210,7 +199,7 @@ ga('send', 'pageview');
   (function () {
     var githubAPI = "https://api.github.com/repos/ZoeLeBlanc/zoeleblanc.github.io/commits";
     $.getJSON(githubAPI, {
-        path: "blog/index.html"
+        path: "_projects/3_project.markdown"
       })
       .done(function (data) {
         var date = new Date(data[0].commit.author.date);

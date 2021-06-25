@@ -6,13 +6,13 @@
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Zoe Genevieve LeBlanc</title>
+  <title>Zoe Genevieve LeBlanc | Dispatches from Cairo</title>
   <meta name="description" content="Zoe LeBlanc, Digital Historian.">
 
   <link rel="shortcut icon" href="/assets/img/favicon.ico">
 
   <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="canonical" href="/blog/">
+  <link rel="canonical" href="/projects/4_project/">
 </head>
 
   <!-- Load jQuery -->
@@ -142,55 +142,35 @@ ga('send', 'pageview');
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="header-bar">
-  <h3>Blog 🔮</h3>
-  <h6>Archives mostly about digital experiments & historical research</h6>
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Dispatches from Cairo</h1>
+    <h5 class="post-description">Text analysis project of American and British diplomatic cables from Cairo, 1955-1965, 2016-Present</h5>
+  </header>
+
+  <article class="post-content Dispatches from Cairo clearfix">
+    <p>This project was my first foray into using digital history methods in my research. Prior to this project, I had mostly been interested in digital pedagogy, but after some encouragement from Micki Kaufman (whose work is amazing and if you’re not familiar with it, check out her project <a href="http://blog.quantifyingkissinger.com/">Quantifying Kissinger</a>) I decided to delve into some text analysis methods.</p>
+
+<p>I initially started with just organizing my materials, which you can see here.</p>
+
+<iframe id="google_docs_chart" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1x13ki4al659DjfR1fkb80xX-OuXX-rKqo9TZagRuQdM/pubchart?oid=219032079&amp;format=interactive"></iframe>
+
+<p>Then I used a combination of David McClure’s Textplot, Voyant’s Principal Components Analysis, AntConc, Mallet, and OverviewDocs to explore how words in the documents clustered and co-located.</p>
+
+<p>At the Society for Historians of American Foreign Relations Conference in 2015, I presented some early findings, and talked about how this helped me identify anti-colonial meanings in my sources.</p>
+
+<p>After the conference, I set up a website for the project, and you can read more <a href="http://zoeleblanc.com/dispatchesfromcairo/">here</a>.</p>
+
+<p>I plan to continue analyzing these materials and updating my findings, as well as delving into statistics to further refine the models I’m using on my textual sources.</p>
+
+  </article>
+
+  
+
+  
+
 </div>
-
-<ul class="post-list">
-  
-    <li>
-      <h2><a class="post-title" href="/blog/publish-altair/">Guide to Publishing Humanities Data Analysis</a></h2>
-      <p class="post-meta">June 24, 2021</p>
-      <p>Notes for publishing humanities data analysis graphs and some example code</p>
-    </li>
-  
-    <li>
-      <h2><a class="post-title" href="/blog/nlp-and-dh/">NLP and DH</a></h2>
-      <p class="post-meta">January 26, 2020</p>
-      <p>Notes and slides for recent talk</p>
-    </li>
-  
-    <li>
-      <h2><a class="post-title" href="/blog/generalizing-static-sites/">Generalizing Static Sites</a></h2>
-      <p class="post-meta">November 6, 2019</p>
-      <p>Thinking about static sites beyond individual libraries</p>
-    </li>
-  
-    <li>
-      <h2><a class="post-title" href="/blog/adding-search-to-jekyll-sites-with-lunr/">Adding Search to Jekyll Sites with Lunr</a></h2>
-      <p class="post-meta">November 8, 2017</p>
-      <p>Tutorial about adding Lunr search indexes to Jekyll sites</p>
-    </li>
-  
-</ul>
-
-
-<div class="pagination clearfix mb1 mt4">
-  <div class="left">
-    
-      <span class="pagination-item disabled">Newer</span>
-    
-  </div>
-  <div class="right">
-    
-      <a class="pagination-item" href="/blog/page2/">Older</a>
-    
-  </div>
-  <div class="pagination-meta">Page 1 of 5</div>
-</div>
-
-
 
       </div>
     </div>
@@ -210,7 +190,7 @@ ga('send', 'pageview');
   (function () {
     var githubAPI = "https://api.github.com/repos/ZoeLeBlanc/zoeleblanc.github.io/commits";
     $.getJSON(githubAPI, {
-        path: "blog/index.html"
+        path: "_projects/4_project.markdown"
       })
       .done(function (data) {
         var date = new Date(data[0].commit.author.date);

@@ -6,13 +6,13 @@
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Zoe Genevieve LeBlanc</title>
+  <title>Zoe Genevieve LeBlanc | VIDL Intro Piece</title>
   <meta name="description" content="Zoe LeBlanc, Digital Historian.">
 
   <link rel="shortcut icon" href="/assets/img/favicon.ico">
 
   <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="canonical" href="/blog/">
+  <link rel="canonical" href="/blog/vidl-intro-piece/">
 </head>
 
   <!-- Load jQuery -->
@@ -142,55 +142,26 @@ ga('send', 'pageview');
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="header-bar">
-  <h3>Blog 🔮</h3>
-  <h6>Archives mostly about digital experiments & historical research</h6>
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">VIDL Intro Piece</h1>
+    <p class="post-meta">September 2, 2014</p>
+  </header>
+
+  <article class="post-content">
+    <p>Check out my <a href="https://my.vanderbilt.edu/vidl/2014/09/zoe-leblanc-vidl-graduate-fellow-introductory-post">latest post</a> for the Vanderbilt Institute for Digital Learning. This post was a bit tricky to write and it might be a bit tricky to read as it is more of a conceptual road map then an intro about me or my work. Nonetheless, hope you enjoy!</p>
+
+<blockquote>
+  <p>Here’s a brief excerpt:
+In 2007, Haruki Murakami, the great Japanese novelist, published my favorite type of book – the ones where writers talk about writing. The book, entitled What I Talk About When I Talk About Running, is a great read, full of philosophical musings; life lessons; and some really great quotes. My favorite is perhaps the most famous line from the book: “Pain is inevitable. Suffering is optional.”While Murakami was writing primarily about marathon running and the endurance needed to be a writer, I apply this same wisdom to my thoughts on digital learning.</p>
+</blockquote>
+
+  </article>
+
+  
+
 </div>
-
-<ul class="post-list">
-  
-    <li>
-      <h2><a class="post-title" href="/blog/publish-altair/">Guide to Publishing Humanities Data Analysis</a></h2>
-      <p class="post-meta">June 24, 2021</p>
-      <p>Notes for publishing humanities data analysis graphs and some example code</p>
-    </li>
-  
-    <li>
-      <h2><a class="post-title" href="/blog/nlp-and-dh/">NLP and DH</a></h2>
-      <p class="post-meta">January 26, 2020</p>
-      <p>Notes and slides for recent talk</p>
-    </li>
-  
-    <li>
-      <h2><a class="post-title" href="/blog/generalizing-static-sites/">Generalizing Static Sites</a></h2>
-      <p class="post-meta">November 6, 2019</p>
-      <p>Thinking about static sites beyond individual libraries</p>
-    </li>
-  
-    <li>
-      <h2><a class="post-title" href="/blog/adding-search-to-jekyll-sites-with-lunr/">Adding Search to Jekyll Sites with Lunr</a></h2>
-      <p class="post-meta">November 8, 2017</p>
-      <p>Tutorial about adding Lunr search indexes to Jekyll sites</p>
-    </li>
-  
-</ul>
-
-
-<div class="pagination clearfix mb1 mt4">
-  <div class="left">
-    
-      <span class="pagination-item disabled">Newer</span>
-    
-  </div>
-  <div class="right">
-    
-      <a class="pagination-item" href="/blog/page2/">Older</a>
-    
-  </div>
-  <div class="pagination-meta">Page 1 of 5</div>
-</div>
-
-
 
       </div>
     </div>
@@ -210,7 +181,7 @@ ga('send', 'pageview');
   (function () {
     var githubAPI = "https://api.github.com/repos/ZoeLeBlanc/zoeleblanc.github.io/commits";
     $.getJSON(githubAPI, {
-        path: "blog/index.html"
+        path: "_posts/2014-09-02-vidl-intro-piece.markdown"
       })
       .done(function (data) {
         var date = new Date(data[0].commit.author.date);

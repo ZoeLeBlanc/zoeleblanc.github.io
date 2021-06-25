@@ -12,7 +12,7 @@
   <link rel="shortcut icon" href="/assets/img/favicon.ico">
 
   <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="canonical" href="/blog/">
+  <link rel="canonical" href="/slides/2020_02_14/PITCHME/">
 </head>
 
   <!-- Load jQuery -->
@@ -142,55 +142,94 @@ ga('send', 'pageview');
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="header-bar">
-  <h3>Blog 🔮</h3>
-  <h6>Archives mostly about digital experiments & historical research</h6>
-</div>
+        <div class="post">
 
-<ul class="post-list">
-  
-    <li>
-      <h2><a class="post-title" href="/blog/publish-altair/">Guide to Publishing Humanities Data Analysis</a></h2>
-      <p class="post-meta">June 24, 2021</p>
-      <p>Notes for publishing humanities data analysis graphs and some example code</p>
-    </li>
-  
-    <li>
-      <h2><a class="post-title" href="/blog/nlp-and-dh/">NLP and DH</a></h2>
-      <p class="post-meta">January 26, 2020</p>
-      <p>Notes and slides for recent talk</p>
-    </li>
-  
-    <li>
-      <h2><a class="post-title" href="/blog/generalizing-static-sites/">Generalizing Static Sites</a></h2>
-      <p class="post-meta">November 6, 2019</p>
-      <p>Thinking about static sites beyond individual libraries</p>
-    </li>
-  
-    <li>
-      <h2><a class="post-title" href="/blog/adding-search-to-jekyll-sites-with-lunr/">Adding Search to Jekyll Sites with Lunr</a></h2>
-      <p class="post-meta">November 8, 2017</p>
-      <p>Tutorial about adding Lunr search indexes to Jekyll sites</p>
-    </li>
-  
+  <header class="post-header">
+    <h1 class="post-title"></h1>
+    <h5 class="post-description"></h5>
+  </header>
+
+  <article class="post-content  clearfix">
+    <p>@title[Building DH Tools]</p>
+
+<p>Dr. Zoe LeBlanc (zleblanc@princeton.edu)
+Digital Humanities Postdoc at CDH <a href="https://cdh.princeton.edu/">https://cdh.princeton.edu/</a></p>
+
+<ul>
+  <li>A bit about my research</li>
+  <li>A bit about future trends in DH</li>
 </ul>
 
+<p>(If you’re interested in definitions of DH check out <a href="https://whatisdigitalhumanities.com/">https://whatisdigitalhumanities.com/</a> )</p>
 
-<div class="pagination clearfix mb1 mt4">
-  <div class="left">
-    
-      <span class="pagination-item disabled">Newer</span>
-    
-  </div>
-  <div class="right">
-    
-      <a class="pagination-item" href="/blog/page2/">Older</a>
-    
-  </div>
-  <div class="pagination-meta">Page 1 of 5</div>
+<hr />
+<p><img src="/slides/2020_02_14/images/thirdworld.jpeg" alt="Third World" /></p>
+
+<hr />
+<p><img src="/slides/2020_02_14/images/graph.jpeg" alt="graph" />
+—
+<img src="/slides/2020_02_14/images/extract_data.jpeg" alt="extract_data" /></p>
+
+<hr />
+<p>@snap[west span-40 -center]
+<img src="https://digitalhumanities.duke.edu/sites/digitalhumanities.duke.edu/files/neatline.jpg" alt="neatline" />
+@snapend</p>
+
+<p>@snap[east span-40 text-08]
+<img src="/slides/2020_02_14/images/ithaka.png" alt="ithaka" />
+@snapend
+—</p>
+<h3 id="general-trends">GENERAL TRENDS</h3>
+
+<ol>
+  <li>Moving away from standalone tools (difficult to support long term)</li>
+  <li>Rise of bespoke data projects</li>
+  <li>More and more sharing code libraries</li>
+</ol>
+
+<hr />
+<h3 id="ocr-and-multilingual-dh">OCR and MULTILINGUAL DH</h3>
+
+<ol>
+  <li><a href="https://github.com/dasmiq/passim">Passim</a></li>
+  <li><a href="http://kitab-project.org/">Kitab Project</a></li>
+  <li><a href="https://viraltexts.org/">Viral Texts</a> and <a href="https://oceanicexchanges.org/">Oceanic Exchanges</a></li>
+  <li><a href="https://multilingualdh.org/en/">Multilingual DH Group</a></li>
+</ol>
+
+<hr />
+<h3 id="collections-as-data">COLLECTIONS AS DATA</h3>
+
+<ol>
+  <li><a href="https://dhlab.yale.edu/projects/pixplot/">PixPlot</a></li>
+  <li><a href="https://labs.loc.gov/experiments/newspaper-navigator/?loclr=twndi">Chronicling America Newspaper Navigator</a></li>
+  <li><a href="https://distantviewing.org/">Distant Viewing Toolkit</a></li>
+  <li><a href="https://collectionsasdata.github.io/">Collections As Data</a></li>
+</ol>
+
+<hr />
+<h3 id="data-storytelling">DATA STORYTELLING</h3>
+
+<ol>
+  <li><a href="https://pudding.cool/">Pudding Data Journalism</a></li>
+  <li><a href="https://crdh.rrchnm.org/">Current Research in Digital History Journal</a></li>
+</ol>
+
+<hr />
+<h3 id="cultural-analytics">CULTURAL ANALYTICS</h3>
+
+<ol>
+  <li><a href="http://benschmidt.org/publication/schmidt_stable_2018-1/">Stable Random Projection: Lightweight, General-Purpose Dimensionality Reduction for Digitized Libraries</a></li>
+  <li><a href="https://culturalanalytics.org/article/11652-fleshing-out-models-of-gender-in-english-language-novels-1850-2000">Fleshing Out Models of Gender in English-Language Novels (1850 – 2000)</a></li>
+</ol>
+
+  </article>
+
+  
+
+  
+
 </div>
-
-
 
       </div>
     </div>
@@ -210,7 +249,7 @@ ga('send', 'pageview');
   (function () {
     var githubAPI = "https://api.github.com/repos/ZoeLeBlanc/zoeleblanc.github.io/commits";
     $.getJSON(githubAPI, {
-        path: "blog/index.html"
+        path: "slides/2020_02_14/PITCHME.md"
       })
       .done(function (data) {
         var date = new Date(data[0].commit.author.date);

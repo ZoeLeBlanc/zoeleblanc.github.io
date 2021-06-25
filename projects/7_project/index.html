@@ -6,13 +6,13 @@
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Zoe Genevieve LeBlanc</title>
+  <title>Zoe Genevieve LeBlanc | Coding Projects</title>
   <meta name="description" content="Zoe LeBlanc, Digital Historian.">
 
   <link rel="shortcut icon" href="/assets/img/favicon.ico">
 
   <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="canonical" href="/blog/">
+  <link rel="canonical" href="/projects/7_project/">
 </head>
 
   <!-- Load jQuery -->
@@ -142,55 +142,57 @@ ga('send', 'pageview');
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="header-bar">
-  <h3>Blog 🔮</h3>
-  <h6>Archives mostly about digital experiments & historical research</h6>
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Coding Projects</h1>
+    <h5 class="post-description">Smaller code projects, 2016 - Present</h5>
+  </header>
+
+  <article class="post-content Coding Projects clearfix">
+    <p>These are a selection of programming projects I built while at the Nashville Software School. If you want to see more of my code, check out my <a href="https://github.com/ZoeLeBlanc">Github Profile</a></p>
+
+<hr />
+<p>Harry Potter Game</p>
+
+<p><img src="/assets/img/harrypotter1.png" id="project_img" /></p>
+
+<p>Game built using prototypal inheritance in Javascript and JQuery with Grunt and Browersify. Convinced my teammates to make it Harry Potter theme after I got a hedgehog as my patronus on Pottermore.
+<img src="/assets/img/harrypotter2.png" id="project_img" />
+Users get sorted into Hogwart Houses and can select a patronus.</p>
+
+<p><img src="/assets/img/harrypotter3.png" id="project_img" />
+They then can battle Voldemort and the Death Eaters, using spells and getting help from magical friends.</p>
+
+<p>You can play the game <a href="http://zoeleblanc.com/hogwarts-game/">here</a> or check out the github repo <a href="https://github.com/ZoeLeBlanc/hogwarts-game">here</a></p>
+
+<hr />
+<p>Freddy VS JSON</p>
+
+<p><img src="/assets/img/freddy_v_json.gif" id="project_img" /></p>
+
+<p>A movie rating and saving app built in Javascript and JQuery with Materialize. You can search for movies using the OMDB API, and save them and rate them.</p>
+
+<p>You can create an account and try it out <a href="https://freddy-vs-json.firebaseapp.com/">here</a>, or view the github repo <a href="https://github.com/ZoeLeBlanc/movie-history-freddie-vs-json">here</a>.</p>
+
+<hr />
+<p>NSS Cohort 16 Website</p>
+
+<p><img src="/assets/img/cohort16pro.png" id="project_img" /></p>
+
+<p>Built the majority of my cohort’s website in Javascript, JQuery, Materialize, and Grunt. Came up with the theme of having a professional version and then switching to Sweet 16 Party mode on a button click.</p>
+
+<p><img src="/assets/img/cohort16party.png" id="project_img" /></p>
+
+<p>You can try it out <a href="http://www.cohort16.com/">here</a> or view the github repo <a href="https://github.com/ZoeLeBlanc/cohort-16-website">here</a></p>
+
+  </article>
+
+  
+
+  
+
 </div>
-
-<ul class="post-list">
-  
-    <li>
-      <h2><a class="post-title" href="/blog/publish-altair/">Guide to Publishing Humanities Data Analysis</a></h2>
-      <p class="post-meta">June 24, 2021</p>
-      <p>Notes for publishing humanities data analysis graphs and some example code</p>
-    </li>
-  
-    <li>
-      <h2><a class="post-title" href="/blog/nlp-and-dh/">NLP and DH</a></h2>
-      <p class="post-meta">January 26, 2020</p>
-      <p>Notes and slides for recent talk</p>
-    </li>
-  
-    <li>
-      <h2><a class="post-title" href="/blog/generalizing-static-sites/">Generalizing Static Sites</a></h2>
-      <p class="post-meta">November 6, 2019</p>
-      <p>Thinking about static sites beyond individual libraries</p>
-    </li>
-  
-    <li>
-      <h2><a class="post-title" href="/blog/adding-search-to-jekyll-sites-with-lunr/">Adding Search to Jekyll Sites with Lunr</a></h2>
-      <p class="post-meta">November 8, 2017</p>
-      <p>Tutorial about adding Lunr search indexes to Jekyll sites</p>
-    </li>
-  
-</ul>
-
-
-<div class="pagination clearfix mb1 mt4">
-  <div class="left">
-    
-      <span class="pagination-item disabled">Newer</span>
-    
-  </div>
-  <div class="right">
-    
-      <a class="pagination-item" href="/blog/page2/">Older</a>
-    
-  </div>
-  <div class="pagination-meta">Page 1 of 5</div>
-</div>
-
-
 
       </div>
     </div>
@@ -210,7 +212,7 @@ ga('send', 'pageview');
   (function () {
     var githubAPI = "https://api.github.com/repos/ZoeLeBlanc/zoeleblanc.github.io/commits";
     $.getJSON(githubAPI, {
-        path: "blog/index.html"
+        path: "_projects/7_project.markdown"
       })
       .done(function (data) {
         var date = new Date(data[0].commit.author.date);

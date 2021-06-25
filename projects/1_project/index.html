@@ -6,13 +6,13 @@
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Zoe Genevieve LeBlanc</title>
+  <title>Zoe Genevieve LeBlanc | Constructing Anti-Colonial Cairo</title>
   <meta name="description" content="Zoe LeBlanc, Digital Historian.">
 
   <link rel="shortcut icon" href="/assets/img/favicon.ico">
 
   <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="canonical" href="/blog/">
+  <link rel="canonical" href="/projects/1_project/">
 </head>
 
   <!-- Load jQuery -->
@@ -142,55 +142,30 @@ ga('send', 'pageview');
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="header-bar">
-  <h3>Blog 🔮</h3>
-  <h6>Archives mostly about digital experiments & historical research</h6>
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Constructing Anti-Colonial Cairo</h1>
+    <h5 class="post-description">Dissertation research 2014-Present</h5>
+  </header>
+
+  <article class="post-content Constructing Anti-Colonial Cairo clearfix">
+    <p>My dissertation, Constructing Anti-Colonial Cairo, explores Cairo as a political and media hub for global anti-colonial movements. Using various digital history methods, I analyze Egyptian print media, diplomatic cables for foreign embassies in Cairo, and print media from other anti-colonial capitals to explore both the shifting meanings of anti-colonialism in Cairo and Cairo’s influence in the broader anti-colonial world.</p>
+
+<p>Ultimately, I’m interested in exploring two threads. First, I trace shifting conceptions of the world order that was tied to discourses of anti-colonialism in Cairo, specifically examining the transformation from political to economic rationales. Second, I explore the relationship(s) between states, liberation movements, and the press - specifically the role of censorship in promoting revolutionary politics.</p>
+
+<p>I have presented my research at the Society for Historians of American Foreign Relations, the American Historical Association Conference, the International Decolonization Seminar, and the European Cold War Summer School.</p>
+
+<p>My dissertation committee is comprised of Thomas Schwartz, Paul Kramer, Leor Halevi, and Madeline Casad.</p>
+
+
+  </article>
+
+  
+
+  
+
 </div>
-
-<ul class="post-list">
-  
-    <li>
-      <h2><a class="post-title" href="/blog/publish-altair/">Guide to Publishing Humanities Data Analysis</a></h2>
-      <p class="post-meta">June 24, 2021</p>
-      <p>Notes for publishing humanities data analysis graphs and some example code</p>
-    </li>
-  
-    <li>
-      <h2><a class="post-title" href="/blog/nlp-and-dh/">NLP and DH</a></h2>
-      <p class="post-meta">January 26, 2020</p>
-      <p>Notes and slides for recent talk</p>
-    </li>
-  
-    <li>
-      <h2><a class="post-title" href="/blog/generalizing-static-sites/">Generalizing Static Sites</a></h2>
-      <p class="post-meta">November 6, 2019</p>
-      <p>Thinking about static sites beyond individual libraries</p>
-    </li>
-  
-    <li>
-      <h2><a class="post-title" href="/blog/adding-search-to-jekyll-sites-with-lunr/">Adding Search to Jekyll Sites with Lunr</a></h2>
-      <p class="post-meta">November 8, 2017</p>
-      <p>Tutorial about adding Lunr search indexes to Jekyll sites</p>
-    </li>
-  
-</ul>
-
-
-<div class="pagination clearfix mb1 mt4">
-  <div class="left">
-    
-      <span class="pagination-item disabled">Newer</span>
-    
-  </div>
-  <div class="right">
-    
-      <a class="pagination-item" href="/blog/page2/">Older</a>
-    
-  </div>
-  <div class="pagination-meta">Page 1 of 5</div>
-</div>
-
-
 
       </div>
     </div>
@@ -210,7 +185,7 @@ ga('send', 'pageview');
   (function () {
     var githubAPI = "https://api.github.com/repos/ZoeLeBlanc/zoeleblanc.github.io/commits";
     $.getJSON(githubAPI, {
-        path: "blog/index.html"
+        path: "_projects/1_project.markdown"
       })
       .done(function (data) {
         var date = new Date(data[0].commit.author.date);
