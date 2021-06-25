@@ -7,7 +7,7 @@ var colors = {
 }
 d3.json('/features_nam_congo.json', function (data) {
     // data = data.slice(0, 2000);
-    data = data.filter( d => d.color == 'Congo Only');
+    // data = data.filter( d => d.color == 'Congo Only');
     var margin = {
             top: 20,
             right: 20,
