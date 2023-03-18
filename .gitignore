@@ -8,4 +8,8 @@ _site
 .tweet-cache
 Gemfile.lock
 vendor
-
+lib/node_modules/
+lib/bower_components/
+lib/.sass_cache
+_drafts/
+node_modules/

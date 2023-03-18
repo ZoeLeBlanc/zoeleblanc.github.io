@@ -1,0 +1,91 @@
+
+.project {
+    box-sizing: border-box;
+    float: left;
+    height: 250px;
+    padding: 10px;
+    vertical-align: middle;
+    @include media-query($on-laptop) {
+        width: 33.33%;
+    }
+    // @include media-query($on-palm) {
+    //     width: 100%;
+    // }
+
+    .thumbnail {
+        overflow: hidden;
+        height: 200px;
+        width: 100%;
+
+        img {
+            height: auto;
+            position: relative;
+                left: -25%;
+                top: -5%;
+            width: 500px;
+        }
+
+        a {
+            float: left;
+            height: 230px;
+            position: relative;
+            width: 100%;
+
+            span {
+                display: none;
+                position: absolute;
+                top: 0;
+                left: 0;
+                bottom: 0;
+                right: 0;
+                background: rgba(0,0,0,0.4);
+                color: $grey-color-light;
+                padding: 40px;
+                text-align: center;
+
+                h1 {
+                    font-size: 1rem;
+                    margin: 0;
+                }
+
+                p {
+                    color: $grey-color-light;
+                    font-size: 0.8rem;
+                }
+            }
+
+            &:hover {
+                span {
+                    display: block;
+                }
+            }
+        }
+    }
+}
+#networks-graph {
+   @include media-query($on-laptop) {
+        width: 800px;
+        height: 700px;
+        display: block;
+    }
+    @include media-query($on-palm) {
+        display: none;
+    }
+}
+#project_gif {
+    @include media-query($on-palm) {
+        max-width: 100%;
+    }
+}
+#project_img {
+    max-width: 100%;
+}
+#google_docs_chart {
+    @include media-query($on-laptop) {
+        width: 783.9181042837758px;
+        height: 265.3779180726275px;
+    }
+    @include media-query($on-palm) {
+        width: 100%;
+    }
+}

@@ -2,24 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Digital History ✨ Histories of Information & Liberation ✨ Data Narratives & Computational Methods
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: #
+
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Hi! I'm Zoe.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m currently an Assistant Professor in the School of Information Sciences at the University of Illinois Urbana-Champaign. My research sits at the intersection of histories of information and digital humanities. In my scholarship and teaching, I explore how, through the lens of information, knowledge and power have been produced over time (especially in relation to liberation politics), and connect this perspective to contemporary debates over data and society, as well as the use (and misuse) of digital methods in the humanities. I am particularly interested in weaving together critical and historical analysis of our digital moment, along with experimenting and developing the future of knowledge production. To put it succinctly, I am fascinated with the questions of how does information organize our world, and how can we build this to be more equitable and liberatory in the future.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I was the Postdoctoral Associate and Weld Fellow at the Center for Digital Humanities at Princeton University. I also received my Ph.D. in History at Vanderbilt University in August 2019 and was a Digital Humanities Developer at the Scholars' Lab, University of Virginia, where I was responsible for building web applications for mapping and data visualization in the humanities.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently working on a number of digital projects and publications, and am happy to discuss these or potential collaborations.
+
+Hope you say hi back 👋🏽!
