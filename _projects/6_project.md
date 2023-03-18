@@ -1,80 +1,26 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: Futures of Networks Visualization
+description: Project exploring future of networks visualization and 3D interactivity, 2017-Present
+img: /assets/img/box9.jpg
 importance: 4
 category: fun
+status: completed
+timespan: 2018-2019
+categories: [fun, interesting, cool]
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project is based on research for Futures of Networks Visualization panel at DH2017. This panel is essentially full of DH superstars and me, so needless to say I'm equal parts excited and nervous. I'm honestly just curious to hear what the other panelists have to say, but I'm also interesting in exploring using network visualizations that are interactive as a way to gather data and reinterpret results. This idea developed from my use of networks to visualize text analysis and my desire to use those visualizations as a starting point rather than a final product of my research. You can read my contribution to our panel proposal below, and see an example of my data in a Plotly graph. I'm trying to push up [my experiments to Github](https://github.com/ZoeLeBlanc/networks), and if you have any research leads please feel free to contact me.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+****
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+### Networks and Interactivity
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+How could new dynamic interactions with network visualization help us better understand and explore our data? With the rise of data journalism and in-browser apps, network visualizations are increasingly interactive, using animations and dynamic features to visualize additional dimensions. Such interactivity can help further an argument, and encourage the user to engage with the data. But, how sustainable and accessible are these visualizations? The long-term viability of these network visualizations depends on continued support, from updating code libraries to adapting to new browser requirements. Moreover, interactivity can be too demanding for slow internet connections, while also complicating workflows for both print and online publication. Added interactivity may also foreground style over substantive engagement with research questions.
+
+What is the relationship of these interactive graphs to their textual explications? How can we design interactive visualizations for multiple modalities and bandwidths?  How can digital humanists determine when interactivity is furthering their network analysis? How might  interactive network analysis leverage the insights of social annotation tools to analyze metadata on users’ interactions with network visualizations, or utilize more immersive digital experiences, such as virtual or augmented reality?
+
+****
+<div>
+<iframe id="networks-graph" frameborder="1" scrolling="yes" src="//plot.ly/~zgleblanc/5.embed"></iframe>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}

@@ -15,6 +15,27 @@
         <div class="card-body">
           <h2 class="card-title text-lowercase">{{ project.title }}</h2>
           <p class="card-text">{{ project.description }}</p>
+          <hr class="hr" />
+          <ul class="list-unstyled">
+            {%- if project.status %}
+            <li class="mb-1"><i class="far fa-star"></i> Status: {{ project.status }}</li>
+            {%- endif %}
+            {%- if project.timespan %}
+            <li class="mb-1"><i class="far fa-clock me-2 text-info"></i> Timespan: {{ project.timespan }}</li>
+            {%- endif %}
+
+          </ul>
+          <h6>Research Areas</h6>
+            
+          <div class="row ml-1 mr-1 p-0">
+            {%- if project.categories %}
+            {%- for category in project.categories %}
+            <div class="p-1">
+              <span class="badge rounded-pill badge-light" style="background-color: #ba1db11f;">{{ category }}</span>
+            </div>
+            {%- endfor %}
+            {%- endif %}
+          </div>
           <div class="row ml-1 mr-1 p-0">
             {%- if project.github -%}
             <div class="github-icon">

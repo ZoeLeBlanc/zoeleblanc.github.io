@@ -1,80 +1,24 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Dispatches from Cairo
+description: Text analysis project of American and British diplomatic cables from Cairo, 1955-1965, 2016-Present
+img: /assets/img/sergey-zolkin-403.jpg
 importance: 3
 category: fun
+status: ongoing
+timespan: 2021-present
+categories: [fun, interesting, cool]
 ---
+This project was my first foray into using digital history methods in my research. Prior to this project, I had mostly been interested in digital pedagogy, but after some encouragement from Micki Kaufman (whose work is amazing and if you're not familiar with it, check out her project [Quantifying Kissinger](http://blog.quantifyingkissinger.com/)) I decided to delve into some text analysis methods.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I initially started with just organizing my materials, which you can see here.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<iframe id="google_docs_chart" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1x13ki4al659DjfR1fkb80xX-OuXX-rKqo9TZagRuQdM/pubchart?oid=219032079&amp;format=interactive"></iframe>
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Then I used a combination of David McClure's Textplot, Voyant's Principal Components Analysis, AntConc, Mallet, and OverviewDocs to explore how words in the documents clustered and co-located.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+At the Society for Historians of American Foreign Relations Conference in 2015, I presented some early findings, and talked about how this helped me identify anti-colonial meanings in my sources.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+After the conference, I set up a website for the project, and you can read more [here](http://zoeleblanc.com/dispatchesfromcairo/).
 
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+I plan to continue analyzing these materials and updating my findings, as well as delving into statistics to further refine the models I'm using on my textual sources.

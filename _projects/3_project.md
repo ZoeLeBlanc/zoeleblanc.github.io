@@ -1,81 +1,32 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Archivlo
+description: Web app to help researchers find and share archival listings, 2016-Present
+img: /assets/img/9.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work
+status: completed
+timespan: 2018-2019
+categories: [fun, interesting, cool]
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Archivlo was a project I started thinking about while spending months doing my archival research. Historians often gush about going to the archives/doing archival research, but to be honest I had a really rough time when I was in the midst of my research.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<iframe src="https://giphy.com/embed/bq6F8QYqBU7Yc" width="100%" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><figcaption> Me after traveling to multiple archives and struggling to manage everything I found.</figcaption>
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+First, I struggled to find some of the archives, and then I really had a hard time estimating the scope of what was in the archive. Maybe this is a skill you develop with experience, but most of the time I had to either restructure my trip or return to the archive, which was fairly expensive either way. I was also really frustrated with how I would find new material, which was trolling through footnotes and bibliographies. Now most historians consider this important work, and I agree. But I also think it come be a lot more efficient and not disadvantage scholars that don't have the networks to call on when searching for an archive. I started thinking about how archival researchers might work more collaboratively, and at the same time still get credit for their work in the archives.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+<iframe src="https://giphy.com/embed/3o85xIO33l7RlmLR4I" width="100%" height="361" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/yosub-girl-taco-why-not-both-3o85xIO33l7RlmLR4I">via GIPHY</a></p>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+Thus, Archivlo was born.
 
+The idea at the core of this project is that we can allow researchers to still be idiosyncratic in their archival research workflow, while still adding vast efficiencies about how archival holdings are identified. I've built an initial prototype [here](https://www.archivlo.com/) that is live and I've disabled the authentication so that you can go in and see a bit (fyi: some of the site data structures aren't loading properly at the moment). The site is built using Angular, Materialize, and Firebase. I also built a webscraper in Python and BeautifulSoup to get all the archives off of the [AHA's Archives Wiki](http://archiveswiki.historians.org/index.php/Main_Page). I also integrated the Hypothesis API, so you could pull your annotations of archives and research leads.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+A poster about Archivlo was accepted for presentation at DH 2017 in Montreal. You can read our abstract which has more details about the project <a href="{{site.baseurl}}/assets/docs/ArchivloDigitizingtheArchivalResearchWorkflow.pdf" target="_blank">here</a>.
 
+My next step is to do a significant refactor of the project for the poster. I'll be building out the backend probably in Python, but I'm trying to push myself and use Elixir, which is a functional programming language that's great for scaling an app. I'm also leaning towards using GraphQL and Postgres for the database. The idea of using some type of graph database/query language is key, because a lot of the issues of dealing with archives and archival collections is having to sort through confidence intervals about the quality of the results. What I hope to be able to build is a way to have results improve over time through user activity. I also want to help archivists find out which of their collections is getting the most attention, and if that corresponds to their usage stats.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Obviously, I still have a long way to go before I reach all these goals, and I'm currently the only one working on the project which means progress is slow going. But I'm really excited to build my first beta version and start doing some user testing. I'm also very interested in working with others on this project, so please reach out if you have ideas or would like to be part of it.
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+[Latest updates for Archivlo](https://github.com/ZoeLeBlanc/Archivlo)

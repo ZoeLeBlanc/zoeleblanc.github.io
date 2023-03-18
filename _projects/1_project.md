@@ -1,80 +1,23 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Constructing Anti-Colonial Cairo
+description: Dissertation research 2014-Present
+img: assets/img/12.jpg #/assets/img/cairo_nile.jpg
+display: True
 importance: 1
+categories: [Dissertation, Digital History, Anti-Colonialism]
+year_start: 2014
+year_end: 2019
+github: github.com/ZoeLeBlanc/dissertation
 category: work
+status: completed
+timespan: 2018-2019
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+My dissertation, Constructing Anti-Colonial Cairo, explores Cairo as a political and media hub for global anti-colonial movements. Using various digital history methods, I analyze Egyptian print media, diplomatic cables for foreign embassies in Cairo, and print media from other anti-colonial capitals to explore both the shifting meanings of anti-colonialism in Cairo and Cairo's influence in the broader anti-colonial world.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Ultimately, I'm interested in exploring two threads. First, I trace shifting conceptions of the world order that was tied to discourses of anti-colonialism in Cairo, specifically examining the transformation from political to economic rationales. Second, I explore the relationship(s) between states, liberation movements, and the press - specifically the role of censorship in promoting revolutionary politics.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+I have presented my research at the Society for Historians of American Foreign Relations, the American Historical Association Conference, the International Decolonization Seminar, and the European Cold War Summer School.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+My dissertation committee is comprised of Thomas Schwartz, Paul Kramer, Leor Halevi, and Madeline Casad.

@@ -1,80 +1,43 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Image Lucida
+description: Web app for to help create datasets from archival images, 2017-Present
+img: /assets/img/feature-fujifilm.png
 importance: 2
 category: work
+status: completed
+timespan: 2018-2019
+categories: [fun, interesting, cool]
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I started working on Image Lucida as my final project at the Nashville Software School. The idea for the app was born out of my frustrations trying to digitize archival materials and extract meta-data from them. I've been using for a few years a combination of DevonThink and AbbyFinereader, but I really struggled with basic image file managment (my DevonThink projects would get too large to open) and OCRing files without extracting images.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+Image Lucida solves these problems and let's me fully digitize my research workflow.
+First, I can create projects and folders with relevant information about what they contain.
+<div class="img_row">
+    <img class="col three" src="{{ site.baseurl }}/assets/img/image_lucida_1.png" alt="" title="example image"/>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+<div class="col three caption">
+    Screenshot of the main projects area
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+Then, I can upload images to AWS S3 instance, transform the images to fix any skewed perspective, add meta-data, and place them in a folder.
+<div class="img_row">
+    <img class="col three" src="{{ site.baseurl }}/assets/img/image_lucida_2.png" alt="" title="example image"/>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+<div class="col three caption">
+    Screenshot of the view folders area, showing each image and it's properties in the folder
 </div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+Finally, I can process the individual photos using a combination of OCR, manual image segmentation, and automated image segementation. Initially, I had hoped to use just automated image segmentation using a combination of OpenCV and scikit-image, but the newspaper microfilm copies I have were getting really low OCR rates. So now I manually segment the articles out of my newspapers and then process them with Tesseract or Google Vision OCR APIs.
+<div class="img_row">
+    <img class="col three" src="{{ site.baseurl }}/assets/img/image_lucida_2.png" alt="" title="example image"/>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+<div class="col three caption">
+    Screenshot of the manual segmentation of a newspaper.
 </div>
+At the end of the process, I now have an archival image that has searchable text, segmented images, and is tagged for later classification.
 
+Image Lucida was initially built in Django, Python, and Angular. I used a dbsqlite and AWS to store everything. The OCR was completed with the Tesseract and Google Vision APIs, and the image segmentation with Pillow, OpenCV, and scikit-image. I'm currently working on deploying the website live on heroku. You can find some of my analysis using Image Lucida in my Depictions of Decolonization project.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+[Latest updates for Image Lucida](https://github.com/ZoeLeBlanc/ImageLucida)
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+<img id="project_gif" src="{{ site.baseurl }}/assets/img/image_lucida.gif" alt="" title="example image"/>
