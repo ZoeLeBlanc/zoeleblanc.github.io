@@ -11,9 +11,9 @@ profile:
   address: #
 
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={false}"
+social: false  # includes social icons at the bottom of the page
 ---
 Hi! I'm Zoe.
 
@@ -24,3 +24,5 @@ Previously, I was the Postdoctoral Associate and Weld Fellow at the Center for D
 I am currently working on a number of digital projects and publications, and am happy to discuss these or potential collaborations.
 
 Hope you say hi back 👋🏽!
+
+Link to latest CV available [here](https://docs.google.com/document/d/1mslb9QeKDPk7qC4kn0ijR7UFq11ahkzc-SIp7IhpBZw/edit?usp=sharing).

@@ -1,6 +1,6 @@
 <!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
-<div class="grid-item">
+<div class="grid-item" id="{{ project.slug}}">
   {% if project.redirect -%}
   <a href="{{ project.redirect }}">
     {%- else -%}
@@ -30,7 +30,8 @@
           <div class="row ml-1 mr-1 p-0">
             {%- if project.categories %}
             {%- for category in project.categories %}
-            <div class="p-1">
+            
+            <div class="p-1 project-category-chip {{ category }}" >
               <span class="badge rounded-pill badge-light" style="background-color: #ba1db11f;">{{ category }}</span>
             </div>
             {%- endfor %}

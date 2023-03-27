@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /teaching/
 title: teaching
@@ -30,4 +30,4 @@ papers. Built a [course website](http://arabspringanditscontexts.wordpress.com) 
 * HASTAC Scholar 2012-3
   * Blooged on digital pedagogy and digital humanities
 * Teaching Practicum Fall 2012
-  * Completed History Department seminar on college teaching. Included lectures, syllabi, and teaching philosophy.
+  * Completed History Department seminar on college teaching. Included lectures, syllabi, and teaching philosophy. -->
