@@ -24,8 +24,10 @@
             <p class="card-text">{{ course.description }}</p>
             <div class="row ml-1 mr-1 p-0">
               <!-- Check if course.year exists and display it as a badge -->
-              {%- if course.year %}
-                <span class="badge badge-pill badge-light mr-2">{{ course.year }}</span>
+              {%- if course.semester and course.year %}
+                  <span class="badge badge-pill badge-info mr-2">{{ course.semester }} {{ course.year }}</span>
+              {%- elif course.year %}
+                  <span class="badge badge-pill badge-info mr-2">{{ course.year }}</span>
               {%- endif %}
               {%- if course.institution -%}
                 <span class="badge badge-pill badge-light mr-2">{{ course.institution }}</span>

@@ -129,32 +129,729 @@ You will also notice that on our schedule we have different categories of assign
 
 ### Introductions and ~~First~~ Next Steps Jan 23, 2023
 
-#### General Framing Questions
+> What is culture at scale? How do we make knowledge claims about culture and the past? How have we in the past? Why does scale matter? What changed once we had scale? What are the origins of these practices, whether known as Cultural Analytics or something else?
 
-What is culture at scale? How do we make knowledge claims about culture and the past? How have we in the past? Why does scale matter? What changed once we had scale? What are the origins of these practices, whether known as Cultural Analytics or something else?
+#### Theoretical Materials
 
-#### Assigned Readings
+##### Core
 
-##### Core Theoretical Materials
+- Piper, Andrew. “There Will Be Numbers.” *Journal of Cultural Analytics* 1, no. 1 (May 23, 2016). [https://doi.org/10.22148/16.006](https://doi.org/10.22148/16.006).
+- Robertson, Stephen, and Lincoln A. Mullen. “Arguing with Digital History: Patterns of Historical Interpretation,” *Journal of Social History* 54, no. 4 (2021): 1005–1022, [https://model-articles.rrchnm.org/articles/introduction/](https://doi.org/10.22148/16.006)  (Make sure you use this link and not the version from the journal)
 
-- Piper, Andrew. “There Will Be Numbers.” Journal of Cultural Analytics 1, no. 1 (May 23, 2016). https://doi.org/10.22148/16.006.
-- Robertson, Stephen, and Lincoln A. Mullen. “Arguing with Digital History: Patterns of Historical Interpretation,” Journal of Social History 54, no. 4 (2021): 1005–1022, https://model-articles.rrchnm.org/articles/introduction/  (Make sure you use this link and not the version from the journal)
+##### Background
 
-##### Background Theoretical Materials
+- Milic, Louis T. “The Next Step.” *Computers and the Humanities* 1, no. 1 (1966): 3–6. (Available via the UIUC Library)
+- Manovich, Lev. 2016. “The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics.” *Journal of Cultural Analytics* 1 (1). [https://doi.org/10.22148/16.004](https://doi.org/10.22148/16.004) 
+- Michael Piotrowski and Mateusz Fafinski (2020). “Nothing new under the sun? Computational humanities and the methodology of history”. In: CHR2020: Proceedings of the Workshop on Computational Humanities Research (Amsterdam, Nov. 18–20, 2020). *CEUR Workshop Proceedings*, pp. 171–181. URL: [http://ceur-ws.org/Vol-2723/short16.pdf](http://ceur-ws.org/Vol-2723/short16.pdf )
 
-- Milic, Louis T. “The Next Step.” Computers and the Humanities 1, no. 1 (1966): 3–6. (Available via the UIUC Library)
-- Manovich, Lev. 2016. “The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics.” Journal of Cultural Analytics 1 (1). https://doi.org/10.22148/16.004 
-- Michael Piotrowski and Mateusz Fafinski (2020). “Nothing new under the sun? Computational humanities and the methodology of history”. In: CHR2020: Proceedings of the Workshop on Computational Humanities Research (Amsterdam, Nov. 18–20, 2020). CEUR Workshop Proceedings, pp. 171–181. URL: http://ceur-ws.org/Vol-2723/short16.pdf 
+#### Applied Materials
 
-##### Core Applied Materials
+##### Core
 
-- Sanderman, Erin, Deb Verhoeven, and Laura Mandell. “The 21º3’N of Separation of the Journal of Cultural Analytics: Mapping the First Five Years | Published by Journal of Cultural Analytics,” 2021. https://culturalanalytics.org/post/1144-the-21-3-n-of-separation-of-the-journal-of-cultural-analytics-mapping-the-first-five-years 
-
-##### Background Applied Materials
+- Sanderman, Erin, Deb Verhoeven, and Laura Mandell. “The 21º3’N of Separation of the Journal of Cultural Analytics: Mapping the First Five Years, Published by Journal of Cultural Analytics,” 2021. [https://culturalanalytics.org/post/1144-the-21-3-n-of-separation-of-the-journal-of-cultural-analytics-mapping-the-first-five-years](https://culturalanalytics.org/post/1144-the-21-3-n-of-separation-of-the-journal-of-cultural-analytics-mapping-the-first-five-years)
 
 #### Assignments
 
 - Come prepared to both introduce themselves (your background, research interests, etc…) and also an area/question they hope to work with during the course. I realize this might be a bit disconcerting for the first week of class, but I do not expect you to have a fully polished research question. Rather, we just want to get started on the research project as soon as possible.
+
+### Arguments and Algorithms: Theories Jan 30, 2023
+
+> How has mass digitization and the digital age made culture at scale a possibility? How do we start to frame hypotheses and think with scale? Where do we find data and how do we create it? What sorts of arguments can we make about culture with data? How do we balance domain with method when developing a research question?
+
+#### Theoretical Materials
+
+##### Core
+
+- Chapter 1 “An Algorithmic Criticism” Ramsay, Stephen. *Reading Machines: Toward an Algorithmic Criticism*. University of Illinois Press, 2011. [https://www.jstor.org/stable/10.5406/j.ctt1xcmrr](https://www.jstor.org/stable/10.5406/j.ctt1xcmrr)
+
+##### Background 
+
+- Jockers, Matthew L. *Macroanalysis: Digital Methods and Literary History*. University of Illinois Press, 2013. [https://www.jstor.org/stable/10.5406/j.ctt2jcc3m](https://www.jstor.org/stable/10.5406/j.ctt2jcc3m).
+
+#### Applied Materials
+
+##### Core
+
+- Kleymann, Rabea, Andreas Niekler, and Manuel Burghardt. “Conceptual Forays: A Corpus-Based Study of ‘Theory’ in Digital Humanities Journals.” *Journal of Cultural Analytics* 7, no. 4 (December 19, 2022). [https://doi.org/10.22148/001c.55507](https://doi.org/10.22148/001c.55507)
+    - Code for Conceptual Forays [https://github.com/theory-in-dh/conceptual_forays](https://github.com/theory-in-dh/conceptual_forays) 
+  
+- Nguyen, Dong, Maria Liakata, Simon DeDeo, Jacob Eisenstein, David Mimno, Rebekah Tromble, and Jane Winters. “How We Do Things with Words: Analyzing Text as Social and Cultural Data.” *Frontiers in Artificial Intelligence* 3 (August 25, 2020): 62. [https://doi.org/10.3389/frai.2020.00062](https://doi.org/10.3389/frai.2020.00062) 
+
+##### Background 
+
+-   Spinaci, Gianmarco, Giovanni Colavizza, and Silvio Peroni. "A Map of
+    Digital Humanities Research across Bibliographic Data Sources."
+    *Digital Scholarship in the Humanities* 37, no. 4 (December 1,
+    2022): 1254--68.[https://doi.org/10.1093/llc/fqac016](https://doi.org/10.1093/llc/fqac016).
+
+-   Michel, Jean-Baptiste, Yuan Kui Shen, Aviva Presser Aiden, Adrian
+    Veres, Matthew K. Gray, THE GOOGLE BOOKS TEAM, Joseph P. Pickett, et
+    al. "Quantitative Analysis of Culture Using Millions of Digitized
+    Books." *Science* 331, no. 6014 (January 14, 2011): 176--82.[https://doi.org/10.1126/science.1199644](https://doi.org/10.1126/science.1199644).
+
+-   Underwood, Ted. "Do Humanists Get Their Ideas from Anything at All?"
+    *The Stone and the Shell* (blog), January 24, 2012.[https://tedunderwood.com/2012/01/24/discovery-and-hypothesis-testing/](https://tedunderwood.com/2012/01/24/discovery-and-hypothesis-testing/).
+
+-   Weingart, Scott. "Argument Clinic -- Scottbot.Net," January
+    22, 2022.
+    [https://web.archive.org/web/20220122103133/http://scottbot.net/argument-clinic/](https://web.archive.org/web/20220122103133/http://scottbot.net/argument-clinic/)
+
+### Close and Distant: Genre Feb 6, 2023
+
+> How does scale complement and contrast non-scalable methods for
+> working with cultural materials? How can we start to explore datasets
+> but also operationalize hypotheses? How do we start to turn culture
+> into machine-readable data and what is gained/lost in this process?
+
+
+#### Theoretical Materials
+
+##### Core
+
+-   Chapter 1 "Abstraction, Singularity, Textuality: The Equivalence of
+    "Close" and "Distant" Reading" in Bode, Katherine. *A World of
+    Fiction: Digital Collections and the Future of Literary History*.
+    University of Michigan Press, 2018.
+    [https://www.jstor.org/stable/j.ctvdtpj1d](https://www.jstor.org/stable/j.ctvdtpj1d).
+
+-   Chapter 1 "An Algorithmic Criticism" Ramsay, Stephen. *Reading
+    Machines: Toward an Algorithmic Criticism*. University of Illinois
+    Press, 2011.
+    [https://www.jstor.org/stable/10.5406/j.ctt1xcmrr](https://www.jstor.org/stable/10.5406/j.ctt1xcmrr)
+
+##### Background
+
+-   Underwood, Ted. "A Genealogy of Distant Reading." *Digital
+    Humanities Quarterly* 011, no. 2 (June 27, 2017).
+    [http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html](http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html)
+
+-   Sinykin, Dan. "Distant Reading and Literary Knowledge." Post45
+    (blog), May 6, 2019.
+    [https://post45.org/2019/05/distant-reading-and-literary-knowledge/](https://post45.org/2019/05/distant-reading-and-literary-knowledge/)(and the entire cluster is fantastic).
+
+#### Applied Materials
+
+##### Core
+
+-   "Preface, Chapters 2 & 5." Underwood, Ted. *Distant Horizons:
+    Digital Evidence and Literary Change*. University of Chicago
+    Press, 2019. (Available on Canvas, Chapter 1 optional)
+
+    -   Code for Chapter 2
+        [https://github.com/tedunderwood/horizon/tree/master/chapter2](https://github.com/tedunderwood/horizon/tree/master/chapter2)
+
+-   Kleymann, Rabea, Andreas Niekler, and Manuel Burghardt. "Conceptual
+    Forays: A Corpus-Based Study of 'Theory' in Digital Humanities
+    Journals." *Journal of Cultural Analytics* 7, no. 4 (December 19,
+    2022).
+    [https://doi.org/10.22148/001c.55507](https://doi.org/10.22148/001c.55507)
+
+    -   Code for Conceptual Forays
+        [https://github.com/theory-in-dh/conceptual_forays](https://github.com/theory-in-dh/conceptual_forays)
+
+-   Nguyen, Dong, Maria Liakata, Simon DeDeo, Jacob Eisenstein, David
+    Mimno, Rebekah Tromble, and Jane Winters. "How We Do Things with
+    Words: Analyzing Text as Social and Cultural Data." *Frontiers in
+    Artificial Intelligence* 3 (August 25, 2020): 62.
+    [https://doi.org/10.3389/frai.2020.00062](https://doi.org/10.3389/frai.2020.00062)
+
+##### Background Applied Materials
+
+-   Underwood, Ted. "The Life Cycles of Genres." *Journal of Cultural
+    Analytics* 2, no. 2 (May 23, 2016).
+    [https://doi.org/10.22148/16.005](https://doi.org/10.22148/16.005).
+
+-   Sharma, Aniruddha, Yuerong Hu, Peizhen Wu, Wenyi Shang, Shubhangi
+    Singhal, and Ted Underwood. "The Rise and Fall of Genre
+    Differentiation in English-Language Fiction: 1st Workshop on
+    Computational Humanities Research, CHR 2020." CEUR Workshop
+    Proceedings 2723 (2020): 97--114.
+    https://ceur-ws.org/Vol-2723/long27.pdf
+
+-   Allison, Sarah, Matthew Jockers, Ryan Heuser, Franco Moretti, and
+    Michael Witmore. "Quantitative Formalism: An Experiment." *Literary
+    Lab*, 2011. https://litlab.stanford.edu/LiteraryLabPamphlet1.pdf.
+
+#### Models and Measurements: Race Feb 13, 2023 
+
+#### General Framing Questions
+>
+> How can we further transform datasets to answer our questions? How can
+> we turn our questions into models? What are models? How do we deal
+> with minimizing information loss and maximizing algorithmic power? How
+> do we use current methods but make them work for our purposes? How
+> much do we care about statistics?
+
+##### Core Theoretical Materials
+
+-   So, Richard Jean. "'All Models Are Wrong.'" *PMLA* 132, no. 3 (May
+    2017): 668--73.
+    [https://doi.org/10.1632/pmla.2017.132.3.668](https://doi.org/10.1632/pmla.2017.132.3.668).
+
+-   Levy-Eichel, Mordechai, and Daniel Scheinerman. "Digital Humanists
+    Need to Learn How to Count." *Chronicle of Higher Education*, May
+    17, 2022.
+    [https://www.chronicle.com/article/digital-humanists-need-to-learn-how-to-count](https://www.chronicle.com/article/digital-humanists-need-to-learn-how-to-count)
+
+##### Background Theoretical Materials
+
+-   Breiman, Leo. "Statistical Modeling: The Two Cultures (with Comments
+    and a Rejoinder by the Author)." *Statistical Science* 16, no. 3
+    (August 2001): 199--231.
+    [https://doi.org/10.1214/ss/1009213726](https://doi.org/10.1214/ss/1009213726).
+
+-   McGrath, Laura B. "Charisma (Embodiment): A Response to Tess
+    McNulty." Post45 (blog), May 7, 2019.
+    [https://post45.org/2019/05/charisma-embodiment-a-response-to-tess-mcnulty](https://post45.org/2019/05/charisma-embodiment-a-response-to-tess-mcnulty)
+
+##### Core Applied Materials
+
+-   So, Richard Jean. *Redlining Culture: A Data History of Racial
+    Inequality and Postwar Fiction*. Columbia University Press, 2020.
+    (Available on Canvas)
+
+##### Background Applied Materials
+
+-   Henley, Amanda, Matt Jansen, Lorin Bruckner, Neil Byers, and Rucha
+    Dalwadi. "On the Books: Jim Crow and Algorithms of Resistance White
+    Paper," August 31, 2020.
+    [https://doi.org/10.17615/hvz4-sr14](https://doi.org/10.17615/hvz4-sr14).
+
+-   So, Richard Jean, Hoyt Long, and Yuancheng Zhu. "Race, Writing, and
+    Computation: Racial Difference and the US Novel, 1880-2000."
+    *Journal of Cultural Analytics* 3, no. 2 (January 11, 2019).
+    [https://doi.org/10.22148/16.031](https://doi.org/10.22148/16.031).
+
+-   Bamman, David. "LitBank: Born-Literary Natural Language Processing."
+    In Computational Humanities Research, 2020.
+    [https://people.ischool.berkeley.edu/\~dbamman/pubs/pdf/Bamman_DH_Debates_CompHum.pdf](https://people.ischool.berkeley.edu/~dbamman/pubs/pdf/Bamman_DH_Debates_CompHum.pdf)
+
+#### Vectors and Clusters: Publishing Feb 20, 2023 
+
+#### General Framing Questions
+>
+> How can we represent culture in space? What are the benefits of high
+> dimensional spaces and the challenges of dimensionality reduction? How
+> well do unsupervised or off-the-shelf methods find patterns? How much
+> validation work should we do with these methods?
+
+##### Core Theoretical Materials
+
+-   Klein, Lauren F. "Dimensions of Scale: Invisible Labor, Editorial
+    Work, and the Future of Quantitative Literary Studies." *PMLA* 135,
+    no. 1 (January 2020): 23--39.
+    [https://doi.org/10.1632/pmla.2020.135.1.23](https://doi.org/10.1632/pmla.2020.135.1.23).
+
+-   Gavin, Michael, Colin Jennings, Lauren Kersey, and Brad Pasanek.
+    "Spaces of Meaning: Conceptual History, Vector Semantics, and Close
+    Reading." In *Debates in the Digital Humanities*, 2019.
+    [https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4ce82b33-120f-423f-ba4c-40620913b305#ch21](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4ce82b33-120f-423f-ba4c-40620913b305#ch21)
+
+##### Background Theoretical Materials
+
+-   Chang, Kent K., and Simon DeDeo. "Divergence and the Complexity of
+    Difference in Text and Culture." Journal of Cultural Analytics 5,
+    no. 2 (October 7, 2020).
+    [https://doi.org/10.22148/001c.17585](https://doi.org/10.22148/001c.17585).
+
+-   Schmidt, Ben. "Sapping Attention: When You Have a MALLET, Everything
+    Looks like a Nail." Sapping Attention (blog), November 2, 2012.
+    [http://sappingattention.blogspot.com/2012/11/when-you-have-mallet-everything-looks.html](http://sappingattention.blogspot.com/2012/11/when-you-have-mallet-everything-looks.html).
+
+-   Underwood, Ted. "Topic Modeling Made Just Simple Enough." The Stone
+    and the Shell (blog), April 7, 2012.
+    [https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/).
+
+-   Walsh, Melanie. "Where Is All the Book Data?" Public Books (blog),
+    October 4, 2022.
+    https://www.publicbooks.org/where-is-all-the-book-data/.
+
+##### Core Applied Materials
+
+-   Sinykin, Dan, and Edwin Roland. "Against Conglomeration." *Journal
+    of Cultural Analytics* 6, no. 2 (April 20, 2021).
+    [https://doi.org/10.22148/001c.22331](https://doi.org/10.22148/001c.22331).
+
+    -   Sinykin, Daniel; Edwin Roland, 2021, \"Replication Data for:
+        Against Conglomeration\",
+        [https://doi.org/10.7910/DVN/EUPMKL](https://doi.org/10.7910/DVN/EUPMKL)
+        , Harvard Dataverse, V1
+
+-   McNulty, Tess. "Content-Era Ethics." *Journal of Cultural Analytics*
+    6, no. 2 (April 20, 2021).
+    [https://doi.org/10.22148/001c.22220](https://doi.org/10.22148/001c.22220).
+
+    -   Mcnulty, Tess, 2021, \"Replication Data for: Content-Era
+        Ethics\",
+        [https://doi.org/10.7910/DVN/S3DFCU](https://doi.org/10.7910/DVN/S3DFCU)
+        , Harvard Dataverse, V1
+
+##### Background Applied Materials
+
+-   Manshel, Alexander, Laura B. McGrath, and J. D. Porter. "Who Cares
+    about Literary Prizes?" Public Books (blog), September 3, 2019.
+    [https://www.publicbooks.org/who-cares-about-literary-prizes/](https://www.publicbooks.org/who-cares-about-literary-prizes/).
+
+-   Walsh, Melanie, and Maria Antoniak. "The Goodreads 'Classics': A
+    Computational Study of Readers, Amazon, and Crowdsourced Amateur
+    Criticism." *Journal of Cultural Analytics* 6, no. 2 (April 20,
+    2021).
+    [https://doi.org/10.22148/001c.22221](https://doi.org/10.22148/001c.22221).
+
+-   Schmidt, Benjamin. "Stable Random Projection: Lightweight,
+    General-Purpose Dimensionality Reduction for Digitized Libraries."
+    *Journal of Cultural Analytics* 3, no. 1 (October 3, 2018).
+    https://doi.org/10.22148/16.025.
+
+#### Similarities and Distances: Laws Feb 27, 2023
+
+#### General Framing Questions
+>
+> How can we aggregate data to find patterns? How do we know certain
+> patterns are meaningful? How can we find similarities and differences
+> in our results? How do we define these terms and what do we consider
+> statistically meaningful and at the same time interesting to our
+> domain areas?
+
+##### Core Theoretical Materials {#core-theoretical-materials-5 .unnumbered}
+
+-   Schmidt, Ben. "Two Volumes: The Lessons of Time on the Cross." Ben
+    Schmidt, December 5, 2019.
+    [https://benschmidt.org/post/2019-12-05-totc/2019-aha/](https://benschmidt.org/post/2019-12-05-totc/2019-aha/).
+
+-   Ruggles, Steven. "The Revival of Quantification: Reflections on Old
+    New Histories." Social Science History 45, no. 1 (2021): 1--25.
+    [https://doi.org/10.1017/ssh.2020.44](https://doi.org/10.1017/ssh.2020.44).
+
+##### Background Theoretical Materials
+
+-   Braudel, Fernand, and Immanuel Wallerstein. "History and the Social
+    Sciences: The Longue Durée." Review (Fernand Braudel Center) 32, no.
+    2 (2009): 171--203.
+    [http://www.jstor.org/stable/40647704](http://www.jstor.org/stable/40647704)
+
+-   Guldi, Jo, and David Armitage. *The History Manifesto*. Cambridge:
+    Cambridge University Press, 2014.
+    [https://www.cambridge.org/core/books/history-manifesto/AC1A1EC711AE91A4F9004E7582D79AFD](https://www.cambridge.org/core/books/history-manifesto/AC1A1EC711AE91A4F9004E7582D79AFD).
+
+##### Core Applied Materials
+
+-   Mullen, Lincoln A. *America's Public Bible: A Commentary*. Stanford
+    University Press, 2023.
+    [https://americaspublicbible.supdigital.org](https://americaspublicbible.supdigital.org).
+
+    -   Code for America's Public Bible
+        [https://github.com/lmullen/americas-public-bible](https://github.com/lmullen/americas-public-bible)
+
+-   Funk, Kellen, and Lincoln A. Mullen. "The Spine of American Law:
+    Digital Text Analysis and U.S. Legal Practice (Annotated
+    Version)," 2021.
+    [https://doi.org/10.31835/ma.2021.07](https://doi.org/10.31835/ma.2021.07).
+
+    -   Code for The Spine of American Law
+        [https://github.com/lmullen/civil-procedure-codes/](https://github.com/lmullen/civil-procedure-codes/)
+
+##### Background Applied Materials
+
+-   Tilton, Lauren, Taylor Arnold, and Courtney Rivard. *Layered Lives:
+    Rhetoric and Representation in the Southern Life History Project*.
+    Stanford University Press, 2022.
+    [https://doi.org/10.21627/2022ll](https://doi.org/10.21627/2022ll).
+
+-   Beals, M. H. "Close Readings of Big Data: Triangulating Patterns of
+    Textual Reappearance and Attribution in the Caledonian Mercury,
+    1820-1840 (Annotated Version)," 2021.
+    https://doi.org/10.31835/ma.2021.05.
+
+#### Categories and Classifications: Gender Mar 6, 2023 
+
+**Review Piece Due**
+
+*General Framing Questions:*
+
+> How can we build models to categorize and classify culture? What is
+> the power of prediction for understanding cultural trends? How can we
+> use computation to understand cultural categories of the past and
+> present?
+
+##### Core Theoretical Materials {#core-theoretical-materials-6 .unnumbered}
+
+-   Da, Nan Z. "The Computational Case against Computational Literary
+    Studies." *Critical Inquiry* 45, no. 3 (March 2019): 601--39.
+    [https://doi.org/10.1086/702594](https://doi.org/10.1086/702594).
+
+-   Critical Inquiry. "Computational Literary Studies: A Critical
+    Inquiry Online Forum," March 31, 2019. Read the Bode, Finn, and
+    Underwood responses (welcome to read more but we will focus on these
+    ones for discussion)
+    [https://critinq.wordpress.com/2019/03/31/computational-literary-studies-a-critical-inquiry-online-forum/](https://critinq.wordpress.com/2019/03/31/computational-literary-studies-a-critical-inquiry-online-forum/).
+
+##### Background Theoretical Materials
+
+-   Mandell, Laura. "Gender and Cultural Analytics: Finding or Making
+    Stereotypes?" In *Debates in the Digital Humanities*, 2019.
+    https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/5d9c1b63-7b60-42dd-8cda-bde837f638f4.
+
+##### Core Applied Materials
+
+-   "Chapter 4 and Appendices" Underwood, Ted. *Distant Horizons:
+    Digital Evidence and Literary Change*. University of Chicago
+    Press, 2019. (Available on Canvas)
+
+    -   Code for *Distant Horizons*
+        [https://github.com/tedunderwood/horizon/](https://github.com/tedunderwood/horizon/)
+
+##### Background Applied Materials
+
+-   Underwood, Ted, David Bamman, and Sabrina Lee. "The Transformation
+    of Gender in English-Language Fiction." *Journal of Cultural
+    Analytics* 3, no. 2 (February 13, 2018).
+    [https://doi.org/10.22148/16.019](https://doi.org/10.22148/16.019).
+
+-   Kraicer, Eve, and Andrew Piper. "Social Characters: The Hierarchy of
+    Gender in Contemporary English-Language Fiction." *Journal of
+    Cultural Analytics* 3, no. 2 (January 30, 2019).
+    [https://doi.org/10.22148/16.032](https://doi.org/10.22148/16.032).
+
+-   Lucy, Li, and David Bamman. "Gender and Representation Bias in GPT-3
+    Generated Stories." In Proceedings of the Third Workshop on
+    Narrative Understanding, 48--55. Virtual: Association for
+    Computational Linguistics, 2021.
+    [https://doi.org/10.18653/v1/2021.nuse-1.5](https://doi.org/10.18653/v1/2021.nuse-1.5).
+
+-   Blevins, Cameron, and Lincoln Mullen. "Jane, John ... Leslie? A
+    Historical Method for Algorithmic Gender Prediction." Digital
+    Humanities Quarterly 009, no. 3 (December 23, 2015).
+    [http://www.digitalhumanities.org/dhq/vol/9/3/000223/000223.html](http://www.digitalhumanities.org/dhq/vol/9/3/000223/000223.html).
+
+-   Cheng, Jonathan. "Fleshing Out Models of Gender in English-Language
+    Novels (1850 -- 2000)." *Journal of Cultural Analytics* 5, no. 1
+    (January 29, 2020).
+    [https://doi.org/10.22148/001c.11652](https://doi.org/10.22148/001c.11652).
+
+    -   Cheng, Jonathan, 2020, \"Replication Data for: Fleshing Out
+        Models of Gender in English-Language Novels\",
+        https://doi.org/10.7910/DVN/QUGW8V, Harvard Dataverse, V1
+
+#### SPRING BREAK Mar 13, 2023
+
+#### Speculation and Prediction: Networks Mar 20, 2023 
+
+#### General Framing Questions
+>
+> How can we study and predict the past with scale? How can speculation
+> be used to understand culture? How can computation create and uncover
+> connections?
+
+##### Core Theoretical Materials {#core-theoretical-materials-7 .unnumbered}
+
+-   \"Viral Textuality\" and \"Textual Criticism as Language Modeling\"
+    in Cordell, Ryan, David A. Smith, Abby Mullen, Jonathan D.
+    Fitzgerald, and Avery Blankenship. *Going the Rounds*. University of
+    Minnesota Press, 2022.
+    https://manifold.umn.edu/projects/going-the-rounds.
+
+##### Background Theoretical Materials
+
+-   Ahnert, Ruth, Sebastian E. Ahnert, Catherine Nicole Coleman, and
+    Scott B. Weingart. "The Network Turn: Changing Perspectives in the
+    Humanities." *Elements in Publishing and Book Culture*,
+    December 2020. https://doi.org/10.1017/9781108866804.
+
+##### Core Applied Materials
+
+-   Soni, Sandeep, Lauren F. Klein, and Jacob Eisenstein. "Abolitionist
+    Networks: Modeling Language Change in Nineteenth-Century Activist
+    Newspapers." Journal of Cultural Analytics 6, no. 1 (January 18,
+    2021).
+    [https://doi.org/10.22148/001c.18841](https://doi.org/10.22148/001c.18841).
+
+    -   Code for Abolitionist Networks
+        [https://github.com/sandeepsoni/semantic-leadership-network](https://github.com/sandeepsoni/semantic-leadership-network)
+
+-   Ahnert, Ruth, and Sebastian Ahnert. "Protestant Letter Networks in
+    the Reign of Mary I: A Quantitative Approach (Annotated
+    Version)," 2021. https://doi.org/10.31835/ma.2021.04.
+
+##### Background Applied Materials
+
+-   Ryan, Yann C., and Sebastian E. Ahnert. "The Measure of the Archive:
+    The Ro­bustness of Network Analysis in Early Modern Correspondence."
+    *Journal of Cultural Analytics* 6, no. 3 (July 21, 2021).
+    [https://doi.org/10.22148/001c.25943](https://doi.org/10.22148/001c.25943).
+
+-   Ladd, John R. "Imaginative Networks: Tracing Connec­tions Among Early
+    Modern Book Dedi­cations." Journal of Cultural Analytics 6, no. 1
+    (March 30, 2021).
+    [https://doi.org/10.22148/001c.21993](https://doi.org/10.22148/001c.21993).
+
+-   Valeriola, Sébastien de. "Can Historians Trust Centrality?
+    Historical Network Analysis and Centrality Metrics Robustness."
+    Journal of Historical Network Research 6, no. 1 (October 25, 2021).
+    https://doi.org/10.25517/jhnr.v6i1.105.
+
+#### Influence and Embeddings: Ideas Mar 27, 2023 
+
+#### General Framing Questions
+>
+> How do we incorporate the latest technological developments? How are
+> these new infrastructures and architectures changing how we study
+> culture at scale?
+
+##### Core Theoretical Materials {#core-theoretical-materials-8 .unnumbered}
+
+-   Nelson, Laura K. "Computational Grounded Theory: A Methodological
+    Framework." *Sociological Methods & Research* 49, no. 1 (February 1,
+    2020): 3--42.
+    [https://doi.org/10.1177/0049124117729703](https://doi.org/10.1177/0049124117729703).
+
+-   Underwood, Ted. "Do Humanists Need BERT?" The Stone and the Shell
+    (blog), July 15, 2019.
+    https://tedunderwood.com/2019/07/15/do-humanists-need-bert/.
+
+##### Background Theoretical Materials
+
+-   Antoniak, Maria, and David Mimno. "Evaluating the Stability of
+    Embedding-Based Word Similarities." Transactions of the Association
+    for Computational Linguistics 6 (February 1, 2018): 107--19.
+    [https://doi.org/10.1162/tacl_a_00008](https://doi.org/10.1162/tacl_a_00008).
+
+-   Underwood, Ted. "Mapping the Latent Spaces of Culture." Startwords,
+    no. 3 (August 2022). https://doi.org/10.5281/zenodo.6567481.
+
+##### Core Applied Materials
+
+-   Underwood, Ted, Kevin Kiley, Wenyi Shang, and Stephen Vaisey.
+    "Cohort Succession Explains Most Change in Literary Culture."
+    *Sociological Science* 9 (May 2, 2022): 184--205.
+    [https://doi.org/10.15195/v9.a8](https://doi.org/10.15195/v9.a8).
+
+    -   Code for Cohort Succession
+        [https://github.com/tedunderwood/period-cohort](https://github.com/tedunderwood/period-cohort)
+
+-   Vicinanza, Paul, Amir Goldberg, and Sameer B Srivastava. "A
+    Deep-Learning Model of Prescient Ideas Demonstrates That They Emerge
+    from the Periphery." *PNAS* Nexus 2, no. 1 (January 1, 2023):
+    pgac275.
+    [https://doi.org/10.1093/pnasnexus/pgac275](https://doi.org/10.1093/pnasnexus/pgac275).
+
+    -   Code for Prescient Ideas
+        [https://github.com/pvicinanza/prescience](https://github.com/pvicinanza/prescience)
+
+##### Background Applied Materials
+
+-   Nelson, Laura K. "Leveraging the Alignment between Machine Learning
+    and Intersectionality: Using Word Embeddings to Measure
+    Intersectional Experiences of the Nineteenth Century U.S. South."
+    *Poetics, Measure Mohr Culture*, 88 (October 1, 2021): 101539.
+    [https://doi.org/10.1016/j.poetic.2021.101539](https://doi.org/10.1016/j.poetic.2021.101539)
+
+-   Card, Dallas, Serina Chang, Chris Becker, Julia Mendelsohn, Rob
+    Voigt, Leah Boustan, Ran Abramitzky, and Dan Jurafsky.
+    "Computational Analysis of 140 Years of US Political Speeches
+    Reveals More Positive but Increasingly Polarized Framing of
+    Immigration." *Proceedings of the National Academy of Sciences* 119,
+    no. 31 (August 2, 2022): e2120510119.
+    [https://doi.org/10.1073/pnas.2120510119](https://doi.org/10.1073/pnas.2120510119).
+
+-   Barron, Alexander T. J., Jenny Huang, Rebecca L. Spang, and Simon
+    DeDeo. "Individuals, Institutions, and Innovation in the Debates of
+    the French Revolution." *Proceedings of the National Academy of
+    Sciences* 115, no. 18 (May 2018): 4607--12.
+    https://doi.org/10.1073/pnas.1717729115.
+
+#### Viewing and Visible: Images Apr 3, 2023 
+
+#### General Framing Questions
+>
+> How do we deal with non-textual data? What are generative methods, and
+> what are the tradeoffs for dealing with accuracy of our phenomenon of
+> interest? How do we balance considerations of ownership and ethics
+> with data driven research?
+
+##### Core Theoretical Materials {#core-theoretical-materials-9 .unnumbered}
+
+-   Arnold, Taylor, and Lauren Tilton. "Distant Viewing: Analyzing Large
+    Visual Corpora." *Digital Scholarship in the Humanities* 34, no.
+    Supplement_1 (December 1, 2019): i3--16.
+    [https://doi.org/10.1093/llc/fqz013](https://doi.org/10.1093/llc/fqz013).
+
+    -   Code for Distant Viewing https://github.com/distant-viewing/dvt
+
+##### Background Theoretical Materials
+
+-   Offert, Fabian, and Peter Bell. "Generative Digital
+    Humanities," 2020.
+    [https://www.semanticscholar.org/paper/Generative-Digital-Humanities-Offert-Bell/e5aadc6bd00c6518cf97c22be259c4c621370c7f](https://www.semanticscholar.org/paper/Generative-Digital-Humanities-Offert-Bell/e5aadc6bd00c6518cf97c22be259c4c621370c7f).
+
+-   Lang, Sabine, and Bjorn Ommer. "Transforming Information Into
+    Knowledge: How Computational Methods Reshape Art History." *Digital
+    Humanities Quarterly* 15, no. 3 (2021).
+    http://www.digitalhumanities.org/dhq/vol/15/3/000560/000560.html.
+
+##### Core Applied Materials
+
+-   Thompson, Laure, and David Mimno. "Computational Cut-Ups: The
+    Influence of Dada." *The Journal of Modern Periodical Studies* 8,
+    no. 2 (July 1, 2017): 179--95.
+    [https://doi.org/10.5325/jmodeperistud.8.2.0179](https://doi.org/10.5325/jmodeperistud.8.2.0179).
+
+-   Arnold, Taylor, Lauren Tilton, and Annie Berke. "Visual Style in Two
+    Network Era Sitcoms." *Journal of Cultural Analytics* 4, no. 2 (July
+    19, 2019).
+    [https://doi.org/10.22148/16.043](https://doi.org/10.22148/16.043).
+
+    -   Arnold, Taylor, 2019, \"Replication data for: \"A Visual Style
+        in Two Network Sitcoms\" by Taylor Arnold, Lauren Tilton, and
+        Annie Berke.\", https://doi.org/10.7910/DVN/S84TSX, Harvard
+        Dataverse, V1
+
+##### Background Applied Materials
+
+-   Lee, Benjamin Charles Germain, Joshua Ortiz Baco, Sarah H. Salter,
+    and Jim Casey. "Navigating the Mise-En-Page: Interpretive Machine
+    Learning Approaches to the Visual Layouts of Multi-Ethnic
+    Periodicals," September 3, 2021.
+    [https://doi.org/10.48550/arXiv.2109.01732](https://doi.org/10.48550/arXiv.2109.01732).
+
+-   Fyfe, Paul, and Qian Ge. "Image Analytics and the Nineteenth-Century
+    Illustrated Newspaper." *Journal of Cultural Analytics* 3, no. 1
+    (October 25, 2018). <https://doi.org/10.22148/16.026>.
+
+#### Capitalism and Scalability: Movements Apr 10, 2023
+
+#### General Framing Questions
+>
+> What are the limitations of culture at scale? How can we deal with
+> missing-ness in our data? How can this work be beneficial for society,
+> and at the same time how can we critically understand the political
+> economy of scale? Is it possible to have scale without capitalism?
+> What might that look like?
+
+##### Core Theoretical Materials {#core-theoretical-materials-10 .unnumbered}
+
+-   Tsing, Anna Lowenhaupt. "On Nonscalability: The Living World Is Not
+    Amenable to Precision-Nested Scales." Common Knowledge 18, no. 3
+    (August 1, 2012): 505--24.
+    [https://doi.org/10.1215/0961754X-1630424](https://doi.org/10.1215/0961754X-1630424).
+
+-   Hanna, Alex, and Tina M. Park. "Against Scale: Provocations and
+    Resistances to Scale Thinking," October 17, 2020.
+    https://doi.org/10.48550/arXiv.2010.08850.
+
+##### Background Theoretical Materials
+
+-   Birhane, Abeba, Pratyusha Kalluri, Dallas Card, William Agnew, Ravit
+    Dotan, and Michelle Bao. "The Values Encoded in Machine Learning
+    Research." In 2022 ACM Conference on Fairness, Accountability, and
+    Transparency, 173--84. FAccT '22. New York, NY, USA: Association for
+    Computing Machinery, 2022.
+    [https://doi.org/10.1145/3531146.3533083](https://doi.org/10.1145/3531146.3533083).
+
+-   Pfotenhauer, Sebastian, Brice Laurent, Kyriaki Papageorgiou, and
+    Jack Stilgoe. "The Politics of Scaling." Social Studies of Science
+    52, no. 1 (February 1, 2022): 3--34.
+    [https://doi.org/10.1177/03063127211048945](https://doi.org/10.1177/03063127211048945).
+
+-   Bender, Emily M., Timnit Gebru, Angelina McMillan-Major, and
+    Shmargaret Shmitchell. "On the Dangers of Stochastic Parrots: Can
+    Language Models Be Too Big? 🦜." In Proceedings of the 2021 ACM
+    Conference on Fairness, Accountability, and Transparency, 610--23.
+    FAccT '21. New York, NY, USA: Association for Computing
+    Machinery, 2021.
+    [https://doi.org/10.1145/3442188.3445922](https://doi.org/10.1145/3442188.3445922).
+
+##### Core Applied Materials}
+
+-   Nelson, Laura K. "The Inequality of Intersectionalities in Chicago's
+    First-Wave Women's Movement." *Signs: Journal of Women in Culture
+    and Society* 47, no. 4 (June 2022): 905--30.
+    [https://doi.org/10.1086/718866](https://doi.org/10.1086/718866).
+
+-   Colavizza, Giovanni, Tobias Blanke, Charles Jeurgens, and Julia
+    Noordegraaf. "Archives and AI: An Overview of Current Debates and
+    Future Perspectives." Journal on Computing and Cultural Heritage 15,
+    no. 1 (December 14, 2021): 4:1-4:15.
+    [https://doi.org/10.1145/3479010](https://doi.org/10.1145/3479010).
+
+##### Background Applied Materials
+
+-   Underwood, Ted, and Richard Jean So. "Can We Map Culture?" Journal
+    of Cultural Analytics 6, no. 3 (June 17, 2021).
+    [https://doi.org/10.22148/001c.24911](https://doi.org/10.22148/001c.24911).
+
+#### Interactive and Persuasive: Collections Apr 17, 2023
+
+*General Framing Questions:*
+
+> How do we visualize our results? What are meaningful visualizations
+> and how can you integrate them into your narrative? Do you publish
+> digitally or print?
+
+##### Core Theoretical Materials {#core-theoretical-materials-11 .unnumbered}
+
+-   Rettberg, Jill Walker. "Algorithmic Failure as a Humanities
+    Methodology: Machine Learning's Mispredictions Identify Rich Cases
+    for Qualitative Analysis." *Big Data & Society* 9, no. 2 (July 1,
+    2022): 20539517221131290.
+    [https://doi.org/10.1177/20539517221131290](https://doi.org/10.1177/20539517221131290).
+
+-   Gabi, Kirilloff. \"Computation as Context: New Approaches to the
+    Close/Distant Reading Debate.\" College Literature, vol. 49 no. 1,
+    2022, p. 1-25. Project MUSE, doi:10.1353/lit.2022.0000.
+
+##### Background Theoretical Materials
+
+-   Drucker, Johanna. "Humanities Approaches to Graphical Display."
+    *Digital Humanities Quarterly* 005, no. 1 (March 10, 2011).
+    http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html.
+
+##### Core Applied Materials}
+
+-   "Introduction: In Pursuit of Theater's Digital Traces" Varela,
+    Miguel Escobar. *Theater as Data: Computational Journeys into
+    Theater Research*. University of Michigan Press, 2021.
+    [https://doi.org/10.3998/mpub.11667458](https://doi.org/10.3998/mpub.11667458).
+
+-   Schmidt, Benjamin. "A Guided Tour of the Digital Library," August
+    29, 2018. http://creatingdata.us/datasets/hathi-features/.
+
+##### Background Applied Materials
+
+-   Colavizza, Giovanni, Iain Hrynaszkiewicz, Isla Staden, Kirstie
+    Whitaker, and Barbara McGillivray. "The Citation Advantage of
+    Linking Publications to Research Data." PLOS ONE 15, no. 4 (April
+    22, 2020): e0230416.
+    [https://doi.org/10.1371/journal.pone.0230416](https://doi.org/10.1371/journal.pone.0230416).
+
+-   McGillivray, Barbara, Paola Marongiu, Nilo Pedrazzini, Marton
+    Ribary, Mandy Wigdorowitz, and Eleonora Zordan. "Deep Impact: A
+    Study on the Impact of Data Papers and Datasets in the Humanities
+    and Social Sciences." Publications 10, no. 4 (December 2022): 39.
+    [https://doi.org/10.3390/publications10040039](https://doi.org/10.3390/publications10040039).
+
+#### Plots: Narratives and Storytellings Apr 24, 2023
+
+> **Student Presentations**
+>
+#### General Framing Questions
+>
+> How do we tell stories with our data? How do we give constructive
+> feedback? How do we balance what we have achieved with what we hoped
+> to achieve? How do we balance explaining knowledge claims with
+> detailing methods and data selection?
+>
+> [No assigned materials]
+
+#### Presentations: Interpretations and ~~Final~~ Future Steps May 1, 2023
+
+**Student Presentations**
+
+*General Framing Questions:*
+
+> What are our next steps with our projects? How do we document what we
+> have and explain future directions? What is the relationship between
+> coding documentation and written publications?
 
 [^1]: Bethany Nowviskie "On the Origin of "Hack" and "Yack"" *Debates in
     Digital Humanities* 2016
