@@ -7,9 +7,8 @@ course_institution: Princeton
 course_category: Undergraduate
 course_website: #
 course_github: #
-course_description: "Graduate seminar exploring the use of computation and scale to study culture."
+course_description: "Undergraduate course introducing digital humanities through hands-on coding and critical readings."
 enable_redirect: false
 ---
 
 ## Course Description
-Testing

@@ -1,20 +1,16 @@
 ---
-category: Graduate
-description: Graduate course introducing digital humanities, focused on developing
-  research practices and using tools.
-github: https://github.com/ZoeLeBlanc/is578-intro-dh
+category: Workshop
+description: Workshop for JSTOR Text Analysis Pedagogy Institute on NER and DH.
+github: https://github.com/ZoeLeBlanc/ner_workshop
 importance: 1
-institution: UIUC
+institution: JSTOR
 layout: page
-redirect: https://zoeleblanc.com/is578-intro-dh/schedule/00-overview
-semester: Fall
-subtitle: Workflows and Workshops
-title: Introduction to Digital Humanities
+redirect: https://github.com/ZoeLeBlanc/ner_workshop
+semester: Spring
+subtitle: ''
+title: Named Entity Recognition and Humanities Data Workshop
 toc:
   sidebar: left
-website: https://zoeleblanc.com/is578-intro-dh/schedule/00-overview
-year: 2023
+year: 2021
 ---
 
-## Course Description
-Testing

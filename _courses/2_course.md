@@ -1,19 +1,18 @@
 ---
-category: Undergraduate
-description: Graduate seminar exploring the use of computation and scale to study
-  culture.
-github: null
+category: Graduate
+description: Graduate course introducing digital humanities, focused on developing
+  critical research practices and using digital tools.
+github: https://github.com/ZoeLeBlanc/is578-intro-dh
 importance: 2
-institution: Princeton
+institution: UIUC
 layout: page
-semester: Spring
-subtitle: ''
+redirect: https://zoeleblanc.com/is578-intro-dh/
+semester: Fall
+subtitle: Workflows and Workshops
 title: Introduction to Digital Humanities
 toc:
   sidebar: left
-website: null
-year: 2019
+website: https://zoeleblanc.com/is578-intro-dh/
+year: 2023
 ---
 
-## Course Description
-Testing

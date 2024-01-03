@@ -11,31 +11,28 @@ def process_course_file(input_directory_path, output_directory_path):
         with open(file, 'r') as f:
             # Split the file content into parts
             parts = f.read().split('---\n')
+            if len(parts) < 2:
+                continue
             # The first part is the front matter
             front_matter = parts[1]
 
             # The rest is the main content
             content = '---\n'.join(parts[2:])
-
+            
             # Load the front matter as a dictionary
             data = yaml.safe_load(front_matter)
             # Reformat the front matter
+            fields = ['course_title', 'course_subtitle', 'course_year', 'course_semester', 'course_description', 'course_github', 'course_category', 'course_institution', 'course_website']
+
             new_data = {
                 'layout': 'page',
-                'title': data['course_title'],
-                'subtitle': data['course_subtitle'],
-                'year': data['course_year'],
-                'semester': data['course_semester'],
-                'description': data['course_description'],
                 'toc': {'sidebar': 'left'},
-                'github': data['course_github'],
-                'category': data['course_category'],
-                'institution': data['course_institution'],
                 'importance': i,
-                'website': data['course_website'],
             }
+
+            new_data.update({field.replace('course_', ''): data[field] for field in fields if field in data})
             if data['enable_redirect']:
-                new_data['redirect'] = data['course_website']
+                new_data['redirect'] = new_data['website'] if 'website' in new_data else new_data['github']
             # Convert the reformatted front matter back to a string
             new_front_matter = yaml.dump(new_data)
 
