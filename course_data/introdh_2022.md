@@ -10,3 +10,4 @@ course_github:  #
 course_description: "Graduate course introducing digital humanities, focused on developing critical research practices and using digital tools."
 enable_redirect: true
 ---
+

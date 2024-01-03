@@ -275,17 +275,17 @@ You will also notice that on our schedule we have different categories of assign
     Michael Witmore. "Quantitative Formalism: An Experiment." *Literary
     Lab*, 2011. https://litlab.stanford.edu/LiteraryLabPamphlet1.pdf.
 
-#### Models and Measurements: Race Feb 13, 2023 
+### Models and Measurements: Race Feb 13, 2023 
 
-#### General Framing Questions
->
 > How can we further transform datasets to answer our questions? How can
 > we turn our questions into models? What are models? How do we deal
 > with minimizing information loss and maximizing algorithmic power? How
 > do we use current methods but make them work for our purposes? How
 > much do we care about statistics?
 
-##### Core Theoretical Materials
+#### Theoretical Materials
+
+##### Core
 
 -   So, Richard Jean. "'All Models Are Wrong.'" *PMLA* 132, no. 3 (May
     2017): 668--73.
@@ -296,7 +296,7 @@ You will also notice that on our schedule we have different categories of assign
     17, 2022.
     [https://www.chronicle.com/article/digital-humanists-need-to-learn-how-to-count](https://www.chronicle.com/article/digital-humanists-need-to-learn-how-to-count)
 
-##### Background Theoretical Materials
+##### Background
 
 -   Breiman, Leo. "Statistical Modeling: The Two Cultures (with Comments
     and a Rejoinder by the Author)." *Statistical Science* 16, no. 3
@@ -307,13 +307,15 @@ You will also notice that on our schedule we have different categories of assign
     McNulty." Post45 (blog), May 7, 2019.
     [https://post45.org/2019/05/charisma-embodiment-a-response-to-tess-mcnulty](https://post45.org/2019/05/charisma-embodiment-a-response-to-tess-mcnulty)
 
-##### Core Applied Materials
+#### Applied Materials
+
+##### Core
 
 -   So, Richard Jean. *Redlining Culture: A Data History of Racial
     Inequality and Postwar Fiction*. Columbia University Press, 2020.
     (Available on Canvas)
 
-##### Background Applied Materials
+##### Background
 
 -   Henley, Amanda, Matt Jansen, Lorin Bruckner, Neil Byers, and Rucha
     Dalwadi. "On the Books: Jim Crow and Algorithms of Resistance White
@@ -329,10 +331,8 @@ You will also notice that on our schedule we have different categories of assign
     In Computational Humanities Research, 2020.
     [https://people.ischool.berkeley.edu/\~dbamman/pubs/pdf/Bamman_DH_Debates_CompHum.pdf](https://people.ischool.berkeley.edu/~dbamman/pubs/pdf/Bamman_DH_Debates_CompHum.pdf)
 
-#### Vectors and Clusters: Publishing Feb 20, 2023 
+### Vectors and Clusters: Publishing Feb 20, 2023 
 
-#### General Framing Questions
->
 > How can we represent culture in space? What are the benefits of high
 > dimensional spaces and the challenges of dimensionality reduction? How
 > well do unsupervised or off-the-shelf methods find patterns? How much
