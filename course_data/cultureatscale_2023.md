@@ -11,6 +11,8 @@ course_description: "Graduate seminar exploring the use of computation and scale
 enable_redirect: false
 ---
 
+*PDF of syllabus available [here]({{site.baseurl}}/assets/pdf/IS597SyllabusSpring2023.pdf)*
+
 Spring 2023 Mondays 1-4pm
 
 ### Course Description
