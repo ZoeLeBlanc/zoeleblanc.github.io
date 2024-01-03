@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Teaching related materials. Feel free to use these materials in your own courses or workshops.
+description: Teaching related materials. Feel free to use these materials in your own courses or workshops. If a course website was created, the card link will take you to the website. Otherwise, the links will provide web or pdf versions of syllabi.
 nav: true
 nav_order: 6
 display_categories: [Graduate, Undergraduate, Workshop]
