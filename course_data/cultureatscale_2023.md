@@ -335,7 +335,9 @@ You will also notice that on our schedule we have different categories of assign
 > well do unsupervised or off-the-shelf methods find patterns? How much
 > validation work should we do with these methods?
 
-##### Core Theoretical Materials
+#### Theoretical Materials
+
+##### Core
 
 -   Klein, Lauren F. "Dimensions of Scale: Invisible Labor, Editorial
     Work, and the Future of Quantitative Literary Studies." *PMLA* 135,
@@ -347,7 +349,7 @@ You will also notice that on our schedule we have different categories of assign
     Reading." In *Debates in the Digital Humanities*, 2019.
     [https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4ce82b33-120f-423f-ba4c-40620913b305#ch21](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4ce82b33-120f-423f-ba4c-40620913b305#ch21)
 
-##### Background Theoretical Materials
+##### Background
 
 -   Chang, Kent K., and Simon DeDeo. "Divergence and the Complexity of
     Difference in Text and Culture." Journal of Cultural Analytics 5,
@@ -366,7 +368,9 @@ You will also notice that on our schedule we have different categories of assign
     October 4, 2022.
     https://www.publicbooks.org/where-is-all-the-book-data/.
 
-##### Core Applied Materials
+#### Applied Materials
+
+##### Core
 
 -   Sinykin, Dan, and Edwin Roland. "Against Conglomeration." *Journal
     of Cultural Analytics* 6, no. 2 (April 20, 2021).
@@ -386,7 +390,7 @@ You will also notice that on our schedule we have different categories of assign
         [https://doi.org/10.7910/DVN/S3DFCU](https://doi.org/10.7910/DVN/S3DFCU)
         , Harvard Dataverse, V1
 
-##### Background Applied Materials
+##### Background
 
 -   Manshel, Alexander, Laura B. McGrath, and J. D. Porter. "Who Cares
     about Literary Prizes?" Public Books (blog), September 3, 2019.
@@ -403,17 +407,17 @@ You will also notice that on our schedule we have different categories of assign
     *Journal of Cultural Analytics* 3, no. 1 (October 3, 2018).
     https://doi.org/10.22148/16.025.
 
-#### Similarities and Distances: Laws Feb 27, 2023
+### Similarities and Distances: Laws Feb 27, 2023
 
-#### General Framing Questions
->
 > How can we aggregate data to find patterns? How do we know certain
 > patterns are meaningful? How can we find similarities and differences
 > in our results? How do we define these terms and what do we consider
 > statistically meaningful and at the same time interesting to our
 > domain areas?
 
-##### Core Theoretical Materials {#core-theoretical-materials-5 .unnumbered}
+#### Theoretical Materials
+
+##### Core
 
 -   Schmidt, Ben. "Two Volumes: The Lessons of Time on the Cross." Ben
     Schmidt, December 5, 2019.
@@ -423,7 +427,7 @@ You will also notice that on our schedule we have different categories of assign
     New Histories." Social Science History 45, no. 1 (2021): 1--25.
     [https://doi.org/10.1017/ssh.2020.44](https://doi.org/10.1017/ssh.2020.44).
 
-##### Background Theoretical Materials
+##### Background
 
 -   Braudel, Fernand, and Immanuel Wallerstein. "History and the Social
     Sciences: The Longue Durée." Review (Fernand Braudel Center) 32, no.
@@ -434,7 +438,9 @@ You will also notice that on our schedule we have different categories of assign
     Cambridge University Press, 2014.
     [https://www.cambridge.org/core/books/history-manifesto/AC1A1EC711AE91A4F9004E7582D79AFD](https://www.cambridge.org/core/books/history-manifesto/AC1A1EC711AE91A4F9004E7582D79AFD).
 
-##### Core Applied Materials
+#### Applied Materials
+
+##### Core
 
 -   Mullen, Lincoln A. *America's Public Bible: A Commentary*. Stanford
     University Press, 2023.
@@ -451,7 +457,7 @@ You will also notice that on our schedule we have different categories of assign
     -   Code for The Spine of American Law
         [https://github.com/lmullen/civil-procedure-codes/](https://github.com/lmullen/civil-procedure-codes/)
 
-##### Background Applied Materials
+##### Background
 
 -   Tilton, Lauren, Taylor Arnold, and Courtney Rivard. *Layered Lives:
     Rhetoric and Representation in the Southern Life History Project*.
@@ -463,18 +469,18 @@ You will also notice that on our schedule we have different categories of assign
     1820-1840 (Annotated Version)," 2021.
     https://doi.org/10.31835/ma.2021.05.
 
-#### Categories and Classifications: Gender Mar 6, 2023 
+### Categories and Classifications: Gender Mar 6, 2023 
 
 **Review Piece Due**
-
-*General Framing Questions:*
 
 > How can we build models to categorize and classify culture? What is
 > the power of prediction for understanding cultural trends? How can we
 > use computation to understand cultural categories of the past and
 > present?
 
-##### Core Theoretical Materials {#core-theoretical-materials-6 .unnumbered}
+#### Theoretical Materials
+
+##### Core 
 
 -   Da, Nan Z. "The Computational Case against Computational Literary
     Studies." *Critical Inquiry* 45, no. 3 (March 2019): 601--39.
@@ -486,13 +492,15 @@ You will also notice that on our schedule we have different categories of assign
     ones for discussion)
     [https://critinq.wordpress.com/2019/03/31/computational-literary-studies-a-critical-inquiry-online-forum/](https://critinq.wordpress.com/2019/03/31/computational-literary-studies-a-critical-inquiry-online-forum/).
 
-##### Background Theoretical Materials
+##### Background 
 
 -   Mandell, Laura. "Gender and Cultural Analytics: Finding or Making
     Stereotypes?" In *Debates in the Digital Humanities*, 2019.
     https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/5d9c1b63-7b60-42dd-8cda-bde837f638f4.
 
-##### Core Applied Materials
+#### Applied Materials
+
+##### Core
 
 -   "Chapter 4 and Appendices" Underwood, Ted. *Distant Horizons:
     Digital Evidence and Literary Change*. University of Chicago
@@ -501,7 +509,7 @@ You will also notice that on our schedule we have different categories of assign
     -   Code for *Distant Horizons*
         [https://github.com/tedunderwood/horizon/](https://github.com/tedunderwood/horizon/)
 
-##### Background Applied Materials
+##### Background
 
 -   Underwood, Ted, David Bamman, and Sabrina Lee. "The Transformation
     of Gender in English-Language Fiction." *Journal of Cultural
@@ -533,17 +541,17 @@ You will also notice that on our schedule we have different categories of assign
         Models of Gender in English-Language Novels\",
         https://doi.org/10.7910/DVN/QUGW8V, Harvard Dataverse, V1
 
-#### SPRING BREAK Mar 13, 2023
+### SPRING BREAK Mar 13, 2023
 
-#### Speculation and Prediction: Networks Mar 20, 2023 
+### Speculation and Prediction: Networks Mar 20, 2023 
 
-#### General Framing Questions
->
 > How can we study and predict the past with scale? How can speculation
 > be used to understand culture? How can computation create and uncover
 > connections?
 
-##### Core Theoretical Materials {#core-theoretical-materials-7 .unnumbered}
+#### Theoretical Materials
+
+##### Core
 
 -   \"Viral Textuality\" and \"Textual Criticism as Language Modeling\"
     in Cordell, Ryan, David A. Smith, Abby Mullen, Jonathan D.
@@ -551,14 +559,16 @@ You will also notice that on our schedule we have different categories of assign
     Minnesota Press, 2022.
     https://manifold.umn.edu/projects/going-the-rounds.
 
-##### Background Theoretical Materials
+##### Background
 
 -   Ahnert, Ruth, Sebastian E. Ahnert, Catherine Nicole Coleman, and
     Scott B. Weingart. "The Network Turn: Changing Perspectives in the
     Humanities." *Elements in Publishing and Book Culture*,
     December 2020. https://doi.org/10.1017/9781108866804.
 
-##### Core Applied Materials
+#### Applied Materials
+
+##### Core
 
 -   Soni, Sandeep, Lauren F. Klein, and Jacob Eisenstein. "Abolitionist
     Networks: Modeling Language Change in Nineteenth-Century Activist
@@ -573,7 +583,7 @@ You will also notice that on our schedule we have different categories of assign
     the Reign of Mary I: A Quantitative Approach (Annotated
     Version)," 2021. https://doi.org/10.31835/ma.2021.04.
 
-##### Background Applied Materials
+##### Background
 
 -   Ryan, Yann C., and Sebastian E. Ahnert. "The Measure of the Archive:
     The Ro­bustness of Network Analysis in Early Modern Correspondence."
@@ -590,15 +600,15 @@ You will also notice that on our schedule we have different categories of assign
     Journal of Historical Network Research 6, no. 1 (October 25, 2021).
     https://doi.org/10.25517/jhnr.v6i1.105.
 
-#### Influence and Embeddings: Ideas Mar 27, 2023 
+### Influence and Embeddings: Ideas Mar 27, 2023 
 
-#### General Framing Questions
->
 > How do we incorporate the latest technological developments? How are
 > these new infrastructures and architectures changing how we study
 > culture at scale?
 
-##### Core Theoretical Materials {#core-theoretical-materials-8 .unnumbered}
+#### Theoretical Materials
+
+##### Core
 
 -   Nelson, Laura K. "Computational Grounded Theory: A Methodological
     Framework." *Sociological Methods & Research* 49, no. 1 (February 1,
@@ -609,7 +619,7 @@ You will also notice that on our schedule we have different categories of assign
     (blog), July 15, 2019.
     https://tedunderwood.com/2019/07/15/do-humanists-need-bert/.
 
-##### Background Theoretical Materials
+##### Background
 
 -   Antoniak, Maria, and David Mimno. "Evaluating the Stability of
     Embedding-Based Word Similarities." Transactions of the Association
@@ -619,7 +629,9 @@ You will also notice that on our schedule we have different categories of assign
 -   Underwood, Ted. "Mapping the Latent Spaces of Culture." Startwords,
     no. 3 (August 2022). https://doi.org/10.5281/zenodo.6567481.
 
-##### Core Applied Materials
+#### Applied Materials
+
+##### Core
 
 -   Underwood, Ted, Kevin Kiley, Wenyi Shang, and Stephen Vaisey.
     "Cohort Succession Explains Most Change in Literary Culture."
@@ -638,7 +650,7 @@ You will also notice that on our schedule we have different categories of assign
     -   Code for Prescient Ideas
         [https://github.com/pvicinanza/prescience](https://github.com/pvicinanza/prescience)
 
-##### Background Applied Materials
+##### Background
 
 -   Nelson, Laura K. "Leveraging the Alignment between Machine Learning
     and Intersectionality: Using Word Embeddings to Measure
@@ -660,16 +672,16 @@ You will also notice that on our schedule we have different categories of assign
     Sciences* 115, no. 18 (May 2018): 4607--12.
     https://doi.org/10.1073/pnas.1717729115.
 
-#### Viewing and Visible: Images Apr 3, 2023 
+### Viewing and Visible: Images Apr 3, 2023 
 
-#### General Framing Questions
->
 > How do we deal with non-textual data? What are generative methods, and
 > what are the tradeoffs for dealing with accuracy of our phenomenon of
 > interest? How do we balance considerations of ownership and ethics
 > with data driven research?
 
-##### Core Theoretical Materials {#core-theoretical-materials-9 .unnumbered}
+#### Theoretical Materials
+
+##### Core 
 
 -   Arnold, Taylor, and Lauren Tilton. "Distant Viewing: Analyzing Large
     Visual Corpora." *Digital Scholarship in the Humanities* 34, no.
@@ -678,7 +690,7 @@ You will also notice that on our schedule we have different categories of assign
 
     -   Code for Distant Viewing https://github.com/distant-viewing/dvt
 
-##### Background Theoretical Materials
+##### Background
 
 -   Offert, Fabian, and Peter Bell. "Generative Digital
     Humanities," 2020.
@@ -689,7 +701,9 @@ You will also notice that on our schedule we have different categories of assign
     Humanities Quarterly* 15, no. 3 (2021).
     http://www.digitalhumanities.org/dhq/vol/15/3/000560/000560.html.
 
-##### Core Applied Materials
+#### Applied Materials
+
+##### Core 
 
 -   Thompson, Laure, and David Mimno. "Computational Cut-Ups: The
     Influence of Dada." *The Journal of Modern Periodical Studies* 8,
@@ -706,7 +720,7 @@ You will also notice that on our schedule we have different categories of assign
         Annie Berke.\", https://doi.org/10.7910/DVN/S84TSX, Harvard
         Dataverse, V1
 
-##### Background Applied Materials
+##### Background 
 
 -   Lee, Benjamin Charles Germain, Joshua Ortiz Baco, Sarah H. Salter,
     and Jim Casey. "Navigating the Mise-En-Page: Interpretive Machine
@@ -718,17 +732,17 @@ You will also notice that on our schedule we have different categories of assign
     Illustrated Newspaper." *Journal of Cultural Analytics* 3, no. 1
     (October 25, 2018). <https://doi.org/10.22148/16.026>.
 
-#### Capitalism and Scalability: Movements Apr 10, 2023
+### Capitalism and Scalability: Movements Apr 10, 2023
 
-#### General Framing Questions
->
 > What are the limitations of culture at scale? How can we deal with
 > missing-ness in our data? How can this work be beneficial for society,
 > and at the same time how can we critically understand the political
 > economy of scale? Is it possible to have scale without capitalism?
 > What might that look like?
 
-##### Core Theoretical Materials {#core-theoretical-materials-10 .unnumbered}
+####  Theoretical Materials
+
+##### Core
 
 -   Tsing, Anna Lowenhaupt. "On Nonscalability: The Living World Is Not
     Amenable to Precision-Nested Scales." Common Knowledge 18, no. 3
@@ -739,7 +753,7 @@ You will also notice that on our schedule we have different categories of assign
     Resistances to Scale Thinking," October 17, 2020.
     https://doi.org/10.48550/arXiv.2010.08850.
 
-##### Background Theoretical Materials
+##### Background
 
 -   Birhane, Abeba, Pratyusha Kalluri, Dallas Card, William Agnew, Ravit
     Dotan, and Michelle Bao. "The Values Encoded in Machine Learning
@@ -761,7 +775,9 @@ You will also notice that on our schedule we have different categories of assign
     Machinery, 2021.
     [https://doi.org/10.1145/3442188.3445922](https://doi.org/10.1145/3442188.3445922).
 
-##### Core Applied Materials}
+#### Applied Materials
+
+##### Core
 
 -   Nelson, Laura K. "The Inequality of Intersectionalities in Chicago's
     First-Wave Women's Movement." *Signs: Journal of Women in Culture
@@ -774,21 +790,21 @@ You will also notice that on our schedule we have different categories of assign
     no. 1 (December 14, 2021): 4:1-4:15.
     [https://doi.org/10.1145/3479010](https://doi.org/10.1145/3479010).
 
-##### Background Applied Materials
+#### Background 
 
 -   Underwood, Ted, and Richard Jean So. "Can We Map Culture?" Journal
     of Cultural Analytics 6, no. 3 (June 17, 2021).
     [https://doi.org/10.22148/001c.24911](https://doi.org/10.22148/001c.24911).
 
-#### Interactive and Persuasive: Collections Apr 17, 2023
-
-*General Framing Questions:*
+### Interactive and Persuasive: Collections Apr 17, 2023
 
 > How do we visualize our results? What are meaningful visualizations
 > and how can you integrate them into your narrative? Do you publish
 > digitally or print?
 
-##### Core Theoretical Materials {#core-theoretical-materials-11 .unnumbered}
+#### Theoretical Materials
+
+##### Core
 
 -   Rettberg, Jill Walker. "Algorithmic Failure as a Humanities
     Methodology: Machine Learning's Mispredictions Identify Rich Cases
@@ -800,13 +816,15 @@ You will also notice that on our schedule we have different categories of assign
     Close/Distant Reading Debate.\" College Literature, vol. 49 no. 1,
     2022, p. 1-25. Project MUSE, doi:10.1353/lit.2022.0000.
 
-##### Background Theoretical Materials
+##### Background 
 
 -   Drucker, Johanna. "Humanities Approaches to Graphical Display."
     *Digital Humanities Quarterly* 005, no. 1 (March 10, 2011).
     http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html.
 
-##### Core Applied Materials}
+#### Applied Materials
+
+##### Core 
 
 -   "Introduction: In Pursuit of Theater's Digital Traces" Varela,
     Miguel Escobar. *Theater as Data: Computational Journeys into
@@ -816,7 +834,7 @@ You will also notice that on our schedule we have different categories of assign
 -   Schmidt, Benjamin. "A Guided Tour of the Digital Library," August
     29, 2018. http://creatingdata.us/datasets/hathi-features/.
 
-##### Background Applied Materials
+##### Background
 
 -   Colavizza, Giovanni, Iain Hrynaszkiewicz, Isla Staden, Kirstie
     Whitaker, and Barbara McGillivray. "The Citation Advantage of
@@ -830,28 +848,25 @@ You will also notice that on our schedule we have different categories of assign
     and Social Sciences." Publications 10, no. 4 (December 2022): 39.
     [https://doi.org/10.3390/publications10040039](https://doi.org/10.3390/publications10040039).
 
-#### Plots: Narratives and Storytellings Apr 24, 2023
+### Plots: Narratives and Storytellings Apr 24, 2023
 
-> **Student Presentations**
->
-#### General Framing Questions
->
+**Student Presentations**
+
 > How do we tell stories with our data? How do we give constructive
 > feedback? How do we balance what we have achieved with what we hoped
 > to achieve? How do we balance explaining knowledge claims with
 > detailing methods and data selection?
->
-> [No assigned materials]
 
-#### Presentations: Interpretations and ~~Final~~ Future Steps May 1, 2023
+
+### Presentations: Interpretations and ~~Final~~ Future Steps May 1, 2023
 
 **Student Presentations**
-
-*General Framing Questions:*
 
 > What are our next steps with our projects? How do we document what we
 > have and explain future directions? What is the relationship between
 > coding documentation and written publications?
+
+---
 
 [^1]: Bethany Nowviskie "On the Origin of "Hack" and "Yack"" *Debates in
     Digital Humanities* 2016

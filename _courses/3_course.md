@@ -1,7 +1,7 @@
 ---
 category: Graduate
-description: Graduate course introducing digital humanities, focused on developing
-  critical research practices and using digital tools.
+description: Graduate course introducing digital humanities, focused on critical theorizing
+  and building of digital projects.
 enable_redirect: true
 importance: 3
 institution: UIUC

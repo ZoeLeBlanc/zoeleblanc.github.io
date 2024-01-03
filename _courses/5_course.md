@@ -14,6 +14,6 @@ title: Computing in the Humanities
 toc:
   sidebar: left
 website: https://zoeleblanc.com/is310-computing-humanities/
-year: 2022
+year: 2024
 ---
 
