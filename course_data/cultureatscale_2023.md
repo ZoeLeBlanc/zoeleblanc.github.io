@@ -109,7 +109,7 @@ This question of attendance is further discussed in the COVID-19 & Attendance se
 
 *Using AI Tools?*
 
-You are welcome to use any AI tools that will help you in this course, whether that is tools like GitHub Co-Pilot or OpenAI’s ChatGPT. I personally do not think these tools are going anywhere soon, and so learning to leverage them in your research is likely beneficial. However, I realize that many of these increasingly charge subscription fees, so please let me know if you would like to try a tool and are constrained for financial reasons, and I will try to advocate for some temporary funds from the iSchool.
+You are welcome to use any AI tools that will help you in this course, whether that is tools like GitHub Co-Pilot or OpenAI’s ChatGPT. I personally do not think these tools are going anywhere soon, and so learning to leverage them in your research is likely beneficial.[^3] However, I realize that many of these increasingly charge subscription fees, so please let me know if you would like to try a tool and are constrained for financial reasons, and I will try to advocate for some temporary funds from the iSchool.
 
 ## Course Schedule
 
@@ -875,3 +875,5 @@ You will also notice that on our schedule we have different categories of assign
 
 [^2]: Andrew Piper, "There Will Be Numbers," *Cultural Analytics* May
     23, 2016. DOI: 10.22148/16.006 p. 2
+
+[^3]: I initially included a somewhat confusing double negation in this section, which I was tempted to keep for historical accuracy, especially since I'm usually writing a lot of these policies last minute. But decided to revise for clarity. Thanks to Scott Weingart for catching this 😊🙏🏽.
