@@ -1,17 +1,19 @@
 ---
-category: Workshop
-description: Workshop for JSTOR Text Analysis Pedagogy Institute on NER and DH.
+category: Undergraduate
+description: Undergraduate course introducing digital humanities through hands-on
+  coding and critical readings.
 enable_redirect: true
-github: https://github.com/ZoeLeBlanc/ner_workshop
+github: https://github.com/ZoeLeBlanc/IntroToDH2020
 importance: 8
-institution: JSTOR
+institution: Princeton
 layout: page
-redirect: https://github.com/ZoeLeBlanc/ner_workshop
+redirect: https://zoeleblanc.com/IntroToDH2020/
 semester: Spring
 subtitle: ''
-title: Named Entity Recognition and Humanities Data Workshop
+title: Introduction to Digital Humanities
 toc:
   sidebar: left
-year: 2021
+website: https://zoeleblanc.com/IntroToDH2020/
+year: 2020
 ---
 

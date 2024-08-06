@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://zoeleblanc.github.io/sitemap.xml
