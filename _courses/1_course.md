@@ -1,19 +1,18 @@
 ---
 category: Graduate
-description: Graduate course introducing digital humanities, focused on developing
-  critical research practices and using digital tools.
+description: Graduate seminar exploring the use of computation and scale to study
+  culture.
 enable_redirect: true
-github: https://github.com/ZoeLeBlanc/is578-intro-dh
 importance: 1
 institution: UIUC
 layout: page
-redirect: https://zoeleblanc.com/is578-intro-dh/
-semester: Fall
-subtitle: Workflows and Workshops
-title: Introduction to Digital Humanities
+redirect: /assets/pdf/IS597SyllabusSpring2024.pdf
+semester: Spring
+subtitle: A Seminar on Computational Approaches to Studying Culture
+title: Culture At Scale
 toc:
   sidebar: left
-website: https://zoeleblanc.com/is578-intro-dh/
-year: 2023
+website: /assets/pdf/IS597SyllabusSpring2024.pdf
+year: 2024
 ---
 

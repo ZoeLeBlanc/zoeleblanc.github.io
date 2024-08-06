@@ -1,19 +1,18 @@
 ---
-category: Undergraduate
-description: Undergraduate course introducing how to work with humanities data and
-  computation to study cultural materials and practices.
+category: Graduate
+description: Graduate course introducing digital humanities, focused on the histories
+  and practices of humanities data.
 enable_redirect: true
-github: https://github.com/ZoeLeBlanc/is310-computing-humanities
 importance: 5
 institution: UIUC
 layout: page
-redirect: https://zoeleblanc.com/is310-computing-humanities/
-semester: Spring
-subtitle: ''
-title: Computing in the Humanities
+redirect: /assets/pdf/IS578SyllabusFall2022.pdf
+semester: Fall
+subtitle: An Exploration in Culture as Data and Data Cultures
+title: Introduction to Digital Humanities
 toc:
   sidebar: left
-website: https://zoeleblanc.com/is310-computing-humanities/
-year: 2024
+website: /assets/pdf/IS578SyllabusFall2022.pdf
+year: 2021
 ---
 
