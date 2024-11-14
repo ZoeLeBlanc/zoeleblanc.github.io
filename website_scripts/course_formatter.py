@@ -106,5 +106,5 @@ def process_course_file(input_directory_path: str, output_directory_path: str, c
 if __name__ == '__main__':
     input_directory_path = "../course_data"
     output_directory_path = '../_courses'
-    current_semester = "Spring"
+    current_semester = "Fall"
     process_course_file(input_directory_path, output_directory_path, current_semester)
